@@ -1,17 +1,9 @@
 # Example of Contributing and Submitting a Pull Request to [scikit-learn](https://github.com/scikit-learn)
 
-Video:  https://youtu.be/PU1WyDPGePI
-
 ## Video Transcript
 - Speaker:  [Reshama Shaikh](https://twitter.com/reshamas)   
 - Video:  [Scikit-learn PR Contributing Example](https://youtu.be/PU1WyDPGePI) (30 minutes)
 - Transcriber: [Reshama Shaikh](https://twitter.com/reshamas)
-
-## Key Links
-- Data Umbrella [Discord](https://discord.gg/mEzEbYT)
-- Gitter: [scikit-learn](https://gitter.im/scikit-learn)
-- **[Contributing Workflow Commands](contributing/workflow.md)** (environment set-up, repo, submitting PR)
-- [Scikit-learn Contributing Documentation](http://scikit-learn.org/stable/developers/contributing.html)
 
 ## Video
 <a href="https://youtu.be/PU1WyDPGePI"><img src="images/sklearn_rs_video.png" width="80%" /></a>
