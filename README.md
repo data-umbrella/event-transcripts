@@ -6,7 +6,7 @@ Transcripts from our recorded events.
 - 03 Ty Shaikh: [Webscraping Poshmark with Python] ( )
 - 04 Ali Spittel: [Navigating Your Tech Career] ( )
 - 05 Andreas Mueller: [Crash Course in Contributing to Scikit-learn](2020/05-andreas-mueller-contributing.md) (Complete)
-- 06 Reshama Shaikh:  [Example PR for Scikit-learn](2020/05-reshama-shaikh-sklearn-pr.md)  (Complete)
+- 06 Reshama Shaikh:  [Example PR for Scikit-learn](2020/06-reshama-shaikh-sklearn-pr.md)  (Complete)
 - 07 Shailvi Wakhlu: 
 - 08 Matt Brems: [Data Science with Missing Data] () 
 - 09 Sam Bail: [Intro to Terminal] () 
