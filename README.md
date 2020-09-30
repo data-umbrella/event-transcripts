@@ -3,6 +3,8 @@ Transcripts from our recorded events.
 
 ## [Videos](https://www.youtube.com/c/DataUmbrella/videos)
 
+- 01 Hugo BA:  no recording available
+- 02 Bruno Goncalves: no recording available
 - 03 Ty Shaikh: [Webscraping Poshmark with Python] ( )
 - 04 Ali Spittel: [Navigating Your Tech Career] ( )
 - 05 Andreas Mueller: [Crash Course in Contributing to Scikit-learn](2020/05-andreas-mueller-contributing.md) (Complete)
