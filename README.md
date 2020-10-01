@@ -19,5 +19,5 @@
 | 12 | Mridu Bhatnagar     |  [Build a Bot](2020/12-mridu-bhatnagar.md)                             |                        |  ?           |        |
 | 13 | Liz DiLuzio         |  [Creating Nimble Data Processes](2020/13-liz-diluzio-data-process.md)    |                        |  ?           |        |
 | 14 | Megan Robertson     |  [3 Lessons From 3 Years of Data Science](2020/14-megan-robertson-career.md)|                        |  Sethupathy  |        |
-| 15 | Emma Gouillart      |  [Data Visualization with Plotly](15-emma-gouillart-plotly.md)              |                        |  Willy       |        |
+| 15 | Emma Gouillart      |  [Data Visualization with Plotly](2020/15-emma-gouillart-plotly.md)              |                        |  Willy       |        |
 |    |                     |                                                          |                        |              |        |
