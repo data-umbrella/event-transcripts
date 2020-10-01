@@ -6,7 +6,7 @@ Transcripts from our recorded events.
 - 01 Hugo BA:  no recording available
 - 02 Bruno Goncalves: no recording available
 - 03 Ty Shaikh: [Webscraping Poshmark with Python] ( )
-- 04 Ali Spittel: [Navigating Your Tech Career](2020/04-ali-spittel-career.md)  (* needs an editor *)
+- 04 Ali Spittel: [Navigating Your Tech Career](2020/04-ali-spittel-career.md)  (* needs an editor * ? Janine)
 - 05 Andreas Mueller: [Crash Course in Contributing to Scikit-learn](2020/05-andreas-mueller-contributing.md) (Complete)
 - 06 Reshama Shaikh:  [Example PR for Scikit-learn](2020/06-reshama-shaikh-sklearn-pr.md)  (Complete)
 - 07 Shailvi Wakhlu: 
