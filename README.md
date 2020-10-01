@@ -13,7 +13,7 @@ Transcripts from our recorded events.
 - 08 Matt Brems: [Data Science with Missing Data] () 
 - 09 Sam Bail: [Intro to Terminal] () 
 - 10 Emily Robinson: [Build a Career in Data Science] ()   (Kevin)
-- 11 Rebecca Kelly: [kdb Time Series Data](2020/11-rebecca-kelly-kdb.md) (* needs an editor *)
+- 11 Rebecca Kelly: [kdb Time Series Data](2020/11-rebecca-kelly-kdb.md) (* needs an editor * ? Coretta)
 - 12 Mridu Bhatnagar: 
 - 13 Liz DiLuzio: 
 - 14 Megan Robertson: [3 Lessons From 3 Years of Data Science] () (?Sethupathy)
