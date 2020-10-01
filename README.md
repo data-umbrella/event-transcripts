@@ -1,10 +1,9 @@
 # Event Transcripts
-Transcripts from our recorded events.
 
 ## [Videos](https://www.youtube.com/c/DataUmbrella/videos)
 
 
-| #  | Speaker             | Talk [Transcript]                                        | Note                   | Transcriber  | Status |
+| #  | Speaker             | Talk Transcript                                        | Note                   | Transcriber  | Status |
 |----|---------------------|----------------------------------------------------------|------------------------|--------------|--------|
 | 01 | Hugo Bowne-Anderson | Bayesian Data Science                                    | no recording available | N/A          | N/A    |
 | 02 | Bruno Goncalves     | Time Series Modeling                                     | no recording available | N/A          | N/A    |
