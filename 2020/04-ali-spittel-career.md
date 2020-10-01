@@ -1,5 +1,6 @@
-## Video
-https://youtu.be/1X5h0FRqKVs
+# Ali Spittel:  Navigating Your Tech Career
+
+## Video  https://youtu.be/1X5h0FRqKVs
 
 
 all right it's 7:05 so I'll do my intra
