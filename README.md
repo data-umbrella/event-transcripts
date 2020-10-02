@@ -1,5 +1,27 @@
 # Event Transcripts
 
+## Instructions for Transcribers
+
+1. Pick a video to transcribe (if the column `Transcriber` has a `?`, that means it needs a transcriber.)
+1. You can start with the given YouTube preliminary text.
+1. You can make edits in the transcript in a code editor and submit a PR.  If you are unfamiliar with how to submit a PR, you can copy the text into a Google doc and edit it there and send back the link to the edited doc.
+
+### Transcribing
+- Here is an example of a transcript that is edited and clean:
+https://github.com/data-umbrella/event-transcripts/blob/main/2020/05-reshama-shaikh-sklearn-pr.md
+- For beginning of sentences, make them capital letters
+  - Example:  when "i" as in "i think", can you change to capital letter:  "I think ..."   
+- For the sections, add some timestamps, so people know where they can find it in the video?  I think 5 or 6 timestamps is enough. 
+- Add period to the end of sentences.  
+- Fix spelling
+  - Example:  PY Ladies  ===>  PyLadies
+  - Example: "data umbrella" ===> Data Umbrella
+- When I did this, I listened to the video for a couple of sentences, and then stop it.  Then I edit the text and then I start the video again for another sentence or two. 
+
+NOTE:  It can take a good 2 to 4 hours to edit and fix a transcript for a 1-hour video.  
+
+---
+
 ## [Videos](https://www.youtube.com/c/DataUmbrella/videos)
 
 
