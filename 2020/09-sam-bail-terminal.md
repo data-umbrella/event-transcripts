@@ -224,8 +224,7 @@ once we're in our show we have PWD which
 is the path of our current working
 directory and usually your terminal will
 open a shell in your home directory so
-we'll see that in a second you can do an
-LS which just lists everything that's in
+we'll see that in a second you can do an `ls` which just lists everything that's in
 your directory and then pretty much
 every shell command has a flag so the
 flag is usually the - something in this
