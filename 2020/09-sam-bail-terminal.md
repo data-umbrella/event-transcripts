@@ -2,13 +2,9 @@
 
 video:  https://youtu.be/sqN0bFWrS6Q
 
-there you go okay everybody welcome to
-data umbrella and PI ladies online event
-just sort of let you know how well did
-it how the event is gonna go I'm gonna
-do an introduction about the meetup
-group Sam Bell is going to give a talk
-and we'll have Q&A will also sort of
+(00:00)
+There you go,okay.  Everybody welcome to Data Umbrella and PyLadies online event.  Just sort of let you know how well did
+it how the event is gonna go, I'm gonna do an introduction about the meetup group. Sam Bell is going to give a talk  and we'll have Q&A will also sort of
 watch the Q&A every 10 minutes or so and
 answer questions along the way just to
 let you know this event is being
