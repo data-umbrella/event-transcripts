@@ -44,419 +44,142 @@ Code of conduct we have a code of conduct, um, we're dedicated providing a profe
 
 At the data umbrella website there are many resources available and I've taken some screenshots about contributing to open source, about conferences, about other community groups, inclusive language, responsibility, social impact so please check it out later.
 
-### Slide 6: Data Umbrella Screenshots (2:18)
+### Slide 7: Data Umbrella Screenshots (2:18)
 <a href="https://youtu.be/HsFFuFYz7zE?t=138"><img src="images/emily_robinson_career/erc_s7.png" width="50%" /></a>
 
 For more upcoming events, uh the best place to find out about upcoming events is on the meetup page so the best thing to do is to join the meetup group we do also post them on Twitter and LinkedIn
 as well and Facebook uh this talk is being recorded and a copy of it will be uploaded to Youtube
 within the week all right so we're gonna get started and I'm gonna turn it over to Emily.
 
-### Slide 6: Emily Robinson Intro (3:03)
+### Slide 8: Emily Robinson Intro (3:03)
 <a href="https://youtu.be/HsFFuFYz7zE?t=183"><img src="images/emily_robinson_career/erc_main.png" width="50%" /></a>
 
 All right. Hi everyone I'm just gonna start sharing my slides. Okay, right. Welcome thank you all again for joining me I'm very excited to be here.
 
-### Slide 6: Talk Background (3:08)
+### Slide 9: Talk Background (3:08)
 <a href="https://youtu.be/HsFFuFYz7zE?t=188"><img src="images/emily_robinson_career/erc_s8.png" width="50%" /></a>
 
 I wanted to give a little bit of a background about where this talk came from so this talk is titled same title as my book, uh build a career in data science which is all about the non-technical skills and knowledge you need to get started and succeed in a data science career so if you haven't seen the book before if you're interested after this talk and learning more you can get 40% off with the code mtpumbrella20. I'll also show that at the end at datasidecareer.com and that code's also good for 40% off everything on manning which has a lot of technical books on you know coding in Python, or R, or whatever kind of things you want to do.
 
-### Slide 6: What we'll cover (3:49)
+### Slide 10: What we'll cover (3:49)
 <a href="https://youtu.be/HsFFuFYz7zE?t=229"><img src="images/emily_robinson_career/erc_s9.png" width="50%" /></a>
 
 In this talk I'm going to focus on the first six chapters of the book. So this covers getting started with data science, what it is, the skills, and then some of the first steps about finding a data science job.
 
-### Slide 6: What is Data Science? (4:08)
+### Slide 11: What is Data Science? (4:08)
 <a href="https://youtu.be/HsFFuFYz7zE?t=241"><img src="images/emily_robinson_career/erc_s10.png" width="50%" /></a>
 
 All right what is data science? I really like this definition from Cassie Kozyrkov which is; that data science is a discipline of making data useful. I like this definition because it's pretty
 all-encompassing, right, so folks can define data science as, oh it's just, you know machine
 learning, it's just you know, this area but I really do think that just like you know you might not say you're a professional writer but all of us do writing as part of our jobs many people besides just those who have the title data scientists can be doing data science.
 
-### Slide 6: Data science venn diagram (4:38)
+### Slide 12: Data science venn diagram (4:38)
 <a href="https://youtu.be/HsFFuFYz7zE?t=278"><img src="images/emily_robinson_career/erc_s11.png" width="50%" /></a>
 
-you might be familiar with this venn
-diagram from drew conway
-which is where does data science fall
-it's the intersection of these three
-skills
-called like hacking skills math and
-stats knowledge and substantive
-expertise
-and we updated this a little bit for our
-book although we didn't change
-much which is you know those same three
-basic areas programming databases we
-call it domain knowledge instead and
-math and stats
-but we also wanted to highlight what are
-the
-areas of data science that are most
-associated with you know the
-intersections of these so i'm going to
-talk more about
-the difference between like analytics
-machine learning and decision science
-but i wanted to make clear so rather
-than a venn diagram where you kind of
-either have it or you don't that you
-know these are all levels
-right so you can have uh some people
-could be
-you know come from a computer science
-background and have really in-depth
-programming
-uh knowledge whereas maybe some other
-people come from statistics and are
-really strong in that so it's not an
-either or there's a big range of skills
-that you can have
-but what do you need to know to get that
-data scientist job
-i do think that you really need just
-practically
-in terms of like the availability of
-positions to know either r
-or python and this is going to be your
-main language
-day in and day out for doing things like
-cleaning data
-for making visualizations her writing
-reports so on and so forth
-but a lot of that data you'll need to
-get from a sql database where it's
-stored
-and that's where sql comes in so sql is
-a query language that fortunately
-the basics of it you can pick up pretty
-much in a weekend or less
-and then you can go from there as you
-need it and finally
-we have git get if you're not familiar
-with it is a version control system
-and the reason you need this is twofold
-one again just sort of practically it's
-something that's very useful in the job
-because what it allows you to do is
-rather if you've ever uh
-like saved you know word files and
-you've been like draft one draft two
-draft three draft ten because you wanted
-those old versions in case you needed
-something from them
-git basically does this for you so
-rather than saving every time you commit
-it gives a snapshot of what your code
-looked like at that time
-so if you ever need to go back to it you
-can there's a bunch of other benefits as
-well but the second big one
-is it's a great collaboration tool so
-github is one of the places you can host
-your code that you've saved with git and
-it's a way that many open source
-projects are done through github that's
-how you can contribute code or file
-issues uh if you're working on a data
-science team that's how you could
-collaborate on a project
-so this is the third fundamental thing
-you need to know on the programming side
-and i'll add here at the end a lot of
-people ask like well what should i learn
-r or python this is a tough question
-my first advice is python is
-generally more common to see in job
-descriptions so if you just want to go
-off like what's the most likely thing
-i'll have it's probably python
-but r is more common in certain types of
-positions so sometimes more analytics
-positions or people coming from academia
-so it's worth it if you have an idea of
-what industry you want to work in in
-data science or what type of data
-science job
-to take a look at those job descriptions
-and see do they say
-r do they say python do they say both
-and if it seems like ah it's kind of
-like either or some of
-it is python some of it is r you know i
-would try out both of them
-and see what you like better but i would
-definitely focus
-at the beginning on just getting good at
-one of them
-rather than trying to get to a medium
-level in both
-all right so mathematics and statistics
-i'm going to break this down into a
-couple of parts
-the first is knowing what techniques
-exist so for example
-if you're working at a company and they
-say hey i need to group customers
-together
-you need to know that oh i should try
-clustering that's a mathematical method
-that can make groups from this data well
-then you need to know
-how to apply them so how do you actually
-do a k-means clustering for example in
-r of python but finally how do you
-choose which to try
-so there are many clustering methods and
-rather than trying each one of them
-you know if you know something about the
-technique if you know that
-what cases they work well and what they
-don't work well in you can narrow down
-pretty quickly and
-figure out you know what technique
-should i try and also some of the
-intricacies of do i have to
-normalize my data beforehand you know
-all these other things of understanding
-a bit
-under the hood how it works
-finally domain knowledge so i'm going to
-take this diagram from renee
-t on to describe domain knowledge which
-is a core
-job of most data scientists is to take a
-business question
-for example how can we split our
-customers into different groups to
-market to
-and turn that into a data science
-question so in this case like the
-example i gave before
-how can we run a clustering algorithm to
-segment customer data
-then you need to get the data science
-answer so for example your clustering
-found three distinct groups
-but you can't stop there because that's
-not very helpful to the business what
-they want to hear
-is something like hey here are three
-types of customers
-new high spending and commercial
-for if you've been working for example
-with kaggle competitions
-they start at the data science question
-right they start with here is a data set
-you know predict this
-thing um but most the time you're not
-going to get something so clear-cut and
-you're going to have to work with the
-business stakeholder
-to try to figure out what are they
-actually trying to answer what are they
-looking for
-and things you need to do that
-successfully include good communication
-skills
-empathy and understanding your data
-which is huge so for example where
-where can you find your data what are
-some assumptions what are some edge
-cases
-and this is where you'll probably see a
-lot of tweets about working with messy
-data this is exactly about that
-because in the real world uh just data
-comes with so much mess
-you don't know if you should go and try
-to find another data set does another
-one exist you do try to collect more
-data so you're going to need to be
-making these types of decisions
-all right so that's a little bit about
-what data science is what are some of
-the core skills you need to be a data
-scientist
-great but how do you become one and i'm
-actually going to say
-all right what is like i disagree with
-first which is that they're selling as a
-fake data scientist
-so i pulled these uh headlines just like
-how can you spot a fake data scientist
-20 questions for a fake data scientist
-i just think this is total bs
-gatekeeping and to not
-let this dissuade you and to to make you
-worry that
-you know maybe because you don't have a
-formal degree in data science or you did
-a boot camp or whatever that you cannot
-be a real data scientist because you can
-and looking at these must-know lists so
-these are like 20 things you need to
-know
-like honestly i don't know a lot of
-these right i yeah i learned python once
-upon a time i don't use it much anymore
-i only worked with time series data
-seriously and a couple months ago so
-you don't need to necessarily know all
-of these things
-and i really like renee teat's tweet
-here which is saying like hey
-look here are some tools i use often
-like sql python tableau
-on jupiter but i never used r or neural
-networks or natural language processing
-and you'd find people say like oh that's
-absolutely fundamental to being data
-scientists
-no i really think the skills i laid out
-at the beginning like
-you know some programming some math and
-stats uh you know some domain knowledge
-and communication skills is really what
-you need to get started
-and you learn the rest on on the way so
-if you have a project come up where you
-need to do
-analysis of text you'll learn natural
-language processing
-or you'll learn image analysis or
-tensorflow but there are plenty of data
-science
-jobs we don't need to use that and it
-doesn't make you less of a data
-scientist
-for not knowing it or not using it
-in this talk i'm going to go through
-four ways that will help you find a data
-science job the first
-is creating a portfolio then we have
-expanding your network
-finding the right jobs and tailoring
-your application
-creating a portfolio so i define a
-portfolio as a public body of work that
-illustrates your data
-science skills so how you can do that
-is one of two ways is a diagram from our
-book so you can start with a data set
-that you find
-interesting and find a question answer
-or start with a question and find data
-related to it to make an analysis
-so let's look at some examples so a
-great place to find data sets
-is tidy tuesday this is a weekly project
-it's was started in the art community
-but these data sets are usually in csv
-files so you absolutely can just
-download them and work with them in
-python
-and as you can see there's data sets on
-you know star wars on comic books on
-bikes and this has been going on for a
-couple years now
-so i can almost guarantee you're gonna
-find at least one data set
-in here that's interesting to you and
-worth exploring and this is nice because
-it's you know it's relative
-there's sometimes the data still messy
-but it's available and there's
-just it comes with a description or a
-data dictionary so it's a great place to
-get started
-another ex and here we have some people
-who've you know done this so this is
-someone sharing a visualization
-uh that they made about anime and manga
-genres and someone looking at ages of
-tennis champions so if you're looking
-for some inspiration
-you can see these people share it on
-twitter with the tidy tuesday hashtag
-so it's another reason to choose these
-data sets because let's say you explore
-it you can then look hey what did other
-people who worked with this data set do
-but you could also start with a question
-instead
-so this is a blog post about trump's
-tweets
-that started with a tweet
-that came out which said every
-non-hyperbolic tweet is from iphone his
-staff every hyperbolic one is from
-android
-but this was essentially an assumption
-from looking at some of the tweets and
-how they differed
-so what dave robinson wrote this posted
-is he decided to analyze it so he did
-some sentiment analysis
-so he saw yes in fact the android does
-have
-you know more words that are on the
-sadness scale or fear anger
-and this actually was picked up um by
-some news uh outlets and so what he
-actually did before the sentiment is he
-also showed look the pattern
-of the android and the iphone's tweets
-these are clearly different like how
-they quote tweet when they tweet so on
-it definitely looks like these are
-different people
-and we have seen trump tweeting on his
-android so the other one must be the
-campaign staff
-so in this case there was a question and
-so dave went out and
-got used the twitter api to get the uh
-you know backlog of tweets and to
-analyze those
-so some tips on when you do a data
-science portfolio project
-so you know what i've shown here is
-these are blog posts or tweets with it
-which i definitely recommend so after
-you do the analysis
-share what you learned and a great thing
-to include is some visualizations
-so this is jeff cow who at the time uh
-that he did this project
-was a meta student which is a boot camp
-that i also went to
-and he's looking he's using uh you know
-natural language processing
-to find to analyze these net neutrality
-comments to find that
-a lot of them the pro appeal were likely
-faked and i really love this
-visualization he chose because it might
-not be an
-obvious one but what he's showing is hey
-look
-i i didn't find that there were
-identical exactly identical
-uh messages but i found that there are
-pretty much identical structures
-and so he does the colors here so he
-shows one messages americans as opposed
-to the next one individual citizens as
-opposed to
-citizens rather than the scc you know as
-opposed to washington bureaucrats as
-opposed to watching bureaucrats so on
-and so forth so i thought this was a
-really cool visualization
-and definitely think about how you can
-catch people's attention at the
-beginning
+You might be familiar with this venn diagram from Drew Conway, which is where does data science fall
+it's the intersection of these three skills called like hacking skills math and stats knowledge and substantive expertise.
+
+### Slide 13: Slightly updated diagram (4:53)
+<a href="https://youtu.be/HsFFuFYz7zE?t=293"><img src="images/emily_robinson_career/erc_s12.png" width="50%" /></a>
+
+And we updated this a little bit for our book although we didn't change much which is you know those same three basic areas, programming databases we call it domain knowledge instead and math and stats.
+But we also wanted to highlight what are the areas of data science that are most associated with you know the intersections of these so I'm going to talk more about the difference between like analytics
+machine learning and decision science but I wanted to make clear so rather than a venn diagram where you kind of either have it, or you don't that you know these are all levels right so you can have uh some people could be you know come from a computer science background and have really in-depth programming uh knowledge whereas maybe some other people come from statistics and are really strong in that so it's not an either or there's a big range of skills that you can have.
+
+
+### Slide 14: Programming what you need to know (5:39)
+<a href="https://youtu.be/HsFFuFYz7zE?t=339"><img src="images/emily_robinson_career/erc_s13.png" width="50%" /></a>
+
+But what do you need to know to get that data scientist job. I do think that you really need just
+practically in terms of like the availability of positions to know either R or Python and this is going to be your main language day in and day out for doing things like cleaning data for making visualizations for writing reports so on and so forth but a lot of that data you'll need to get from a SQL database where it's stored and that's where SQL comes in so SQL is a query language that fortunately the basics of it you can pick up pretty much in a weekend or less and then you can go from there as you need it, and finally we have GIT. GIT you're not familiar with it is a version control system and the reason you need this is twofold one again just sort of practically it's something that's very useful in the job because what it allows you to do is rather if you've ever uh like saved you know word files and you've been like draft one, draft two draft three, draft ten because you wanted those old versions in case you needed something from them GIT basically does this for you so rather than saving every time you commit it gives a snapshot of what your code
+looked like at that time so if you ever need to go back to it you can there's a bunch of other benefits as well but the second big one is it's a great collaboration tool so GitHub is one of the places you can host your code that you've saved with GIT and it's a way that many open source
+projects are done through GitHub that's how you can contribute code or file issues, uh if you're working on a data science team that's how you could collaborate on a project so this is the third fundamental thing you need to know on the programming side. And I'll add here at the end a lot of
+people ask like well what should I learn R or Python? This is a tough question my first advice is Python is generally more common to see in job descriptions so if you just want to go off like what's the most likely thing I'll have it's probably Python but R is more common in certain types of positions so sometimes more analytics positions or people coming from academia so it's worth it if you have an idea of what industry you want to work in. In data science or what type of data science job to take a look at those job descriptions and see do they say R do they say Python do they say both and if it seems like ah it's kind of like either or some of it is Python some of it is R you know I would try out both of them and see what you like better but I would definitely focus at the beginning on just getting good at one of them rather than trying to get to a medium level in both.
+
+
+### Slide 15: Mathematics and Statistics (8:17)
+<a href="https://youtu.be/HsFFuFYz7zE?t=278"><img src="images/emily_robinson_career/erc_s14.png" width="50%" /></a>
+
+All right so mathematics and statistics, I'm going to break this down into a couple of parts the first is knowing what techniques exist so for example if you're working at a company and they say hey I need to group customers together you need to know that oh I should try clustering that's a mathematical method that can make groups from this data well then you need to know how to apply them so how do you actually do a k-means clustering for example in R of Python but finally how do you
+choose which to try so there are many clustering methods and rather than trying each one of them you know if you know something about the technique if you know that what cases they work well and what they don't work well in you can narrow down pretty quickly and figure out you know what technique
+should I try and also some of the intricacies of do I have to normalize my data beforehand you know
+all these other things of understanding a bit under the hood how it works.
+
+
+### Slide 16: Mathematics and Statistics (9:03)
+<a href="https://youtu.be/HsFFuFYz7zE?t=543"><img src="images/emily_robinson_career/erc_s15.png" width="50%" /></a>
+
+Finally domain knowledge so i'm going to take this diagram from Renee Teate on to describe domain knowledge which is a core job of most data scientists is to take a business question for example how can we split our customers into different groups to market to and turn that into a data science question so in this case like the example I gave before how can we run a clustering algorithm to
+segment customer data? Then you need to get the data science answer so for example your clustering
+found three distinct groups but you can't stop there, because that's not very helpful to the business what they want to hear is something like hey here are three types of customers, new, high spending and commercial, for if you've been working for example with kaggle competitions they start at the data science question right they start with here is a data set you know predict this thing um but most the time you're not going to get something so clear-cut and you're going to have to work with the business stakeholder to try to figure out what are they actually trying to answer what are they looking for and things you need to do that successfully include good communication skills, empathy, and understanding your data which is huge so for example where where can you find your data what are some assumptions what are some edge cases and this is where you'll probably see a lot of tweets about working with messy data this is exactly about that because in the real world uh just data comes with so much mess you don't know if you should go and try to find another data set? Does another one exist? You do try to collect more data so you're going to need to be making these types of decisions.
+
+### Slide 17: How to become a data scientist (10:36)
+<a href="https://youtu.be/HsFFuFYz7zE?t=636"><img src="images/emily_robinson_career/erc_s16.png" width="50%" /></a>
+
+All right so that's a little bit about what data science is what are some of the core skills you need to be a data scientist great but how do you become one. 
+
+### Slide 18: Fake data scientists (10:46)
+<a href="https://youtu.be/HsFFuFYz7zE?t=646"><img src="images/emily_robinson_career/erc_s17.png" width="50%" /></a>
+
+And I'm actually going to say all right what is like I disagree with first which is that they're selling as a fake data scientist so I pulled these uh headlines just like, how can you spot a fake data scientist, 20 questions for a fake data scientist, I just think this is total BS gatekeeping and to not let this dissuade you and to to make you worry that you know maybe because you don't have a formal degree in data science or you did a boot camp or whatever that you cannot be a real data scientist because you can.
+
+### Slide 19: "Must know" lists (11:14)
+<a href="https://youtu.be/HsFFuFYz7zE?t=674"><img src="images/emily_robinson_career/erc_s18.png" width="50%" /></a>
+
+And looking at these must-know lists so these are like 20 things you need to know like honestly I don't know a lot of these right I, yeah, I learned python once upon a time I don't use it much anymore I only worked with time series data seriously and a couple months ago so you don't need to necessarily know all of these things. 
+
+### Slide 20: You don't need to know everything (11:31)
+<a href="https://youtu.be/HsFFuFYz7zE?t=691"><img src="images/emily_robinson_career/erc_s19.png" width="50%" /></a>
+
+And I really like Renee Teate's tweet here which is saying like hey look here are some tools I use often like SQL, Python, Tableau eer Jupyter, but I never used R or Neural Networks or Natural Language Processing and you'd find people say like oh that's absolutely fundamental to being data
+scientists no I really think the skills I laid out at the beginning like you know some programming some math and stats uh you know some domain knowledge and communication skills is really what you need to get started and you learn the rest on on the way so if you have a project come up where you
+need to do analysis of text you'll learn Natural Language Processing or you'll learn image analysis or TensorFlow but there are plenty of data science jobs we don't need to use that and it doesn't make you less of a data scientist for not knowing it or not using it.
+
+### Slide 21: How to find a data science job (12:18)
+<a href="https://youtu.be/HsFFuFYz7zE?t=738"><img src="images/emily_robinson_career/erc_s20.png" width="50%" /></a>
+
+In this talk I'm going to go through four ways that will help you find a data science job. The first
+is creating a portfolio, then we have expanding your network, finding the right jobs and tailoring
+your application.
+
+### Slide 22: What is a portfolio? (12:31)
+<a href="https://youtu.be/HsFFuFYz7zE?t=751"><img src="images/emily_robinson_career/erc_s21.png" width="50%" /></a>
+
+Creating a portfolio. So I define a portfolio as a public body of work that illustrates your data
+science skills.
+
+### Slide 23: How? (12:31)
+<a href="https://youtu.be/HsFFuFYz7zE?t=751"><img src="images/emily_robinson_career/erc_s21.png" width="50%" /></a>
+
+So how you can do that is one of two ways. This is a diagram from our book so you can start with a data set that you find interesting and find a question answer or start with a question and find data
+related to it to make an analysis.
+
+### Slide 24: Dataset -> Question (12:55)
+<a href="https://youtu.be/HsFFuFYz7zE?t=775"><img src="images/emily_robinson_career/erc_s22.png" width="50%" /></a>
+
+So let's look at some examples. So a great place to find data sets is Tidy Tuesday this is a weekly project it's was started in the art community but these data sets are usually in CSV files so you absolutely can just download them and work with them in Python and as you can see there's data sets on you know star wars on comic books on bikes and this has been going on for a couple years now so I can almost guarantee you're gonna find at least one data set in here that's interesting to you and
+worth exploring and this is nice because it's you know it's relative there's sometimes the data still messy but it's available and there's just it comes with a description or a data dictionary so it's a great place to get started.
+
+### Slide 25: Dataset -> Question examples (13:32)
+<a href="https://youtu.be/HsFFuFYz7zE?t=812"><img src="images/emily_robinson_career/erc_s24.png" width="50%" /></a>
+
+Another ex, and here we have some people who've you know done this so this is someone sharing a visualization uh that they made about anime and manga genres and someone looking at ages of tennis champions so if you're looking for some inspiration you can see these people share it on Twitter with the Tidy Tuesday hashtag so it's another reason to choose these data sets because let's say you explore it you can then look hey what did other people who worked with this data set do.
+
+### Slide 26: Dataset -> Question examples (14:02)
+<a href="https://youtu.be/HsFFuFYz7zE?t=842"><img src="images/emily_robinson_career/erc_s25.png" width="50%" /></a>
+
+But you could also start with a question instead. So this is a blog post about Trump's tweets that started with a tweet that came out which said every non-hyperbolic tweet is from iPhone(his staff) every hyperbolic one is from Android. But this was essentially an assumption from looking at some of the tweets and how they differed so what Dave Robinson wrote this posted is he decided to analyze it so he did some sentiment analysis so he saw yes in fact the Android does have you know more words that are on the sadness scale or fear anger and this actually was picked up um by some news uh outlets and so what he actually did before the sentiment is he also showed look the pattern of the android and the iPhone's tweets these are clearly different like how they quote tweet, when they tweet, so on it definitely looks like these are different people and we have seen Trump tweeting on his Android so the other one must be the campaign staff so in this case there was a question and so Dave went out and got used the Twitter API to get the uh you know backlog of tweets and to analyze those.
+
+### Slide 27: Tip 1: Include visualizations (15:08)
+<a href="https://youtu.be/HsFFuFYz7zE?t=908"><img src="images/emily_robinson_career/erc_s25.png" width="50%" /></a>
+
+So some tips on when you do a data science portfolio project so you know what I've shown here is these are blog posts or tweets with it which I definitely recommend, so after you do the analysis share what you learned and a great thing to include is some visualizations so this is Jeff Kao who at the time uh that he did this project was a Metis student which is a boot camp that I also went to
+and he's looking he's using uh you know Natural Language Processing to find to analyze these Net Neutrality comments to find that a lot of them the pro appeal were likely faked and I really love this visualization he chose because it might not be an obvious one but what he's showing is hey
+look I didn't find that there were identical exactly identical uh messages but I found that there are
+pretty much identical structures and so he does the colors here so he shows one messages Americans as opposed to the next one individual citizens as opposed to citizens rather than the FCC you know as
+opposed to Washington bureaucrats as opposed to Washington bureaucrats so on and so forth so I thought this was a really cool visualization and definitely think about how you can catch people's attention at the beginning.
+
+
 next choose a topic you're excited about
 this is my old salmon
 uh writing a blog post on whether python
