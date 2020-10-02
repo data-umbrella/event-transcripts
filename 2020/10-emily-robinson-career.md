@@ -1,130 +1,81 @@
-# Emily Robinson: Build a Career in Data Science
+# [Data Umbrella](https://www.dataumbrella.org): Build a Career in Data Science
 
-video:  https://youtu.be/HsFFuFYz7zE
+## Video Transcript
+- Speaker: [Emily Robinson]
+- video: https://youtu.be/HsFFuFYz7zE (1:35:06)
+- Transcriber: Kevin Kipkemoi
 
+## Key Links
+- Data Umbrella [Discord](https://discord.gg/mEzEbYT)
 
-hi everyone welcome to
-data umbrella webinar um also
-co-promoted with
-nyc pi ladies i'm going to
-do a brief introduction and then turn it
-over to emily for her presentation
-um and then after that what you could do
-is you can place any questions in the q
-a
-and um at the end uh emily will answer
-questions
-from them but just and just a reminder
-to reiterate this talk is being recorded
-about me um i'm a statistician and data
-scientist um
-i'm the founder of data brella and i'm
-also an nyc pie ladies organizer
-the mission of data umbrella is to
-provide a welcoming and educational
-space for underrepresented persons in
-the field of data science and machine
-learning
-we welcome allies who support our cause
-our home page is dataumbrella.org check
-it out we're also on twitter
-and we are a volunteer run organization
-so any time spent
-organizing this event is all on
-volunteer time
-pi ladies is a global organization and
-the new york city chapter
-is one of the one of the local chapters
-um it's a group for python ladies and
-gender minorities of all level
-check out our home page there is a very
-active slack team that you can join and
-it's a really great community if you
-have questions on python
-it's really it's really i recommend
-joining that
-code of conduct we have a code of
-conduct um we're dedicated providing a
-professional harassment free experience
-for everybody um and uh thank you for
-contributing to making this
-you know to fulfilling the mission of
-this group which is to make it
-make an inclusive friendly community for
-people who are under
-represented in data science
-at the data umbrella website there are
-many resources available and i've taken
-some screenshots about
-contributing to open source about
-conferences
-about other community groups inclusive
-language responsibility social
-impact so please check it out
-later for more upcoming events uh the
-best place to find out about upcoming
-events is on the meetup page
-so the best thing to do is to join the
-meetup group we do
-also post them on twitter and linkedin
-as well
-and facebook uh this talk is being
-recorded and
-a copy of it will be uploaded to youtube
-within the week
-all right so we're gonna get started and
-i'm gonna turn it over to emily
-all right hi everyone i'm just gonna
-start sharing my slides
-okay right welcome thank you all again
-for
-joining me i'm very excited to be here
-i wanted to give a little bit of a
-background about where this talk came
-from
-so this talk is titled same title as my
-book
-uh build a career in data science which
-is
-all about the non-technical skills and
-knowledge you need to
-get started and succeed in a data
-science career so if you
-haven't seen the book before if you're
-interested after this talk and learning
-more
-you can get 40 off with the code mtp
-umbrella 20. i'll also show that at the
-end at datasidecareer.com and that
-code's also good for 40
-off everything on manning which has a
-lot of technical books
-on you know coding in python or r or
-whatever kind of things you want to do
-in this talk i'm going to focus on the
-first six chapters of the book
-so this covers getting started with data
-science what it is the skills
-and then some of the first steps about
-finding a data science job
-all right what is data science
-i really like this definition from
-kassie kozikov which is that data
-science is a discipline
-of making data useful i like this
-definition because it's pretty
-all-encompassing
-right so folks can define data science
-as oh it's just you know machine
-learning
-it's just you know this area but i
-really do think that
-just like you know you might not say
-you're a professional writer but all of
-us do writing as part of our jobs many
-people besides just those who have the
-title data scientists can be doing data
-science
+## Video
+<a href="https://youtu.be/HsFFuFYz7zE"><img src="images/emily_robinson_career/erc_main.png" width="90%" /></a>
+
+### Slide 1: Agenda (0:00)
+<a href="https://youtu.be/HsFFuFYz7zE?t=15"><img src="images/emily_robinson_career/erc_s1.png" width="50%" /></a>
+
+Hi everyone welcome to data umbrella webinar um also co-promoted with NYC PYLadies I'm going to do a brief introduction and then turn it over to Emily for her presentation um and then after that what you could do is you can place any questions in the Q/A and um at the end uh Emily will answer
+questions from them but just and just a reminder to reiterate this talk is being recorded.
+
+### Slide 2: Intro (0:33)
+<a href="https://youtu.be/HsFFuFYz7zE?t=33"><img src="images/emily_robinson_career/erc_s2.png" width="50%" /></a>
+
+About me, um, I'm a statistician and data scientist, um, I'm the founder of Data Umbrella and I'm also an NYC PYLadies organizer. 
+
+### Slide 3: Data Umbrella (0:43)
+<a href="https://youtu.be/HsFFuFYz7zE?t=43"><img src="images/emily_robinson_career/erc_s3.png" width="50%" /></a>
+
+The mission of Data Umbrella is to provide a welcoming and educational space for underrepresented persons in the field of data science and machine learning
+we welcome allies who support our cause our home page is dataumbrella.org check it out we're also on Twitter and we are a volunteer run organization so any time spent organizing this event is all on
+volunteer time. 
+
+### Slide 4: NYC PyLadies (1:08)
+<a href="https://youtu.be/HsFFuFYz7zE?t=68"><img src="images/emily_robinson_career/erc_s4.png" width="50%" /></a>
+
+PY Ladies is a global organization and the New York city chapter is one of the one of the local chapters, um, it's a group for Python ladies and gender minorities of all level check out our home page there is a very active Slack team that you can join and it's a really great community if you have questions on Python it's really it's really I recommend joining that. 
+
+### Slide 5: Code of Conduct (1:36)
+<a href="https://youtu.be/HsFFuFYz7zE?t=96"><img src="images/emily_robinson_career/erc_s5.png" width="50%" /></a>
+
+Code of conduct we have a code of conduct, um, we're dedicated providing a professional harassment free experience for everybody um and uh thank you for contributing to making this you know to fulfilling the mission of this group which is to make it make an inclusive friendly community for people who are under represented in data science. 
+
+### Slide 6: Data Umbrella Screenshots (1:59)
+<a href="https://youtu.be/HsFFuFYz7zE?t=119"><img src="images/emily_robinson_career/erc_s6.png" width="50%" /></a>
+
+At the data umbrella website there are many resources available and I've taken some screenshots about contributing to open source, about conferences, about other community groups, inclusive language, responsibility, social impact so please check it out later.
+
+### Slide 6: Data Umbrella Screenshots (2:18)
+<a href="https://youtu.be/HsFFuFYz7zE?t=138"><img src="images/emily_robinson_career/erc_s7.png" width="50%" /></a>
+
+For more upcoming events, uh the best place to find out about upcoming events is on the meetup page so the best thing to do is to join the meetup group we do also post them on Twitter and LinkedIn
+as well and Facebook uh this talk is being recorded and a copy of it will be uploaded to Youtube
+within the week all right so we're gonna get started and I'm gonna turn it over to Emily.
+
+### Slide 6: Emily Robinson Intro (3:03)
+<a href="https://youtu.be/HsFFuFYz7zE?t=183"><img src="images/emily_robinson_career/erc_main.png" width="50%" /></a>
+
+All right. Hi everyone I'm just gonna start sharing my slides. Okay, right. Welcome thank you all again for joining me I'm very excited to be here.
+
+### Slide 6: Talk Background (3:08)
+<a href="https://youtu.be/HsFFuFYz7zE?t=188"><img src="images/emily_robinson_career/erc_s8.png" width="50%" /></a>
+
+I wanted to give a little bit of a background about where this talk came from so this talk is titled same title as my book, uh build a career in data science which is all about the non-technical skills and knowledge you need to get started and succeed in a data science career so if you haven't seen the book before if you're interested after this talk and learning more you can get 40% off with the code mtpumbrella20. I'll also show that at the end at datasidecareer.com and that code's also good for 40% off everything on manning which has a lot of technical books on you know coding in Python, or R, or whatever kind of things you want to do.
+
+### Slide 6: What we'll cover (3:49)
+<a href="https://youtu.be/HsFFuFYz7zE?t=229"><img src="images/emily_robinson_career/erc_s9.png" width="50%" /></a>
+
+In this talk I'm going to focus on the first six chapters of the book. So this covers getting started with data science, what it is, the skills, and then some of the first steps about finding a data science job.
+
+### Slide 6: What is Data Science? (4:08)
+<a href="https://youtu.be/HsFFuFYz7zE?t=241"><img src="images/emily_robinson_career/erc_s10.png" width="50%" /></a>
+
+All right what is data science? I really like this definition from Cassie Kozyrkov which is; that data science is a discipline of making data useful. I like this definition because it's pretty
+all-encompassing, right, so folks can define data science as, oh it's just, you know machine
+learning, it's just you know, this area but I really do think that just like you know you might not say you're a professional writer but all of us do writing as part of our jobs many people besides just those who have the title data scientists can be doing data science.
+
+### Slide 6: Data science venn diagram (4:38)
+<a href="https://youtu.be/HsFFuFYz7zE?t=278"><img src="images/emily_robinson_career/erc_s11.png" width="50%" /></a>
+
 you might be familiar with this venn
 diagram from drew conway
 which is where does data science fall
