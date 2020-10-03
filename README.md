@@ -7,7 +7,7 @@
 1. You can make edits in the transcript in a code editor and submit a PR.  If you are unfamiliar with how to submit a PR, you can copy the text into a Google doc and edit it there and send back the link to the edited doc.
 
 ### Transcribing
-- Here is an example of a transcript that is edited and clean:
+- Here is an **EXAMPLE** of a transcript that is edited and clean:
 https://github.com/data-umbrella/event-transcripts/blob/main/2020/05-reshama-shaikh-sklearn-pr.md
 - For beginning of sentences, make them capital letters
   - Example:  when "i" as in "i think", can you change to capital letter:  "I think ..."   
