@@ -258,515 +258,134 @@ So next we're going to talk about expanding your network.
 
 This is Rachel Tatman talking about the difference um this is research in Kaggle about the different ways that people already employed the field found their job versus those entering the field and we see a big one about employed in the field is recruiters and friends families and colleagues way more than those entering the field and those are about your network those are about who do you know in case of friend and family and colleagues but the recruiter is also apersonal relationship so this is a really common way that people get jobs.
 
+### Slide 41: Meetups (22:50)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1370"><img src="images/emily_robinson_career/erc_s40.png" width="50%" /></a>
 
-how do you build it though well you know
-you're here tonight
-um or this afternoon or in the you know
-the in the early morning for folks in
-certain time zones
-going to a meet up that is one of the
-advantages of covid
-is that if you're in an area that is you
-know say maybe you're in a rural area or
-a small town there weren't any meetups
-going on locally well
-most meetups have moved online now and
-some of them are doing
-uh networking stuff before and after
-or you can you know maybe you can meet
-the speaker or other things like that so
-see especially for some smaller meetups
-uh you know
-it and if you are someone who say like
-lives in los
-angeles and you hadn't been before to a
-pilot's los angeles meet up
-maybe think about going because even if
-it has to be virtual for a while there's
-still people local they're probably
-working at local companies
-and they can eventually help you out in
-your job search
-i'm a big twitter person probably a
-little bit too much but i will admit it
-definitely confused me at the beginning
-how i use twitter is in a couple ways
-the first is ask for help
-and with that please use hashtags um
-rather than
-adding a specific person like adding
-hadley wickham like it's definitely
-understandable but the hashtag is great
-because
-people follow the hashtag so they can
-retweet it they can see about answering
-it so even if you don't have many
-followers this is a good way to get
-visibility and to get people
-looking at your question so in this case
-i asked about globally setting a color
-scale for
-ggplot2 and i got an answer and when i
-did
-i wrote a follow-up tweet saying like
-hey think you know
-thank you for this post on how to do
-that so this is one thing you can use
-twitter for
-you can also live tweets talks so
-pre-covet times this was me live
-tweeting
-uh our studio conference and also a
-meetup and i sort of do this in two ways
-like
-one is to take notes for myself of some
-of my big key takeaways
-but the other is to share with people
-who didn't get to go to the meetup like
-what i think
-that they could really learn and benefit
-from so this is a nice way to take notes
-for yourself and share some knowledge
-and you can share your work so when you
-do write that blog post when you do
-publish that github repo share it
-point people to it again you can use
-hashtags um as a way if you don't have a
-lot of twitter followers for more people
-to see it
-but this is you know i think writing the
-portfolio the main point is not that you
-get like hundreds of week
-retweets or you get thousands of you on
-your post it's more for the learning
-yourself and to have that
-available when you're talking and
-interviews about projects you've done
-but it is a nice bonus um if it can help
-other people
-and other people can benefit from it
-you can share other people's work so i
-enjoy tweeting about packages i find
-useful papers again sort of this dual
-benefit
-of thanking the person who wrote it
-showing that i appreciate it
-making a note for myself and hopefully
-helping other people discover it
-now that's like sort of broader like
-networking twitter but
-what if you want to reach out to a
-specific person that
-you're interested in maybe because uh
-some work that they do a blog post the
-company they work on so on and so forth
-i like this post from trey kazi which is
-called do you have time for a quick chat
-and what he does is he walks through i
-first share is what is a typical message
-he receives which i have here which like
-hey do you have any time for
-chat i'd love to pick your brain and he
-shows how he would revise that
-so the first thing is to mention the
-work so tell them why are you reaching
-out oh it's because i read this blog
-post on data science interviews so this
-shows like there's a reason you pick
-this specific person which hopefully
-there is
-rather than saying mass messaging or
-mass connecting with everyone on
-linkedin
-tell them why you're you're interested
-in talking to them specifically
-this also shows that you're going to
-have questions that weren't answered and
-things that were publicly written before
-so for example if folks ask about you
-know my job search advice often i'll say
-hey i wrote some obviously wrote this
-book which you have to pay money for but
-i also wrote these free blog posts i
-have these recorded talks
-you know why don't you start there and
-let me know if you have any follow-up
-questions
-second this person offers a topic so
-they say hey i'm currently interviewing
-and the part about whiteboard coding is
-interesting i'd love to hear your
-thoughts about whiteboard coding
-questions and answers in my own
-experience so this
-lets them know you have a specific thing
-you want to talk about rather than just
-like
-i just want to talk about everything
-like you know my whole job search
-and finally suggest a specific limited
-time
-so in this case could you spare 30
-minutes on uh say tuesday or wednesday
-because this gives one the person you're
-reaching out to a better idea of what
-kind of commitment this will be
-and it shows them that you're not
-necessarily expecting on their first
-meeting with you to take
-two hours of their time if you're
-looking for people
-to reach out to definitely check out
-datahelpers.org by angela bassa
-so she put out a call for folks who are
-interested in helping
-aspiring or junior data science people
-or even some seniors with specific
-problems
-and people volunteered so i just took a
-screenshot of some of the volunteers and
-you can see some of them list
-specifically
-what they they can help with so for
-example that you know public sector
-government data or machine learning or
-time series
-in r so this is a really nice place
-because these people have already said
-that they're interested in helping out
-and mentoring
-a bit about their background what they
-can do so i definitely recommend
-starting with this list and you can
-reach out and say hey i saw you on data
-helpers
-maybe see if they have blog posts other
-public work if they don't you can just
-say hey scion data helpers
-um i would love to chat about your work
-at a public library i
-you know have so and so background and
-this is very interesting to me
-and then another tip from gordon
-shotwell is
-do try to be specific so for example he
-says here how do i learn the basic
-of neural networks versus how do i learn
-statistics because
-you know that's the distance question
-it's so broad and there's so many ways
-to learn statistics
-and there's so many specific types of
-statistics and it's like okay but what
-so the first question kind of like what
-do you want to use it
-for and this is definitely like hard
-when you're starting out in a field
-because you're like i don't know
-like i that's what i need you to tell me
-is what statistics to learn
-but if you can like you know you can
-even ask that you could say hey
-i'm very new to this field i don't
-really know what area to start with do
-you have a book recommendation
-uh or something and that can get you
-started and you'll be like okay i read
-this book and then i want to learn
-you know i got really interested in this
-area let me learn some more and ask some
-more people about that
-finding the right job uh i do feel like
-sometimes it's like i just want
-you know a data science job like any
-data sciences job but i do think it's
-worth it to take some time and think
-about like okay but what kind of job do
-you want
-and that job actually may not have the
-data scientist title so this is jesse
-moss pack we interview in chapter five
-uh each chapter of our book uh we have
-16 chapters has an interview with a
-practicing data scientist or data
-science manager at the end
-and she says think about how attached
-you are to the data scientist title
-like if you decide to not concern
-yourself with what you're called and
-focus on the work that you're doing
-instead
-you'll have a lot more flexibility to
-find jobs that's
-really true especially as someone
-starting out in the field
-it is easier to get a related job
-let's say a data analyst title or
-program analyst or research and
-evaluation specialist like i said at the
-start there's so
-many jobs that are data science related
-that
-also at another company might have the
-data scientist job title for that exact
-same job
-so if if you're able to and willing to
-i'm definitely recommend
-being flexible and i talk about this in
-this chapter but you know for example
-just searching teams
-terms like data and analysis rather than
-i must have the data scientist title
-but in data science there are a couple
-of areas of specialties and so one
-and i want to divide these into these
-three categories that airbnb uses
-because i really like it
-the first is analytics so this is
-uh sets here like defining monitoring
-metrics creating data narratives
-building tools
-uh so this you know might be called the
-data analyst at some companies but it's
-basically
-you know taking data that's there or
-gathering it
-and presenting it to people whether in a
-report or in a dashboard
-often you work very closely with product
-teams or other teams to
-help them with their analysis needs then
-we have algorithms
-you can also call machine learning so
-this is about you know building and
-interpreting algorithms that power data
-products so this is i think maybe what's
-a lot of people think of when they think
-of data scientists is like the person
-working on the amazon
-you know recommendation algorithm that
-pops up when you're looking at a product
-page
-and finally we have inference which
-we've also called in our book decision
-science
-which is the really statistics part of
-like establishing causal relationships
-so for example
-this would be someone working on the
-microsoft experimentation team
-you know trying to figure out all right
-we run this uh a b test we you know show
-half of people the old experience half
-the new
-we have these numbers about how it
-performed but can we
-infer from that you know how do we how
-do we make sure it's not just noise and
-confidently
-infer that uh you know one is better
-than the other
-when you're looking at job descriptions
-don't worry about meeting all of the
-requirements
-a lot of time they're wishlists and you
-really only need to meet 60 or 70
-of the core requirements so that does
-mean for example if they say
-you know we need someone with three
-years of experience coding in python
-if you've never coded in python or any
-like any language at all
-yeah you're probably not qualified for
-that job but if you have two years of
-experience coding it or
-two years of professional and three
-years in school even if they say three
-years professional
-you probably will be they'll be very
-happy with you so don't
-let the kind of job post looking for the
-data science unicorn intimidate you
-finally consider the types of companies
-so
-in our chapter two we lay out uh five
-different example companies and of
-course not all companies meet this
-um but you know a fair amount of them
-fall into it so for example you could
-have massive tech you could have your
-your google your facebook
-you could have a startup you could have
-like a midtech like lyft airbnb a
-government contractor so on and so forth
-and what i put here in this kind of
-matrix is how those differ
-along these axes of how much freedom do
-you have
-what's the salary like what's the job
-security and
-there's not a you know a best answer for
-some people you may say you know what i
-really value
-job security and so i am fine if like
-you know there's a little bit more
-bureaucracy in my job the salary is not
-quite as great
-because at the end of the day like i
-want to have job security and i want to
-work more of a nine-to-five job so
-you know i think like a government
-contractor would be a great one or maybe
-on the other hand you're like i
-really love freedom i love moving fast i
-want lots of chances to learn
-and i don't care if there will be a
-senior data scientist help me so maybe
-you go to a startup
-so there's nowhere to answer this but
-you really want to reflect on what are
-your needs and what are you looking for
-in a company
-so finally i want to talk about
-tailoring your application
-so writing a good resume this is an
-example resume we share in our book and
-there are a couple of things i want to
-highlight and you definitely don't have
-to use this exact format
-but some of the things i like about it
-are it includes your github and your
-blog so if you put this work into making
-a project portfolio you should share it
-it uses clear and consistent formatting
-so the color scheme is grey for most of
-the things but
-the title of the position or the major
-is highlighted in green
-the font stays the same and it's not
-necessarily again like the color isn't
-the same throughout this resume
-but the same type of information always
-has the same type of color
-next embrace white space you don't need
-to have a
-super cluttered resume that packs
-everything in
-you can let it breathe a little bit
-because it makes it a lot easier to skim
-and limit it to one page now there are
-exceptions to this so certain industries
-might look for a longer resume if you
-have 20 years of experience you're
-switching a data scientist maybe you
-need two
-pages but you know most people i would
-say you know
-under 10 years you really can fit it
-into one page how you can do that for
-example is
-you know focus more on the things that
-are relevant if you had a job for five
-years that's really not that relevant to
-data science
-you can just have one bullet point where
-you describe it and devote more time to
-the things you're more of or you can do
-a column format and put some things on
-the side
-you can get creative but in general
-again because people are not going to
-spend that much time looking at your
-resume
-you want to make sure they can quickly
-hone in on what's important
-so for those bullet points try to
-quantify your impact so rather than
-saying you ran a b test on email
-campaigns
-say you conducted 20 a b tests on email
-campaigns resulting in a 35
-increase in click rate and a 5 increase
-in attributed sales
-so this quantifies both okay like how
-much of something did you do
-and then also what was the impact okay
-if it i just wrote a conducted 20 a b
-test
-on email campaigns well a b tests aren't
-valuable in and of themselves they're
-valuable because
-of you know the the results that they
-can have showing you that hey this thing
-this uh you know treatment is better you
-should launch and your sales will
-increase
-so try to try to figure out okay rather
-than saying just like i wrote this
-report
-you know like listing what's on your job
-description what did it matter did it
-increase sales for the company did it
-like
-you know decrease the amount of time it
-took someone to do their job because you
-automated something like really think
-about like why would other people care
-that i did this
-and related to data science so you know
-even if you don't have like a
-data scientific analytics background
-there's plenty of types of jobs that are
-really relevant so for example
-were you a teacher teacher or consultant
-there you have communication skills
-right
-like you had classroom you know for
-teaching and classroom management you
-had to figure out
-how to explain math to maybe you had an
-ap class
-uh for you know bc calculus but you also
-had
-you know math students who were you know
-more remedial and so you had to figure
-out how to tell your lessons
-uh could did you work in the domain so
-for example if you're a sales executive
-maybe you could be a data scientist for
-the sales team and that would be hugely
-valuable to like
-have been in that system know how to use
-salesforce like know what sales
-executives are thinking so on and so
-forth
-math and statistics you know what
-classes have you done that are related
-did you do any undergraduate research so
-for example let's say you majored in
-psychology what
-did you take a psychology statistics
-class did you do psychology research
-where you had to do statistical tests or
-data cleaning or data collection
-really try to think all right how have i
-used math and stats even if
-the class wasn't necessarily or the
-research wasn't called that
-and finally programming and databases so
-if you haven't worked in data science
-have you used excel surveymonkey google
-analytics tableau
-sql any of these tools they're not all
-tools some of them are tools you might
-still use as a data scientist
-especially sql but even if you never use
-excel again you can talk about like the
-projects that you did with and it shows
-that you've worked with data even if you
-use a different tool
-and of course the personal projects that
-we talked about with the portfolios
+How do you build it though well you know you're here tonight um or this afternoon or in the you know
+the in the early morning for folks in certain time zones going to a meet up that is one of the
+advantages of COVID is that if you're in an area that is you know say maybe you're in a rural area or
+a small town there weren't any meetups going on locally well most meetups have moved online now and
+some of them are doing uh networking stuff before and after or you can you know maybe you can meet
+the speaker or other things like that so see especially for some smaller meetups uh you know it and if you are someone who say like lives in Los Angeles and you hadn't been before to a PyLadies Los Angeles meet up maybe think about going because even if it has to be virtual for a while there's
+still people local they're probably working at local companies and they can eventually help you out in your job search.
+
+### Slide 42: Twitter (23:41)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1421"><img src="images/emily_robinson_career/erc_s41.png" width="50%" /></a>
+
+I'm a big Twitter person probably a little bit too much but I will admit it definitely confused me at the beginning.
+
+### Slide 43: Ask for help(use hashtags) (23:49)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1429"><img src="images/emily_robinson_career/erc_s42.png" width="50%" /></a>
+
+How I use Twitter is in a couple ways the first is ask for help and with that please use hashtags um rather than adding a specific person like adding Hadley Wickham like it's definitely understandable but the hashtag is great because people follow the hashtag so they can retweet it they can see about answering it so even if you don't have many followers this is a good way to get visibility and to get people looking at your question so in this case I asked about globally setting a color scale for
+ggplot2 and i got an answer and when I did I wrote a follow-up tweet saying like hey think you know
+thank you for this post on how to do that so this is one thing you can use Twitter for.
+
+### Slide 44: Ask for help(use hashtags) (24:29)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1469"><img src="images/emily_robinson_career/erc_s43.png" width="50%" /></a>
+
+You can also live tweets talks so pre-COVID times this was me live tweeting uh Rstudio conference and also a meetup and I sort of do this in two ways like one is to take notes for myself of some of my big key takeaways but the other is to share with people who didn't get to go to the meetup like
+what I think that they could really learn and benefit from so this is a nice way to take notes
+for yourself and share some knowledge.
+
+### Slide 45: Share your work (24:55)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1495"><img src="images/emily_robinson_career/erc_s44.png" width="50%" /></a>
+
+And you can share your work so when you do write that blog post when you do publish that GitHub repo share it point people to it again you can use hashtags um as a way if you don't have a lot of twitter followers for more people to see it but this is you know I think writing the portfolio the main point is not that you get like hundreds of week retweets or you get thousands of you on your post it's more for the learning yourself and to have that available when you're talking and interviews about projects you've done but it is a nice bonus um if it can help other people and other people can benefit from it.
+
+### Slide 46: Share other people's work (25:28)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1528"><img src="images/emily_robinson_career/erc_s45.png" width="50%" /></a>
+
+You can share other people's work so I enjoy tweeting about packages I find useful papers again sort of this dual benefit of thanking the person who wrote it showing that I appreciate it making a note for myself and hopefully helping other people discover it 
+
+### Slide 47: Reaching out (25:43)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1543"><img src="images/emily_robinson_career/erc_s46.png" width="50%" /></a>
+
+Now that's like sort of broader like networking Twitter but what if you want to reach out to a specific person that you're interested in maybe because uh some work that they do a blog post the company they work on so on and so forth I like this post from Trey Causey which is called do you have time for a quick chat and what he does is he walks through I first share is what is a typical message he receives which I have here which like hey do you have any time for chat I'd love to pick your brain and he shows how he would revise that so the first thing is to mention the work so tell them why are you reaching out oh it's because I read this blog post on data science interviews so this shows like there's a reason you pick this specific person which hopefully there is rather than saying mass messaging or mass connecting with everyone on LinkedIn tell them why you're you're interested in talking to them specifically this also shows that you're going to have questions that weren't answered and things that were publicly written before so for example if folks ask about you
+know my job search advice often I'll say hey I wrote some obviously wrote this book which you have to pay money for but I also wrote these free blog posts I have these recorded talks you know why don't you start there and let me know if you have any follow-up questions second this person offers a topic so they say hey i'm currently interviewing and the part about whiteboard coding is interesting I'd love to hear your thoughts about whiteboard coding questions and answers in my own
+experience so this lets them know you have a specific thing you want to talk about rather than just
+like I just want to talk about everything like you know my whole job search and finally suggest a specific limited time so in this case could you spare 30 minutes on uh say Tuesday or Wednesday
+because this gives one the person you're reaching out to a better idea of what kind of commitment this will be and it shows them that you're not necessarily expecting on their first meeting with you to take two hours of their time. 
+
+### Slide 48: Reaching out (25:43)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1543"><img src="images/emily_robinson_career/erc_s47.png" width="50%" /></a>
+
+If you're looking for people to reach out to definitely check out datahelpers.org by Angela Bassa
+so she put out a call for folks who are interested in helping aspiring or junior data science people
+or even some seniors with specific problems and people volunteered so I just took a screenshot of some of the volunteers and you can see some of them list specifically what they they can help with so for example that you know public sector, government data or machine learning or time series in R so this is a really nice place because these people have already said that they're interested in helping out and mentoring a bit about their background what they can do so I definitely recommend
+starting with this list and you can reach out and say hey i saw you on data helpers maybe see if they have blog posts other public work if they don't you can just say hey I saw you on data helpers
+um I would love to chat about your work at a public library I you know have so and so background and this is very interesting to me.
+
+### Slide 49: Reaching out (28:29)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1709"><img src="images/emily_robinson_career/erc_s48.png" width="50%" /></a>
+
+And then another tip from Gordon Shotwell is do try to be specific so for example he says here how do I learn the basic of neural networks versus how do I learn statistics because you know that's the distant question it's so broad and there's so many ways to learn statistics and there's so many specific types of statistics and it's like okay but what so the first question kind of like what do you want to use it for and this is definitely like hard when you're starting out in a field
+because you're like I don't know like I that's what I need you to tell me is what statistics to learn
+but if you can like you know you can even ask that you could say hey I'm very new to this field I don't really know what area to start with do you have a book recommendation uh or something and that can get you started and you'll be like okay I read this book and then I want to learn you know I got really interested in this area let me learn some more and ask some more people about that.
+
+### Slide 50: Finding the right job (29:16)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1756"><img src="images/emily_robinson_career/erc_s49.png" width="50%" /></a>
+
+Finding the right job uh I do feel like sometimes it's like I just want you know a data science job like any data sciences job but I do think it's worth it to take some time and think about like okay but what kind of job do you want.
+
+### Slide 51: Let go of the "data scientist" title (29:30)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1770"><img src="images/emily_robinson_career/erc_s50.png" width="50%" /></a>
+
+And that job actually may not have the data scientist title so this is Jesse Mostipak we interview in chapter five uh each chapter of our book uh we have 16 chapters has an interview with a practicing data scientist or data science manager at the end and she says think about how attached
+you are to the data scientist title like if you decide to not concern yourself with what you're called and focus on the work that you're doing instead you'll have a lot more flexibility to find jobs that's really true especially as someone starting out in the field it is easier to get a related job let's say a data analyst title or program analyst or research and evaluation specialist like I said at the start there's so many jobs that are data science related that also at another company might have the data scientist job title for that exact same job so if if you're able to and willing to uhm definitely recommend being flexible and I talk about this in this chapter but you know for example just searching teams terms like data and analysis rather than I must have the data scientist title.
+
+### Slide 52: Figure out your specialty (30:33)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1833"><img src="images/emily_robinson_career/erc_s51.png" width="50%" /></a>
+
+But in data science there are a couple of areas of specialties and so one and I want to divide these into these three categories that AirBnB uses because I really like it the first is analytics so this is uh sets here like defining monitoring metrics creating data narratives building tools uh so this you know might be called the data analyst at some companies but it's basically you know taking data that's there or gathering it and presenting it to people whether in a report or in a dashboard often you work very closely with product teams or other teams to help them with their analysis needs then
+we have algorithms you can also call machine learning so this is about you know building and interpreting algorithms that power data products so this is I think maybe what's a lot of people think of when they think of data scientists is like the person working on the Amazon you know recommendation algorithm that pops up when you're looking at a product page and finally we have inference which we've also called in our book decision science which is the really statistics part of
+like establishing causal relationships so for example this would be someone working on the Microsoft experimentation team you know trying to figure out all right we run this uh A/B test we you know show
+half of people the old experience half the new we have these numbers about how it performed but can we infer from that you know how do we how do we make sure it's not just noise and confidently infer that uh you know one is better than the other.
+
+### Slide 53: You don't need to meet all of the "requirements" (31:57)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1917"><img src="images/emily_robinson_career/erc_s52.png" width="50%" /></a>
+
+When you're looking at job descriptions don't worry about meeting all of the requirements a lot of time they're wishlists and you really only need to meet 60 or 70 of the core requirements so that does mean for example if they say you know we need someone with three years of experience coding in Python if you've never coded in Python or any like any language at all yeah you're probably not qualified for that job but if you have two years of experience coding it or two years of professional and three years in school even if they say three years professional you probably will be they'll be very happy with you so don't let the kind of job post looking for the data science unicorn intimidate you.
+
+### Slide 54: Consider the type of company matters (32:38)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1958"><img src="images/emily_robinson_career/erc_s53.png" width="50%" /></a>
+
+Finally consider the types of companies so in our chapter two we lay out uh five different example companies and of course not all companies meet this um but you know a fair amount of them fall into it so for example you could have massive tech you could have your your Google your Facebook you could have a startup you could have like a Midtech like Lyft, AirBnB a government contractor so on and so forth and what i put here in this kind of matrix is how those differ along these axes of how much freedom do you have what's the salary like what's the job security and there's not a you know a best answer for some people you may say you know what I really value job security and so I am fine if like you know there's a little bit more bureaucracy in my job the salary is not quite as great
+because at the end of the day like I want to have job security and I want to work more of a nine-to-five job so you know I think like a government contractor would be a great one or maybe
+on the other hand you're like I really love freedom I love moving fast I want lots of chances to learn and I don't care if there will be a senior data scientist help me so maybe you go to a startup
+so there's nowhere to answer this but you really want to reflect on what are your needs and what are you looking for in a company.
+
+### Slide 55: Tailoring your application (33:48)
+<a href="https://youtu.be/HsFFuFYz7zE?t=2028"><img src="images/emily_robinson_career/erc_s54.png" width="50%" /></a>
+
+So finally I want to talk about tailoring your application.
+
+### Slide 56: Writing a good resume (33:55)
+<a href="https://youtu.be/HsFFuFYz7zE?t=2035"><img src="images/emily_robinson_career/erc_s55.png" width="50%" /></a>
+
+So writing a good resume this is an example resume we share in our book and there are a couple of things I want to highlight and you definitely don't have to use this exact format but some of the things I like about it are it includes your GitHub and your blog so if you put this work into making a project portfolio you should share it. It uses clear and consistent formatting so the color scheme is grey for most of the things but the title of the position or the major is highlighted in green the font stays the same and it's not necessarily again like the color isn't the same throughout this resume but the same type of information always has the same type of color next embrace white space you don't need to have a super cluttered resume that packs everything in you can let it breathe a little bit because it makes it a lot easier to skim and limit it to one page now there are exceptions to this so certain industries might look for a longer resume if you have 20 years of experience you're switching a data scientist maybe you need two pages but you know most people I would say you know under 10 years you really can fit it into one page how you can do that for
+example is you know focus more on the things that are relevant if you had a job for five years that's really not that relevant to data science you can just have one bullet point where you describe it and devote more time to the things you're more of or you can do a column format and put some things on the side you can get creative but in general again because people are not going to
+spend that much time looking at your resume you want to make sure they can quickly hone in on what's important.
+
+### Slide 57: Quantify what is important (35:26)
+<a href="https://youtu.be/HsFFuFYz7zE?t=2035"><img src="images/emily_robinson_career/erc_s56.png" width="50%" /></a>
+
+So for those bullet points try to quantify your impact so rather than saying you ran A/B test on email campaigns say you conducted 20 A/B tests on email campaigns resulting in a 35% increase in click rate and a 5% increase in attributed sales so this quantifies both okay like how much of something did you do and then also what was the impact okay if it I just wrote a conducted 20 A/B
+test on email campaigns well A/B tests aren't valuable in and of themselves they're valuable because
+of you know the the results that they can have showing you that hey this thing this uh you know treatment is better you should launch and your sales will increase so try to try to figure out okay rather than saying just like i wrote this report you know like listing what's on your job description what did it matter did it increase sales for the company did it like you know decrease the amount of time it took someone to do their job because you automated something like really think
+about like why would other people care that I did this.
+
+### Slide 58: Relate to data science (36:22)
+<a href="https://youtu.be/HsFFuFYz7zE?t=2182"><img src="images/emily_robinson_career/erc_s57.png" width="50%" /></a>
+
+And relate it to data science so you know even if you don't have like a data scientific analytics background there's plenty of types of jobs that are really relevant so for example were you a teacher teacher or consultant there you have communication skills right like you had classroom you know for teaching and classroom management you had to figure out how to explain math to maybe you had an AP class uh for you know bc calculus but you also had you know math students who were you know
+more remedial and so you had to figure out how to tell your lessons uh could did you work in the domain so for example if you're a sales executive maybe you could be a data scientist for the sales team and that would be hugely valuable to like have been in that system know how to use salesforce like know what sales executives are thinking so on and so forth. Math and statistics you know what
+classes have you done that are related did you do any undergraduate research so for example let's say you majored in psychology what did you take a psychology statistics class did you do psychology research where you had to do statistical tests or data cleaning or data collection really try to think all right how have I used math and stats even if the class wasn't necessarily or the research wasn't called that. And finally programming and databases so if you haven't worked in data science
+have you used Excel, Surveymonkey, Google analytics, Tableau, SQL any of these tools they're not all
+tools some of them are tools you might still use as a data scientist especially SQL but even if you never use Excel again you can talk about like the projects that you did with and it shows that you've worked with data even if you use a different tool and of course the personal projects that
+we talked about with the portfolios.
+
+
 this a cover letter is not always
 required but it sometimes is
 and what you want here is first try to
