@@ -179,226 +179,86 @@ look I didn't find that there were identical exactly identical uh messages but I
 pretty much identical structures and so he does the colors here so he shows one messages Americans as opposed to the next one individual citizens as opposed to citizens rather than the FCC you know as
 opposed to Washington bureaucrats as opposed to Washington bureaucrats so on and so forth so I thought this was a really cool visualization and definitely think about how you can catch people's attention at the beginning.
 
+### Slide 28: Tip 2: Choose a topic you're excited about (16:17)
+<a href="https://youtu.be/HsFFuFYz7zE?t=977"><img src="images/emily_robinson_career/erc_s27.png" width="50%" /></a>
 
-next choose a topic you're excited about
-this is my old salmon
-uh writing a blog post on whether python
-users are more likely to get into
-slytherin
-don't feel that you have to uh you know
-pick a project or
-analyze something that you're like ah
-i'm like interested in finance i guess i
-do finance data like
-find something that you like i you know
-one of my projects was about uh pokemon
-teams and what types i should have my
-pokemon team because i was playing
-pokemon
-and i wanted to know uh so you know it's
-less important what the topic is and
-much more the kind of skills that you
-can show as you did it so for example
-showing that you
-you know here's some code that you did
-hey look i can get users i can write a
-function and get users from twitter i
-can do
-some you know data filtering i can do
-this like map function and per
-so on and so forth my third tip
-is limit your scope i really like this
-quote from a blog post says
-you know perfections can be a real
-hurdle and next time i'm not going to
-wait so long to push something out
-because i think that last mile can be a
-big barrier feeling like oh you know i
-i could do one more thing or you know
-what if my code isn't quite good enough
-so
-try at the beginning like it's okay if
-you don't answer every question you have
-about a data set maybe say hey i'm gonna
-try to answer this one
-question or i'm gonna try to make this
-one visualization or i'm you know
-i want to do this project because i'll
-need to you know i have to get some data
-from the web and so i'm just you know
-i'm just going to get the data and i'm
-going to publish how i got the data i'm
-not going to worry about doing
-anything with it and that's perfectly
-fine and
-it's definitely better to have something
-out there than nothing
-and on that point this is inspired by uh
-same dave robinson trump his
-uh our studio keynote which i definitely
-recommend watching which is um
-on the unreasonable effectiveness of
-public work but
-basically i used to think all right like
-an analysis essentially it's getting
-more valuable as i go
-right i have an idea and then i get the
-data and i clean it i explore and so on
-and you know this this is true from your
-own learning standpoint like you're
-learning things along the way
-but in terms of as part of your
-portfolio as some work that you can show
-someone when you're applying for jobs
-it really you just need to get it out
-there work on your computer is so much
-less valuable than something that's on
-github or
-a blog or kaggle just something public
-because it doesn't have to necessarily
-be you go and tweet about it
-but something that if you're in a job
-interview you could say hey go to this
-url or put on your resume here's where
-my projects are hosted
-so that someone can see it
-and on that point you know this whole
-process is getting it public by putting
-it on github
-and then writing a blog post about it so
-putting it on github
-i this is an example from as i mentioned
-i went to medici my final project on
-data science freelancers
-and the helpful thing when you're
-putting something on github is to write
-a readme so to help people understand
-hey what am i even looking at
-so in this case i said uh this is a
-project where i got information on 93
-000 freelancers 3 000 jobs currently
-and here's how the repo is organized
-with these different scripts and what
-each one of them does
-and right as i mentioned this is also a
-good way if you haven't used git or
-github before
-to practice those skills
-on the blogging side well where do you
-want a blog
-there you can go with something like
-medium or wordpress which has the
-advantage of being easy and quick to set
-up
-you get some organic traffic on medium
-if people search say
-data science or the topic or your blog
-post but
-on the other hand there's less
-customizability and control so for
-example
-i know medium seems like more things
-have been going behind a paywall if they
-decide that's what they want all
-articles to do
-you can't do anything about that on the
-other hand
-if you make your own website you really
-do have all that control
-so that's a big advantage it's always
-going to be free
-it does take a little longer to set up
-but there are more tools that make that
-easier i actually think uh
-with fast ai also as a new tool i'm
-working from github to publish a blog
-um so i should add that here and you may
-get stuck debugging issues so i've
-definitely i use blog down personally
-which is an r package
-i've gotten stuck occasionally but
-overall i like it because i'm in
-complete control
-it works very well with r and the other
-advantage of it
-is that if you are someone who really
-wants to customize it you're like i want
-this exact font i want this color scheme
-i want this
-there's a lot of themes that you can get
-um pretty easily that you can then see
-okay uh this uh type of you know theme
-comes with these colorings but then you
-can customize from there and this you
-know the sky is the limit
-so some things you can blog about once
-you have your analysis well of course
-you can explain it
-right so this is someone explaining
-their analysis from a tidy tuesday data
-set about the gender wage gap in
-australia
-you could teach a concept so julia silke
-here is showing
-uh principal components analysis using
-stack overflow data
-this is a great thing if you say just
-took a course on a statistical technique
-or machine learning
-write a tutorial about it show other
-people how to do it write the thing that
-you wish you had had at the beginning
-because it would have made learning it
-so much easier
-or you can share your experience so in
-this case there's a post on
-our studio conference from danielle
-vazquez who got a scholarship to go
-and so if you attend a conference if you
-go to a meetup talk that you really like
-you can write about it
-you can talk about what you enjoyed if
-the talks were recorded
-for conference say which ones you
-recommend going to and so on
-you can also give advice so this is a
-blog post from
-uh the new york about the new york r
-conference from our ladies new york city
-which had some speaker experience and
-tips
-or my co-author jaclyn knowles about
-prioritizing data science work
-so if you have been say working the
-field or related field
-and you want to give advice that's a
-great thing to write a blog post about
-and it may be faster than doing say a
-whole analysis because you might already
-have every all the advice you need in
-your head or
-think about the advice that people come
-to you for how can you put that in blog
-post and share with the world
-so next we're going to talk about
-expanding your network
-this is rachel catman talking about the
-difference um
-this is research in kaggle about the
-different ways that people already
-employed the field
-found their job versus those entering
-the field and we see a big one about
-employed in the field is recruiters and
-friends families and colleagues
-way more than those entering the field
-and those are about
-your network those are about who do you
-know in case of friend and family and
-colleagues but the recruiter is also a
-personal relationship
-so this is a really common way that
-people get jobs
+Next, choose a topic you're excited about this is Masalmon uh writing a blog post on whether Python
+users are more likely to get into Slytherin don't feel that you have to uh you know pick a project or
+analyze something that you're like ah I'm like interested in finance I guess I do finance data like
+find something that you like I you know one of my projects was about uh pokemon teams and what types I should have my pokemon team because I was playing pokemon and I wanted to know uh so you know it's
+less important what the topic is and much more the kind of skills that you can show as you did it so for example showing that you you know here's some code that you did hey look I can get users I can write a function and get users from Twitter I can do some you know data filtering I can do this like map function and per so on and so forth.
+
+### Slide 29: Tip 3: Limit your scope (17:03)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1023"><img src="images/emily_robinson_career/erc_s28.png" width="50%" /></a>
+
+My third tip is limit your scope I really like this quote from a blog post says you know perfections can be a real hurdle and next time I'm not going to wait so long to push something out because I think that last mile can be a big barrier feeling like oh you know I could do one more thing or you know what if my code isn't quite good enough so try at the beginning like it's okay if you don't answer every question you have about a data set maybe say hey I'm gonna try to answer this one question or I'm gonna try to make this one visualization or I'm you know I want to do this project because I'll need to you know I have to get some data from the web and so I'm just you know I'm just going to get the data and I'm going to publish how I got the data I'm not going to worry about doing
+anything with it and that's perfectly fine and it's definitely better to have something out there than nothing
+
+### Slide 30: Making progress (17:49)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1069"><img src="images/emily_robinson_career/erc_s29.png" width="50%" /></a>
+
+And on that point this is inspired by uh same Dave Robinson from his R-studio keynote which I definitely recommend watching which is um on the unreasonable effectiveness of public work but basically I used to think all right like an analysis essentially it's getting more valuable as I go
+right I have an idea, and then I get the data, and I clean it, I explore and so on and you know this this is true from your own learning standpoint like you're learning things along the way but in terms of as part of your portfolio as some work that you can show someone when you're applying for jobs it really you just need to get it out there work on your computer is so much less valuable than something that's on GitHub or a blog or Kaggle just something public because it doesn't have to necessarily be you go and tweet about it but something that if you're in a job interview you could say hey go to this URL or put on your resume here's where my projects are hosted so that someone can see it.
+
+### Slide 31: The full process (18:44)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1124"><img src="images/emily_robinson_career/erc_s30.png" width="50%" /></a>
+
+And on that point you know this whole process is getting it public by putting it on GitHub and then writing a blog post about it 
+
+### Slide 32: Putting it on GitHub (18:53)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1133"><img src="images/emily_robinson_career/erc_s31.png" width="50%" /></a>
+
+So putting it on GitHub I this is an example from as I mentioned I went to Metis my final project on
+data science freelancers and the helpful thing when you're putting something on GitHub is to write a readme so to help people understand hey what am I even looking at so in this case I said uh this is a
+project where I got information on 93000 freelancers, 3000 jobs currently and here's how the repo is organized with these different scripts and what each one of them does and right as I mentioned this is also a good way if you haven't used Git or GitHub before to practice those skills. 
+
+### Slide 33: Blogging (19:25)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1165"><img src="images/emily_robinson_career/erc_s32.png" width="50%" /></a>
+
+On the blogging side well where do you want a blog there you can go with something like Medium or WordPress which has the advantage of being easy and quick to set up you get some organic traffic on Medium if people search say data science or the topic or your blog post but on the other hand there's less customizability and control so for example I know Medium seems like more things have been going behind a paywall if they decide that's what they want all articles to do you can't do anything about that.
+
+### Slide 34: Blogging (19:52)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1192"><img src="images/emily_robinson_career/erc_s33.png" width="50%" /></a>
+
+On the other hand if you make your own website you really do have all that control so that's a big advantage it's always going to be free it does take a little longer to set up but there are more tools that make that easier I actually think uh with Fast AI also as a new tool I'm working from GitHub to publish a blog um so i should add that here and you may get stuck debugging issues so I've
+definitely I use R blogdown personally which is an R package I've gotten stuck occasionally but
+overall I like it because I'm in complete control it works very well with R and the other advantage of it is that if you are someone who really wants to customize it you're like I want this exact font, I want this color scheme, I want this there's a lot of themes that you can get um pretty easily that you can then see okay uh this uh type of you know theme comes with these colorings but then you can customize from there and this you know the sky is the limit.
+
+### Slide 35: Explain your analysis (20:46)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1246"><img src="images/emily_robinson_career/erc_s34.png" width="50%" /></a>
+
+So some things you can blog about once you have your analysis well of course you can explain it right so this is someone explaining their analysis from a Tidy Tuesday data set about the gender wage gap in Australia.
+
+### Slide 36: Teach a concept (20:57)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1257"><img src="images/emily_robinson_career/erc_s35.png" width="50%" /></a>
+
+You could teach a concept so Julia Silge here is showing uh Principal Components Analysis using
+StackOverflow data this is a great thing if you say just took a course on a statistical technique
+or machine learning write a tutorial about it show other people how to do it write the thing that
+you wish you had had at the beginning because it would have made learning it so much easier.
+
+### Slide 37: Share your experience (21:17)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1277"><img src="images/emily_robinson_career/erc_s36.png" width="50%" /></a>
+
+Or you can share your experience so in this case there's a post on Rstudio conference from Danielle
+Vazquez who got a scholarship to go and so if you attend a conference if you go to a meetup talk that you really like you can write about it you can talk about what you enjoyed if the talks were recorded for conference say which ones you recommend going to and so on 
+
+### Slide 38: Give advice (21:40)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1300"><img src="images/emily_robinson_career/erc_s37.png" width="50%" /></a>
+
+You can also give advice so this is a blog post from uh the New York about the New York R conference from R ladies New York city which had some speaker experience and tips or my co-author Jaclyn Nolis about prioritizing data science work so if you have been say working the field or related field and you want to give advice that's a great thing to write a blog post about and it may be faster than doing say a whole analysis because you might already have every all the advice you need in your head or think about the advice that people come to you for how can you put that in blog post and share with the world.
+
+### Slide 39: Expanding your network (22:14)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1334"><img src="images/emily_robinson_career/erc_s38.png" width="50%" /></a>
+
+So next we're going to talk about expanding your network.
+
+### Slide 40: Expanding your network (22:19)
+<a href="https://youtu.be/HsFFuFYz7zE?t=1339"><img src="images/emily_robinson_career/erc_s39.png" width="50%" /></a>
+
+This is Rachel Tatman talking about the difference um this is research in Kaggle about the different ways that people already employed the field found their job versus those entering the field and we see a big one about employed in the field is recruiters and friends families and colleagues way more than those entering the field and those are about your network those are about who do you know in case of friend and family and colleagues but the recruiter is also apersonal relationship so this is a really common way that people get jobs.
+
+
 how do you build it though well you know
 you're here tonight
 um or this afternoon or in the you know
