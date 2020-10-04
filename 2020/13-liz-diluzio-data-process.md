@@ -34,7 +34,7 @@ So just a little bit about me before I begin talking about those things. If you'
 
 I have an MPH and an MSW, so I in terms of jobs that I do, I work in internal evaluation for a non-profit in New York City called Good Shepherd Services and we serve children, youth, and families, about 30,000 per year. I teach quantitative methods at NYU, I have been doing that for about a year now. And then I'm a facilitator at evaluation and learning consulting and so that's who I'm speaking from and who I'm representing today. And so when it comes to evaluation and learning consulting, they do consulting work that is specifically around evaluation work, around strategy, and building that work for non-profits and governments. That's me and just in terms of what I hope for you to get from today.
 
-### Goals for this Talk (6:08)
+### Goals for this Talk [(6:08)](https://youtu.be/LZuJlZIDIbo?t=368)
 <a href="https://youtu.be/LZuJlZIDIbo?t=368" target="_blank"><img  src="images/nimble_data_video1b.PNG" width="50%" /></a>
 
 So three different goals for you: the first one is my favorite participatory method for identifying key metrics, so if you're going through the program evaluation cycle the first thing that needs to happen is okay we want to assess how we're doing, we want to assess the impact that we're having, and that first step is, okay well, how will we measure that. So I have a method that I like to use. It is participatory in order to get as much feedback as possible about what is the best way of measuring x, y, and z.
@@ -49,12 +49,12 @@ So again I'm going to go through each of these phases too, but basically, I want
 
 So before I begin, I just want to get a feel from you about what brought you here. So I have a poll that I want to activate right now. Hopefully that pops up on the screen in front of you. So just curious what brought you here? Of those three things, which one interests you? This will kind of help me to figure out what to spend more time on than others, customize what I'm doing a little bit.
 
-### Poll of Topics to Focus on for the Talk
+### Poll of Topics to Focus on for the Talk [(8:04)](https://youtu.be/LZuJlZIDIbo?t=484)
 <a href="https://youtu.be/LZuJlZIDIbo?t=484" target="_blank"><img  src="images/nimble_data_poll1.PNG" width="50%" /></a>
 
 I'm not sure if you can see the results, but if you can't, it looks like we've got… oh people are still voting. A and B are neck-to-neck and then, C just caught up though. All right so you all are just interested in everything! It looks like it's a tie for A and B with 14 votes and then C got 10 votes. So that's great. Thank you. Appreciate the feedback. And I will distribute my time evenly as Reshama said, if you have any questions as I'm going through, I'm going to go through each of the three phases. I'll stop in between for questions but as they come up, type them in the chat box and if Reshama you know, just speaks up and inserts them into what I'm saying, that's great and otherwise we can wait for those question sections to just make sure that your questions get answered.
 
-### Identifying Key Metrics, What are we Identifying? (9:31)
+### Identifying Key Metrics, What are we Identifying? [(9:31)](https://youtu.be/LZuJlZIDIbo?t=571)
 <a href="https://youtu.be/LZuJlZIDIbo?t=571" target="_blank"><img  src="images/nimble_data_key_metrics.PNG" width="50%" /></a>
 
 So, when it comes to identifying key metrics then there's a stage process that I go through. It's a short one and I do try to make sure that, one, I don't take too much time. These things could take, you know, months but that's not the goal. The goal is to get things done quickly and then, I really work through an iterative process. So we do something. We start collecting because it's important to begin. And then we can tweak along the way.
@@ -71,14 +71,14 @@ Liz: So once this...
 Reshama: Sorry I just wanted - is your mic the same as it was before?
 Liz: I think so. Okay you can test that. Okay let's give this a try.
 
-### Identify Key Metrics (12:24)
+### Identify Key Metrics [(12:24)](https://youtu.be/LZuJlZIDIbo?t=744)
 <a href="https://youtu.be/LZuJlZIDIbo?t=744" target="_blank"><img  src="images/nimble_data_key_metrics_logistics.PNG" width="50%" /></a>
 
 Markers -  those are the tools that you want with you. If you're doing it online, which it looks like for a little while, at least that's what we'll be doing - there is an online alternative called Google Jamboard. If you are not familiar with what that is, I did record a really quick tutorial on Google Jamboard. There's a hyperlink [here ](https://www.youtube.com/watch?v=U5pZDwTzcIk&feature=youtu.be) and I will send out the link to these slides afterwards or I'll ask Reshama so you have that. But Google Jamboard is a free online resource I can demo it if we have some time at the end and essentially it has Post-its where it's a big board people can add Post-its, move Post-its, around annotate, and so on. It simulates this environment of a Post-it-type meeting.
 
 And then when it comes to the main activity, what we're calling people together to do-is a three-part brainstorming session. And it comes from IDO's field guide to human-centered design. So this is based in human-centered design and again, this participatory approach that they highlight.
 
-### Identifying Key Metrics: Steps (13:30)
+### Identifying Key Metrics: Steps [(13:30)](https://youtu.be/LZuJlZIDIbo?t=810)
 <a href="https://youtu.be/LZuJlZIDIbo?t=810" target="_blank"><img  src="images/nimble_data_key_metrics_steps.PNG" width="50%" /></a>
 
 So number one, the first step is to ideate. We provide everybody a stack of Post-its. If we're doing it online, we just ask people to write that down on their computer or on a piece of paper in front of them. We set a timer for five minutes, and we prompt them to generate as many ideas as possible. So we're going back to this question of - if our question is what services are being accessed and to what degree, we will ask people okay well if we were going to measure something like that what are some questions that we would want to have answered, or what are some data points that we would want to make sure that we're collecting? So we would give everyone five minutes to just brainstorm on their own.
@@ -97,19 +97,22 @@ So once I have those metrics, it's time to create this data collection tool. And
 
 Okay, great so I'm seeing a majority Google which is great. I'm seeing... So that's six people at Google, two Microsoft, three both and two neither. So Google wins this round, which is actually really great to see. Oh, I see more of both coming in. Great, okay in the chat I'm just curious about those who use neither, or if you use something else, please feel free to share. It's also just a really great opportunity for all of us to learn from each other. So that's good to know, just to understand where you're coming from.
 
-### Introduction to Forms (18:22)
+### Introduction to Forms [(18:22)](https://youtu.be/LZuJlZIDIbo?t=1102)
 <a href="https://youtu.be/LZuJlZIDIbo?t=1102" target="_blank"><img  src="images/nimble_data_forms1.PNG" width="50%" /></a>
 
 As I shared a little bit at the beginning, I tend towards forms if I can. And here's the reasons why I use forms - because it's an easy way to collect data, it's online, it's free, it's collaborative, so many people can get in and edit it at the same time. I think it's extremely intuitive, it's very user-friendly, it has a lot of features, it can do the basics for sure. And then why I use this in particular is, if in the end, I know that my audience, my decision makers who need this data, are friendly to online live visualization tools, so if they're familiar with dashboards and true dashboards, then I try my hardest to make sure that I use forms whether it's Google Forms or Microsoft Forms so that it can feed into that live dashboard. And if that doesn't quite make sense I'll explain more, and I'll show you what I'm talking about. But there are some drawbacks and I think that's worth noting.
 
-### Drawbacks of Forms (19:22)
+### Drawbacks of Forms [(19:22)](https://youtu.be/LZuJlZIDIbo?t=1162)
 <a href="https://youtu.be/LZuJlZIDIbo?t=1162" target="_blank"><img  src="images/nimble_data_forms2.PNG" width="50%" /></a>
 
 So again, I really believe there's no one solution for everything, it's just for those of you who use both. Right? It's understanding what the needs are, to figure out what the tool is that's best for what you want to do. So there are some drawbacks to keep in mind. One of them is that you need a Google account to create a form. Honestly that's not a huge drawback, but if you're not into signing up for anything new, or trying to remember a new password, that might be a deterrent. Google accounts are free for those of you who are not familiar with what I will say, a true drawback is that there are not as many features compared to something like SurveyMonkey. So if you're looking for something that has a really one, polished look to it or two, has pretty advanced features you won't find it in forms. It's a basic go-to.
 
-It cannot branch questions, only sections so that's worth noting. Whereas, in SurveyMonkey, you know, if you answer A, jump to question 9, if you answer B jump to question 13. That is not the case for either forms - Microsoft or Google.
+It cannot branch questions, only sections so that's worth noting. Whereas, in SurveyMonkey, you know, if you answer A, jump to question 9, if you answer B jump to question 13. That is not the case for either forms - Microsoft or Google. What you do need to do instead is branch sections, and I'll show you what that means. So it has to be a little bit more simple. One thing I particularly don't like is that the templates and design options are pretty limited, so again it's a really basic thing. It's not going to be completely customizable so just really quickly, I'll show you what I'm talking about.
 
-What you do need to do instead is branch sections, and I'll show you what that means. So it has to be a little bit more simple. One thing I particularly don't like is that the templates and design options are pretty limited, so again it's a really basic thing. It's not going to be completely customizable so just really quickly, I'll show you what I'm talking about, so if you do have a Google account, or when you sign up for your Google account, there's something called the Drive so that's drive.google.com so you can see My Drive here. The menu for all the Google apps is right up here, in the top right hand corner. And so you can see all of the different features here. One thing I will point out is Jamboards are here. So it's hidden there and I didn't even know I don't know how long it's been around. I only learned about it maybe four months ago, and I love it. It has spread like wildfire among me and my peers but that's there for you to play around with.
+### Google Forms Demo [(20:52)](https://youtu.be/LZuJlZIDIbo?t=1252)
+<a href="https://youtu.be/LZuJlZIDIbo?t=1252" target="_blank"><img  src="images/nimble_data_demo1.PNG" width="50%" /></a>
+
+So if you do have a Google account, or when you sign up for your Google account, there's something called the Drive so that's drive.google.com so you can see My Drive here. The menu for all the Google apps is right up here, in the top right hand corner. And so you can see all of the different features here. One thing I will point out is Jamboards are here. So it's hidden there and I didn't even know I don't know how long it's been around. I only learned about it maybe four months ago, and I love it. It has spread like wildfire among me and my peers but that's there for you to play around with.
 
 And then Forms is also here and I think, yep, it's on the same line so, if you click on forms it will take you to the landing page of Google Forms. This is what that looks like. Up here you can see some templates. And then down here you can see forms that I myself have created.
 
@@ -149,12 +152,12 @@ Which is: Hey you know this quote I spent a lot of time on this task I should wr
 
 And so, I say this not to scare and not to scare you away from automation for sure, but I do say, make your decisions with eyes wide open. And so as I have said, I have tried automation that has not worked and then I have done automation that has truly saved me so much time and in fact, that automation did take the form of forms. Into... For me it was for an organization that uses Microsoft so it was Microsoft Forums to Microsoft Power BI. And it saved me an infinite amount of time and folks, truly! Like it is collaborative, it is everything that I'm telling you. And it has worked tremendously.
 
-### What is a Dashboard (29:57)
+### What is a Dashboard [(29:57)](https://youtu.be/LZuJlZIDIbo?t=1797)
 <a href="https://youtu.be/LZuJlZIDIbo?t=1797" target="_blank"><img  src="images/nimble_data_dashboard1.PNG" width="50%" /></a>
 
 So, when it comes to dashboarding, I also like to just clarify what I mean by dashboarding, because I think that term gets used loosely, and is not always true to what dashboarding is. So dashboarding is a tool, and it contains real-time information. And that information is directed towards decision-makers that are equipped with what they need in order to make decisions. It is directly connected to one or more databases. It automatically updates itself, and the information is shared via visualizations. So sometimes people will call a printed out report a dashboard. That is not a true dashboard. It really is this real time information that people have access to.
 
-### Intro to Dashboarding (30:39)
+### Intro to Dashboarding [(30:39)](https://youtu.be/LZuJlZIDIbo?t=1839)
 <a href="https://youtu.be/LZuJlZIDIbo?t=1839" target="_blank"><img  src="images/nimble_data_dashboard2.PNG" width="50%" /></a>
 
 So when it comes to creating interactive dashboards, when it comes to Google, if you're using Google, that is called Data Studio and if you're using Microsoft it's called Microsoft Power BI. And what I love about Data Studio in particular is that it is extremely similar to Tableau and Power BI. Tableau being one of the more famous, more popular data visualization tools. I would say that if you know how to use one you know how to use the other. I have worked in all three and they are extremely similar interfaces.
@@ -163,7 +166,7 @@ So I think that's a great option, and I always encourage people that if dashboar
 
 I think it is generally intuitive, so I say that. I think it's extremely easy to share, you can share, not only can you create pdfs if you want to, I think that beats the point, but if you need to archive a certain amount of data for a certain day, you can download pdfs and save them, or email them out, but you can also send a link so that folks can just see the live data at any time. You can also - it has the html code so that you can insert it into a web page or somewhere else. It is collaborative, just like any Google platform, and it can draw from many types of data sources which I think are really powerful tools also. So it can pull from Google sheets, as I shared already, but it can also pull from any database where you can obtain a url and so it's very powerful in that regard. It can pull from SQL databases as well.
 
-### Drawbacks of Data Studio (32:53)
+### Drawbacks of Data Studio [(32:53)](https://youtu.be/LZuJlZIDIbo?t=1973)
 <a href="https://youtu.be/LZuJlZIDIbo?t=1973" target="_blank"><img  src="images/nimble_data_dashboard3.PNG" width="50%" /></a>
 
 There are some drawbacks though of course again this is what I was speaking to, when making your decisions with eyes wide open. You need a Google account to use. I should just get rid of that bullet, I think that's silly, but it's worth knowing you need to make a Google account. It does not have as many features as Tableau or Power BI, so again, I don't think it's not fair to call it training wheels, because it is its own true full system. But I often think of it as training wheels. You start with Google Data Studio I encourage folks to, and then if you need more features, that might be the time to invest in Tableau or Power BI but I have seen organizations stick with Google Data Studio for all of their needs for extended periods of time and you don't necessarily need to upgrade.
@@ -173,6 +176,7 @@ It can vary with security issues and that's worth noting if you have any sort of
 And actually I do think somebody told me that if you have a paid version of Google, so for the company actually uses Google as their platform, then it is within the firewall often of an organization, so that too is worth knowing.
 
 ### Demo of Google Data Studio [(34:22)](https://youtu.be/LZuJlZIDIbo?t=2062)
+<a href="https://youtu.be/LZuJlZIDIbo?t=2062" target="_blank"><img  src="images/nimble_data_demo2.PNG" width="50%" /></a>
 
 So a really quick demo for you. So unfortunately and I have a feeling I know why, but I won't go into the history lesson. In your Drive there is not an app for Google Data Studio and so you would just need to type into your toolbar datastudio.google.com and again this is free. If you have a Google account, you have Data Studio. So this is what this home page looks like, it's very similar to Google forms. So you see some templates up here, and then you can see a couple of reports that I had created here. So I just want to look at the accident data with you. So what this is is accident data for the northeast United States and it was for I think July to December of 2019.
 
@@ -200,14 +204,14 @@ I see we have a couple of minutes left. I do just want to do a quick close out, 
 
 Then I went over forms which is my preferred way of collecting data and in particular if I want to have this interactive reporting platform and so that's Google Data Studio. So just some final thoughts and tips.
 
-### Final Thoughts (44:18)
+### Final Thoughts [(44:18)](https://youtu.be/LZuJlZIDIbo?t=2658)
 <a href="https://youtu.be/LZuJlZIDIbo?t=2658" target="_blank"><img  src="images/nimble_data_video4.PNG" width="50%" /></a>
 
 Reshama: There's one question from Rose. Does the dashboard access work the same way as permissions to regular Google Drive apps?
 
 Liz: If I understand your question correctly, Rose, yes it does, it interacts with everything on your Drive in just the same way. And if your question is about people and their permissions that is the same as well, so you can limit who can see what, who has access to edit, versus who has viewing access. But when it comes to pulling the data it needs to be within your Drive, or you need to have a hyperlink, to that SQL database, or that you know, other platforms database.
 
-### Revisiting Today’s Learning Objectives (43:49)
+### Revisiting Today’s Learning Objectives [(43:49)](https://youtu.be/LZuJlZIDIbo?t=2629)
 <a href="https://youtu.be/LZuJlZIDIbo?t=2629" target="_blank"><img  src="images/nimble_data_video3.PNG" width="50%" /></a>
 
 So just in terms of you know final thoughts, words of advice,despite any types of limitations, I think that Google Forms and Data Studio are quick, they're flexible. As I have said, I have had tremendous success. I had to help organizations set up, just really quick just Covid data around who was being affected, and where, and when, and all sorts of things. And these platforms made everything so easy to communicate in real time.
@@ -221,7 +225,7 @@ Make any creation process as participatory as possible. I think that too helps t
 
 Good, so Reshama, this is good feedback for you too, for future webinars but it looks like creating interactive dashboards is winning with three votes, other data related skills is high too, oh, there's a three-way tie at the moment as well as identifying evaluation metrics, creating interactive dashboards. Okay, great so creating interactive dashboards is the most popular, followed very very closely by identifying evaluation metrics, and other data related skills, but somebody wants everything, so that's good to know too. So in terms of how I can help and would love to help with all of these things... I'm going to close this poll really quickly.
 
-### Continue Your Learning (48:13)
+### Continue Your Learning [(48:13)](https://youtu.be/LZuJlZIDIbo?t=2893)
 <a href="https://youtu.be/LZuJlZIDIbo?t=2893" target="_blank"><img  src="images/nimble_data_video5.PNG" width="50%" /></a>
 
 In terms of continuing your learning, if it was identifying key evaluation metrics that are of interest to you, I do, so during this Covid time, I normally teach all these classes in person, particularly in the city of New York but I'm leveraging the internet. And this time I have to develop more. So as I said evaluation and consulting learning consulting is about teaching as well. And so we're developing self-paced online classes as I shared earlier it's micro learning. So we focus on having classes that are five to seven minutes long at most. And they're just little skills that we teach, and then the class just is just made up of that, so you can direct yourself, you can pick and choose what it is that you want to learn, and just move at your own pace.
@@ -230,12 +234,12 @@ So we're developing a class that we teach in person to be an online platform you
 
 If you use WEB50 it'll give you 50 percent off anything whether it's a live class or whether it's the self-paced model.
 
-### Continue Your Learning - Additional Resources (49:48)
-<a href="https://youtu.be/LZuJlZIDIbo?t=2988" target="_blank"><img  src="images/nimble_data_video6.png" width="50%" /></a>
+### Continue Your Learning - Additional Resources [(49:48)](https://youtu.be/LZuJlZIDIbo?t=2988)
+<a href="https://youtu.be/LZuJlZIDIbo?t=2988" target="_blank"><img  src="images/nimble_data_video6.PNG" width="50%" /></a>
 
 So then when it comes to other data related skills as Reshama shared. We've met each other through teaching Excel, or I'm sorry R but we also teach Excel, Python, SQL, QGIS. So if you're interested in any of those let us know. We're creating that content again recorded and then we have live sessions periodically and then when it comes to other evaluation-related skills or really anything, if you just want to talk, I'm so happy if you can click on that hyperlink there to just look at my calendar find a good time that works for you. And we can just talk. I have had people who want to troubleshoot things who just want to know more about, you know, the way that I find key evaluation metrics, whatever it might be, I'm more than happy to have a conversation. And we can go from there, so please do that.
 
-### Contact Information (50:37)
+### Contact Information [(50:37)](https://youtu.be/LZuJlZIDIbo?t=3037)
 <a href="https://youtu.be/LZuJlZIDIbo?t=3037" target="_blank"><img  src="images/nimble_data_video7.PNG" width="50%" /></a>
 
 Again I can ask Reshama to send out a link to this [powerpoint](https://www.youtube.com/redirect?redir_token=QUFFLUhqbFNvcTBBMzFtdDlMeWV5czRBX09mWEVKQ0Jrd3xBQ3Jtc0tsLUt1eTdPM3FRZkFjd2dxSHFqai1MOHVWOWd3NUhOMWF5RlAxQ3JJMlNjSzl3WjItSUdZMzVMbzd4LWtqQ0t1V1RWOWJldVNrTi1ORUFWVVlIaUpXSWtlQXoxd3VEMVVNZVA3ZTh2b0NHcGZDSHlHSQ%3D%3D&v=LZuJlZIDIbo&q=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F18jJUHA5KtWWTM9cRweLAccG8MZGctfZjtiI7AYoCAXg%2Fedit%3Fusp%3Dsharing&event=video_description) so you have all of these hyperlinks easily accessible to you and then just for me the the website is here it's [evallearn.com](evallearn.com) that's our company. My email is right there, and my Twitter.
