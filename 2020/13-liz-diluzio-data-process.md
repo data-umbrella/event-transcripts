@@ -227,6 +227,10 @@ Good, so Reshama, this is good feedback for you too, for future webinars but it 
 
 ### Continue Your Learning [(48:13)](https://youtu.be/LZuJlZIDIbo?t=2893)
 <a href="https://youtu.be/LZuJlZIDIbo?t=2893" target="_blank"><img  src="images/nimble_data_video5.PNG" width="50%" /></a>
+[Pre-order](https://gum.co/data-driven-mindset)
+[Live online class](http://www.evallearn.eventbrite.com)
+[Self-paced online classes](https://gumroad.com/evallearn)
+[live online class](http://www.evallearn.eventbrite.com)
 
 In terms of continuing your learning, if it was identifying key evaluation metrics that are of interest to you, I do, so during this Covid time, I normally teach all these classes in person, particularly in the city of New York but I'm leveraging the internet. And this time I have to develop more. So as I said evaluation and consulting learning consulting is about teaching as well. And so we're developing self-paced online classes as I shared earlier it's micro learning. So we focus on having classes that are five to seven minutes long at most. And they're just little skills that we teach, and then the class just is just made up of that, so you can direct yourself, you can pick and choose what it is that you want to learn, and just move at your own pace.
 
@@ -237,6 +241,9 @@ If you use WEB50 it'll give you 50 percent off anything whether it's a live clas
 ### Continue Your Learning - Additional Resources [(49:48)](https://youtu.be/LZuJlZIDIbo?t=2988)
 <a href="https://youtu.be/LZuJlZIDIbo?t=2988" target="_blank"><img  src="images/nimble_data_video6.PNG" width="50%" /></a>
 
+[Sign up](https://mailchi.mp/1a602237bad6/newsletter-sign-up)
+[Schedule](http://www.calendly.com/ediluzio/30)
+
 So then when it comes to other data related skills as Reshama shared. We've met each other through teaching Excel, or I'm sorry R but we also teach Excel, Python, SQL, QGIS. So if you're interested in any of those let us know. We're creating that content again recorded and then we have live sessions periodically and then when it comes to other evaluation-related skills or really anything, if you just want to talk, I'm so happy if you can click on that hyperlink there to just look at my calendar find a good time that works for you. And we can just talk. I have had people who want to troubleshoot things who just want to know more about, you know, the way that I find key evaluation metrics, whatever it might be, I'm more than happy to have a conversation. And we can go from there, so please do that.
 
 ### Contact Information [(50:37)](https://youtu.be/LZuJlZIDIbo?t=3037)
@@ -245,6 +252,8 @@ So then when it comes to other data related skills as Reshama shared. We've met 
 Again I can ask Reshama to send out a link to this [powerpoint](https://www.youtube.com/redirect?redir_token=QUFFLUhqbFNvcTBBMzFtdDlMeWV5czRBX09mWEVKQ0Jrd3xBQ3Jtc0tsLUt1eTdPM3FRZkFjd2dxSHFqai1MOHVWOWd3NUhOMWF5RlAxQ3JJMlNjSzl3WjItSUdZMzVMbzd4LWtqQ0t1V1RWOWJldVNrTi1ORUFWVVlIaUpXSWtlQXoxd3VEMVVNZVA3ZTh2b0NHcGZDSHlHSQ%3D%3D&v=LZuJlZIDIbo&q=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F18jJUHA5KtWWTM9cRweLAccG8MZGctfZjtiI7AYoCAXg%2Fedit%3Fusp%3Dsharing&event=video_description) so you have all of these hyperlinks easily accessible to you and then just for me the the website is here it's [evallearn.com](evallearn.com) that's our company. My email is right there, and my Twitter.
 
 Please come find me, please reach out, I'm so happy to engage with you more. I'm so passionate about all these topics and excited to find a community that is too.
+
+### Thank You
 
 So thank you for your time, I so appreciate it. And I hope all of you have a good day. And if you have any questions, I'll be here for a few more minutes.
 
@@ -258,3 +267,6 @@ Reshama: Right.
 
 Reshama: All right everybody, so there are no questions so we are going. I'm going to sign off. And thank you for joining us and the recording will be available soon. Thanks
 
+[Slides](https://www.youtube.com/redirect?redir_token=QUFFLUhqbmRyYjJwWWowQVBQNFdTdmhrN1BSQ0w0S01pd3xBQ3Jtc0trRnpJQjNZZlVBdnEzR1A5OW4xbzVrX0Y4aV9FamJYTVRJMk9NX1RiV0FzcVJGdUNrS2w1T1gtZWFxZEF2VHFUY0RyN3hVU3hIOU40QkJtcTlIYlUxLVl6anVpa08yN2x1cUpoSURtdEg2S1hCbGFNZw%3D%3D&event=video_description&v=LZuJlZIDIbo&q=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F18jJUHA5KtWWTM9cRweLAccG8MZGctfZjtiI7AYoCAXg%2Fedit%3Fusp%3Dsharing)
+
+[More Data Umbrella Events](https://www.youtube.com/redirect?redir_token=QUFFLUhqa1RCa0Jqcm1UMWQzYk5VeXhwQlZPenNTcVRKZ3xBQ3Jtc0ttNDJmREdCZnE3MGZlNXI1VUdPWURFUVBsNVJwTzZjaVFkX0s5QmEwWnFFZWdYN1N0dmY5UFpZeWFfempIY1lNY0dneFduaERjcEhrQ2dsX09aNllJdjFxQmxBbG5hNm56NjBGTVZzc3hKVHpKME9tZw%3D%3D&event=video_description&v=LZuJlZIDIbo&q=https%3A%2F%2Fwww.meetup.com%2Fnyc-data-umbrella%2Fevents%2F272472729%2F)
