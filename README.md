@@ -40,7 +40,7 @@
 | 10 | Emily Robinson      |  [Build a Career in Data Science](2020/10-emily-robinson-career.md)    |                        |  Kevin       |        |
 | 11 | Rebecca Kelly       |  [kdb Time Series Data](2020/11-rebecca-kelly-kdb.md)                  |                        |  Coretta   |        |
 | 12 | Mridu Bhatnagar     |  [Build a Bot](2020/12-mridu-bhatnagar-bot.md)                             |                        |  ?           |        |
-| 13 | Liz DiLuzio         |  [Creating Nimble Data Processes](2020/13-liz-diluzio-data-process.md)    |                        |  Lily           |        |
+| 13 | Liz DiLuzio         |  [Creating Nimble Data Processes](2020/13-liz-diluzio-data-process.md)    |                        |  Lily           | Complete       |
 | 14 | Megan Robertson     |  [3 Lessons From 3 Years of Data Science](2020/14-megan-robertson-career.md)|                        |  Sethupathy  |        |
 | 15 | Emma Gouillart      |  [Data Visualization with Plotly](2020/15-emma-gouillart-plotly.md)              |                        |  Willy       |        |
 |    |                     |                                                          |                        |              |        |
