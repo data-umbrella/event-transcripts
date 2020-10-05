@@ -1,6 +1,6 @@
 ## Video Transcript
 - Speaker:  [Liz DiLuzio](https://twitter.com/lizdiluzio)
-- Video:  [Scikit-learn PR Contributing Example](https://youtu.be/LZuJlZIDIbo) (50 minutes)
+- Video:  [Creating Nimble Data Processes](https://youtu.be/LZuJlZIDIbo) (50 minutes)
 - Transcriber: [Lily Su](https://twitter.com/printing_3D)
 
 ## Video
