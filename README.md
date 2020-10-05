@@ -8,7 +8,7 @@
 
 ### Transcribing
 - Here is an **EXAMPLE** of a transcript that is edited and clean:
-https://github.com/data-umbrella/event-transcripts/blob/main/2020/05-reshama-shaikh-sklearn-pr.md
+https://github.com/data-umbrella/event-transcripts/blob/main/2020/06-reshama-shaikh-sklearn-pr.md
 - For beginning of sentences, make them capital letters
   - Example:  when "i" as in "i think", can you change to capital letter:  "I think ..."   
 - For the sections, add some timestamps, so people know where they can find it in the video?  I think 5 or 6 timestamps is enough. 
@@ -18,7 +18,9 @@ https://github.com/data-umbrella/event-transcripts/blob/main/2020/05-reshama-sha
   - Example: "data umbrella" ===> Data Umbrella
 - When I did this, I listened to the video for a couple of sentences, and then stop it.  Then I edit the text and then I start the video again for another sentence or two. 
 
-NOTE:  It can take a good 2 to 4 hours to edit and fix a transcript for a 1-hour video.  
+### Notes
+- It can take a good 2 to 4 hours to edit and fix a transcript for a 1-hour video.  
+- It is not necessary to include screenshots of slides.
 
 ---
 
