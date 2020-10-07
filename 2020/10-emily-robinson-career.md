@@ -381,1866 +381,258 @@ about like why would other people care that I did this.
 And relate it to data science so you know even if you don't have like a data scientific analytics background there's plenty of types of jobs that are really relevant so for example were you a teacher teacher or consultant there you have communication skills right like you had classroom you know for teaching and classroom management you had to figure out how to explain math to maybe you had an AP class uh for you know bc calculus but you also had you know math students who were you know
 more remedial and so you had to figure out how to tell your lessons uh could did you work in the domain so for example if you're a sales executive maybe you could be a data scientist for the sales team and that would be hugely valuable to like have been in that system know how to use salesforce like know what sales executives are thinking so on and so forth. Math and statistics you know what
 classes have you done that are related did you do any undergraduate research so for example let's say you majored in psychology what did you take a psychology statistics class did you do psychology research where you had to do statistical tests or data cleaning or data collection really try to think all right how have I used math and stats even if the class wasn't necessarily or the research wasn't called that. And finally programming and databases so if you haven't worked in data science
-have you used Excel, Surveymonkey, Google analytics, Tableau, SQL any of these tools they're not all
+have you used Excel, Surveymonkey, Google Analytics, Tableau, SQL any of these tools they're not all
 tools some of them are tools you might still use as a data scientist especially SQL but even if you never use Excel again you can talk about like the projects that you did with and it shows that you've worked with data even if you use a different tool and of course the personal projects that
 we talked about with the portfolios.
 
+### Slide 59: Writing a good cover letter (37:58)
+<a href="https://youtu.be/HsFFuFYz7zE?t=2278"><img src="images/emily_robinson_career/erc_s58.png" width="50%" /></a>
 
-this a cover letter is not always
-required but it sometimes is
-and what you want here is first try to
-find the hiring manager name if you can
-so sometimes that's listed in the
-position
-uh sometimes you can look on linkedin if
-it's a smaller company especially like
-it's okay if you go two levels up so say
-you're applying to a company and you
-find a director of data
-okay maybe they're not who's going to be
-your manager but it still shows you did
-research on the company
-you know to try to figure out who would
-be a relevant person and it shows that
-you're tailoring to this company
-next tie together your experience so
-your cover letter should be a story
-it's not just a repeat of your resume
-but instead saying like okay how does
-all this experience fit together
-so give some examples of uh you know the
-work that you've done
-talk about a little bit more so you know
-here you can read like prior to this i
-was at boot camp i was an investment
-consultant
-like i took people to python i tailored
-a curriculum so on and so forth
-and focus on what you can offer to the
-company so the company's not interested
-in like oh this place would be a great
-place to start my career
-like or you know it's nice to say that
-you love it and you research it but they
-really care about like well what are you
-gonna do for us why should we
-hire you and what you want to show is
-look i can solve a problem that you're
-facing with this
-experience that last point tailored to
-the company
-so if uh you know for example it's in
-let's say you multiple
-projects and one of them's i don't know
-like
-related to web data you know website com
-web
-companies that you're applying to maybe
-use that project because that's going to
-be more relevant to them
-so i want to close out by doing a brief
-recap of some of the takeaway points
-so first you don't need to know
-everything don't let yourself get
-paralyzed by these must-know lists or
-all these things you can learn data
-science or all the millions of courses
-because
-no one knows everything you don't need
-to know everything to do
-you know a great thing at your job and
-you'll always be learning so don't let
-that hold you back
-there's no such thing as a fake data
-scientist
-i i just really don't like this point um
-you know
-of there being a fake data scientist no
-you know if if you
-data science is a broad enough umbrella
-for us all
-but that being said you may want to let
-go of the data scientist title because
-there's
-so many positions where you've been
-doing interesting data science work
-that may not have that title for
-whatever reason and will also honestly
-have less competition for those jobs
-so maybe that's something you want to
-have eventually but for your first job
-try to focus more instead on like okay
-what can i learn how can i gain
-experience and not so much what i will
-be called
-so when you're applying a job remember
-to focus on creating a portfolio
-to one help yourself learn and to show
-off your skills
-to expand your network to find the right
-job
-not just any job and to tailor your
-application
-and so with that i want to thank
-everyone for coming and i'm going to
-take questions in a minute
-if you enjoyed this talk you can find
-some data science career related posts
-and some other
-data science topics on my blog hooked on
-data.org
-you can also find me on twitter at
-robinson underscore yes
-like i said this is all covered in the
-book with a bunch more stuff uh that's
-available at datacycareer.com
-and you can get 40 off with mtp
-umbrella 20. thank you
-yes and i am open to answering questions
-as soon
-as i can remember how to not cheat there
-we go
-how to stop sharing great
-so do you want to read the question yeah
-that would be helpful
-okay so the first one that had five
-upvotes is
-how um different is a data analyst role
-from a data scientist role
-ah great question so
-this is hard because a couple reasons
-one is there's definitely disagreement
-about this so some people
-divide it as it's about the tools that
-you use so like a data analyst will use
-a graphical user interface something
-like tableau or excel
-whereas a data scientist uses scripted
-language like r or python
-other people say it's about the type of
-problems that you tackle so i just
-listened to the super data science
-podcast with uh krill
-and he said he divides it as a data
-analyst is determining the exact term
-it's basically doing like descriptive
-analytics about the past what's happened
-before
-and a data scientist is doing predictive
-what's going to happen
-and some uh also some analysis of what
-would be prescriptive what should we do
-based on that so that's another way
-so there's all these different ways to
-divide it and the other problem is
-what it means that companies vary so
-much so there's a good blog post from
-lyft about how they changed all of their
-data analysts to be data scientists and
-their data scientists to be research
-scientists two years ago
-etsy where used to work did a similar
-thing whereas previously the data
-analyst team we were working we were
-using r and python and stats and you
-know doing some uh you know even some
-machine learning but we were
-embedded with uh um you know sort of
-uh other teams and basically we said we
-did data for
-data science for human consumption the
-data scientist team was about working on
-the ad algorithms or the search ranking
-algorithms so they did data science for
-machine consumption
-but then since i left they changed their
-title to data scientists so
-really it's so different from out from
-company to company
-but in terms of looking at positions
-with a data analyst
-what i would look out for is finding a
-position
-where you can use r or python and
-there's some
-also you know some like stats or math or
-something that you can do in there
-um as well but really just studying it
-but on the other hand you know if you've
-never worked with data before maybe you
-just want to start out with like
-you know i just want to start working
-with data it's okay if it's in excel
-it's okay if it's google analytics like
-it'll just get me comfortable
-okay the next question is what red flags
-should you look out for
-when interviewing for a data scientist
-i'm just laughing because i don't i
-don't think this was planted but
-jacqueline and i before wrote the book
-actually
-actually published a blog post called 12
-red flags in
-data science interviews that you should
-look out for as a candidate uh
-so that's on my blog definitely feel
-free to check that out
-uh i'll just highlight a few i think one
-of the biggest ones
-is data engineering so is there data
-available
-is there any data is there a data
-engineering team um
-you know have they done the work to make
-the data available or
-are you going to spend your first year
-basically being a data engineer and
-building a data warehouse
-now that could be fine if that's what
-you want to do but you should know that
-going in
-uh and the second thing i'll say is if
-you're starting out as a data science
-test i think most folks should try to go
-to it
-to a team where there's already an
-established data company where there's
-an established data science team
-rather than being the first or the
-second data scientist because that way
-you'll get more mentorship you'll learn
-more best practices
-but there's a bunch more like i said so
-feel free to check out the blog post
-okay the next one is from cecily and it
-is
-is it absolutely necessary to have a cs
-mathematics background to start a career
-in data science
-yeah it's definitely not absolutely
-necessary um i mean it's some
-like at some point you will need to pick
-up some of those skills
-right like at some point you know you
-whether that's coursera or doing a boot
-camp
-uh but you definitely i know people who
-were in terms like their formal
-education in college i
-know someone is like an english major
-you know lots of people with a social
-science
-major so maybe did a few stats classes
-but definitely not a math or a computer
-science degree
-so you really don't need to and
-don't forget uh and don't think of that
-as a negative
-so as i was talking about when you're
-thinking about on your resume
-how to you know tailor how you talk
-about your previous positions to data
-science like that's not just saying like
-to like trick the hiring manager
-into hiring you like you truly think
-about like you know liberal arts
-education learning to communicate
-learning to write well maybe learning to
-do presentations that's hugely important
-a social sciences background is all
-about doing research
-like that's my background very similar
-to the data science uh process
-so you definitely don't need to have uh
-that background but i will say
-that is one of the places where a
-project portfolio is more helpful
-uh like if you're someone who's like you
-know i have a data science degree i have
-a math degree at computer science
-you know maybe you don't need a project
-portfolio you did enough relevant
-projects in undergraduate people tell
-from your resume
-like you have very relevant work
-experience but if you don't have
-if your resume doesn't right now show
-the data science skills that you have
-a portfolio can be really helpful for
-that
-okay the next question is from sammy and
-um question is hello emily i just
-graduated from medici
-questions are i seriously suffer from
-serious
-imposter syndrome do you have some tips
-on how to get rid of imposter syndrome
-oh god uh i wish i so one
-definitely check out uh caitlyn houdin's
-post on and
-let me actually just pull it up really
-quickly so i can post it in the chat
-on imposter syndrome because it's a
-great it's a really great post
-um and so it highlights a couple thing
-which is first like part of the reason
-imposter syndrome is so easy to fall
-into in data science
-is because it's a new field says
-poaching makes in the post new field
-it's a combo of other fields
-it's constantly expanding uh so you have
-all these things right where it's like
-well
-you have a data scientist so i need to
-give computer science and also stats and
-i need to communicate and like i also
-need to do this other thing
-and you know you're probably never going
-to be as much an expert as someone who's
-just focused in that so that's hard
-there's always new technologies so even
-if somehow magically you learned
-everything about data science right now
-uh you're you know two years from now
-there'll be a new technology and so you
-won't know everything anymore so that's
-one of the reasons i think it's so
-common and what
-uh caitlyn says she does to deal with
-this is just like try to remember like
-you know what what she does know so
-accepting that you can't know everything
-but that's okay but i do know things
-other people don't like i've built these
-predictive models i've you know
-uh you know learned to do machine
-learning models in production like
-remember what you do
-know and how valuable that is so that's
-been some helpful for me but
-i think the other thing honestly is
-having a
-community that will help support you um
-so i've you know i've had people i
-mentioned a little bit about working at
-mattis there are
-some random people on the internet
-mostly on reddit where you don't have
-your real name who are like
-a bootcamp graduate can never be a real
-data scientist essentially
-like as bootcamp education just can't be
-and you know i i want hopefully some
-point i'll get the point where like i
-can just be like nope you know i'm
-secure in myself i
-you know will not this doesn't bother me
-at all but it did bother me but one
-thing that helped was like talking to
-other data scientists that i know
-um and that really helped me is like yes
-there's some
-internal work you need to do but also
-there is something nice like turning to
-friends turning to former colleagues who
-are like what are you kidding you
-you did great work on that project like
-you did all these things like you're so
-valuable
-so that at least has helped me because
-the community also reminds you when you
-talk to these people when you get to
-know like that data scientist at airbnb
-or like these other things you admire
-you gotta know oh wait they don't they
-don't know everything either
-you know they also have doubts they are
-people too and i think that can really
-help uh break down this image of some of
-these folks on twitter that they always
-feel confident that they know everything
-that no one ever criticizes them
-because when you get to know them you're
-like hey no these are actually people
-that i can relate to on a personal level
-great thanks so one person asked three
-questions but i do want to give other
-people a chance so i'll come back to
-that person
-once we get through them um um
-sushmita asked do companies value data
-science certifications from moocs like
-coursera edx and udemy
-i depends on the company uh
-like i saw um google was saying they
-come out with like a career
-certification that they said they would
-count the same as a four-year college
-degree and i think one of them is like
-data analytics
-so i guess in that case yes um
-i would say more so i think it
-you can keep it on there it can be like
-like a nice little plus like cool
-they're continuing to educate yourself
-it's probably not enough to get you the
-job
-or even to get you necessarily the
-interview right because i think some
-folks still have doubts
-you know compared to like a four-year
-college degree they're like oh well like
-you know could they have cheated because
-they have just watched his lectures
-passively so i think much more effective
-is taking that knowledge that you learn
-in the course and applying it in
-a project so i don't think it will hurt
-but i don't necessarily think it's going
-to be
-a big factor in deciding whether to
-interview or hire you
-okay sorry about that i had to close the
-window the sirens were very loud
-um in new york um a lounge
-i i don't know if i'm pronouncing the
-name um correctly
-asks uh do you have any specific advice
-for people who are switching
-careers yeah i mean i think
-so pretty much everything i said in the
-talk like applies right some of it a
-little more so like i mentioned earlier
-like project portfolios might be
-especially helpful
-um but i really do think two things one
-you know with this like let go of the
-data scientist title like it depends
-like how far away was your previous
-career right is your previous career
-software engineer which is like pretty
-adjacent to data science or
-was it a i don't know art historian at
-the met which like
-is pretty unrelated in terms of domain
-uh although you know again you have
-think
-but in that case thing about
-communication skills like what can you
-bring
-and how can you maybe start doing data
-as part of your job now so
-i don't really know much about art
-historians but like can you
-analyze some data can you you know post
-make a blog post about like you know
-some of the works or like some
-history of art and like show a
-visualization of how that changed over
-time so
-if you think about switching careers try
-to find ways can you incorporate
-data analysis data science into your
-current job
-um and if at all possible because that
-can be
-a really good way when you're you know
-talking in job interviews or writing on
-your resume that you can be like yes i
-know this sounds like an unrelated
-career but actually look i found this
-way to do data i got these communication
-skills
-um just really think about how you can
-frame what you're doing as something
-relevant to the field
-right the next question is from juan who
-asks for someone trying to switch
-careers
-into data science is a masters in data
-science a good idea or are there better
-ways to get into the industry
-so we have we write it all right so
-chapter 3 is
-on exactly this which is like how do i
-get the skills to be a data scientist
-um i think masters is one way
-the downside is the cost in terms of
-like the actual
-monetary cost and also the opportunity
-costs right so if you're doing a
-full-time master's you probably can't
-work so you're not earning a salary for
-that time
-the other thing with data science
-masters specifically is you really want
-to
-be thoughtful and um
-and picking the school because there are
-some good programs out there but they're
-all relatively new
-right like none of them really existed
-before five years ago uh and some of
-them are just trying to cash in on this
-phase uh
-and will be taught you know maybe
-they'll be teaching like outdated
-technologies or none of the professors
-have worked in industry or they just
-cobbled together
-like these statistics these computer
-science courses without actually like
-making it a uh you know curriculum that
-goes together
-so how you can sort of tell that is
-definitely look at the syllabus
-if you know some folks in data science
-like you reach out to them uh
-talk what they think about it also
-really ask and look at the alums like
-what are people
-who graduated from this program doing
-how will this help you find a job
-so it's one way the other a couple ways
-we cover
-are you could uh do a boot camp um
-and you can learn on the job so like i
-talked about the art store and how can i
-use data on my job
-or third you can self teach right you
-can do online courses and things like
-that
-so if you want to learn more definitely
-check out chapter three but that's sort
-of my short bit on data science masters
-okay um this next question
-that i really like is what is the best
-part and worst part of your current job
-uh so yeah so i i
-i think um i'll actually say look kind
-of it's it's a
-twofold thing of kind of like in in some
-ways like the same thing being in some
-ways the best and the worst which is
-uh i now work on a centralized team of
-data scientists so previously
-at etsy i reported to another well at
-that time another data analyst but
-i was embedded with the search team so i
-was in their slack channel i was in
-their meetings
-uh you know they were the people who
-were kind of like day to day like
-telling me like you know what are some
-things that i should work on
-and then at my last company i reported
-to
-the vice president of growth so i was
-fully embedded in the growth team which
-was running experiments
-and now at warby parker the data science
-team is centralized so we're like a
-small data science core team
-and we work with different departments
-usually for a couple months at a time
-so that's been something that's been
-really exciting because you know we get
-to have an impact
-on lots of different departments but
-it's also you know sometimes
-i miss like being working really closely
-with another team like getting to know
-them at you know individually really
-well really getting to know that problem
-space
-versus you know more of like a couple
-months like deployment working on one
-specific project
-uh so i don't think you know that's
-something also to think about when
-looking at data science jobs you can
-definitely ask about them they may use
-different terminologies but the two
-things to look for essentially are
-will you report to another data
-scientist or to
-you know like the head of the e-commerce
-team
-and uh are you going to be mainly
-working with one team or does your team
-you know work with lots of teams and
-you'll switch maybe every couple months
-okay uh the next question is for um
-our is from artemis um related questions
-are cecily what are good resources for
-brushing up on statistics
-probability and other math topics
-necessary for data science
-yeah so i'm going to post uh one link
-here so naked statistics
-is a really good um
-introductory like especially if you have
-very little background in statistics
-it's like a great like very friendly
-like no there's not a lot of equations
-it's more about how do i think about
-statistics like what do these terms mean
-um so that's a good place to get started
-and then the other one i recommend
-is introduction to statistical learning
-so this is like
-a very classic book uh in the field it's
-also
-available for free online uh there is
-code in r that's included along with it
-but even if you're
-learning python you can i don't know if
-you want you could try to translate the
-code but you could also
-uh you know just focus most of the book
-is not about the code it's about the
-concepts
-uh and i really think if you you know
-just go through that book and learn that
-pretty well that
-is you know pretty much all the
-statistics and machine learning you need
-to get started
-okay the next job is the next question
-the next question is from
-gia wu the current job market is still
-competitive every ds job exam's job has
-thousands of applications
-is building connection and getting to
-this recruiter getting to the recruiter
-the only way to get through this
-[Music]
-so it depends on the company right so i
-would not say necessarily every data
-science job as thousands of applications
-because like a small startup that most
-people haven't heard of is probably not
-getting a thousand applications
-but yes like well pre-covered times i
-would say airbnb although of course
-they've had to lay off people and have a
-hiring freeze but like
-you know google uh you know all the kind
-of like big names like yes
-those do actually have thousands of
-applications and it's true like the
-really
-the main way that people get that is
-through a referral so through someone
-that already works there that you know
-you've maybe worked with them before
-or potentially you get by reaching out
-or knowing the recruiter
-so that's why i would say like maybe
-don't start with those companies but
-look at like okay what are some smaller
-companies what are some local companies
-you know if you
-don't live in new york city or san
-francisco you know you might also have
-an advantage there like i don't know
-you're in
-uh nashville is not that small city but
-like you know a city like nashville
-where yes on the one hand there are
-fewer data science jobs but on the other
-hand you know they're
-less competition there's less people
-vying for them uh so i do think
-yes most the time uh for these really
-prominent companies
-uh some of them do like the ones in the
-middle like i think etsy when i was
-there did look at every resume that came
-through at least skimmed it
-but some companies do have automated
-systems
-that you know narrow down these thousand
-resumes based on keywords to the
-100 that a uh recruiter will look for
-and sometimes they do employ some rules
-of thumb like okay
-if it's a new grad position this is your
-gpa
-or you have to be from the schools or
-you have to have this major
-um and so in that case yes i do think
-like
-having those connections is always going
-to be really really helpful
-but it's possible and people do get jobs
-especially at smaller companies
-by applying on their website
-the next question is from wasilla if
-you're already good at either python or
-r would it be a plus to learn the other
-language
-as well i think
-it's a plus if you're finding jobs that
-you're interested in
-that use the other language yes um
-right because you you can definitely
-start that job you know you i i know
-people have gotten jobs who've been very
-experienced in one language and they've
-gotten jobs that will use the other
-because they basically said like look
-i know i'll do all these things in r um
-you know i started learning python
-and i'm confident that i can get up to
-speed and like do this like great work
-that you want to hire me for
-and do it in python um but if you're
-just like i don't know i just like
-you know yeah i'm happy with the
-language i have i just randomly kind of
-want to know the other one
-i think probably not i would focus more
-on um
-getting good at the your main language
-and if needed there's
-a lot of tools coming out to make r and
-python work really well together
-so for example um there's reticulate for
-r so if there is something like okay i
-want to use r for most things but
-there's this python package that i
-really want to use for this specific
-model
-you can just use it for that part right
-so you do all of your your data
-gathering and your data cleaning
-uh you know and data munching and then
-do this python package for the machine
-learning model
-and then you use r again for
-visualizations and report writing so
-that's also an option so maybe
-if if there's something you're like i
-know our i know the other language has
-this tool that i really want that
-doesn't exist in mine and i want to
-learn it that could be a good reason to
-learn the other one but i wouldn't just
-say like oh i just
-you know it's better to learn both i
-would i would more stick to one unless
-you have a good reason to learn the
-other one
-the next question is um from
-luke is there any specific advice you
-would give
-someone coming out of college for
-breaking into the field tips for getting
-interviews with
-very little professional experience yes
-so the first thing is definitely look
-for positions that have
-new grad so some of the bigger companies
-will have this where it'd be like
-specifically for recent college
-graduates
-second is data scientist is becoming
-more of a title
-uh for people with at least a few years
-of work experience even if not
-necessarily as a data scientist say as
-like a data analyst or a software
-engineer
-so again that's sort of like maybe
-letting go of the title like some
-companies just don't
-hire junior data scientists they don't
-hire entry level they hire
-data analysts for that role uh or other
-things like that
-um and then finally uh
-if you can if your school that you
-graduate from has a career
-resources center like definitely go to
-that um you know ask them for help with
-your resume a lot of them will do this
-for free if you're a recent grad
-uh and reach out on linkedin to people
-who've graduated from say your same
-major
-um or you know who just wanted your
-career that you're interested and say
-hey i'm a recent graduate from you know
-x university which this person also went
-to you know i saw that you're
-you know a data scientist at this
-company i'm really interested in the
-field i majored in this
-uh you know would you have time to 30
-minutes to chat
-you don't recognize especially in these
-times like for example parents of young
-kids just
-may not have a lot of extra time but
-there are lots of people who like
-helping people and also maybe
-especially like new graduates especially
-someone they have a connection to
-even if that connection is just that you
-graduated from the same school
-okay the next question is from shop
-thank you for your wonderful
-presentation i was interested in what
-your suggestion would be in regard to an
-individual
-who has no prior tech experience but
-wants to progress into the data world
-what program would you suggest starting
-with
-yes so i would so i would suggest
-um so there's lots of different options
-here but i would maybe start out with
-reading
-i'm also going to post this in the chat
-uh
-if people feel free to chime in if you
-have python resource like i said i'm
-more of an r person but like
-let's start with the r for data science
-book which is available for free
-online uh you know start looking for
-that i really like it because
-um for example python like there are
-some for this but there are a lot of
-i wouldn't necessarily start with just
-like learn python because they're going
-to talk about things that aren't
-that relevant to data science versus r
-for data science is like start by
-visualizing data which is like yes i
-want to visualize data
-um so if you have no prior experience
-i'd start with like okay first
-let's try something out and let's try
-you know radar for data science there's
-some built-in
-uh data sets in r and so just try like
-oh
-okay here's this bolted data center in
-cars how would i find which car has the
-most miles per gallon
-okay how would i narrow it down to just
-the cars that have you know this
-much uh you know this many cylinders so
-on and so forth
-and because you want to start i would
-say like before you necessarily say oh i
-do a masters or a bootcamp i put a lot
-of money in time like
-start trying it out start seeing as even
-if your job's not tech related is there
-any data around right is there like
-anything you can do that's related or if
-not can you like start moving
-that way and if you know again if not
-like try practicing it in your free time
-uh and look for a community of other
-people so like r for data science for
-example has an online community of
-learning it has a slack channel that can
-be another nice place to just find other
-people
-who are going through the same thing as
-you okay
-the next question is from eliana which
-is what's a good way to practice
-sql skills that employers love you
-yeah so it's funny i call it sql that's
-the other like debate is it sequel or is
-it sql is it
-uh data or data um so
-sql skills so more so sql i would say
-you don't so much need like a project
-that shows you use sql
-um like versus like it's helpful i have
-a project that shows like are a python
-instead um you know lists on your resume
-you a lot of companies have
-sql technical screens so that's going to
-be how they test like whether
-you know sql and so you know it's more
-about like that's where you're going to
-like prove it so it's more about
-okay how do i get those skills to pass
-that technical interview so there's a
-bunch of sql tutorials online
-honestly like i would focus on there's
-not a kind of advanced one but i
-wouldn't really
-worry about it that much like uh i'm
-gonna post like w3
-sql schools that's a great one to start
-again all three
-uh and yeah this is a great place to
-start and just learn things like okay
-how do i
-uh filter a sql table how do i do some
-like string manipulation how do i join
-that's mostly the stuff that's going to
-come up
-and you can look uh you know if you also
-google like sql interview questions
-um you'll get some like good example
-questions that you might
-uh face like we have a few in our book
-as well
-the next question is from aditi um what
-is the most
-effective way to transition your career
-from
-data analytics focus to more inference
-based
-something that companies are more fun
-more comfortable calling a data
-scientist
-hmm that's a good question uh
-so i think i think there's probably a
-twofold approach this which is one like
-do you feel that you have the skills
-already so for example like
-maybe you have a statistics background
-you just haven't used it in your job
-or you've taken some online courses uh
-or you've you know read textbooks
-so if you don't feel you have those
-skills yet i would definitely kind of
-start there
-um you know and read up on and build
-those skills uh and then but
-once you do feel like that i think
-that's honestly something i would talk
-to your manager about
-i think first the question is is there
-area
-in your current job where you could use
-inference skills right is there area
-would be more
-stats focused because maybe there is and
-that could be a great place to start
-or maybe it turns out they're like you
-know what no like we really just don't
-we don't need it
-um if that's the case you can see like
-if your own judgment is maybe like
-actually they say this but i really
-think a model here would be useful
-um you know maybe try that you know on
-on your
-either on your own time or if you have
-some extra time during your day
-and present that to them and say like
-hey i know like you know i
-i thought this you know i came up with
-this idea i thought it was really
-valuable what do you think
-um or if there's really just nothing at
-your job uh i think it is sort of a
-process of looking at other jobs
-and to show you're qualified for that
-job the first thing is one also your
-analytics experience will be uh
-will be relevant so even more inference
-jobs you're still doing a lot of like
-analytics work
-uh you know my like author jacqueline
-has a blog post you're not paid to model
-which is like modeling is the last step
-of this very long
-process of like getting the data talking
-to people you know cleaning it so on and
-so forth
-so even in those jobs your skills will
-be very useful uh
-and to show that you're prepared for
-them again part of it's going to be an
-interview or a take-home assignment
-so uh you know if you're applying to
-those jobs you get to that stage um
-you know practicing almost take home
-assignments like seeing how you're doing
-okay are they asking you something and
-you're like oh i thought i could do this
-but actually they're asking for this and
-like i'm really like not comfortable
-with
-understanding my outputs or you know
-making a recommendation from it then
-it's maybe time to go back to building
-those skills uh so i think it's really
-coming down to kind of pinpointing
-all right what what are these kind of
-steps to getting that job uh
-what's the what's the next point how do
-i keep building towards that
-are you okay to answer more questions
-yeah
-okay all right uh the next question is
-from neely which is
-how general do you go in your linkedin
-profile
-well the general advice is to tailor
-your resume to the company it seems
-difficult to do that on your public
-linkedin as well
-how general is it yes it's definitely
-yeah i don't uh in terms of me i haven't
-really like taylor to anything
-um definitely i think much more
-important with your linkedin profile
-along with just you know have the basic
-information about where you worked all
-that good stuff
-is to have those resume bullet points um
-and where for example you focus on
-quantifying it you're showing your
-impact
-uh you could also think about like what
-i do with medicine i like it
-i think i do this on my linkedin and i
-give like a little explainer of like
-what medici is in some of my projects
-the nice thing about linkedin is you
-don't really have to worry about space
-like i wouldn't do
-20 bullet points for a job but maybe you
-can do four
-instead of the two you had to limit on
-your resume to wake at one page
-so i wouldn't you could tailor it as
-much
-at you know your summary maybe if you're
-like pretty much all the jobs i'm
-looking for are gonna be in the
-financial
-uh industry or they're gonna be very
-analytics folk
-focused jobs you know you can put that
-in your summary um but that's something
-where it's like
-you're not so much tailoring to a
-specific company as telling people what
-types of companies and positions you're
-interested in
-okay so again with the questions i'm
-sort of skipping over some just to get
-people who haven't
-asked a question to ask their question
-first so susanna
-asks how do you assess what is doable
-for one person and how do you figure out
-what percentage of your time is spent on
-each period
-of the project life cycle so doable for
-one
-okay versus i guess like a team um
-hmm that's a good question i think
-so i'm guessing this is like asking
-about like at an edit company not like
-your personal portfolio project
-um so yeah if you're at a company
-uh i think one is like our team has been
-thinking a lot about like doing that
-scoping when you start the project and
-uh so we have in our book uh chapter 10s
-on making
-uh making an effective analysis and one
-of the things we recommend is making an
-analysis plan
-so making a document that you agree with
-your stakeholder of these are the
-questions i'm going to answer like here
-are the overarching ones like and here
-are some specific things i'm going to do
-to answer that question
-because what that can help with is it
-just limits the scope and you agree with
-your stakeholders
-they sign off on it and if you get to
-the end like sometimes like oh you know
-we try these things but i couldn't find
-the answer to this question
-or you know it turns out this isn't
-feasible i can be really easy for them
-to be like just you know just keep
-digging just pull in this other data set
-just pull that thing
-you'll be like okay you know but we need
-to re-talk about this and maybe this
-would be phase two of this project and
-re-scoping it because you know we agreed
-to this part of the work
-and also you know and we have different
-we have we're juggling multiple
-priorities here
-so that's one thing i find helpful in
-terms of like one person versus multiple
-um i think that really depends on your
-team
-structure uh so at uh
-data camp like i was the only that was
-my last company i was the only data
-scientist on the growth team but i could
-get help from the chief data scientists
-or other people
-but at etsy there were other there are
-two other analysts working on the search
-team
-so i think that's like much more of an
-individual like working with your
-your manager type thing and a little bit
-of trial and error because sometimes you
-start projects and you're like this is a
-lot more work than i thought it was when
-we scoped out it would take a month
-let me revisit this my manager and if
-needed the stakeholders
-okay um the next question is from carlos
-regarding the process of analyzing data
-at work what's the most
-important confidence you do you think
-someone
-making a career change should develop
-for example
-this meaning data visualization versus
-so i think this uh it does depend
-somewhat on your job
-um like what type of data science
-position i do think
-you need to be able to like make a full
-like
-simple but a full simple analysis
-yourself so you need to be able to take
-some messy data
-to tidy it like maybe that's a little
-string manipulation maybe that's making
-a new column
-you need to visualize it you need to
-like make that into little reports like
-a very but like i mean like a very
-simple not like oh this is a really
-complex data set but you do need to be
-able to do that full cycle
-in terms of like okay great i kind of
-have this baseline like which should i
-develop more i think honestly it's like
-some of your interests like i know some
-people are data visualizations expert
-like maybe you want to go work as
-at a newspaper and be a data
-visualization person and that you might
-need to learn d3 to make interactive web
-visualization so maybe that's what you
-go down or you're like i'm gonna go work
-at this
-company that i really want to work at a
-small company and i know they may not
-have a lot of data engineers so i need
-to work more on like making the like the
-etl
-extract transform load process i really
-want to work on like okay how do i take
-data and like make it into a usable
-format
-so i don't think that necessarily like
-one is the right answer but you do want
-to make sure
-that you have that that baseline of
-being able again like
-it doesn't have to be like you know the
-most complicated thing i can deal with
-you know 50 million
-you know road data sets by making an aws
-like you know spinning up an aws cluster
-but you should be able to do
-like a full analysis from getting and
-cleaning the data to presenting the
-results
-that's um that's that's good advice
-daria asks which r sql package have you
-tried or would you recommend or
-is it better to stay with sql itself
-so the engineering process yes
-uh so i love dbplier um so dv
-player you can write dplyr code it gets
-translated into sql you just have to do
-like a little
-setup thing at the at the top to uh like
-connect it to the sql database
-for interviews though i would spend some
-time like learning
-sql uh now fortunately with in r if
-you're using dplyr like the concepts are
-very similar you just have to be like oh
-it's not a filter it's a where
-um you know but left joins the same like
-all that stuff uh but i would spend some
-time learning sql
-like again sort of these basics joining
-where and also one of my favorite things
-called common table expressions so for
-the interview itself
-yes depending on your job you may end up
-doing like i did
-at datacamp like all of your your sql uh
-using dbplier in r
-and writing our code or most of the
-yeah all right the next question is from
-tiwa which is do you think a masters is
-beneficial to advance your data science
-career to management
-i like i guess i'm guessing it's like a
-master like stats or computer science or
-data science
-honestly probably not like a lot of ways
-that people go into management
-is often there's an opening they're
-working as a data scientist at a company
-and there's an opening on their team so
-maybe a manager left maybe the team is
-growing it needs a manager
-and you kind of raise your hand for it
-that you're interested in in it
-and the types of skill you need in
-management like
-yeah it some companies managers still
-like stay fairly technical
-and do their own data science projects
-but other companies like
-honestly like it's not so much your data
-science skills there might be a
-technical lead like when people need
-mentorship
-on like r or python and your job is a
-lot more like okay
-let me uh mentor mentor the team in
-their
-you know communication skills and
-scoping out projects i will help give
-them cover i will work with the
-other like you know the broader company
-to figure out what we should be working
-on and like
-those types of skills are not things
-you're going to learn in a data science
-master's program
-so you know that's there's always
-exceptions maybe there are some
-there i could definitely believe there
-are some companies where they're like
-nope we require a formal master's degree
-in the field to be in management
-but most companies i would say that's
-not necessary
-the next question is from merdad which
-is
-when we reach an interview meeting with
-a data scientist team what type of
-questions are more important for them
-for example for a company working in
-mining and maintenance field i heard
-they may give us a hack-a-rank
-challenge yeah so that's uh
-the hard part is kind of what you're
-hitting on there is that the data
-science interviews there's just so many
-questions that they could ask oh my god
-you could be asked to like
-you know some super like mathematical
-like derivatives of something
-or you could be asked this like hacker
-rank or a leak code question and so on
-and so forth
-and you know you hit on something like
-you might be able to predict that a
-little bit based on the industry based
-on the type of job like if you're
-looking for a machine learning position
-you're more likely to get these like
-algorithm questions like lead code
-questions if you're looking for a
-decision science very stats heavy
-inference position
-you're more likely to be on the stat
-side but really i think the best way is
-if you're getting you know if you if you
-you know send your resume in you got a
-call with a hiring manager they're like
-we want to
-you know let's say maybe it's after the
-take home want to bring you on site is
-ask like you could absolutely ask the
-recruiter
-or the hiring manager hey like you know
-what what should i be preparing for for
-these interviews and they're not going
-to tell you the question
-but a good hiring manager interview
-recruiter will say like oh okay you know
-your first 30 minutes you'll be
-you know working with uh emily on sql
-code and you know you know writing sql
-and the next one will be a case study
-you know with
-our product manager and the next one
-will be you know uh
-you know our exercise with uh this
-uh engineer so on and so forth so you
-can
-definitely ask look on glassdoor if it's
-a bigger company if they've hired data
-scientists before
-uh they might have uh the data science
-questions there
-but yeah unfortunately it is uh you know
-maybe you can ask them reddit you can
-ask on twitter
-like hey i'm interested in this industry
-is anyone an experience with this
-industry no like what types of questions
-they ask but yeah it's it's such
-a variety and that's also why if you
-don't progress in an interview
-like don't don't think like all this
-means i'm never gonna be cut out for
-data scientists like think about like
-you know give yourself an ost review and
-be like okay like yeah i sort of froze
-up because yeah i'm really good at our
-code but i kind of forgot how to write a
-for loops let me practice that i might
-come up again but also
-you know just because you couldn't
-answer this like random like invert a
-binary tree computer science question
-it doesn't mean it will come up in
-another interview it doesn't mean you're
-not equipped to be a data scientist
-the next question is from tiffany how
-did you decide you wanted to do data
-science
-yeah so a little bit about my background
-so i'm also going to post this
-uh interview i gave right after i
-started at etsy
-i'm gonna post in the chat uh but yeah
-so i was
-in a phd program in organizational
-behavior
-uh in the social sciences that's
-basically psychology and sociology
-applied to work
-and i realized hey i don't really want
-to go into academia so i decided to
-leave with my master's degree after two
-years but then it's like well now what
-do i do
-and data science appealed to me because
-it had a lot of the
-similar process to social science
-research especially quantitative social
-science research so
-coming up with a question like
-investigating past research on it
-gathering data whether through an
-experiment or an
-archival data set uh you know analyzing
-it presenting it to
-your advisor who knows a ton about this
-field but also to this qualitative
-researcher who like has
-you know never heard of this technique
-or this uh domain you're in
-and how do you communicate that so like
-it was similar enough in that way which
-is great
-um but then the other part uh that
-you know brought me to data science was
-what i liked about was the immediate
-impact that it could have so in academia
-you might write a research paper
-one it could take seven years to publish
-two you publish it and maybe no one ever
-reads it or benefits from it versus
-working in industry at a company and
-data science
-i really like this like i'm working with
-teams to solve their problems
-uh you know i'm gonna be able to help
-them and use these skills that i've
-learned i
-you know i minored in statistics and
-like you know maths and programming and
-r
-i learned as part of my undergraduate
-continued in
-uh grad school i can use this to uh
-you know to help people so that's really
-what drew me drew me to data science
-okay the next question is from bharati
-trying to make career changes
-what courses you suggest to make a start
-yeah so i think this is uh you know
-really
-dependent on kind of what you need the
-most of so for example
-did you come from you know one of like
-either computer science or stats or
-you're like no i didn't come back
-you know again i was a liberal arts
-major i don't have any of that so where
-do i start
-um honestly there was so i recommend
-like introduction to cisco learning as a
-book
-i i'm not as good at answering this
-because i do have more of that formal
-background so i've picked i've
-definitely learned a lot on my own but
-it's mostly been
-sort of contained like oh i need to
-learn time series let me find the time
-series textbook
-or you know i need to learn how to
-handle this type of data
-in r so let me take this course so i
-don't fortunately don't necessarily have
-like a great
-recommendation for you but i think the
-important thing is to
-try to find something uh
-you know fight think about how you learn
-best like there are some interactive
-courses uh
-you know online like do you would you
-like to do that or you're coding in the
-browser or
-are you someone who could you know just
-listen to a video an hour a video
-lecture and like take notes so
-think about like how how you can learn
-best uh
-you know will help you figure out like
-what types of courses
-okay the next question is from lauren
-can you say more about your experience
-at metis
-yeah so i did metis uh back in
-uh summer of 2016 so right after i
-finished
-uh my masters and yeah i enjoyed it it
-was a good fit for me
-so basically i had the statistics i had
-the r knowledge but i wanted uh
-to learn some more like machine learning
-to learn some python
-and also to have some time to learn git
-and github and build a project portfolio
-so i enjoyed metas because that's what
-metas is built around so you have about
-two hours of uh
-like course during the day but then the
-afternoon is all about working on your
-own project and that starts out like
-pretty
-structured so it's like okay work with
-the imdb data set to make
-these predictions about movie ratings
-but by the end of it
-it's just like do something with natural
-language processing like you have to
-come up with a question you get the data
-um but you know there's the instructors
-there to help there are other people in
-the class there to help
-so that worked really well for me i
-would say but the advantage i had there
-was i
-moved home so i moved back to new york
-uh so i lived rent-free with my parents
-uh and i hadn't like my master's degree
-i had a stipend but it wasn't
-sort of just enough to live on so it
-wasn't like i'd gone from making
-you know 70 dollars a year and suddenly
-i had to figure out how do i live
-without a salary for the three months of
-metis
-and it's going to take usually a couple
-months after graduating to start a job
-so i started my job
-about three months after medicine ended
-so a total of six months
-um you know where i wasn't making an
-income so you do have to definitely
-weigh
-that against uh what you can get from
-metis but the last thing i'll say also
-is helpful is
-you know i wouldn't say most boot camps
-sort of like moocs they're not gonna
-like get you the job or maybe even the
-interview by having on your resume it's
-much more about the experience
-you have there so like what might get
-your job is not like oh she went to
-metis it's like oh
-she did this this uh cool project and i
-see this blog post or she made this
-dashboard and that's exactly what we
-need so why don't we at least talk to
-her
-um so that's the advantage and finally
-uh
-it's also helpful that medics now as
-well as other bootcamps have
-a fair amount of alumni because they've
-been around for a few years so that's
-also going to be helpful if you're
-interested in a company and i did this
-when i was looking uh there were fewer
-alumni then but there are a few
-companies i was interested in
-that i talked to a data scientist one
-referred me and also the other one said
-don't work here which was really helpful
-they were like this is not
-a good data science team and i never
-would have known that if not for having
-that connection
-uh through metis on reaching out to them
-all right um the next question is from
-wassela
-this might be too specific to answer but
-when you're job hunting for your first
-data science job
-about what application to interview
-ratio
-would you expect
-yeah so and this is really
-yeah this is hard to answer because yeah
-it's kind of very specific per person
-so i think a big thing that influences
-this here
-is how like selective are you in your
-applications like are you only due to
-mostly only like i didn't apply to that
-many jobs um because i mostly applied
-through people i knew
-you know referrals or companies i had
-connections with so in that case
-it was a relatively high application to
-um the first interview because
-you know like i had like a decent
-background and you know i had the
-referrals so that was pretty high versus
-if i'd applied to a bunch of companies
-online cold applications that would have
-been very low
-uh so you know it really depends and
-then it is helpful though to analyze
-like
-okay what stages is there more drop-off
-like if i'm applying a bunch of places
-maybe i'm trying with for i'm trying
-these things i'm not getting anything
-okay maybe i should talk to some people
-is it how i present myself on my resume
-is it that i'm applying to the wrong
-types of jobs like i i
-you know it turns out like oh i'm fine
-all these jobs that need that really
-really want this formal degree that i
-don't have
-um or no i'm getting the hiring manager
-interviews and then i'm not going
-forward okay
-you know is what can i reflect on that
-part and so on and so forth so i think
-that's sort of more helpful but i would
-say
-i saw someone posting today who was laid
-off at airbnb and they talked about
-their first
-data science job search versus their
-second and like those ratios and i think
-they said like
-it was either like ten or five percent
-maybe of applications got them to the
-next stage
-so if that's your case like don't
-definitely that's not abnormal again
-this person applied to i think like 130
-companies so if you're applying to that
-many companies
-most of them are not going to get back
-to you if you don't have previous
-experience as a data scientist
-okay the next question is how important
-is it to get
-object-oriented programming concepts
-data structures and algorithms to get a
-data scientist
-job it depends i'll be honest i don't
-know i vaguely remember things about
-object-oriented program i don't really
-need in my job because r is much more
-about functional programming although
-you can
-use object-oriented programming so in my
-case like
-i'm working i got a job and i'm working
-as a data scientist and i don't have
-that
-but so you know that being said uh
-you also mentioned i think like
-algorithms and stuff and if you're a
-machine learning engineer for example
-yes it is important to know
-you know like to know like owen write
-like the complexity of your algorithms
-because you know the speed's gonna
-really matter there you know they might
-ask you some sorting questions like you
-know bubble sort like how did you make
-this thing
-so it depends but i yeah i would say
-object oriented not
-necessarily if it's specifically listed
-in the job description
-it's probably worth brushing up on but i
-i wouldn't worry too much about it okay
-the next question is
-in terms of day-to-day work what are the
-differences and similarities between the
-work a developer
-software engineer does versus what a
-data scientist does
-yeah i mean this really like software
-engineering even of itself like their
-day-to-day can look so
-different right you might know the terms
-like back-end versus front-end engineer
-like someone
-you know that the programming language
-that they use it can be totally
-different the types of problems um
-but i would say in general like one
-thing that engineer much more common
-with engineering teams
-is to use uh jira or another like task
-management tool to have tickets
-and to really really like scope down
-like okay this is like first i'm gonna
-like do this part then i'm gonna do this
-part of the product that i'm gonna do
-this part because there's
-a lot less uncertainty in most of
-software engineering like generally
-you're not worried like
-can i even build this website like you
-may have uncertainty about how to build
-it but you kind of know what can be done
-like someone
-hopefully you can do it but someone can
-do it versus in data science like a
-predictive modeling process like half
-the time you find out like oh the data's
-not there we need to figure out the data
-or
-oh this data like tracking down to 20
-people to figure out what this data
-means like took three days
-so that that's delay in the project or
-oh i made the model and it just
-we we can't like it's trying to predict
-you know what's the next dice roll like
-even if you have a thousand
-data points on the past ice roll you're
-never gonna be able to make a predictive
-algorithm that predicts the next one uh
-so i do think like that's the
-uncertainty inheritance data science
-does change like some of the process so
-some teams some data scientists teams do
-use
-agile do you use the sprint these
-two-week systems um or jira tickets
-but i would say not many more software
-engineering teams
-do uh and again like i don't know the
-jobs are
-similar like i don't a new code but um
-otherwise i think that they're quite
-different in the types of problems that
-you're working on
-the next question is um how real is the
-threat of
-jobs lost to automated machine learning
-tools
-aka auto ml
-so this actually um i don't think one
-it's not very great
-because of what i said before that like
-so much of the work
-is not like optimizing the uh
-you know like which like machine
-learning algorithm i use it's much about
-like how do i get the data what problems
-should we even be solving how do i talk
-to people how do i put this in
-production so it can be
-you know like this algorithm needs to
-serve our customer service team that's
-and it's going to be hit you know 5
-million times a week
-so i would say not not much uh that
-being said like
-uh i think uh i'm gonna find it um
-eduardo de la rubia had a great pack in
-our studio which was not the worry that
-like ml teams are gonna be replaced by
-automl
-but actually that the problem is data
-scientists don't necessarily have much
-of a
-competitive advantage there and
-engineers
-could actually be the ones replacing
-these machine learning teams because you
-know they have a lot of the capabilities
-and they just have to get up to speed in
-the machine learning part
-so that actually i think is the the
-bigger worry
-right there's also the critical thinking
-part of it too
-which is to put on data science
-so the last question
-is um as do you know only one job in a
-team is related to ml
-so would you suggest picking up big data
-and cloud computing to break into the
-field
-yeah so if uh you know that
-so big data is tough because like sql
-deals with big data uh you know like
-etsy
-stored like billions of events in our
-sql database and i queried it and it
-worked very well
-but um for like even bigger data we use
-uh scalding uh to write uh hadoop jobs
-um so that was how uh etsy did it
-but another company may use presto
-another company may use google bigquery
-another company may use this
-so i don't the problem is like big data
-tools outside of sql are so much more
-fractured i don't think it's worth
-trying to learn
-you know all of them or even one of them
-because it may not be the useful one
-but cloud computing i think it's
-hard to learn on your own uh cloud
-computing i do think if it's something
-you're interested in it's worth like
-playing around with
-aws or other tools um but that's also
-something you could
-pick up on the job um and i i certainly
-did i hadn't worked with cloud computing
-at all
-and then uh well i guess in etsy
-actually all the servers were
-in a server farm we did not have google
-cloud when i was there but then i moved
-to data camp they used redshift on aws
-and i started picking that up
-all right so we have gone through all
-the questions
-thank you so much for staying good half
-hour past our
-webinar um so
-one of the questions that i've seen so
-this this is being recorded it'll be
-available and also
-the slides will be made available on
-your website is that right
-yes also uh thank you artemis file also
-posted there's an old version of it
-um so if you go to my website right now
-under speaking i
-gave pretty much the same talk uh
-in november um and so you can find that
-and then i'll also add the slides from
-this talk up
-tonight and you can review them
-okay great thank you so much um for
-being here
-and your patience and answering all the
-questions i think it's a record number
-of questions we've had so
-yeah i mean thank you all for tuning in
-i'm like especially
-folks who you know came in in like the
-middle of the night or in the morning or
-all these things so
-i'm just like you know very happy uh you
-know feel free if you have
-uh like i said i will sort of plug my
-own advice again like if you have more
-questions like
-i think it is worth i actually have a um
-blog post on like getting a job and data
-science
-that i think is worth giving but if you
-do have like follow-up questions do feel
-free to reach out um
-you do it on linkedin please add a
-message if you do because i get a lot of
-linkedin requests from random people and
-i don't usually i don't accept unless
-there's a message saying why they
-reached out
-um or you can reach me on twitter all
-right
-so um thank you very much and
-um yeah looking and uh your book
-you to just mention your book again yes
-uh so if you like this you like the book
-um you can find it at datacycareer.com
-or
-this is my co-author's short link
-bestbook.cool they link to the same
-place
-that's on manning it's also on amazon
-but at manning you have the discount
-code
-so that's mtp umbrella20 and i also saw
-someone said they found a better one
-which
-great use it which is kd math 50. so i
-guess that's 50
-off um yeah and you can
-you can get it there if you get the
-physical book it comes with the ebook or
-you can just get the ebook
-all right great thank you so much and
-thank you for joining us tonight
-and uh for more data umbrella events
-follow us on meetup and you can see what
-is coming up
-thank you yeah thank you for hosting
+This a cover letter is not always required but it sometimes is and what you want here is first try to
+find the hiring manager name if you can so sometimes that's listed in the position uh sometimes you can look on LinkedIn if it's a smaller company especially like it's okay if you go two levels up so say you're applying to a company and you find a director of data okay maybe they're not who's going to be your manager but it still shows you did research on the company you know to try to figure out who would be a relevant person and it shows that you're tailoring to this company next tie together your experience so your cover letter should be a story it's not just a repeat of your resume but instead saying like okay how does all this experience fit together so give some examples of uh you know the work that you've done talk about a little bit more so you know here you can read like prior to this I was at boot camp I was an investment consultant like I took people through Python I tailored a curriculum so on and so forth and focus on what you can offer to the company so the company's not interested in like oh this place would be a great place to start my career like or you know it's nice to say that you love it and you research it but they really care about like well what are you gonna do for us why should we hire you and what you want to show is look I can solve a problem that you're facing with this experience that last point tailored to the company so if uh you know for example it's in let's say you multiple projects and one of them's I don't know like related to web data you know website dot com web companies that you're applying to maybe use that project because that's going to be more relevant to them.
+
+### Slide 60: Conclusion: Take away points (39:34)
+<a href="https://youtu.be/HsFFuFYz7zE?t=2374"><img src="images/emily_robinson_career/erc_s59.png" width="50%" /></a>
+
+So I want to close out by doing a brief recap of some of the takeaway points so first you don't need to know everything don't let yourself get paralyzed by these must-know lists or all these things you can learn data science or all the millions of courses because no one knows everything you don't need
+to know everything to do you know a great thing at your job and you'll always be learning so don't let that hold you back there's no such thing as a fake data scientist I I just really don't like this point um you know of there being a fake data scientist no you know if if you data science is a broad enough umbrella for us all but that being said you may want to let go of the data scientist title because there's so many positions where you've been doing interesting data science work that may not have that title for whatever reason and will also honestly have less competition for those jobs so maybe that's something you want to have eventually but for your first job try to focus more instead on like okay what can I learn how can I gain experience and not so much what I will be called
+so when you're applying a job remember to focus on creating a portfolio to one help yourself learn and to show off your skills, to expand your network to find the right job not just any job and to tailor your application.
+
+### Slide 61: Thank you (40:50)
+<a href="https://youtu.be/HsFFuFYz7zE?t=2450"><img src="images/emily_robinson_career/erc_s60.png" width="50%" /></a>
+
+And so with that I want to thank everyone for coming and I'm going to take questions in a minute if you enjoyed this talk you can find some data science career related posts and some other data science topics on my blog hooked on data.org you can also find me on Twitter @robinson_es like I said this is all covered in the book with a bunch more stuff uh that's available at datascicareer.com
+and you can get 40 off with mtpumbrella20. Thank you.
+
+
+Yes and I am open to answering questions as soon as I can remember how to not share there we go how to stop sharing great so do you want to read the question yeah that would be helpful okay so the first one that had five upvotes is
+How um different is a data analyst role from a data scientist role? 
+
+Ah great question so this is hard because a couple reasons one is there's definitely disagreement about this so some people divide it as it's about the tools that you use so like a data analyst will use a Graphical User Interface something like Tableau or Excel whereas a data scientist uses scripted
+language like R or Python other people say it's about the type of problems that you tackle so I just
+listened to the super data science podcast with uh Krill and he said he divides it as a data analyst is determining the exact term it's basically doing like descriptive analytics about the past what's happened before and a data scientist is doing predictive what's going to happen and some uh also some analysis of what would be prescriptive what should we do based on that so that's another way so there's all these different ways to divide it and the other problem is what it means that companies vary so much so there's a good blog post from Lyft about how they changed all of their data analysts to be data scientists and their data scientists to be research scientists two years ago Etsy where I used to work did a similar thing whereas previously the data analyst team we were working we were using R and Python and stats and you know doing some uh you know even some machine learning but we were embedded with uh um you know sort of uh other teams and basically we said we did data for data science for human consumption the data scientist team was about working on the ad algorithms or the search ranking algorithms so they did data science for machine consumption but then since I left they changed their title to data scientists so really it's so different from out from company to company but in terms of looking at positions with a data analyst what I would look out for is finding a position where you can use R or Python and there's some also you know some like stats or math or something that you can do in there um as well but really just studying it but on the other hand you know if you've never worked with data before maybe you just want to start out with like you know I just want to start working with data it's okay if it's in Excel it's okay if it's Google Analytics like it'll just get me comfortable.
+
+Okay the next question is what red flags should you look out for when interviewing for a data scientist?
+
+I'm just laughing because I don't I don't think this was planted but Jacqueline and i before wrote the book actually actually published a blog post called 12 red flags in data science interviews that you should look out for as a candidate uh so that's on my blog definitely feel free to check that out
+uh I'll just highlight a few I think one of the biggest ones is data engineering so is there data
+available is there any data is there a data engineering team um you know have they done the work to make the data available or are you going to spend your first year basically being a data engineer and
+building a data warehouse now that could be fine if that's what you want to do but you should know that going in uh and the second thing I'll say is if you're starting out as a data scientist I think most folks should try to go to it to a team where there's already an established data company where there's an established data science team rather than being the first or the second data scientist because that way you'll get more mentorship you'll learn more best practices but there's a bunch more like I said so feel free to check out the blog post.
+
+okay the next one is from Cecily and it is, is it absolutely necessary to have a CS or Mathematics background to start a career in data science?
+
+Yeah it's definitely not absolutely necessary um I mean it's some like at some point you will need to pick up some of those skills right like at some point you know you whether that's coursera or doing a boot camp uh but you definitely I know people who were in terms like their formal education in college I know someone is like an English major you know lots of people with a social science major so maybe did a few stats classes but definitely not a math or a computer science degree so you really don't need to and don't forget uh and don't think of that as a negative so as I was talking about when you're thinking about on your resume how to you know tailor how you talk about your previous positions to data science like that's not just saying like to like trick the hiring manager
+into hiring you like you truly think about like you know Liberal Arts education learning to communicate learning to write well maybe learning to do presentations that's hugely important a social sciences background is all about doing research like that's my background very similar to the data science uh process so you definitely don't need to have uh that background but I will say that is one of the places where a project portfolio is more helpful uh like if you're someone who's like you know I have a data science degree I have a math degree at computer science you know maybe you don't need a project portfolio you did enough relevant projects in undergraduate people tell from your resume like you have very relevant work experience but if you don't have if your resume doesn't right now show the data science skills that you have a portfolio can be really helpful for that.
+
+
+Okay the next question is from Sammy and um question is, hello Emily I just graduated from Metis questions are I seriously suffer from serious imposter syndrome do you have some tips on how to get rid of imposter syndrome?
+
+Oh God! Uh I wish I so one definitely check out uh Caitlyn Houdin's post on and let me actually just pull it up really quickly so i can post it in the chat on imposter syndrome because it's a great it's a really great post um and so it highlights a couple thing which is first like part of the reason imposter syndrome is so easy to fall into in data science is because it's a new field says
+poaching makes in the post new field it's a combo of other fields it's constantly expanding uh so you have all these things right where it's like well you have a data scientist so I need to give computer science and also stats and I need to communicate and like I also need to do this other thing
+and you know you're probably never going to be as much an expert as someone who's just focused in that so that's hard there's always new technologies so even if somehow magically you learned everything about data science right now uh you're you know two years from now there'll be a new technology and so you won't know everything anymore so that's one of the reasons I think it's so
+common and what uh Caitlyn says she does to deal with this is just like try to remember like you know what what she does know so accepting that you can't know everything but that's okay but I do know things other people don't like i've built these predictive models i've you know uh you know learned to do machine learning models in production like remember what you do know and how valuable that is so that's been some helpful for me but I think the other thing honestly is having a community that will help support you um so I've you know I've had people I mentioned a little bit about working at Metis there are some random people on the internet mostly on Reddit where you don't have your real name who are like a bootcamp graduate can never be a real data scientist essentially
+like as bootcamp education just can't be and you know I I want hopefully some point I'll get the point where like I can just be like nope you know I'm secure in myself I you know will not this doesn't bother me at all but it did bother me but one thing that helped was like talking to other data scientists that I know um and that really helped me is like yes there's some internal work you need to do but also there is something nice like turning to friends turning to former colleagues who are like what are you kidding you you did great work on that project like you did all these things like you're so valuable so that at least has helped me because the community also reminds you when you talk to these people when you get to know like that data scientist at AirBnB or like these other things you admire you gotta know oh wait they don't they don't know everything either you know they also have doubts they are people too and I think that can really help uh break down this image of some of these folks on Twitter that they always feel confident that they know everything that no one ever criticizes them because when you get to know them you're like hey no these are actually people
+that I can relate to on a personal level.
+
+Great thanks so one person asked three questions but I do want to give other people a chance so I'll come back to that person once we get through them um um Sushmita asked do companies value data science certifications from MOOCs like Coursera Edx and Udemy?
+
+It depends on the company uh like I saw um Google was saying they come out with like a career certification that they said they would count the same as a four-year college degree and I think one of them is like data analytics so I guess in that case yes um I would say more so I think it you can keep it on there it can be like like a nice little plus like cool they're continuing to educate yourself it's probably not enough to get you the job or even to get you necessarily the interview right because I think some folks still have doubts you know compared to like a four-year college degree they're like oh well like you know could they have cheated because they have just watched his lectures passively so I think much more effective is taking that knowledge that you learn in the course and applying it in a project so I don't think it will hurt but I don't necessarily think it's going to be a big factor in deciding whether to interview or hire you.
+
+
+Okay sorry about that I had to close the window the sirens were very loud um in New York um (indistinct name) I I don't know if i'm pronouncing the name um correctly asks uh do you have any specific advice for people who are switching careers?
+
+Yeah I mean I think so pretty much everything I said in the talk like applies right some of it a little more so like I mentioned earlier like project portfolios might be especially helpful um but I really do think two things one you know with this like let go of the data scientist title like it depends like how far away was your previous career right is your previous career software engineer which is like pretty adjacent to data science or was it a I don't know art historian at the MET which like is pretty unrelated in terms of domain uh although you know again you have think but in that case thing about communication skills like what can you bring and how can you maybe start doing data as part of your job now so I don't really know much about art historians but like can you analyze some data can you you know post make a blog post about like you know some of the works or like some history of art and like show a visualization of how that changed over time so if you think about switching careers try to find ways can you incorporate data analysis data science into your current job um and if at all possible because that can be a really good way when you're you know talking in job interviews or writing on your resume that you can be like yes I know this sounds like an unrelated career but actually look I found this way to do data I got these communication skills um just really think about how you can frame what you're doing as something relevant to the field.
+
+
+Right the next question is from Juan who asks for someone trying to switch careers into data science is a masters in data science a good idea or are there better ways to get into the industry?
+
+So we have we write it all right so chapter 3 is on exactly this which is like how do I get the skills to be a data scientist um I think masters is one way the downside is the cost in terms of
+like the actual monetary cost and also the opportunity costs right so if you're doing a full-time master's you probably can't work so you're not earning a salary for that time the other thing with data science masters specifically is you really want to be thoughtful and um and picking the school because there are some good programs out there but they're all relatively new right like none of them really existed before five years ago uh and some of them are just trying to cash in on this
+phase uh and will be taught you know maybe they'll be teaching like outdated technologies or none of the professors have worked in industry or they just cobbled together like these statistics these computer science courses without actually like making it a uh you know curriculum that goes together so how you can sort of tell that is definitely look at the syllabus if you know some folks in data science like you reach out to them uh talk what they think about it also really ask and look at the alums like what are people who graduated from this program doing how will this help you find a job so it's one way the other a couple ways we cover are you could uh do a boot camp um and you can learn on the job so like I talked about the art store and how can I use data on my job or third you can self teach right you can do online courses and things like that so if you want to learn more definitely check out chapter three but that's sort of my short bit on data science masters.
+
+
+Okay um this next question that I really like is what is the best part and worst part of your current job? 
+
+Uh so yeah so I I I think um I'll actually say look kind of it's it's a twofold thing of kind of like in in some ways like the same thing being in some ways the best and the worst which is
+uh I now work on a centralized team of data scientists so previously at Etsy I reported to another well at that time another data analyst but I was embedded with the search team so I was in their Slack channel I was in their meetings uh you know they were the people who were kind of like day to day like telling me like you know what are some things that I should work on and then at my last company I reported to the vice president of growth so I was fully embedded in the growth team which
+was running experiments and now at Warby Parker the data science team is centralized so we're like a
+small data science core team and we work with different departments usually for a couple months at a time so that's been something that's been really exciting because you know we get to have an impact
+on lots of different departments but it's also you know sometimes I miss like being working really closely with another team like getting to know them at you know individually really well really getting to know that problem space versus you know more of like a couple months like deployment working on one specific project uh so I don't think you know that's something also to think about when looking at data science jobs you can definitely ask about them they may use different terminologies but the two things to look for essentially are will you report to another data
+scientist or to you know like the head of the e-commerce team and uh are you going to be mainly
+working with one team or does your team you know work with lots of teams and you'll switch maybe every couple months.
+
+Okay uh the next question is for um our is from Artemis um related questions are Cecily what are good resources for brushing up on statistics probability and other math topics necessary for data science?
+
+Yeah so I'm going to post uh one link here so Naked Statistics is a really good um introductory like especially if you have very little background in statistics it's like a great like very friendly
+like no there's not a lot of equations it's more about how do i think about statistics like what do these terms mean um so that's a good place to get started and then the other one I recommend is Introduction to Statistical Learning so this is like a very classic book uh in the field it's also available for free online uh there is code in R that's included along with it but even if you're learning Python you can I don't know if you want you could try to translate the code but you could also uh you know just focus most of the book is not about the code it's about the concepts uh and I really think if you you know just go through that book and learn that pretty well that is you know pretty much all the statistics and machine learning you need to get started
+
+Okay the next job is the next question the next question is from Gia Wu the current job market is still competitive every DS job exam's job has thousands of applications is building connection and getting to this recruiter getting to the recruiter the only way to get through this?
+
+[Music] so it depends on the company right so I would not say necessarily every data science job as thousands of applications because like a small startup that most people haven't heard of is probably not getting a thousand applications but yes like well pre-covered times I would say AirBnB although of course they've had to lay off people and have a hiring freeze but like you know Google uh you know all the kind of like big names like yes those do actually have thousands of applications and it's true like the really the main way that people get that is through a referral so through someone
+that already works there that you know you've maybe worked with them before or potentially you get by reaching out or knowing the recruiter so that's why I would say like maybe don't start with those companies but look at like okay what are some smaller companies what are some local companies you know if you don't live in New York City or San Francisco you know you might also have an advantage there like I don't know you're in uh Nashville is not that small city but like you know a city like Nashville where yes on the one hand there are fewer data science jobs but on the other hand you know they're less competition there's less people vying for them uh so I do think yes most the time uh for these really prominent companies uh some of them do like the ones in the middle like I think Etsy when I was there did look at every resume that came through at least skimmed it but some companies do have automated systems that you know narrow down these thousand resumes based on keywords to the 100 that a uh recruiter will look for and sometimes they do employ some rules of thumb like okay if it's a new grad position this is your GPA or you have to be from the schools or
+you have to have this major um and so in that case yes I do think like having those connections is always going to be really really helpful but it's possible and people do get jobs especially at smaller companies by applying on their website.
+
+The next question is from Wasilla if you're already good at either Python or R would it be a plus to learn the other language as well? 
+
+I think it's a plus if you're finding jobs that you're interested in that use the other language yes um right because you you can definitely start that job you know you I I know people have gotten jobs who've been very experienced in one language and they've gotten jobs that will use the other because they basically said like look I know I'll do all these things in r um you know I started learning Python and I'm confident that I can get up to speed and like do this like great work that you want to hire me for and do it in Python um but if you're just like I don't know I just like you know yeah I'm happy with the language I have I just randomly kind of want to know the other one I think probably not I would focus more on um getting good at the your main language and if needed there's a lot of tools coming out to make R and Python work really well together so for example um there's Reticulate for R so if there is something like okay I want to use R for most things but there's this Python package that I really want to use for this specific model you can just use it for that part right so you do all of your your data gathering and your data cleaning uh you know and data munching and then do this Python package for the machine learning model and then you use R again for visualizations and report writing so that's also an option so maybe if if there's something you're like I know our I know the other language has this tool that i really want that doesn't exist in mine and I want to learn it that could be a good reason to learn the other one but I wouldn't just
+say like oh I just you know it's better to learn both I would I would more stick to one unless you have a good reason to learn the other one.
+
+The next question is um from Luke is there any specific advice you would give someone coming out of college for breaking into the field tips for getting interviews with very little professional experience? 
+
+Yes so the first thing is definitely look for positions that have new grad so some of the bigger companies will have this where it'd be like specifically for recent college graduates second is data scientist is becoming more of a title uh for people with at least a few years of work experience even if not necessarily as a data scientist say as like a data analyst or a software engineer so again that's sort of like maybe letting go of the title like some companies just don't hire junior data scientists they don't hire entry level they hire data analysts for that role uh or other things like that um and then finally uh if you can if your school that you graduate from has a career resources center like definitely go to that um you know ask them for help with your resume a lot of them will do this for free if you're a recent grad uh and reach out on LinkedIn to people who've graduated from say your same major um or you know who just wanted your career that you're interested and say hey I'm a recent graduate from you know x university which this person also went to you know I saw that you're you know a data scientist at this company I'm really interested in the field I majored in this uh you know would you have time to 30 minutes to chat you don't recognize especially in these times like for example parents of young kids just may not have a lot of extra time but there are lots of people who like helping people and also maybe especially like new graduates especially someone they have a connection to even if that connection is just that you graduated from the same school.
+
+Okay the next question is from Shaw, thank you for your wonderful presentation I was interested in what your suggestion would be in regard to an individual who has no prior tech experience but wants to progress into the data world what program would you suggest starting with?
+
+Yes so I would so I would suggest um so there's lots of different options here but I would maybe start out with reading I'm also going to post this in the chat uh if people feel free to chime in if you have Python resource like I said I'm more of an R person but like let's start with the R for data science book which is available for free online uh you know start looking for that I really like it because um for example Python like there are some for this but there are a lot of i wouldn't necessarily start with just like learn Python because they're going to talk about things that aren't
+that relevant to data science versus R for data science is like start by visualizing data which is like yes I want to visualize data um so if you have no prior experience I'd start with like okay first let's try something out and let's try you know read R for data science there's some built-in
+uh data sets in R and so just try like oh okay here's this bolted data center in cars how would I find which car has the most miles per gallon okay how would I narrow it down to just the cars that have you know this much uh you know this many cylinders so on and so forth and because you want to start I would say like before you necessarily say oh I do a masters or a bootcamp I put a lot of money in time like start trying it out start seeing as even if your job's not tech related is there
+any data around right is there like anything you can do that's related or if not can you like start moving that way and if you know again if not like try practicing it in your free time uh and look for a community of other people so like R for data science for example has an online community of
+learning it has a slack channel that can be another nice place to just find other people who are going through the same thing as you.
+
+Okay the next question is from Eliana which is what's a good way to practice SQL skills that employers love you?
+
+Yeah so it's funny I call it SQL that's the other like debate is it sequel or is it SQL is it uh data or data um so SQL skills so more so SQL I would say you don't so much need like a project that shows you use SQL um like versus like it's helpful I have a project that shows like are a Python
+instead um you know lists on your resume you a lot of companies have SQL technical screens so that's going to be how they test like whether you know SQL and so you know it's more about like that's where you're going to like prove it so it's more about okay how do I get those skills to pass that technical interview so there's a bunch of SQL tutorials online honestly like I would focus on there's
+not a kind of advanced one but I wouldn't really worry about it that much like uh I'm gonna post like W3 SQL schools that's a great one to start again all three uh and yeah this is a great place to
+start and just learn things like okay how do I uh filter a SQL table how do I do some like string manipulation how do I join that's mostly the stuff that's going to come up and you can look uh you know if you also Google like SQL interview questions um you'll get some like good example questions that you might uh face like we have a few in our book as well.
+
+The next question is from Aditi um what is the most effective way to transition your career from data analytics focus to more inference based something that companies are more fun more comfortable calling a data scientist?
+
+Hmm that's a good question uh so I think I think there's probably a twofold approach this which is one like do you feel that you have the skills already so for example like maybe you have a statistics background you just haven't used it in your job or you've taken some online courses uh
+or you've you know read textbooks so if you don't feel you have those skills yet I would definitely kind of start there um you know and read up on and build those skills uh and then but once you do feel like that I think that's honestly something I would talk to your manager about I think first the question is is there area in your current job where you could use inference skills right is there area would be more stats focused because maybe there is and that could be a great place to start or maybe it turns out they're like you know what no like we really just don't we don't need it
+um if that's the case you can see like if your own judgment is maybe like actually they say this but I really think a model here would be useful um you know maybe try that you know on on your either on your own time or if you have some extra time during your day and present that to them and say like
+hey I know like you know I I thought this you know I came up with this idea I thought it was really
+valuable what do you think um or if there's really just nothing at your job uh I think it is sort of a process of looking at other jobs and to show you're qualified for that job the first thing is one also your analytics experience will be uh will be relevant so even more inference jobs you're still doing a lot of like analytics work uh you know my co-author Jacqueline has a blog post you're not paid to model which is like modeling is the last step of this very long process of like getting the data talking to people you know cleaning it so on and so forth so even in those jobs your skills will
+be very useful uh and to show that you're prepared for them again part of it's going to be an interview or a take-home assignment so uh you know if you're applying to those jobs you get to that stage um you know practicing almost take home assignments like seeing how you're doing okay are they asking you something and you're like oh I thought I could do this but actually they're asking for this and like I'm really like not comfortable with understanding my outputs or you know making a recommendation from it then it's maybe time to go back to building those skills uh so I think it's really coming down to kind of pinpointing all right what what are these kind of steps to getting that job uh what's the what's the next point how do I keep building towards that. 
+
+Are you okay to answer more questions? 
+
+Yeah.
+
+Okay all right uh the next question is from Neely which is how general do you go in your LinkedIn
+profile well the general advice is to tailor your resume to the company it seems difficult to do that on your public LinkedIn as well how general is it? 
+
+Yes it's definitely yeah I don't uh in terms of me I haven't really like tailor to anything um definitely I think much more important with your LinkedIn profile along with just you know have the basic information about where you worked all that good stuff is to have those resume bullet points um
+and where for example you focus on quantifying it you're showing your impact uh you could also think about like what I do with Metis I like it I think I do this on my LinkedIn and I give like a little explainer of like what Metis is in some of my projects the nice thing about LinkedIn is you don't really have to worry about space like I wouldn't do 20 bullet points for a job but maybe you can do four instead of the two you had to limit on your resume to wake at one page so I wouldn't you could tailor it as much at you know your summary maybe if you're like pretty much all the jobs I'm
+looking for are gonna be in the financial uh industry or they're gonna be very analytics folk focused jobs you know you can put that in your summary um but that's something where it's like you're not so much tailoring to a specific company as telling people what types of companies and positions you're interested in. 
+
+Okay so again with the questions I'm sort of skipping over some just to get people who haven't asked a question to ask their question first, so Susanna asks how do you assess what is doable for one person and how do you figure out what percentage of your time is spent on each period of the project life cycle?
+
+So doable for one okay versus I guess like a team um hmm that's a good question I think so I'm guessing this is like asking about like at an edit company not like your personal portfolio project
+um so yeah if you're at a company uh I think one is like our team has been thinking a lot about like doing that scoping when you start the project and uh so we have in our book uh chapter 10 is on making uh making an effective analysis and one of the things we recommend is making an analysis plan
+so making a document that you agree with your stakeholder of these are the questions I'm going to answer like here are the overarching ones like and here are some specific things I'm going to do
+to answer that question because what that can help with is it just limits the scope and you agree with your stakeholders they sign off on it and if you get to the end like sometimes like oh you know
+we try these things but I couldn't find the answer to this question or you know it turns out this isn't feasible I can be really easy for them to be like just you know just keep digging just pull in this other data set just pull that thing you'll be like okay you know but we need to re-talk about this and maybe this would be phase two of this project and re-scoping it because you know we agreed
+to this part of the work and also you know and we have different we have we're juggling multiple
+priorities here so that's one thing I find helpful in terms of like one person versus multiple um I think that really depends on your team structure uh so at uh data camp like I was the only that was
+my last company I was the only data scientist on the growth team but I could get help from the chief data scientists or other people but at Etsy there were other there are two other analysts working on the search team so I think that's like much more of an individual like working with your your manager type thing and a little bit of trial and error because sometimes you start projects and you're like this is a lot more work than I thought it was when we scoped out it would take a month
+let me revisit this my manager and if needed the stakeholders.
+
+Okay um the next question is from Carlos regarding the process of analyzing data at work what's the most important confidence you do you think someone making a career change should develop
+for example this meaning data visualization versus (inaudible)?
+
+So iI think this uh it does depend somewhat on your job um like what type of data science position I do think you need to be able to like make a full like simple but a full simple analysis yourself so you need to be able to take some messy data to tidy it like maybe that's a little string manipulation maybe that's making a new column you need to visualize it you need to like make that into little reports like a very but like I mean like a very simple not like oh this is a really
+complex data set but you do need to be able to do that full cycle in terms of like okay great I kind of have this baseline like which should I develop more I think honestly it's like some of your interests like I know some people are data visualizations expert like maybe you want to go work as
+at a newspaper and be a data visualization person and that you might need to learn D3 to make interactive web visualization so maybe that's what you go down or you're like I'm gonna go work
+at this company that I really want to work at a small company and I know they may not have a lot of data engineers so I need to work more on like making the like the ETL extract transform load process I really want to work on like okay how do I take data and like make it into a usable format so I don't think that necessarily like one is the right answer but you do want to make sure that you have that that baseline of being able again like it doesn't have to be like you know the most complicated thing I can deal with you know 50 million you know road data sets by making an AWWS like you know spinning up an AWS cluster but you should be able to do like a full analysis from getting and cleaning the data to presenting the results.
+
+That's um that's that's good advice. Daria asks which R SQL package have you tried or would you recommend or is it better to stay with SQL itself? 
+
+so the engineering process yes.
+
+Uh so I love dplyr um so dplyr you can write dplyr code it gets translated into SQL you just have to do like a little setup thing at the at the top to uh like connect it to the SQL database for interviews though I would spend some time like learning SQL uh now fortunately with in R if you're using dplyr like the concepts are very similar you just have to be like oh it's not a filter it's a where um you know but left joins the same like all that stuff uh but i would spend some time learning SQL like again sort of these basics joining where and also one of my favorite things
+called common table expressions so for the interview itself yes depending on your job you may end up
+doing like I did at DataCamp like all of your your SQL uh using dplyr in R and writing our code or most of the SQL.
+
+All right the next question is from tiwa which is do you think a masters is beneficial to advance your data science career to management?
+
+I like I guess I'm guessing it's like a master like stats or computer science or data science honestly probably not like a lot of ways that people go into management is often there's an opening they're working as a data scientist at a company and there's an opening on their team so maybe a manager left maybe the team is growing it needs a manager and you kind of raise your hand for it
+that you're interested in in it and the types of skill you need in management like yeah it some companies managers still like stay fairly technical and do their own data science projects but other companies like honestly like it's not so much your data science skills there might be a technical lead like when people need mentorship on like R or Python and your job is a lot more like okay
+let me uh mentor mentor the team in their you know communication skills and scoping out projects I will help give them cover I will work with the other like you know the broader company to figure out what we should be working on and like those types of skills are not things you're going to learn in a data science master's program so you know that's there's always exceptions maybe there are some
+there I could definitely believe there are some companies where they're like nope we require a formal master's degree in the field to be in management but most companies I would say that's not necessary.
+
+The next question is from Merdad which is when we reach an interview meeting with a data scientist team what type of questions are more important for them for example for a company working in mining and maintenance field I heard they may give us a HackerRank challenge?
+
+Yeah so that's uh the hard part is kind of what you're hitting on there is that the data science interviews there's just so many questions that they could ask oh my God you could be asked to like
+you know some super like mathematical like derivatives of something or you could be asked this like HackerRank or a Leetcode question and so on and so forth and you know you hit on something like
+you might be able to predict that a little bit based on the industry based on the type of job like if you're looking for a machine learning position you're more likely to get these like algorithm questions like Leetcode questions if you're looking for a decision science very stats heavy inference position you're more likely to be on the stat side but really I think the best way is if you're getting you know if you if you you know send your resume in you got a call with a hiring manager they're like we want to you know let's say maybe it's after the take home want to bring you on site is ask like you could absolutely ask the recruiter or the hiring manager hey like you know
+what what should I be preparing for for these interviews and they're not going to tell you the question but a good hiring manager interview recruiter will say like oh okay you know your first 30 minutes you'll be you know working with uh Emily on SQL code and you know you know writing SQL and the next one will be a case study you know with our product manager and the next one will be you know uh you know our exercise with uh this uh engineer so on and so forth so you can definitely ask look on GlassDoor if it's a bigger company if they've hired data scientists before uh they might have uh the data science questions there but yeah unfortunately it is uh you know maybe you can ask on Reddit you can ask on Twitter like hey I'm interested in this industry is anyone an experience with this industry no like what types of questions they ask but yeah it's it's such a variety and that's also why if you don't progress in an interview like don't don't think like all this means I'm never gonna be cut out for data scientists like think about like you know give yourself an honest review and be like okay like yeah I sort of froze up because yeah I'm really good at R code but I kind of forgot how to write a for loops let me practice that I might come up again but also
+you know just because you couldn't answer this like random like invert a binary tree computer science question it doesn't mean it will come up in another interview it doesn't mean you're
+not equipped to be a data scientist.
+
+The next question is from Tiffany how did you decide you wanted to do data science?
+
+Yeah so a little bit about my background so I'm also going to post this uh interview I gave right after I started at Etsy I'm gonna post in the chat uh but yeah so I was in a PHD program in organizational behavior uh in the social sciences that's basically psychology and sociology applied to work and I realized hey I don't really want to go into academia so I decided to leave with my master's degree after two years but then it's like well now what do I do and data science appealed to me because it had a lot of the similar process to social science research especially quantitative social science research so coming up with a question like investigating past research on it
+gathering data whether through an experiment or an archival data set uh you know analyzing it presenting it to your advisor who knows a ton about this field but also to this qualitative researcher who like has you know never heard of this technique or this uh domain you're in and how do you communicate that so like it was similar enough in that way which is great um but then the other part uh that you know brought me to data science was what I liked about was the immediate
+impact that it could have so in academia you might write a research paper one it could take seven years to publish two you publish it and maybe no one ever reads it or benefits from it versus working in industry at a company and data science I really like this like I'm working with teams to solve their problems uh you know I'm gonna be able to help them and use these skills that I've learned I you know I minored in statistics and like you know maths and programming and R I learned as part of my undergraduate continued in uh grad school I can use this to uh you know to help people so that's really what drew me drew me to data science.
+
+Okay the next question is from Bharati trying to make career changes what courses you suggest to make a start?
+
+Yeah so I think this is uh you know really dependent on kind of what you need the most of so for example did you come from you know one of like either computer science or stats or you're like no I didn't come back you know again I was a liberal arts major I don't have any of that so where do I start um honestly there was so I recommend like Introduction to Cisco Learning as a book I I'm not as good at answering this because I do have more of that formal background so I've picked I've definitely learned a lot on my own but it's mostly been sort of contained like oh I need to learn time series let me find the time series textbook or you know I need to learn how to handle this type of data in R so let me take this course so I don't fortunately don't necessarily have like a great recommendation for you but I think the important thing is to try to find something uh you know first think about how you learn best like there are some interactive courses uh you know online like do you would you like to do that or you're coding in the browser or are you someone who could you know just
+listen to a video an hour a video lecture and like take notes so think about like how how you can learn best uh you know will help you figure out like what types of courses.
+
+Okay the next question is from Lauren can you say more about your experience at Metis?
+
+Yeah so I did metis uh back in uh summer of 2016 so right after I finished uh my masters and yeah I enjoyed it it was a good fit for me so basically I had the statistics I had the R knowledge but I wanted uh to learn some more like machine learning to learn some Python and also to have some time to learn Git and GitHub and build a project portfolio so I enjoyed metas because that's what Metis is built around so you have about two hours of uh like course during the day but then the afternoon is all about working on your own project and that starts out like pretty structured so it's like okay work with the IMDB data set to make these predictions about movie ratings but by the end of it it's just like do something with Natural Language Processing like you have to come up with a question you get the data um but you know there's the instructors there to help there are other people in
+the class there to help so that worked really well for me I would say but the advantage I had there
+was I moved home so I moved back to New York uh so I lived rent-free with my parents uh and I hadn't like my master's degree I had a stipend but it wasn't sort of just enough to live on so it wasn't like I'd gone from making you know 70000 dollars a year and suddenly I had to figure out how do I live
+without a salary for the three months of Metis and it's going to take usually a couple months after graduating to start a job so I started my job about three months after medicine ended so a total of six months um you know where I wasn't making an income so you do have to definitely weigh that against uh what you can get from Metis but the last thing I'll say also is helpful is you know I wouldn't say most boot camps sort of like MOOCs they're not gonna like get you the job or maybe even the interview by having on your resume it's much more about the experience you have there so like what might get your job is not like oh she went to Metis it's like oh she did this this uh cool project and I see this blog post or she made this dashboard and that's exactly what we need so why don't we at least talk to her um so that's the advantage and finally uh it's also helpful that Metis now as well as other bootcamps have a fair amount of alumni because they've been around for a few years so that's also going to be helpful if you're interested in a company and I did this when I was looking uh there were fewer alumni then but there are a few companies I was interested in that I talked to a data scientist one referred me and also the other one said don't work here which was really helpful they were like this is not a good data science team and I never would have known that if not for having that connection uh through Metis and reaching out to them.
+
+All right um the next question is from Wassela this might be too specific to answer but when you're job hunting for your first data science job about what application to interview ratio would you expect?
+
+Yeah so and this is really yeah this is hard to answer because yeah it's kind of very specific per person so I think a big thing that influences this here is how like selective are you in your applications like are you only due to mostly only like i didn't apply to that many jobs um because I mostly applied through people I knew you know referrals or companies I had connections with so in that case it was a relatively high application to um the first interview because you know like I had like a decent background and you know I had the referrals so that was pretty high versus if I'd applied to a bunch of companies online cold applications that would have been very low uh so you know it really depends and then it is helpful though to analyze like okay what stages is there more drop-off like if I'm applying a bunch of places maybe I'm trying with for I'm trying these things I'm not getting anything okay maybe I should talk to some people is it how I present myself on my resume
+is it that i'm applying to the wrong types of jobs like I I you know it turns out like oh I'm fine
+all these jobs that need that really really want this formal degree that I don't have um or no I'm getting the hiring manager interviews and then I'm not going forward okay you know is what can I reflect on that part and so on and so forth so I think that's sort of more helpful but I would
+say I saw someone posting today who was laid off at AirBnB and they talked about their first data science job search versus their second and like those ratios and I think they said like it was either like ten or five percent maybe of applications got them to the next stage so if that's your case like don't definitely that's not abnormal again this person applied to I think like 130 companies so if you're applying to that many companies most of them are not going to get back to you if you don't have previous experience as a data scientist.
+
+Okay the next question is how important is it to get Object-Oriented Programming concepts Data Structures and Algorithms to get a data scientist job? 
+
+It depends I'll be honest I don't know I vaguely remember things about object-oriented program I don't really need in my job because R is much more about Functional Programming although you can use Object-Oriented Programming so in my case like I'm working I got a job and I'm working as a data scientist and I don't have that but so you know that being said uh you also mentioned I think like
+algorithms and stuff and if you're a machine learning engineer for example yes it is important to know
+you know like to know like owen write like the complexity of your algorithms because you know the speed's gonna really matter there you know they might ask you some sorting questions like you know bubble sort like how did you make this thing so it depends but I yeah I would say object oriented not
+necessarily if it's specifically listed in the job description it's probably worth brushing up on but I I wouldn't worry too much about it.
+
+Okay the next question is in terms of day-to-day work what are the differences and similarities between the work a developer software engineer does versus what a data scientist does?
+
+Yeah I mean this really like software engineering even of itself like their day-to-day can look so
+different right you might know the terms like back-end versus front-end engineer like someone you know that the programming language that they use it can be totally different the types of problems um
+but I would say in general like one thing that engineer much more common with engineering teams is to use uh Jira or another like task management tool to have tickets and to really really like scope down
+like okay this is like first I'm gonna like do this part then I'm gonna do this part of the product that I'm gonna do this part because there's a lot less uncertainty in most of software engineering like generally you're not worried like can I even build this website like you may have uncertainty about how to build it but you kind of know what can be done like someone hopefully you can do it but someone can do it versus in data science like a predictive modeling process like half the time you find out like oh the data's not there we need to figure out the data or oh this data like tracking down to 20 people to figure out what this data means like took three days so that that's delay in the project or oh I made the model and it just we we can't like it's trying to predict you know what's the next dice roll like even if you have a thousand data points on the past dice roll you're never gonna be able to make a predictive algorithm that predicts the next one uh so I do think like that's the uncertainty inherent in data science does change like some of the process so some teams some data scientists teams do use Agile do you use the Sprint these two-week systems um or Jira tickets but I would say not many more software engineering teams do uh and again like I don't know the jobs are
+similar like I don't a new code but um otherwise I think that they're quite different in the types of problems that you're working on. 
+
+The next question is um how real is the threat of jobs lost to automated machine learning tools aka Auto ML?
+
+So this actually um I don't think one it's not very great because of what I said before that like
+so much of the work is not like optimizing the uh you know like which like machine learning algorithm I use it's much about like how do I get the data what problems should we even be solving how do I talk
+to people how do I put this in production so it can be you know like this algorithm needs to serve our customer service team that's and it's going to be hit you know 5 million times a week so I would say not not much uh that being said like uh I think uh I'm gonna find it um Eduardo De La Rubia had a great pack in our studio which was not the worry that like ml teams are gonna be replaced by Auto ML
+but actually that the problem is data scientists don't necessarily have much of a competitive advantage there and engineers could actually be the ones replacing these machine learning teams because you know they have a lot of the capabilities and they just have to get up to speed in the machine learning part so that actually I think is the the bigger worry. 
+
+Right there's also the critical thinking part of it too which is to put on data science.
+
+So the last question is um as do you know only one job in a team is related to ml so would you suggest picking up big data and cloud computing to break into the field?
+
+Yeah so if uh you know that so big data is tough because like SQL deals with big data uh you know like
+Etsy stored like billions of events in our SQL database and I queried it and it worked very well but um for like even bigger data we use uh Scalding uh to write uh Hadoop jobs um so that was how uh Etsy did it but another company may use Presto another company may use google BigQuery another company may use this so I don't the problem is like big data tools outside of SQL are so much more fractured I don't think it's worth trying to learn you know all of them or even one of them because it may not be the useful one but cloud computing I think it's hard to learn on your own uh cloud computing I do think if it's something you're interested in it's worth like playing around with AWS or other tools um but that's also something you could pick up on the job um and I I certainly did I hadn't worked with cloud computing at all and then uh well I guess in Etsy actually all the servers were
+in a server farm we did not have Google cloud when I was there but then I moved to DataCamp they used Redshift on AWS and I started picking that up.
+
+All right so we have gone through all the questions thank you so much for staying good half hour past our webinar um so one of the questions that I've seen so this this is being recorded it'll be
+available and also the slides will be made available on your website is that right?
+
+Yes also uh thank you Artemis file also posted there's an old version of it um so if you go to my website right now under speaking I gave pretty much the same talk uh in November um and so you can find that and then I'll also add the slides from this talk up tonight and you can review them.
+
+Okay great thank you so much um for being here and your patience and answering all the questions I think it's a record number of questions we've had.
+
+So yeah I mean thank you all for tuning in I'm like especially folks who you know came in in like the
+middle of the night or in the morning or all these things so I'm just like you know very happy uh you
+know feel free if you have uh like I said I will sort of plug my own advice again like if you have more questions like I think it is worth I actually have a um blog post on like getting a job and data
+science that I think is worth giving but if you do have like follow-up questions do feel free to reach out um you do it on LinkedIn please add a message if you do because I get a lot of LinkedIn requests from random people and I don't usually I don't accept unless there's a message saying why they reached out um or you can reach me on Twitter.
+
+All right so um thank you very much and um yeah looking and uh your book you to just mention your book again?
+
+Yes uh so if you like this you like the book um you can find it at datascicareer.com or this is my co-author's short link bestbook.cool they link to the same place that's on manning it's also on Amazon
+but at Manning you have the discount code so that's mtpumbrella20 and I also saw someone said they found a better one which great use it which is kdmath50 so I guess that's 50% off um yeah and you can
+you can get it there if you get the physical book it comes with the ebook or you can just get the ebook.
+
+All right great thank you so much and thank you for joining us tonight and uh for more Data Umbrella events follow us on Meetup and you can see what is coming up thank you.
+
+Yeah thank you for hosting.
