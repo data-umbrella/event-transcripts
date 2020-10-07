@@ -1,12 +1,13 @@
 # [Data Umbrella](https://www.dataumbrella.org): Build a Career in Data Science
 
 ## Video Transcript
-- Speaker: [Emily Robinson]
+- Speaker: [Emily Robinson](https://twitter.com/robinson_es)
 - video: https://youtu.be/HsFFuFYz7zE (1:35:06)
-- Transcriber: Kevin Kipkemoi
+- Transcriber: [Kevin Kipkemoi](https://www.linkedin.com/in/kevkipkemoi)
 
 ## Key Links
 - Data Umbrella [Discord](https://discord.gg/mEzEbYT)
+- Book: [Build a Career in Data Science](datascicareer.com)
 
 ## Video
 <a href="https://youtu.be/HsFFuFYz7zE"><img src="images/emily_robinson_career/erc_main.png" width="90%" /></a>
@@ -59,7 +60,7 @@ All right. Hi everyone I'm just gonna start sharing my slides. Okay, right. Welc
 ### Slide 9: Talk Background (3:08)
 <a href="https://youtu.be/HsFFuFYz7zE?t=188"><img src="images/emily_robinson_career/erc_s8.png" width="50%" /></a>
 
-I wanted to give a little bit of a background about where this talk came from so this talk is titled same title as my book, uh build a career in data science which is all about the non-technical skills and knowledge you need to get started and succeed in a data science career so if you haven't seen the book before if you're interested after this talk and learning more you can get 40% off with the code mtpumbrella20. I'll also show that at the end at datasidecareer.com and that code's also good for 40% off everything on manning which has a lot of technical books on you know coding in Python, or R, or whatever kind of things you want to do.
+I wanted to give a little bit of a background about where this talk came from so this talk is titled same title as my book, uh Build a Career in Data Science which is all about the non-technical skills and knowledge you need to get started and succeed in a data science career so if you haven't seen the book before if you're interested after this talk and learning more you can get 40% off with the code mtpumbrella20. I'll also show that at the end at datasidecareer.com and that code's also good for 40% off everything on manning which has a lot of technical books on you know coding in Python, or R, or whatever kind of things you want to do.
 
 ### Slide 10: What we'll cover (3:49)
 <a href="https://youtu.be/HsFFuFYz7zE?t=229"><img src="images/emily_robinson_career/erc_s9.png" width="50%" /></a>
@@ -404,6 +405,7 @@ so when you're applying a job remember to focus on creating a portfolio to one h
 And so with that I want to thank everyone for coming and I'm going to take questions in a minute if you enjoyed this talk you can find some data science career related posts and some other data science topics on my blog hooked on data.org you can also find me on Twitter @robinson_es like I said this is all covered in the book with a bunch more stuff uh that's available at datascicareer.com
 and you can get 40 off with mtpumbrella20. Thank you.
 
+### Questions
 
 Yes and I am open to answering questions as soon as I can remember how to not share there we go how to stop sharing great so do you want to read the question yeah that would be helpful okay so the first one that had five upvotes is
 How um different is a data analyst role from a data scientist role? 
@@ -614,6 +616,8 @@ So the last question is um as do you know only one job in a team is related to m
 Yeah so if uh you know that so big data is tough because like SQL deals with big data uh you know like
 Etsy stored like billions of events in our SQL database and I queried it and it worked very well but um for like even bigger data we use uh Scalding uh to write uh Hadoop jobs um so that was how uh Etsy did it but another company may use Presto another company may use google BigQuery another company may use this so I don't the problem is like big data tools outside of SQL are so much more fractured I don't think it's worth trying to learn you know all of them or even one of them because it may not be the useful one but cloud computing I think it's hard to learn on your own uh cloud computing I do think if it's something you're interested in it's worth like playing around with AWS or other tools um but that's also something you could pick up on the job um and I I certainly did I hadn't worked with cloud computing at all and then uh well I guess in Etsy actually all the servers were
 in a server farm we did not have Google cloud when I was there but then I moved to DataCamp they used Redshift on AWS and I started picking that up.
+
+### Closing remarks
 
 All right so we have gone through all the questions thank you so much for staying good half hour past our webinar um so one of the questions that I've seen so this this is being recorded it'll be
 available and also the slides will be made available on your website is that right?
