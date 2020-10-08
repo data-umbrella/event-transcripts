@@ -37,7 +37,7 @@
 | 07 | Shailvi Wakhlu      |  [Fixing Bad Data and Using SQL](2020/07-shailvi-wakhlu-fixing-data.md)|                        |  ?            |        |
 | 08 | Matt Brems          |   [Data Science with Missing Data](2020/08-matt-brems-missing-data.md) |                        |  ?            |        |
 | 09 | Sam Bail            | [Intro to Terminal](2020/09-sam-bail-terminal.md)                      |                        |  Isaack    |  Mark will submit PR      |
-| 10 | Emily Robinson      |  [Build a Career in Data Science](2020/10-emily-robinson-career.md)    |                        |  Kevin       |        |
+| 10 | Emily Robinson      |  [Build a Career in Data Science](2020/10-emily-robinson-career.md)    |                        |  Kevin       | Complete       |
 | 11 | Rebecca Kelly       |  [kdb Time Series Data](2020/11-rebecca-kelly-kdb.md)                  |                        |  Coretta   |        |
 | 12 | Mridu Bhatnagar     |  [Build a Bot](2020/12-mridu-bhatnagar-bot.md)                             |                        |  ?           |        |
 | 13 | Liz DiLuzio         |  [Creating Nimble Data Processes](2020/13-liz-diluzio-data-process.md)    |                        |  Lily           | Complete       |
