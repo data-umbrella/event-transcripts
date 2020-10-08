@@ -3,9 +3,6 @@
 ## Video Transcript
 - Speaker: [Emily Robinson](https://twitter.com/robinson_es)
 - Transcriber: [Kevin Kipkemoi](https://www.linkedin.com/in/kevkipkemoi)
-
-## Key Links
-- Data Umbrella [Discord](https://discord.gg/mEzEbYT)
 - Book: [Build a Career in Data Science](datascicareer.com)
 
 ## [Video](https://youtu.be/HsFFuFYz7zE) (1:35:06)
