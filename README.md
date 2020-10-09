@@ -4,7 +4,11 @@
 
 1. Pick a video to transcribe (if the column `Transcriber` has a `?`, that means it needs a transcriber.)
 1. You can start with the given YouTube preliminary text.
-1. You can make edits in the transcript in a code editor and submit a PR.  If you are unfamiliar with how to submit a PR, you can copy the text into a Google doc and edit it there and send back the link to the edited doc.
+
+### Submitting Edits
+You can submit edits in either of these formats:  
+1. **Pull Request:** Use a code editor and submit a PR (Markdown file).  
+1. **Google Doc:**  If you are unfamiliar with how to submit a PR, you can copy the text into a Google doc and edit it there and send back the link to the edited doc.
 
 ### Transcribing
 - Here is an **EXAMPLE** of a transcript that is edited and clean: [2020/06-reshama-shaikh-sklearn-pr.md](https://github.com/data-umbrella/event-transcripts/blob/main/2020/06-reshama-shaikh-sklearn-pr.md)
