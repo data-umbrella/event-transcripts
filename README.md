@@ -12,8 +12,10 @@
 
 ### Good Examples 
 Here are some examples of transcripts that are well-edited:
-1.  PR Example:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/06-reshama-shaikh-sklearn-pr.md
-2.  Emily Robinson Career Talk:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/10-emily-robinson-career.md
+1.  scikit-learn Pull Request Example:  [2020/06-reshama-shaikh-sklearn-pr.md](2020/06-reshama-shaikh-sklearn-pr.md)
+2.  Emily Robinson Career Talk:  [2020/10-emily-robinson-career.md](2020/10-emily-robinson-career.md)
+
+https://github.com/data-umbrella/event-transcripts/blob/main/2020/10-emily-robinson-career.md
 
 ### Submitting Edits
 You can submit edits in either of these formats:  
@@ -21,7 +23,6 @@ You can submit edits in either of these formats:
 1. **Google Doc:**  If you are unfamiliar with how to submit a PR, you can copy the text into a Google doc and edit it there and send back the link to the edited doc.
 
 ### Transcribing
-- Here is an **EXAMPLE** of a transcript that is edited and clean: [2020/06-reshama-shaikh-sklearn-pr.md](https://github.com/data-umbrella/event-transcripts/blob/main/2020/06-reshama-shaikh-sklearn-pr.md)
 - For beginning of sentences, make them capital letters
   - Example:  when "i" as in "i think", can you change to capital letter:  "I think ..."  
 - Break sections down into paragraphs (not one whole file)
