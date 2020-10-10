@@ -27,6 +27,10 @@ You can submit edits in either of these formats:
   - Example:  when "i" as in "i think", can you change to capital letter:  "I think ..."  
 - Break sections down into paragraphs (not one whole file)
 - For the sections, add some timestamps, so people know where they can find it in the video?  Breaking it down every 10 minutes or so is acceptable. (That would be 6 timestamps for a 1-hour talk.)   
+  - Example of sub-section and timestamps
+```text
+### Set Up Repository (3:46)
+```
 - Add period to the end of sentences.  
 - Fix spelling
   - Example:  PY Ladies  ===>  PyLadies
