@@ -35,7 +35,7 @@ You can submit edits in either of these formats:
 - When I did this, I listened to the video for a couple of sentences, and then stopped it.  Then I edit the text and then I start the video again for another sentence or two. 
 
 ### Notes
-- It can take a good 2 to 4 hours to edit and fix a transcript for a 1-hour video.  
+- It can take a good 2 to 4 hours to edit a transcript for a 1-hour video.  
 - It is not necessary to include screenshots of slides.
 
 ---
