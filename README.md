@@ -15,7 +15,8 @@ Here are some examples of transcripts that are well-edited:
 1.  scikit-learn Pull Request Example:  [2020/06-reshama-shaikh-sklearn-pr.md](2020/06-reshama-shaikh-sklearn-pr.md)
 2.  Emily Robinson Career Talk:  [2020/10-emily-robinson-career.md](2020/10-emily-robinson-career.md)
 
-https://github.com/data-umbrella/event-transcripts/blob/main/2020/10-emily-robinson-career.md
+Here is what the **raw markdown** file looks like:  
+https://raw.githubusercontent.com/data-umbrella/event-transcripts/main/2020/06-reshama-shaikh-sklearn-pr.md
 
 ### Submitting Edits
 You can submit edits in either of these formats:  
