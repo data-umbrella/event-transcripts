@@ -9,6 +9,7 @@
 - Attention to details is very important requirement for this task.
 - Good spelling and grammar is critical to this task.
 - Being comfortable with reading, writing and listening to the English language is important for this task.
+- **Helpful:**  It is helpful to have some familiarity with Markdown. Resource:  [Mastering Markdown](https://github.com/reshamas/ds_resources/blob/master/markdown/mastering_markdown.md) 
 
 ### Good Examples 
 Here are some examples of transcripts that are well-edited:
