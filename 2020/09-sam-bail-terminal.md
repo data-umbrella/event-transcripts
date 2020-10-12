@@ -1,7 +1,7 @@
 ## Video Transcript
 - Speaker: Sam Bail 
 - Video: Intro to Terminal(1 hour)
-- Transcriber: Isaack Mungui(Twitter: @icky254)
+- Transcriber: Isaack Mungui (Twitter: [@icky254](https://twitter.com/icky254) )
 
 ### Intro (00:00)
 
