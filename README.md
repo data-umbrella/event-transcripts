@@ -9,8 +9,11 @@
 - Attention to details is very important requirement for this task.
 - Good spelling and grammar is critical to this task.
 - Being comfortable with reading, writing and listening to the English language is important for this task.
-- **Helpful:**  It is helpful to have some familiarity with Markdown. Resource:  [Mastering Markdown](https://github.com/reshamas/ds_resources/blob/master/markdown/mastering_markdown.md) 
-
+- **Helpful:**  It is helpful to have some familiarity with Markdown. 
+  - Resource:  [Mastering Markdown](https://github.com/reshamas/ds_resources/blob/master/markdown/mastering_markdown.md) 
+- **Helpful:**  It is helpful to know Git so a pull request (PR) can be submitted with edits.
+  - Resource:  [Git Intro Workshop](https://github.com/reshamas/git-intro-workshop)
+  
 ### Good Examples 
 Here are some examples of transcripts that are well-edited:
 1.  scikit-learn Pull Request Example:  [2020/06-reshama-shaikh-sklearn-pr.md](2020/06-reshama-shaikh-sklearn-pr.md)
