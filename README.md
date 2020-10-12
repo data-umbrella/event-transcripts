@@ -65,5 +65,5 @@ You can submit edits in either of these formats:
 | 12 | Mridu Bhatnagar     |  [Build a Bot](2020/12-mridu-bhatnagar-bot.md)                             |                        |  ?           |        |
 | 13 | Liz DiLuzio         |  [Creating Nimble Data Processes](2020/13-liz-diluzio-data-process.md)    |                        |  Lily           | Complete       |
 | 14 | Megan Robertson     |  [3 Lessons From 3 Years of Data Science](2020/14-megan-robertson-career.md)|                        |  Sethupathy  |  Mark will submit PR       |
-| 15 | Emma Gouillart      |  [Data Visualization with Plotly](2020/15-emma-gouillart-plotly.md)              |                        |  Willy       |        |
+| 15 | Emma Gouillart      |  [Data Visualization with Plotly](2020/15-emma-gouillart-plotly.md)              |                        |  ?       |        |
 |    |                     |                                                          |                        |              |        |
