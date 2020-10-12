@@ -144,7 +144,7 @@ very very quickly is where we would
 typically where our technology is most
 commonly used. 
 
-### Other Vertials (6:54)
+### Other Verticals (6:54)
 
 Well we did start in
 finance and that's not that's not the only
@@ -559,7 +559,7 @@ of execution and just just in general
 for kind of ad-hoc analysis and and and
 database to database things. 
 
-### What about you? (25: 07)
+### What about you? (25:07)
 
 So I thought
 about what you know who all of you are
