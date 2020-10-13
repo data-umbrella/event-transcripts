@@ -5,8 +5,9 @@ video:  https://youtu.be/O5Z1-9Ohoro
 ## Video Transcript
     Speaker:  Shailvi Wakhlu
     Video: How Would Sherlock Holmes Fix Bad Data? (54:33)
+    Transcriber: Juanita Palomar
 
-## Intro 
+## Intro (0:00)
 Okay, so it says it's ready, great.
 My name is Reshama Shaikh and I am the founder of Data Umbrella. I am also an organizer for NYC PyLadies and I am based out of New York City. 
 Welcome to our - welcome to our session. 
@@ -18,7 +19,7 @@ there is a LinkedIn page for us, where I usually share job postings, so you are 
 I just want to go over the Code of Conduct, that you know we are dedicated to providing harassment free experience for everyone, be kind to others, be professional and respectful, we really want to build a friendly community here. Our Twitter is, just to repeat, @DataUmbrella and also @NYCPyLadies. And this is our Meetup page, so we'll be posting, I'll be posting any upcoming events on the Meetup page, even though this is webinar and it's available to anybody around the world, it's Meetup pages like the central page
 where the events are posted. 
 
-## Speaker Introduction 
+## Speaker Introduction (1:27)
 I want to thank our speaker Shailvi Wakhlu, she'll be from joining from San Francisco and I want to thank our sponsor for providing this webinar platform which is Neo4j. 
 And I'm just going to introduce Shailvi, I actually met Shailvi back in August in San Francisco, when I was there for the Write Speak Code conference. Shailvi is the Head
 of Analytics at Komodo Health and as an analyst professional and former software engineer, Shailvi has been involved in shaping great products for companies big and small for the last 13 plus years. She's worked on various analyses, previously she worked at Salesforce. And she I guess, the really impressive thing here is, additionally, is that she has worked with a really large data, a data at scale, 40 million plus users. So, and then I am going to get out of this okay and then I think you should be able to screen share now.
@@ -35,7 +36,7 @@ So just to quick a little bit about me. So this is me as a child, I used to spen
 hunting in my backyard for clues. I have no idea what I was what mystery I was trying to solve, but one day I found this big huge lemon, as you can see it's almost the size of my face and I didn't even know we had a lemon tree. So, for my five-year-old for my 11 year old self, this was actually the most important discovery I had ever made at that point and it just convinced me that I'm gonna go on to do very exciting things in my future and I don't think I ended up doing some exciting things. 
 I worked with a lot of different companies of different sizes mostly in Analytics, which I've been involved in for almost a decade, but even though I started as an engineer and now I am the head of Analytics at Komodo Health, where I lead a team of eight data scientists.  
 
-## Topics for today 
+## Topics for today (4:21)
 So today we're gonna talk about three things: one what is bad data, and why should you care about it, and how do we actually fix it.
 
 ## What is bad data? 
@@ -57,7 +58,7 @@ The other really common thing that shows up is, just you know something where th
 It just doesn't make sense, that it would be the biggest country where you'd have revenue from, so things like this, they basically you know are a starting point.
 Where you start wondering what's going on and you know what is this bad data, or like where is all this information coming from? 
 
-## Phases of introducing bad data 
+## Phases of introducing bad data (7:32)
 And the next logical question that comes up, is you know where, where is this bad data getting created, created in the first place?  So for me, like the way I think about it, there is essentially a life cycle of data. That has many phases and each of those phases has some inherent risks that are associated with it where bad data can be introduced. So I know there's a lot of information on this slide and I'm going to try to break it down. 
 
 I put it as one visual because I actually, personally, have this printed out on my desk because I like to refer to it, just to sort of fact check. You know any investigation
@@ -93,7 +94,7 @@ different. So these type of examples you know, you can, you can kind of look thr
 ## Why should organizations care?
 All right, so why should organizations or you know anybody even care about all this bad data? Now that we've seen a couple of ways it showed up.
 
-## Bad data is costly in many different ways
+## Bad data is costly in many different ways (14:06)
 So I think inherently the big takeaway that I have seen over the years is that bad data is just costly. It's costly at every single level across the company. I think, you know, to start with the people who are working, who have to deal with it. It is it hampers their productivity, if you don't upfront spend that time and effort in trying to keep things clean
 and it affects our morale, because they feel that you know this is, this is just I spend so much time doing something I don't want to do. It can also affect, it can cause liabilities, you can sometimes end up sharing information that you had you're not supposed to, or you shared incorrect information. That's specially a problem if if you're a public traded publicly traded company and you had an earnings call where you said, I have you know X number of monthly active users and then the next earnings call you're like, well just kidding, it's actually 20% lower because I made a mistake. 
 
@@ -109,7 +110,7 @@ their talents to be used in an optimal way. And you don't want people leaving le
 So good. So next you know how do we actually solve it. My my thought here is, I think, I think we solve it by thinking like Sherlock Holmes and for for those of you who are not familiar with him. Sherlock Holmes is a fictitious character created by Sir Arthur Conan Doyle, he is arguably one of the most famous fictional detectives and there's a lot of books
 and movies about like that character, so check it out if you haven't had the chance to. 
 
-## Why Sherlock Holmes? 
+## Why Sherlock Holmes? (17:44)
 So, why did I actually pick Sherlock Holmes. For you know, why did I pick that we should emulate his his style, so I actually think that his style of solving crimes is very relevant to data scientists. Even though hopefully we're not solving crimes, just data issues, but I think inherently we're doing investigations and I think a lot of his personality traits are very good. If you think of a philosophy of how data scientist should think, I think it's very it's it's it's a it's very relevant and inherently Sherlock Holmes is always
 presented as a very very data-driven character, so I think his methodologies are actually extremely relevant. And the three sort of traits of his, that I picked which are sort of, you know larger bucketing of of some of his personality are: deep observation, scientific method and pattern matching. So, let's dive into a little bit of each of these and see
 how they sort of manifest.
@@ -130,7 +131,7 @@ The next thing again,about improving your observation is to structure your think
 structured, you have to keep good documentation. I think for data scientists it's especially relevant, because you know sometimes during our analysis, we'll make some assumptions 
 and if it's not or we'll make some decisions, rather and if it's not an intuitive decision like why did we make that decision, maybe we made it because we spoke to a colleague who pointed something out.  And if two months later, we'd forget why we why we decided to go this direction with our analysis, it will be really helpful to you if you have actually sort of documented that somewhere, so that even you yourself are not struggling with figuring out why you, why you did something specific. So you know and and like being structured also means that you you try to look at information and sift through it and say like you know let me step back and decide what is actually useful to me, what is just a red herring or something that's kind of taking me away from what I'm actually trying to do here. 
 
-## Scientific Method
+## Scientific Method (22:24)
 The next character trait was scientific method. And here again, you know the famous quote here is: "When you have eliminated the impossible, whatever remains, however improbable, must be the truth" It's a very, it's a very scientific way of thinking about it, cause we you know we have to regard facts as truth. Even if we can't see it and if the most likely answer is not the answer and the impossible answer is not the answer, we have to give the improbable answer a chance to prove itself. And we have to be truthful, saying that if this is where things are pointing me I have to give it a shot, to sort of see if that's actually true or not. 
 
 ## Avoid the trap of bias
@@ -143,7 +144,7 @@ higher, but your rate of conversion is actually lowering your you're missing out
 ## Build hypothesis to be tested 
 And then you know, the last way to build this skill, is to you know regular science facts like: build a hypothesis test it out, if you have multiple multiple options to go with you rank them pick the most likely one first to test out, and keep kind of validating each of them until you find something that fully explains what issues you might be having.  
 
-## Pattern Matching 
+## Pattern Matching  (25:55)
 The last skill was about pattern matching, so you know, "There is nothing more deceptive that an obvious fact" as Sherlock Holmes said. And it's it's it's because you know the
 interesting thing, was Holmes was actually considered to be very good at understanding human behavior and predicting human behavior, even though he was considered someone who wasn't
 actually very good at empathizing. And I and that may seem you know not very aligned, but the sheer fact is that when you understand, when you understand situations, people all of that, better you are much more easily able to find patterns. And you know that hey this may present as an obvious fact, but it's very common for people to sort of you know stated as a fact, but it's not it's not true, so like let me dig into it a little bit more.
@@ -157,14 +158,14 @@ The last way to sort of improve on that skill, is to just in general widen your 
 the product, understanding the users, understanding how your marketing channel works, and things like that, it can actually allow you to make a hypothesis much more easily, when you sees things that are going wrong. And you'd be in a better position because you would have seen some odd things that happen, which if you just focused on the data you
 wouldn't have access to so it, it basically allows you to consider you know factors outside of just just what's in what's in front of you. 
 
-## Let's walk through an example
+## Let's walk through an example (28:44)
 All right, so hopefully they're all made sense, so far. Now, we are actually going to walk through an example, so you know we hopefully we understand a little bit how Sherlock Holmes thinks and how we can apply his mindset to our own problem-solving techniques.  So now I'm going to walk through a simple example, where we will try to use some of those philosophies that I kind of just highlighted. And for the sake of simplicity, I am going to go with the assumption, that we eventually have one warehouse where we store all our data regardless of where it comes from so whether it's initially coming from, Salesforce heap, website logs, whatever. All of it comes and it sits in one data warehouses. I want to make life my life
 easier and just compare two data sets in the same place. 
 
 ## It always starts with a question!
 So this is, this is typically, how they how the question starts and I I hope a lot of you can relate to this specific example. Which is, you know, you have a colleague maybe they are in Marketing or something and they come to you with the question. They say, the number of sales in May I pulled one number from Salesforce report and today they reported something else in All Hands and you know what's the deal? Why they why they are not matching, so obviously a lot of things could have gone wrong. And for the purpose of this example, we are actually going to pretend everything that could go wrong, did indeed go wrong.  And yeah I'll add that you know of course, if you've been at a company for a while or if you've interacted with that same data set for a long time, you'd probably have you'd probably start building out a good idea of where the problem might be. But for this example, yeah for this example, I am going to assume that you just joined two hours ago, you know no one, you know nothing, all you know is your Snowflake warehouse password and what the offending data sets are. 
 
-## Sanity checklist to examine the facts
+## Sanity checklist to examine the facts (30:45)
 So before we begin actual coding, some simple sanity check lists to just examine the facts. We are talking about two different numbers. Basic questions are: they even supposed
 to represent the same information? Sometimes numbers may be called the same thing, but they're actually not supposed to represent the same thing at all.  
 
