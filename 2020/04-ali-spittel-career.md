@@ -4,11 +4,12 @@
 - Meetup Event:  https://www.meetup.com/nyc-data-umbrella/events/270750046/
 - Video:  https://youtu.be/1X5h0FRqKVs
 - Slides:  https://docs.google.com/presentation/d/1TmOV7METdgBjDkTHhy_C2fZwYWUZ7fJFgQ8BAZIKqZc/edit?usp=sharing
-- Transcribed by:  
+- Transcribed by:  Janine
 
 ## Transcript
 
 The Career Advice I Wish I Had by Ali Spittel
+
 All right it's 7:05 so I'll do my intro bit and we can hop into yours. Awesome. 
 
 Ty: Hey everyone. My name is Ty I will be doing an intro, a quick intro and then Ali will be giving her presentation. If you have questions there's a QA function in Zoom so you can ask the questions there. If I can answer it I'll help answer if not we will run through them at the end. Awesome. Okay so I'm just gonna give a quick introduction then Ali will talk and then we'll do QA. This will be recorded so if something happens you have to leave or someone you know wasn't able to attend, the recording will automatically be sent out by General Assembly. Usually I think it's within a day but it might be two days. So just an intro on Ali.  She teaches people how to code. She loves Python, JavaScript and talking about code and she's always been interested in programming, art and education. She's on the distinguished faculty at General Assembly and then she runs courses there. So her home page alispit.tel.  She’s got a pretty cool domain name there. What is .tel? Is that...what, like, region is that? 
