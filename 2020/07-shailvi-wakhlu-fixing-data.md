@@ -1,11 +1,13 @@
 # Shailvi Wakhlu:  Fixing Bad Data
 
-video:  https://youtu.be/O5Z1-9Ohoro
+## Key Links
+- Meetup Event:  https://www.meetup.com/nyc-data-umbrella/events/271116695/
+- Video:  https://youtu.be/O5Z1-9Ohoro
+- Slides:  not available
+- Transcribed by:  Juanita Palomar
+
 
 ## Video Transcript
-    Speaker:  Shailvi Wakhlu
-    Video: How Would Sherlock Holmes Fix Bad Data? (54:33)
-    Transcriber: Juanita Palomar
 
 ## Intro (0:00)
 Okay, so it says it's ready, great.
