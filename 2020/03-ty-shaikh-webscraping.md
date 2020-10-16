@@ -1,7 +1,14 @@
 # Ty Shaikh: Scraping Poshmark Data with Python
 
-## Video
-https://youtu.be/0L1uM_18TTA
+## Key Links
+- Meetup Event:  https://www.meetup.com/nyc-data-umbrella/events/270285046/
+- Video:  https://youtu.be/0L1uM_18TTA
+- GitHub repo:  https://github.com/ty-shaikh/scraping_poshmark_webinar
+- Binder:  https://mybinder.org/v2/gh/ty-shaikh/scraping_poshmark_webinar/master?filepath=1-scraping_poshmark_listings.ipynb
+
+
+## Transcript
+
 
 everyone I am doing a recording of the
 scraping presentation and the original
