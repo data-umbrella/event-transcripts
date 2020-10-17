@@ -3,7 +3,8 @@
 ## Key Links
 - Meetup Event:  https://www.meetup.com/nyc-data-umbrella/events/271403343/
 - Video: https://youtu.be/sqN0bFWrS6Q
-- Slides:  
+- GitHub: http://github.com/spbail
+
 - Transcriber: Isaack Mungui (Twitter: [@icky254](https://twitter.com/icky254) )
 
 ## Transcript
