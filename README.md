@@ -1,10 +1,10 @@
-# Event Transcripts
+# Data Umbrella Event Transcripts
 
 
 ---
 
 ## [Videos](https://www.youtube.com/c/DataUmbrella/videos)
-
+Subscribe to our YouTube [Data Umbrella channel](https://www.youtube.com/c/DataUmbrella/videos).
 
 | #  | Speaker             | Talk Transcript                                        | Note                   | Transcriber  | Status |
 |----|---------------------|----------------------------------------------------------|------------------------|--------------|--------|
