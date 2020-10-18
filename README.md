@@ -6,6 +6,10 @@
 ## [Videos](https://www.youtube.com/c/DataUmbrella/videos)
 Subscribe to our YouTube [Data Umbrella channel](https://www.youtube.com/c/DataUmbrella/videos).
 
+## [Contributing Guide](CONTRIBUTING.md)
+Review our [instructions](CONTRIBUTING.md) before beginning editing / transcribing work.  
+
+
 | #  | Speaker             | Talk Transcript                                        | Note                   | Transcriber  | Status |
 |----|---------------------|----------------------------------------------------------|------------------------|--------------|--------|
 | 01 | Hugo Bowne-Anderson | Bayesian Data Science                                    | no recording available | N/A          | N/A    |
