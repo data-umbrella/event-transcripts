@@ -1,5 +1,5 @@
 <p float="left">
- <a href="https://www.dataumbrella.org" target="_blank"> <img src="images/full logo-transparent copy.png" height="40%" width="40%" /> </a>
+ <a href="https://www.dataumbrella.org" target="_blank"> <img src="images/full_logo_transparent.png" height="40%" width="40%" /> </a>
   <img  width="150" />
 
 </p>
