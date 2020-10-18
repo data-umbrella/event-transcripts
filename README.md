@@ -1,4 +1,10 @@
-# Data Umbrella Event Transcripts
+<p float="left">
+ <a href="https://www.dataumbrella.org" target="_blank"> <img src="images/full logo-transparent copy.png" height="40%" width="40%" /> </a>
+  <img  width="150" />
+
+</p>
+
+# Event Transcripts
 
 
 ---
