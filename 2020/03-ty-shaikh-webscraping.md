@@ -11,22 +11,12 @@
 ## Transcript
 
 
-everyone I am doing a recording of the
-scraping presentation and the original
-recording from the webinar didn't come
-out well so this is just a recording in
-today's presentation I'm going to talk
-about web scraping we're going to look
-at the website Poshmark comm and we're
-going to use Python and some additional
-packages to gather the data so agenda
-I'm gonna give a quick introduction
-about myself and the group then we're
-going to talk about web scraping and
-high level then we'll walk through a
-code example I'm going to share the code
-files so you can walk through it on your
-own as well and then during the webinar
+Hi everyone I am doing a recording of the scraping presentation the original recording from the webinar didn't come out well so this is just a re-recording. In
+today's presentation I'm going to talk about web scraping. We're going to look at the website Poshmark.com and we're going to use Python and some additional
+packages to gather the data. So agenda I'm gonna give a quick introduction about myself and the group. Then we're going to talk about web scraping and high level. Then we'll walk through a code example.
+
+### Start introduction (0:36 / 44:31)
+I'm going to share the code files so you can walk through it on your own as well and then during the webinar
 there was obviously QA it's a little bit
 about me I'm a product manager with
 General Assembly I used to run
