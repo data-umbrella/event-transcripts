@@ -23,8 +23,9 @@ Here is what the **raw markdown** file looks like:
 https://raw.githubusercontent.com/data-umbrella/event-transcripts/main/2020/06-reshama-shaikh-sklearn-pr.md
 
 ### Submitting Edits
-You can submit edits in either of these formats:  
-1. **Pull Request:** Use a code editor and submit a PR (Markdown file).  
+You can submit edits in one of these formats:  
+1. **GitHub Pull Request:** Edit the file on GitHub and submit a PR that way.
+1. **Pull Request:** Use a code editor and submit a PR (Markdown file) using command line.  
 1. **Google Doc:**  If you are unfamiliar with how to submit a PR, you can copy the text into a Google doc and edit it there and send back the link to the edited doc.
 
 ### Transcribing
