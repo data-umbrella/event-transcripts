@@ -6,7 +6,7 @@
 - Transcriber: [Reshama Shaikh](https://twitter.com/reshamas)
 
 ## Video
-<a href="https://youtu.be/PU1WyDPGePI"><img src="images/sklearn_rs_video.png" width="80%" /></a>
+<a href="https://youtu.be/PU1WyDPGePI"><img src="images/sklearn_rs_video.png" width="50%" /></a>
 
 ---
 
