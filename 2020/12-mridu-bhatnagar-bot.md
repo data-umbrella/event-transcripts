@@ -1,6 +1,15 @@
 # Mridu Bhatnagar:  Building a Conversational Bot for WhatsApp w/Twilio & Python
 
-video:  https://youtu.be/dqab-FcAirA
+## Key Links
+- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/12-mridu-bhatnagar-bot.md
+- Meetup Event:  https://www.meetup.com/nyc-data-umbrella/events/272365664/
+- Video:  https://youtu.be/dqab-FcAirA
+- Slides:  not applicable
+- GitHub repo:  not applicable
+- Transcriber:  ? [needs a transcriber]
+
+
+## Transcript
 
 hey everybody welcome to a data umbrella
 webinar
