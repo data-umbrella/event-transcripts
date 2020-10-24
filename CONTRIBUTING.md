@@ -47,3 +47,23 @@ You can submit edits in one of these formats:
 ### Notes
 - It can take a good 2 to 4 hours to edit a transcript for a 1-hour video.  
 - It is not necessary to include screenshots of slides.
+
+--
+
+## Standard Header in Transcription
+Here is an example of a standard header in a transcript file
+
+```text
+# Ty Shaikh: Scraping Poshmark Data with Python
+
+## Key Links
+- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/03-ty-shaikh-webscraping.md
+- Meetup Event:  https://www.meetup.com/nyc-data-umbrella/events/270285046/
+- Video:  https://youtu.be/0L1uM_18TTA
+- Slides:  not applicable
+- GitHub repo:  https://github.com/ty-shaikh/scraping_poshmark_webinar
+- Binder:  https://mybinder.org/v2/gh/ty-shaikh/scraping_poshmark_webinar/master?filepath=1-scraping_poshmark_listings.ipynb
+- Transcriber:  ? [needs a transcriber]
+
+## Transcript
+```
