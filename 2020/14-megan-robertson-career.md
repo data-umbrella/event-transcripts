@@ -1,3 +1,16 @@
+# Megan Robertson: 3 Lessons from 3 Years of Data Science
+
+## Key Links
+- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/14-megan-robertson-career.md
+- Meetup Event:  https://www.meetup.com/data-umbrella/events/272851917/
+- Video:  https://youtu.be/vu7pTNby0Og
+- Slides:  not applicable
+- GitHub repo:  not applicable
+- Transcriber:  Sethupathy [BUT WE need someone to review transcript]
+
+## Transcript
+
+
 Hi, Everyone,
 
 Welcome to Data Umbrella's webinar. My name is Reshama and I’m just going to go over some housekeeping.  The way that the webinar will work tonight is that I do a brief introduction Megan is going to be doing  her talk and what you can do is there's a tab on the webinar platform for Q&A so feel free to post any questions there and when you know when it's a good breaking point Megan will answer any questions that you have. This webinar is being recorded.
