@@ -4,7 +4,7 @@
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/08-matt-brems-missing-data.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/271243174/
 - Video:  https://youtu.be/LJKYXq3WHTw
-- Slides:  see GitHub repo
+- Slides:  https://github.com/matthewbrems/missing_data_short_version/blob/master/missing_data_slides.pdf
 - GitHub repo:  https://github.com/matthewbrems/missing_data_short_version
 - Transcriber:   ? [needs a transcriber]
 
