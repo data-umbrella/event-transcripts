@@ -4,7 +4,7 @@
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/12-mridu-bhatnagar-bot.md
 - Meetup Event:  https://www.meetup.com/nyc-data-umbrella/events/272365664/
 - Video:  https://youtu.be/dqab-FcAirA
-- Slides:  not applicable
+- Slides:  https://docs.google.com/presentation/d/1IlBnr7UUwIo2kukgSd201JQgsCyVkMuHyd-pK3zwe9I/edit#slide=id.p
 - GitHub repo:  not applicable
 - Transcriber:  ? [needs a transcriber]
 
