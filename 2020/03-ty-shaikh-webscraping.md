@@ -4,9 +4,10 @@
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/03-ty-shaikh-webscraping.md
 - Meetup Event:  https://www.meetup.com/nyc-data-umbrella/events/270285046/
 - Video:  https://youtu.be/0L1uM_18TTA
+- Slides:  not applicable
 - GitHub repo:  https://github.com/ty-shaikh/scraping_poshmark_webinar
 - Binder:  https://mybinder.org/v2/gh/ty-shaikh/scraping_poshmark_webinar/master?filepath=1-scraping_poshmark_listings.ipynb
-- Transcriber:  ?
+- Transcriber:  ? [needs a transcriber]
 
 
 
