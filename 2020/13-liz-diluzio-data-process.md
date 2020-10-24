@@ -1,12 +1,16 @@
-## Video Transcript
-- Speaker:  [Liz DiLuzio](https://twitter.com/lizdiluzio)
-- Video:  [Creating Nimble Data Processes](https://youtu.be/LZuJlZIDIbo) (50 minutes)
+## Liz DiLuzio:  Create Nimble Data Collection & Reporting Processes
+- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/13-liz-diluzio-data-process.md
+- Meetup event:  https://www.meetup.com/data-umbrella/events/272472729/
+- Video:  https://youtu.be/LZuJlZIDIbo
+- Slides:  not applicable
+- GitHub repo:  not applicable
 - Transcriber: [Lily Su](https://twitter.com/printing_3D)
 
 ## Video
 <a href="https://youtu.be/LZuJlZIDIbo"><img src="images/nimble_data_video1.PNG" width="80%" /></a>
 
----
+
+## Transcript
 
 ### About Data Umbrella
 
