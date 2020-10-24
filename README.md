@@ -16,7 +16,7 @@ Review our [instructions](CONTRIBUTING.md) before beginning editing / transcribi
 |----|---------------------|----------------------------------------------------------|------------------------|--------------|--------|
 | 01 | Hugo Bowne-Anderson | Bayesian Data Science                                    | no recording available | N/A          | N/A    |
 | 02 | Bruno Goncalves     | Time Series Modeling                                     | no recording available | N/A          | N/A    |
-| 03 | Ty Shaikh           | [Webscraping Poshmark](2020/03-ty-shaikh-webscraping.md) | header :white_check_mark:                       | ?            |        |
+| 03 | Ty Shaikh           | [Webscraping Poshmark](2020/03-ty-shaikh-webscraping.md) |                       | ?            |        |
 | 04 | Ali Spittel         | [Navigating Your Tech Career](2020/04-ali-spittel-career.md)  |                   | Janine     |    Needs reviewer    |
 | 05 | Andreas Mueller     | [Crash Course in Contributing to Scikit-learn](2020/05-andreas-mueller-contributing.md) || Reshama  | Complete |
 | 06 | Reshama Shaikh      | [Example PR for Scikit-learn](2020/06-reshama-shaikh-sklearn-pr.md)    |           | Reshama / Mark  | Complete |
