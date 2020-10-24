@@ -1,14 +1,14 @@
-# Shailvi Wakhlu:  Fixing Bad Data
+# Shailvi Wakhlu:  Fixing Bad Data (Using SQL)
 
 ## Key Links
-- Event transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/07-shailvi-wakhlu-fixing-data.md
+- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/07-shailvi-wakhlu-fixing-data.md
 - Meetup Event:  https://www.meetup.com/nyc-data-umbrella/events/271116695/
 - Video:  https://youtu.be/O5Z1-9Ohoro
 - Slides:  not available
+- GitHub repo:  not applicable
 - Transcribed by:  Juanita Palomar
 
-
-## Video Transcript
+## Transcript
 
 ## Intro (0:00)
 Okay, so it says it's ready, great.
