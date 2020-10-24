@@ -1,7 +1,14 @@
 # Emily Gouillart:  Data Visualization with Plotly
 
-video:  https://youtu.be/BxIoQ0gsxzA
+## Key Links
+- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/15-emma-gouillart-plotly.md
+- Meetup Event:  https://www.meetup.com/data-umbrella/events/272683860/
+- Video:  https://youtu.be/BxIoQ0gsxzA
+- Slides:  not applicable
+- GitHub repo:  not applicable
+- Transcriber:  ? [needs a transcriber]
 
+## Transcript
 
 welcome to data umbrella
 um i'm going to just go over the agenda
