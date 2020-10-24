@@ -9,7 +9,7 @@
 Subscribe to our YouTube [Data Umbrella channel](https://www.youtube.com/c/DataUmbrella/videos).
 
 ## [Contributing Guide](CONTRIBUTING.md)
-Review our [instructions](CONTRIBUTING.md) before beginning editing / transcribing work.  
+Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing / transcribing work.  
 
 
 | #  | Speaker             | Talk Transcript                                        | Note                   | Transcriber  | Status |
