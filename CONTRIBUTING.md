@@ -48,7 +48,6 @@ You can submit edits in one of these formats:
 - It can take a good 2 to 4 hours to edit a transcript for a 1-hour video.  
 - It is not necessary to include screenshots of slides.
 
---
 
 ## Standard Header in Transcription
 Here is an example of a standard header in a transcript file
