@@ -1,14 +1,14 @@
-# Ali Spittel:  Navigating Your Tech Career
+# Ali Spittel:  Navigating Your Tech Career (The Career Advice I Wish I Had)
 
 ## Key Links
+- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/04-ali-spittel-career.md
 - Meetup Event:  https://www.meetup.com/nyc-data-umbrella/events/270750046/
 - Video:  https://youtu.be/1X5h0FRqKVs
 - Slides:  https://docs.google.com/presentation/d/1TmOV7METdgBjDkTHhy_C2fZwYWUZ7fJFgQ8BAZIKqZc/edit?usp=sharing
+- GitHub repo:  Not applicable
 - Transcribed by:  Janine
 
 ## Transcript
-
-The Career Advice I Wish I Had by Ali Spittel
 
 All right it's 7:05 so I'll do my intro bit and we can hop into yours. Awesome. 
 
