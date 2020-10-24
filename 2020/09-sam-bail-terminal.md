@@ -1,11 +1,12 @@
 # Sam Bail:  Intro to Terminal
 
 ## Key Links
+- Transcript:   https://github.com/data-umbrella/event-transcripts/blob/main/2020/09-sam-bail-terminal.md
 - Meetup Event:  https://www.meetup.com/nyc-data-umbrella/events/271403343/
 - Video: https://youtu.be/sqN0bFWrS6Q
 - GitHub: http://github.com/spbail
+- Transcriber: Isaack Mungui (Twitter: [@aicky254](https://twitter.com/aicky254) )
 
-- Transcriber: Isaack Mungui (Twitter: [@icky254](https://twitter.com/icky254) )
 
 ## Transcript
 
