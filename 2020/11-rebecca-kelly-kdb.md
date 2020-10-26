@@ -8,7 +8,9 @@
 
 Hi everybody, welcome to Data Umbrellas
 webinar. I'm just gonna go over a brief
-introduction. So I'm gonna introduce Data
+introduction. 
+
+So I'm gonna introduce Data
 Umbrella of Rebecca Kelly is going to do
 her talk and then you can ask questions
 in the Q&A tab or you can ask in the
@@ -18,35 +20,44 @@ the questions come in we can sort of I
 might interrupt Rebecca if it's a
 good time to interrupt her but we'll get
 the questions answered and this webinar
-is being recorded. About me I am the
+is being recorded.
+
+About me I am the
 founder of Data Umbrella. I'm a
 statistician by training and a data
 scientist and I also organize for the
 New York City chapter of Py ladies and
-I'm on Twitter @reshamas. The mission of
+I'm on Twitter @reshamas. 
+
+The mission of
 Data Umbrella is to provide a welcoming
 education inclusive space for
 underrepresented persons in data science
 and we are a volunteer run organization.
+
 Py ladies is a international group of
 Python ladies and gender minorities
 and you know it's basically got Python
 and all all things related to Python
 check up check out our homepage and
-follow us on Twitter. I just want to go
+follow us on Twitter. 
+
+I just want to go
 over our code of conduct we're dedicated
 to providing harassment free
 professional experience for everybody
 and please keep that in mind any of the
-chat messages as well. I took a
-screenshot of some of the the website
+chat messages as well. 
+
+I took a screenshot of some of the the website
 for Data Umbrella and it has a lot of
 resources and those resources include on
 open source on sources for learning
 Python and are about accessibility and
 responsibility and data science and I
-encourage you to check it out so for any
-upcoming event or data umbrella the best
+encourage you to check it out. 
+
+So for any upcoming event or data umbrella the best
 place to find them is on the meetup page
 so if you just want to become a member
 that's really the best place. We do also
@@ -54,25 +65,31 @@ share them on Twitter and LinkedIn
 and Facebook so depending on the
 platform the choice that's the if you
 find out what we're up to
-via those social media avenues and
-I'm going to turn this over to Rebecca
+via those social media avenues. 
+
+And I'm going to turn this over to Rebecca
 and let Rebecca sort of introduce
 herself and provide information about
 her background as well. Great. Thank you,
-very much. Well I just take over the
+very much. 
+
+Well I just take over the
 screen there okay okay so can everyone
 see my screen? Here let me just.
 Oh actually have lost the questions now
 that I'm in this view. Let me think.
 Is there a way?
+
 Oh maybe I can pop this out. Okay we'll
 do that. Can you see this on my screen?
 Okay okay because I can. I can read the 
 questions and that will be fine. Okay.
+
 Maybe if you can interrupt me if there's any questions
 just because I don't think I'll be able to see them.
 Apologies. Okay no problem.
 Thank you. Thanks appreciate it.
+
 Um so hello everybody I'm Rebecca. I'm
 very happy to be here talking to you all
 today about Kdb+. I work in New
@@ -85,6 +102,7 @@ grab a coffee whenever that's socially
 acceptable again so I'm based in New
 York and I work as a Technical
 Evangelist 4kx.
+
 I've worked with the company for I was
 just actually chatting with this work
 company for about five years started as
@@ -101,7 +119,9 @@ few different places
 location-wise which was which was fun
 and I'll actually get into that a little
 bit when I talk about some more about
-tech so the way I've approached it today.
+tech. 
+
+So the way I've approached it today.
 I did obviously you know look around and
 I saw that the mission statement for
 Data Umbrella is to provide a welcoming
@@ -113,14 +133,16 @@ very good grounding on you know what is
 Kx as a company. What does the technology
 look like? Who uses this. What's the user
 for? And then what does that mean for you?
+
 Before I jump into the demo and the demonstration will
 do my absolute best to cover as much as
 I possibly can of this language which is
 quite quite broad.
 So hopefully you'll come away with a
 very good understanding and knowing
-where to go for more resources so Kx is
-a division of First Derivatives Kx is a
+where to go for more resources.
+
+So Kx is a division of First Derivatives Kx is a
 software company and are the software
 that we produced is a high-performance
 time series database. So we've actually
@@ -128,7 +150,9 @@ been around for quite a number of years
 now we started in the finance space. So
 kind of you know FinTech and really kind
 of focused on the problem of how to deal
-with big data. So when people talk about
+with big data. 
+
+So when people talk about
 big data they tend to kind of split it
 into these the V's so the the four V's
 there's a volume, velocity, variety and
@@ -162,8 +186,9 @@ of finance related stuff but like I said
 we are kind of working in these other
 verticals and it's actually really
 interesting to see the the difference and
-the similarity between the datasets. So
-if you think about finance
+the similarity between the datasets. 
+
+So if you think about finance
 in one way in which it will be very
 different from something like IOT or
 manufacturing is the the pickiness of
@@ -190,7 +215,9 @@ devices and kind of aggregating that
 together which is not so dissimilar to
 capturing all of the the data from the
 markets and trying to action that in the
-in the finance space. So just to lay a
+in the finance space. 
+
+So just to lay a
 little bit of the scene the technology
 so anybody who might already be familiar
 with a little bit the technology will be
@@ -208,13 +235,13 @@ turing-complete programming language
 that you use to actually query and
 retrieve the data from the database and
 that's the language that I'll be showing
-you in the demo in a moment. Again more
-effective because pictures tell a
+you in the demo in a moment. 
+
+Again more effective because pictures tell a
 thousand words. I'm gonna break down I
 suppose some of the key features of the
 language and in a way that I hope will
-help
-understand how it might be different to
+help understand how it might be different to
 or similar to other languages that
 people have worked with before. So it's a
 functional language. That means that you
@@ -236,7 +263,9 @@ actually quite beneficial that the the
 speed of execution is it's short you
 don't have to go and take a big tea
 break every time you want to to run some
-code for example it's a columnar
+code for example.
+
+It's a columnar
 base to database so if you're familiar
 with other databases like MySQL for
 example those are typically although
@@ -258,8 +287,9 @@ a subset you're trying to kind of
 aggregate it to all those things. So it's
 very common that you would do something
 like I would like all the data on this
-day's for the Apple stock for example. So
-what they columnar new database that means
+day's for the Apple stock for example. 
+
+So what they columnar new database that means
 you can kind of go to so that you know
 you can go to the particular date that
 you care about you can go to the you
@@ -267,11 +297,11 @@ know the the the stock name and you can
 kind of filter based off of those
 criteria and then only pull back the
 rest of the data for the rows where
-where it's actually met your filter. So
-it's a much more
-memory efficient way of trying to work
-with these bigger data sets. It's very
-fast and yeah I like to throw this one
+where it's actually met your filter. 
+So it's a much more memory efficient way 
+of trying to work with these bigger data sets. 
+
+It's very fast and yeah I like to throw this one
 and I upgraded my car from the first
 version because we actually do work with
 awesome marks marking Red Bull Racing. So
@@ -294,7 +324,9 @@ supporting it or actually maintaining
 that code you're working with a much
 smaller kind of code sash which is often
 quite beneficial for for for these kind
-of systems. This is the table. Sometimes
+of systems. 
+
+This is the table. Sometimes
 people don't know what this is. Tables
 are first-order data type in the
 language. So it's a valid statement to
@@ -307,6 +339,7 @@ the problem of data as not just kind of
 a secondary consideration but as the
 the primary motivation for the software.
 So so tables are really front and entered.
+
 This is time and this is this is really
 about I suppose the fluidity of it and being
 able to kind of work between different
@@ -333,8 +366,9 @@ that we possibly could do for our for a
 customer that we're executing on behalf
 of so there are a number of joins in the
 in the language that are specific to
-time that are based around that. I will
-show you the As of join when we get to
+time that are based around that. 
+
+I will show you the As of join when we get to
 the demo but I suppose to kind of go the
 more generalized side of things there
 there is a window join in there that
@@ -356,16 +390,19 @@ So it's really all about kind of context
 and time is I think the the ultimate
 context without without running the risk
 of sounding far to um introspective
-but a but that's that's the idea. When
-doing is the you know bread and butter
+but a but that's that's the idea. 
+
+Windowing is the you know bread and butter
 working with big data you know 
 you have so much data you need to
 oftentimes you know work with it and
 these in these kind of smaller time
 periods being able to kind of
 chop and slice and dice all the data
-that you're working with. So when doing
-is important this is about aggregation
+that you're working with. So windowing
+is important.
+
+This is about aggregation
 data aggregation data filtering all of
 those good things again Big Data so you
 know if you're talking about petabytes
@@ -379,7 +416,9 @@ that you want to see it in the kind of
 one of the statistics that you care
 about on the on the subsets of data that
 you care about and and kind of continue
-from there. So this is actually a little
+from there. 
+
+So this is actually a little
 bit of an older reference maybe then
 then people might be familiar with but
 this is a lambda here and it refers to
@@ -408,7 +447,9 @@ if you're working in in real time
 another for in memory another for on
 disk and maybe another for streaming but
 that's not something that that you have
-to to worry about. This is it looks like
+to to worry about. 
+
+This is it looks like
 a waterfall. It's supposed to be
 stream. I wanted to highlight the the
 streaming capabilities because I think
@@ -419,9 +460,11 @@ group of people here it is certainly
 worth highlighting the the streaming
 capabilities of the language because I
 think it's a it's really a place where
-we Excel and where maybe there's not
+we excel and where maybe there's not
 always a great fit with some other
-languages. So I've said a few times about
+languages. 
+
+So I've said a few times about
 how great it is and obviously I would. So
 this is just to say you don't have to
 take my word for it and we do
@@ -449,15 +492,16 @@ care about we'll define appropriate
 tests to to to track all of these things
 and then that will help you be able to
 decide which you know which which
-software fits your needs the best. So for
-us the ones that we tend to really
+software fits your needs the best. 
+So for us the ones that we tend to really
 dominate in and where we I suppose see
 the most use both in our customers as
 well is in the in-memory compute and
 mass of data at rest so I've kind of
 expected. So that so that's that's just
-to say you don't have to just trust me
-here's a quick a little bit of a
+to say you don't have to just trust me.
+
+Here's a quick a little bit of a
 whistle-stop tour of some of our clients
 partners. I whoops go back. It's running
 away from me. um I've had the fortunate
@@ -471,8 +515,9 @@ to work on when I joined the company. It
 was great. They sent me to Sydney. I loved
 it.
 The weather was amazing all the time
-everyone was lovely but but yeah. So so
-that was a project where it was the
+everyone was lovely but but yeah. 
+
+So so that was a project where it was the
 Australian Securities and Investment
 Commission who are charged with
 overseeing the entire market really. So
@@ -481,7 +526,9 @@ a great place to be. If you're if you are
 you know if you're someone like me who
 just enjoy seeing that full picture
 and we were working on market
-surveillance. So the company chaox we
+surveillance. 
+
+So the company chaox we
 built we brought in a um and built a market
 surveillance system. So we would take all
 the data in real time and we were
@@ -493,6 +540,7 @@ people are layering insider trading all
 of those things had to be kind of
 codified and then um and then applied to
 the data. So that was great.
+
 I've also gotten to work with the
 awesome Martin Red Bull racing when that
 was first kicking off I was involved in
@@ -504,6 +552,7 @@ and that was that was very very
 interesting. There is an awful lot that
 actually goes on. In in in the in the
 Formula One racing world and a lot more.
+
 I suppose there's not really regulation
 because it's not a government body
 regulating them but they kind of group
@@ -521,7 +570,9 @@ with how much time they can spend
 punching those numbers because they all
 brought together and decided that this
 was the good number that they were going
-to say. So however many hours um
+to say. 
+
+So however many hours um
 so being able to run things faster
 obviously meant that they could get more
 actionable insights and it was just an
@@ -577,7 +628,9 @@ quant or strat or financial analyst this
 is a great technology to pick up to try
 and differentiate yourself from maybe
 maybe other people that are also
-applying. It's also like I said I find it
+applying. 
+
+It's also like I said I find it
 particularly useful with streaming data
 and again in terms of the effort being
 worthwhile for you rather than just
@@ -585,8 +638,9 @@ picking up another language where you
 can write hello world. Here's something
 that might actually help you be able to
 address different kinds of problems and
-yeah it's it's very interval. We have a
-whole team called our fusion team who
+yeah it's it's very interval. 
+
+We have a whole team called our fusion team who
 are dedicated to putting together these
 different adapters so that we play
 nicely with other technologies. Look the
@@ -601,8 +655,9 @@ have our freedom that should be
 something that you get to decide. So it's
 really it's really about you know doors
 open come on in and and the
-democratization of data really and then
-finally I think time. The most important
+democratization of data really.
+
+And then finally I think time. The most important
 well in my opinion the most important
 resource that that I think we have as
 people is our time and you know you want
@@ -642,6 +697,7 @@ of good and bad practices and something
 I see is that people will go to the
 database it you tend to gathered a lot
 in these kind of fractured environments.
+
 So in the top panel here what I see
 sometimes is that there is a database
 administration team and then there is
@@ -674,6 +730,7 @@ database and you put it somewhere else
 using data governance you know that that
 audit trail for who access that data is
 gone.
+
 So my recommendation and though it
 doesn't have to be our database but you
 know the best thing you possibly do to
@@ -705,8 +762,7 @@ is the flip side so it's a Python
 process that's got q embedded in the
 same memory space. So the difference
 would be the prompt that you're working
-with.
-So with embed py the base language is q
+with. So with embed py the base language is q
 and with py q did the said language is py q 
 and that's the main difference.
 
@@ -769,11 +825,13 @@ but a lot of information has a has a
 finite value horizon and certainly in
 finance that's stuff that can be quite
 short hopefully that answers the
-question. Are there anymore while
+question. 
+
+Are there anymore while
 actually well well we're kind of pause?
 No that was the only question.
 Okay okay well hopefully that answers
-and all continue on yeah 
+and all continue on yeah. 
 
 ### Machine Learning (34:06)
 
@@ -805,6 +863,7 @@ and this is me.
 
 Live Demo hopefully hopefully not everything.
 Here we go.
+
 So okay. I've got a Jupyter instance
 running and I actually have the ability
 to to run q you so there's a q kernel
@@ -823,7 +882,9 @@ embed py and it goes through the
 installation and setup and there's an
 and yeah hopefully that'll arm help you
 after this if you want to try reproduce
-some of this so the demo that I'm gonna
+some of this.
+
+So the demo that I'm gonna
 go through I'm gonna try and give you
 the biggest whistle software I possibly
 can of the language. So I'm going to show
@@ -840,12 +901,14 @@ between a query and in pandas versus in
 in our language we actually have an
 sql-like syntax that we refer to as q
 SQL for for that.
+
 I'll show real time so data that like
 working with data and memory working
 data on disk and streaming data and then
 finally the pipe and interoperability. So
 it's very ambitious but what but
 hopefully it'll be a good introduction.
+
 So I was saying that it's like numpy it
 is it's it's very much vector based so
 in this cell here all I'm doing is
@@ -860,7 +923,9 @@ that's just kind of automatically
 working pairwise so that's that's pretty
 neat and useful in a lot of ways but
 moving on actually getting our hands on
-some data. I have pre-loaded some
+some data. 
+
+I have pre-loaded some
 simulated trade and quote data. So this
 is what my quote table looks like. I've
 got my symbols the time and the
@@ -877,12 +942,15 @@ so that I can hopefully show a little
 bit of the the kind of side-by-side
 direct comparisons. So just to prove
 they're the same here we go.
+
 The good thing is because we're working
 in this Jupyter notebook environment we
 can actually we can run some cells in q and
 some cells in Python
 by using these neat little magic
-commands. So I'm going to recreate a very
+commands. 
+
+So I'm going to recreate a very
 common requirement for for financial
 data which is to create a volume
 weighted average price referred to as a
@@ -892,6 +960,7 @@ create this at the end of the day as an
 indicator to use for some for some
 different models. So if I do that in
 Python you can see it looks like this.
+
 Now obviously, I'm very aware I'm talking
 to a group of people who are quite
 Python literate so any suggestions on on
@@ -910,8 +979,9 @@ do as you as you would expect. I don't
 think there's anything here that I
 thought that people are struggling with
 but if there's any questions do you just
-chat wavg is weighted average. So yeah
-so it's very easy to kind of get that
+chat wavg is weighted average. 
+
+So yeah so it's very easy to kind of get that
 same breakdown and just to prove that
 those are the same and a more
 complicated thing that I didn't even
@@ -941,7 +1011,9 @@ that helps to kind of highlight or make
 it clear how kind of time focused the
 the language in the syntax is but we do
 have the the standard joints that you'd
-expect. So if we do have this kind of
+expect. 
+
+So if we do have this kind of
 reference table like this info is just
 giving us the full company names we can
 use a left join and append that
@@ -977,6 +1049,7 @@ kind of the idea behind it being able to
 kind of bring that context in and say
 well this was the quote and therefore
 therefore this this works like that.
+
 So just to show the tables. The benefit
 of being able to do this kind of
 analysis. So now that I've made this
@@ -996,8 +1069,9 @@ terms of its execution so that needs to
 be addressed for the clients. The neat
 thing about it being a programming
 language is that you can put code kind
-of directly into your break downs. So if
-you're used to maybe some other
+of directly into your break downs. 
+
+So if you're used to maybe some other
 languages you know that the break downs
 often have to be kind of existing
 columns. So this would be maybe a
@@ -1007,8 +1081,9 @@ break down on the kind of the next line
 working with a new table but because
 it's a full programming language you can
 put kind of whatever you you want in
-here to kind of get your breakdowns. So
-here I'm deciding if it was a valid
+here to kind of get your breakdowns. 
+
+So here I'm deciding if it was a valid
 trade or not by deciding by checking if
 the price was within that bidder asked
 from the quotes. So these cases here
@@ -1045,7 +1120,9 @@ wise this table is the same as it was in
 when we were working within a memory
 with the exception of this new column
 here which is the date which signifies
-the date. So normally in a kind of a
+the date. 
+
+So normally in a kind of a
 stock standard take capture system using
 the technology people would typically
 accumulate the data intraday in the in
@@ -1082,7 +1159,9 @@ exactly the kind of data that we might
 want to feed in to a model if you were
 trying to to have a look at you know
 beginning to understand the the market
-behavior and where things are. So I can
+behavior and where things are. 
+
+So I can
 take the actual the series so the the
 the end of day vwap for each stock and
 extracted from that table and get us so
@@ -1112,6 +1191,7 @@ the right that's what that's doing which
 is our price series for each to the
 different stocks and then finally we can
 actually go even further and check the.
+
 So this is looking a little funny
 because of my formatting but this is a
 this is the table if I see my for a
@@ -1125,7 +1205,9 @@ to just do it for for the two individual
 ones but yet I'm doing more so it's
 hopefully a little bit of a peek
 the kind of elegance of the language so
-to speak. Hmm if there's no questions or
+to speak. 
+
+Hmm if there's no questions or
 nothing so far I'm gonna jump into
 streaming and this were. Oh sorry.
 There is one question. Oh great. Okay.
@@ -1149,7 +1231,9 @@ extract from those and bring it in to
 kind of to this space and actually the
 the working in Jupyter has been quite um
 quite great for a lot of our of our
-developers really because the so I'm
+developers really because the. 
+
+So I'm
 currently got the q kernel running here
 with embed py which means that I can
 kind of swap in these different code
@@ -1171,6 +1255,7 @@ quite helpful if you're if you kind of
 like to use a few different things like
 I said best tool for the job and all
 that.
+
 A question. So q is a language and Kdb
 is a database. Is that right? Yeah. 
 I mean people tend to use them kind of
@@ -1179,6 +1264,7 @@ So Kdb+ is the is the database
 kind of so that historical data
 that I was looking at would be written
 down in in kind of that format. Okay.
+
 So I'm going to let you go back to the
 presentation but I just want to add that
 JupyterCon is coming up. So if you want to
@@ -1202,7 +1288,9 @@ subscribe to some data in on the back
 end and you'll see that this is now
 changing the number of rows I have in my
 data is is changing as I get new data in
-to the system. So I can still work with
+to the system. 
+
+So I can still work with
 that live data even though it's it's
 streaming and calculate these kind of
 metrics on the fly. So I think that my
@@ -1212,6 +1300,7 @@ those aren't changing. This is where I
 normally go into my architect mode and
 talk a little bit about it good system
 design.
+
 So there's a very big difference between
 streaming analytics and kind of these ad
 hoc api's when it comes to what effect
@@ -1237,7 +1326,9 @@ don't like that if you if you're
 designing systems you don't like
 unknowns you don't like not being able
 to you know have things behave in a very
-expected way. So what we do in the kind of
+expected way. 
+
+So what we do in the kind of
 Kdb world is we we use
 streaming analytics. So streaming
 analytics are really just getting to
@@ -1295,8 +1386,9 @@ amout of time no matter what time of the
 day they put this in as opposed to the
 first query which will have you know
 different different runtimes at the end
-of day versus the beginning so streaming
-analytics are just very very powerful in
+of day versus the beginning.
+
+So streaming analytics are just very very powerful in
 that sense and that you can control the
 system in a very in a very I suppose
 discrete fashion and it does mean that
@@ -1326,13 +1418,17 @@ it or not some things are obviously
 harder than others
 but but it's it's it's really very
 powerful to be able to work with things
-incrementally. So if you're interested at
+incrementally. 
+
+So if you're interested at
 all in kind of capturing real-time data
 and maybe driving analytics or decisions
 off of it you know I it is very fun to
 play with and it's pretty easy to kind
 of set up different different
-connections. The audience being what it
+connections. 
+
+The audience being what it
 is. I thought I'd also show some Python
 integration because we because we all
 like Python here so that's great
@@ -1346,7 +1442,8 @@ each day I'm getting an even more
 granular time series I'm going to get
 the the kind of opening price in
 15-minute time buckets for each stock
-across all the days in my in my database
+across all the days in my in my database.
+
 So this is built a 15-minute bucketed
 time series for for each of my stocks
 and then I can import map Bartlett
@@ -1379,8 +1476,9 @@ said I'd the the size and all last and
 then I wrap all of this into a pipe into
 into a little function so this is going
 to take each of my time series and like
-I said they're at dictionary. So I'm
-pulling out the I'm pulling out the
+I said they're at dictionary. 
+
+So I'm pulling out the I'm pulling out the
 price and I'm pulling out the the symbol
 for for each of my sorry for each of my
 rows of my of my table and plot them
@@ -1396,7 +1494,9 @@ basically get passed through as a kind
 of a dictionary structure into into this
 and you can plot them all so that's
 that's a very quick whistle stop tour
-of the technology. I'll flick back to
+of the technology. 
+
+I'll flick back to
 slides now if I can yes and just say
 that if it's available for a
 non-commercial use so if you want to use
@@ -1422,12 +1522,16 @@ at least three major time zones but
 certainly in America. We have at least
 one a month in the U.S. time zone so for
 people that do want to just come along
-they're free. The the one-day workshops
+they're free. 
+
+The the one-day workshops
 the Kx introductory workshops are free
 and so you'd all be very welcome if
 you'd like to come and get get more
 hands-on with it in in a one day
-training. So that was me.
+training. 
+
+So that was me.
 This is a picture of me if anybody wants
 to stay in touch please do find me I'm
 on you can you can email me here rebecca@kx if you have any questions about
@@ -1438,6 +1542,7 @@ know interesting and even if it's not
 something you want to pursue hopefully
 it'll it has helped you know broaden
 your horizons. So certain so certain bit.
+
 Rebecca would you be able to put the link
 to the training in the chat.
 Oh yes I'll do that now. Yeah. That would
@@ -1449,6 +1554,7 @@ and I don't remember how to get to it.
 I'm struggling a bit.
 It's okay you know what I can do. I'm going
 to upload the video later and so I'll put the link to the training in there so people will be able to get it. Okay.
+
 There is one more question which is are
 q and Kdb+ open source and how are the requests for feature enhancements handled.
 They're not open source. No it's actually a very very very
