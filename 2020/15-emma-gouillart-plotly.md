@@ -4,7 +4,7 @@
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/15-emma-gouillart-plotly.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/272683860/
 - Video:  https://youtu.be/BxIoQ0gsxzA
-- Jupyter notebook:  [plotly-code](../resources/plotly-presentation.ipynb)
+- Jupyter notebook:  [plotly-code](https://github.com/data-umbrella/event-transcripts/blob/main/resources/plotly-code.ipynb)
 - GitHub repo:  not applicable
 - Transcriber:  ? [needs a transcriber]
 
