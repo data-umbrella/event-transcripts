@@ -10,6 +10,11 @@
 - Transcriber:  ? [needs a transcriber]
 
 
+## Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0L1uM_18TTA" target="_blank"><img src="http://img.youtube.com/vi/0L1uM_18TTA/0.jpg" 
+alt="Scraping Poshmark with Python" width="50%" /></a>
+
 
 ## Transcript
 
