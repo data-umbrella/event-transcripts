@@ -8,6 +8,11 @@
 - GitHub repo:  not applicable
 - Transcriber:  ? [needs a transcriber]
 
+## Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=BxIoQ0gsxzA" target="_blank"><img src="http://img.youtube.com/vi/BxIoQ0gsxzA/0.jpg" 
+alt=" Data Visualization with Plotly in Python" width="50%" /></a>
+
 ## Transcript
 
 welcome to data umbrella
