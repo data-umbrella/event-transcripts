@@ -8,6 +8,10 @@
 - GitHub repo:  https://github.com/matthewbrems/missing_data_short_version
 - Transcriber:   ? [needs a transcriber]
 
+## Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=LJKYXq3WHTw" target="_blank"><img src="http://img.youtube.com/vi/LJKYXq3WHTw/0.jpg" 
+alt="Doing Data Science with Missing Data" width="50%" /></a>
 
 ## Transcript
 
