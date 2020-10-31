@@ -8,6 +8,11 @@
 - GitHub repo:  Not applicable
 - Transcribed by:  Janine
 
+## Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=1X5h0FRqKVs" target="_blank"><img src="http://img.youtube.com/vi/1X5h0FRqKVs/0.jpg" 
+alt="Navigating Your Tech Career" width="50%" /></a>
+
 ## Transcript
 
 All right it's 7:05 so I'll do my intro bit and we can hop into yours. Awesome. 
