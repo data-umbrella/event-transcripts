@@ -8,6 +8,10 @@
 - GitHub repo:  not applicable
 - Transcriber:  ? [needs a transcriber]
 
+## Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dqab-FcAirA" target="_blank"><img src="http://img.youtube.com/vi/dqab-FcAirA/0.jpg" 
+alt="Building a Conversational Bot for WhatsApp w/Twilio & Python" width="50%" /></a>
 
 ## Transcript
 
