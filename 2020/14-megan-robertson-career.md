@@ -8,6 +8,11 @@
 - GitHub repo:  not applicable
 - Transcriber:  Sethupathy [BUT WE need someone to review transcript]
 
+## Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vu7pTNby0Og" target="_blank"><img src="http://img.youtube.com/vi/vu7pTNby0Og/0.jpg" 
+alt="3 Lessons From 3 Years of Data Science" width="50%" /></a>
+
 ## Transcript
 
 
