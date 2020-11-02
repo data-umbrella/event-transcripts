@@ -2,7 +2,8 @@
 
 ## Instructions for Transcribers
 
-1. Pick a video to transcribe (if the column `Transcriber` has a `?`, that means it needs a transcriber.)
+1. [Pick a video](https://github.com/data-umbrella/event-transcripts/blob/main/README.md) to transcribe (if the column `Transcriber` has a `?`, that means it needs a transcriber.)
+1. [Open an issue](https://github.com/data-umbrella/event-transcripts/issues) and indicate which video you are working on. 
 1. You can start with the given YouTube preliminary text.
 
 ### Requirements
@@ -26,7 +27,6 @@ https://raw.githubusercontent.com/data-umbrella/event-transcripts/main/2020/06-r
 You can submit edits in one of these formats:  
 1. **GitHub Pull Request:** Edit the file on GitHub and submit a PR that way.
 1. **Pull Request:** Use a code editor and submit a PR (Markdown file) using command line.  
-1. **Google Doc:**  If you are unfamiliar with how to submit a PR, you can copy the text into a Google doc and edit it there and send back the link to the edited doc.
 
 ### Transcribing
 - For beginning of sentences, make them capital letters
