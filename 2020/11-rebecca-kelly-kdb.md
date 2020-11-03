@@ -8,6 +8,11 @@
 - GitHub repo:  not applicable
 - Transcriber: Coretta Johnson
 
+## Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=92YticvZzCM" target="_blank"><img src="http://img.youtube.com/vi/92YticvZzCM/0.jpg" 
+alt="Bkdb Time Series Database" width="50%" /></a>
+
 ## Transcript
 
 
