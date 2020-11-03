@@ -8,6 +8,11 @@
 - GitHub repo:  not applicable
 - Transcribed by:  Juanita Palomar
 
+## Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=O5Z1-9Ohoro" target="_blank"><img src="http://img.youtube.com/vi/O5Z1-9Ohoro/0.jpg" 
+alt="How Would Sherlock Holmes Fix Bad Data?" width="50%" /></a>
+
 ## Transcript
 
 ## Intro (0:00)
