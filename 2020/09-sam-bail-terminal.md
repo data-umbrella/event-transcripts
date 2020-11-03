@@ -8,6 +8,10 @@
 - GitHub: http://github.com/spbail
 - Transcriber: Isaack Mungui (Twitter: [@aicky254](https://twitter.com/aicky254) )
 
+## Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sqN0bFWrS6Q" target="_blank"><img src="http://img.youtube.com/vi/sqN0bFWrS6Q/0.jpg" 
+alt="Intro to Terminal" width="50%" /></a>
 
 ## Transcript
 
