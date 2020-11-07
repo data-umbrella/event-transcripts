@@ -18,6 +18,10 @@
 
 ### Introduction (<a href='https://youtu.be/MHAjCcBfT_A'>0.00</a>)
 
+<a href="https://youtu.be/MHAjCcBfT_A?">
+  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t0.00.JPG"
+       alt="Notebook setup" width="50%" /></a>
+
 **Reshama**:
 
 Okay - hello and welcome to Data Umbrella's webinar for October; so I'm just going to go over the agenda, I'm going to do a brief introduction then there will be the workshop by hugo and james and you can ask questions along the way in the chat or - actually the best place to ask questions is the Q&A and there's an option to upvote as well. So yeah; asking the Q&A - if you happen to post it on the chat by mistake I can also transfer it over to Q&A so that would be fine too and this webinar is being recorded.
@@ -32,17 +36,19 @@ Check out our website for resources - there's a lot of resources on learning Pyt
 
 Okay and now we are ready to get started. So I will hand it over to - put myself on mute - and i will hand it over to Hugo and James and let you take over.
 
-****
+**Hugo:**
+
+Thank you all for joining I just want to thank Reshama, Christina and and everyone else who tire - all the tireless effort that - that goes into putting these meet-ups and these online sessions together. I think one thing I want to say is actually the last in-person workshop i gave either at the end of February or early March was Data Umbrella's inaugural tutorial and meetup if I recall correctly, on Bayesian thinking and hacker statistics and simulation and that type of stuff, so it's just wonderful to be back particularly with my colleague and friend James. We're building really cool distributed data science products at Coiled - we'll say a bit about that but we'll do some introductions in a bit.
+
+### How to access and set up notebooks used in the webinar (<a href='https://youtu.be/MHAjCcBfT_A?t=300'>05:00</a>)
 
 **Hugo:**
 
-Thank you all for joining I just want to thank Reshama, Christina and and everyone else who tie - all the tireless effort that - that goes into putting these meet-ups and these online sessions together. I think one thing I want to say is actually the last in-person workshop i gave either at the end of February or early March was Data Umbrella's inaugural tutorial and meetup if I recall correctly, on Bayesian thinking and hacker statistics and simulation and that type of stuff, so it's just wonderful to be back particularly with my colleague and friend James. We're building really cool distributed data science products at Coiled - we'll say a bit about that but we'll do some introductions in a bit; I just wanted to get you all accustomed to - it was February, thank you Reshama. We're working with Jupyter notebooks in a GitHub repository - the repository is pinned to the top of the chat. This is what it looks like (scrolling down the repository homepage) - these are all the files; this is the file system.
+I just wanted to get you all accustomed to - it was February, thank you Reshama. We're working with Jupyter notebooks in a GitHub repository - the repository is pinned to the top of the chat. This is what it looks like (scrolling down the repository homepage) - these are all the files; this is the file system.
 
 Now we use something called Binder which is a project, out of and related to project - Project Jupyter which provides infrastructure to run notebooks without any local installs. So there are two ways you can you can code along on this tutorial; the first is - and i won't get you to do this yet - is to launch Binder. The reason I won't get you to do that yet is because once you launch it we have 10 minutes to start coding or the Binder session times out - I've been burnt by that before, actually several times - I'm surprised I even remembered it this time. The other thing you can do is install everything locally by cloning the repository, downloading Anaconda, creating a Conda environment - if you haven't done that, I suggest you do not do that now - and you launch - launch the Binder. James is going to start by telling us a few things about about Dask and distributed computing in general.
 
 My question for you James is: if we get people to launch this now, will we get to execute a cell - code cell in 10 minutes?
-
-****
 
 **James:**
 
@@ -85,29 +91,39 @@ Okay.
 **Hugo:**
 Exactly. So I will not launch Binder now - I will not get you to now... I've - I'm doing this locally... (highlights notebook location in `localhost` onscreen) and we see that I'm in notebook zero, and if you want to actually have a look at this notebook before launching Binder, it's in the (highlights notebook location in GitHub onscreen) *Notebooks Data Umbrella...* subdirectory  (clicks notebook location in GitHub onscreen) and it's (highlights notebook location in GitHub onscreen) notebook zero and we're going to hopefully make it through the overview then (highlights notebook location in GitHub onscreen) chatting about Dask - Dask *delayed* and - and (highlights notebook location onscreen) *dataframe* and (highlights notebook location onscreen) *machine learning*.
 
-Great so we have... Hashim has said you could open in vs code as well; you could - I mean, that would require all your local installs and that type of stuff as well but we're to introduce me and James; we work at Coiled where we build products for distributed computing infrastructure. As we'll see one of the big problems with like bursting to the cloud is all the like Kubernetes, AWS, Docker stuff, so we build a one-click host of deployments for Dask but for data science and machine learning in general. James maintains Dask along with Matt - Matt Rocklin who created Dask with a team - people who were working with Continuum, Anaconda at the time and James is a software engineer at Coiled and I run Data science evangelism, Marketing, work on a bunch of product stuff as well, wear a bunch of different hats occasionally; there are many ways to think about distributed compute and how to do it in Python. We're going to present um hey James, you're muted
+Great so we have... Hashim has said you could open in VS Code as well; you could - I mean, that would require all your local installs and that type of stuff as well but we're to introduce me and James; we work at Coiled where we build products for distributed computing infrastructure. As we'll see one of the big problems with like bursting to the cloud is all the like Kubernetes, AWS, Docker stuff, so we build a one-click host of deployments for Dask but for data science and machine learning in general. James maintains Dask along with Matt - Matt Rocklin who created Dask with a team - people who were working with Continuum, Anaconda at the time and James is a software engineer at Coiled and I run Data science evangelism, Marketing, work on a bunch of product stuff as well, wear a bunch of different hats occasionally; there are many ways to think about distributed compute and how to do it in Python. We're going to present um hey James, you're muted
 
 **James:**
 
-I'm taking it I went away based on what I see in the chat
+I'm taking it I went away based on what I see in the chat...
 
 **Hugo:**
 
 You did, you did but now we're back; I've introduced you, I've introduced me, I've mentioned that there are many ways to do distributed compute in the Python ecosystem and we'll be
 chatting about one called Dask and maybe I'll pass to you in a second but I'll say one thing that I really like about - my background isn't in distributed compute my background's in
-pythonic data science. When thinking about bursting to larger data sets and larger models, there are a variety of options. The thing that took me, attracted me to Dask - originally.
-I saw Cameron's note  "The ghosts in the machine aren't playing nice tonight I think that ain't that the truth" - is that Dask plays so nicely with the entire Py data ecosystem so as we'll see if you want to write Dask code for dataframes - Dask dataframes - it really mimics your Pandas code; same with Numpy, same with Scikit-learn - okay - and the other thing is Dask essentially runs the Python code under the hood so your mental model of what's happening is - actually corresponds to the code being executed. Okay.. now I'd like to pass over to James but it looks like he's disappeared again -
+Pythonic data science. When thinking about bursting to larger data sets and larger models, there are a variety of options. The thing that took me, attracted me to Dask - originally.
+I saw Cameron's note  "The ghosts in the machine aren't playing nice tonight I think that ain't that the truth" - is that Dask plays so nicely with the entire Py data ecosystem so as we'll see if you want to write Dask code for dataframes - Dask dataframes - it really mimics your Pandas code; same with Numpy, same with Scikit-learn - okay? And the other thing is Dask essentially runs the Python code under the hood so your mental model of what's happening is - actually corresponds to the code being executed. Okay.. now I'd like to pass over to James but it looks like he's disappeared again -
 
-i'm still here if you can hear me
-i've just turned my camera off
-oh yeah okay great i'm gonna turn my
-camera hopefully that will help
-yeah and i might do do the same for
-bandwidth bandwidth issues so
-if if you want to jump in and and
-talk about dark at a high level um i'm
-sharing my screen and we can scroll
-through
+**James:**
+
+I'm still here if you can hear me, I've just turned my camera off.
+
+**Hugo:**
+
+Oh yeah! Okay great.
+
+**James:**
+
+I'm gonna turn my camera... hopefully that will help, yeah -
+
+**Hugo:**
+
+And I might do, do the same for bandwidth, bandwidth issues so if you want to jump in and talk about Dask at a high level, I'm sharing my screen and we can scroll through (scrolls through notebook located at `localhost`).
+
+### An overview of Dask (<a href='https://youtu.be/MHAjCcBfT_A?t=590'>09:50</a>)
+
+**James:**
+
 yeah that sounds great so um that's sort
 of
 uh a nutshell you can think of it as
