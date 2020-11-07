@@ -48,6 +48,7 @@ You can submit edits in one of these formats:
 - It can take a good 2 to 4 hours to edit a transcript for a 1-hour video.  
 - It is not necessary to include screenshots of slides.
 
+---
 
 ## Standard Header in Transcription
 Here is an example of a standard header in a transcript file
@@ -66,3 +67,13 @@ Here is an example of a standard header in a transcript file
 
 ## Transcript
 ```
+
+---
+
+## FAQs
+
+### 1) How long does it take to edit a full video?
+Our videos typically run 1 hour in recording duration and can take 2 to 4 hours to edit.  
+
+### 2) Can I edit a partial video/transcript?
+It is perfectly ok, and very much welcome and appreciated!, to submit edits in 10-minute segments.  
