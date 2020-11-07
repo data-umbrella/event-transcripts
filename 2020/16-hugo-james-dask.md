@@ -32,59 +32,21 @@ Check out our website for resources - there's a lot of resources on learning Pyt
 
 Okay and now we are ready to get started. So I will hand it over to - put myself on mute - and i will hand it over to Hugo and James and let you take over.
 
+****
+
 **Hugo:**
 
-Thank you all for joining i just want to thank Reshama, Christina and and everyone else who tie - all the tireless effort that - that goes into putting these meet-ups and these online
-sessions together. I - I think um one thing i want to say is actually the - the last in-person workshop i gave either at the end of February or early March was Data Umbrella's in-inaugural tutorial and meetup if I recall correctly, on Bayesian - Bayesian thinking and hacker statistics and simulation and that type of stuff, so it's just wonderful to be back
-particularly with um
-my colleague and friend friend james
-we're building really cool um
-distributed
-uh data science products um at coiled
-we'll say a bit about that
-um but we'll do some introductions in in
-a bit i just wanted to
-um get you all accustomed to it was
-february thank you reishma
-um uh we're working um with uh jupiter
-notebooks
-in a github repository the repository is
-pinned uh to the top of the chat this is
-um
-what it looks like these are all the
-files this is the file system
-now we use something called binder
-which is a project um
-out of and related to project project
-jupiter which provides infrastructure
-to run um notebooks without any local
-installs so there are two ways
-you can you can code along on this
-tutorial the first is and i won't get
-you to do this
-yet um is to launch binder the reason i
-won't get you to do that yet is because
-once you launch it we have 10 minutes to
-start coding or the binder session times
-out i've been burnt
-by that before um actually several times
-i'm surprised i even remembered it this
-time the other thing you can do
-is install everything locally by cloning
-the repository downloading anaconda
-creating
-a condor environment um if you haven't
-done that um
-i suggest you do not do that now and you
-launch launch the binder um
-james is going to start by telling us a
-few
-a few things about about gas and
-distributed compute in general
-my question for you james is if we get
-people to launch this now
-will we get to execute a cell
-code cell in 10 minutes um i would let's
+Thank you all for joining I just want to thank Reshama, Christina and and everyone else who tie - all the tireless effort that - that goes into putting these meet-ups and these online sessions together. I - I think um one thing i want to say is actually the - the last in-person workshop i gave either at the end of February or early March was Data Umbrella's in-inaugural tutorial and meetup if I recall correctly, on Bayesian - Bayesian thinking and hacker statistics and simulation and that type of stuff, so it's just wonderful to be back particularly with my colleague and friend - friend James. We're building really cool distributed data science products at Coiled - we'll say a bit about that but we'll do some introductions in - in a bit; I just wanted to get you all accustomed to - it was February, thank you Reshama. We're working with Jupyter notebooks in a GitHub repository - the repository is pinned to the top of the chat. This is what it looks like (scrolling down the repository homepage) - these are all the files; this is the file system.
+
+Now we use something called Binder which is a project, out of and related to project - Project Jupyter which provides infrastructure to run notebooks without any local installs. So there are two ways you can you can code along on this tutorial; the first is - and i won't get you to do this yet - is to launch Binder. The reason I won't get you to do that yet is because once you launch it we have 10 minutes to start coding or the Binder session times out - I've been burnt by that before, actually several times - I'm surprised I even remembered it this time. The other thing you can do is install everything locally by cloning the repository, downloading Anaconda, creating a Conda environment - if you haven't done that, I suggest you do not do that now - and you launch - launch the Binder. James is going to start by telling us a few - a few things about about Dask and distributed computing in general.
+
+My question for you James is: if we get people to launch this now, will we get to execute a cell - code cell in 10 minutes?
+
+****
+
+**James:**
+
+um i would let's
 hold off for now maybe
 yep maybe i'll indicate when we should
 uh launch binder okay
