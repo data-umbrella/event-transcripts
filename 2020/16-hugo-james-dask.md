@@ -6,7 +6,7 @@
 - Video:   https://youtu.be/MHAjCcBfT_A
 - Jupyter notebook:  https://github.com/coiled/data-science-at-scale/tree/master/notebooks/data-umbrella-2020-10-27
 - GitHub repo:  https://github.com/coiled/data-science-at-scale
-- Transcriber:  ? [needs a transcriber]
+- Transcriber:  <a href='https://github.com/'>Cynthia Thinwa</a>
 
 ## Video
 
@@ -16,25 +16,9 @@
 
 ## Transcript
 
-okay
-hello and welcome to data umbrella's
-webinar for
-um october
-so i'm just going to go over the agenda
-i'm going to do a brief introduction
-then there will be the workshop by hugo
-and james and you can ask questions
-along the way
-in the chat or actually the best place
-to ask questions is the q
-a and there's an option to upvote as
-well
-um so yet um asking the q a if you
-happen to post it on the chat by mistake
-i can
-also transfer it over to q a so that
-would be fine too
-and this webinar is being recorded
+### Introduction (<a href='https://youtu.be/MHAjCcBfT_A'>0.00</a>)
+
+Okay - hello and welcome to Data Umbrella's webinar for um October; so i'm just going to go over the agenda, I'm going to do a brief introduction then there will be the workshop by hugo and james and you can ask questions along the way in the chat or - actually the best place to ask questions is the Q&A and there's an option to upvote as well. Um... so yeah um... asking the Q&A - if you happen to post it on the chat by mistake I can also transfer it over to Q&A so that would be fine too and this webinar is being recorded
 uh briefly about me i am a statistician
 and data scientist and i am the founder
 of data umbrella um
