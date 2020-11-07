@@ -18,7 +18,7 @@
 
 ### Introduction (<a href='https://youtu.be/MHAjCcBfT_A'>0.00</a>)
 
-<a href="https://youtu.be/MHAjCcBfT_A?">
+<a href="https://youtu.be/MHAjCcBfT_A?t=1">
   <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t0.00.JPG"
        alt="Notebook setup" width="50%" /></a>
 
