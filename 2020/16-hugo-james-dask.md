@@ -18,42 +18,21 @@
 
 ### Introduction (<a href='https://youtu.be/MHAjCcBfT_A'>0.00</a>)
 
+**Reshama**:
+
 Okay - hello and welcome to Data Umbrella's webinar for October; so i'm just going to go over the agenda, I'm going to do a brief introduction then there will be the workshop by hugo and james and you can ask questions along the way in the chat or - actually the best place to ask questions is the Q&A and there's an option to upvote as well. So yeah; asking the Q&A - if you happen to post it on the chat by mistake I can also transfer it over to Q&A so that would be fine too and this webinar is being recorded.
 
 Briefly about me: I am a statistician and data scientist and i am the founder of Data Umbrella; I am on a lot of platforms as @reshamas so feel free to follow me on Twitter and LinkedIn. We have a code of conduct; we're dedicated to providing a harassment-free experience for everyone; thank you for helping to make this a welcoming, friendly professional community for all and this code of conduct applies to the chat as well. So our mission is to provide an inclusive community for underrepresented persons in data science and we are an all volunteer run organization.
 
-You can support Data Umbrella by doing the following things: you can follow our code of conduct and keep our community a place where everybody wants to keep coming to, you can donate to our open collective and that helps to pay meet-up dues and other operational costs and you can check out this link here on GitHub - we have this new initiative where all the videos are being transcribed and... so it's to make them more accessible - so we take the YouTube videos and we put the raw there and so we've had a number of volunteers help us transcribe it; so feel free to check out this link and maybe if you do this video, maybe the two speakers will follow you on Twitter i can't promise anything but it's possible.
+You can support Data Umbrella by doing the following things: you can follow our code of conduct and keep our community a place where everybody wants to keep coming to, you can donate to our open collective and that helps to pay meet-up dues and other operational costs and you can check out this link here on GitHub - we have this new initiative where all the videos are being transcribed and... so it's to make them more accessible - so we take the YouTube videos and we put the raw there and so we've had a number of volunteers help us transcribe it; so feel free to check out this link and maybe if you do this video, maybe the two speakers will follow you on Twitter; I can't promise anything but it's possible.
 
-Data Umbrella has a job board and it's at jobs.dataumbrella.org and once this gets started i'll put some links in the chat. The job that we are highlighting today is the machine learning engineer job by Development Seed and Development Seed is based in Washington DC and Lisbon, Portugal and they do - i'm going to go to the next slide - what they do is they're doing social good work and so they're doing for instance, mapping elections from Afghanistan to the U.S, analyzing public health and economic data from Palestine to Illinois and leading the strategy and development behind data for World Bank and some other organizations and I will share a link to their job posting in the chat as well as soon as I finish this brief introduction.
+Data Umbrella has a job board and it's at jobs.dataumbrella.org and once this gets started I'll put some links in the chat. The job that we are highlighting today is the machine learning engineer job by Development Seed and Development Seed is based in Washington DC and Lisbon, Portugal and they do - i'm going to go to the next slide - what they do is they're doing social good work and so they're doing for instance, mapping elections from Afghanistan to the U.S, analyzing public health and economic data from Palestine to Illinois and leading the strategy and development behind data for World Bank and some other organizations and I will share a link to their job posting in the chat as well as soon as I finish this brief introduction.
 
-Check out our website for resources there's a lot of resources on learning Python and R, also for contributing to open source, also for guides on accessibility and responsibility
-and allyship.
-we have a monthly newsletter that goes
-out towards the end of the month and it
-has information
-on our upcoming events we have two great
-events coming up in
-november and december on open source so
-subscribe to our newsletter um to be in
-the know
-we are on all social media platforms as
-data umbrella
-um meetup is the best place to join to
-find out about upcoming events
-our website has resources follow us on
-twitter
-we also share a lot of information on
-linkedin
-and if you want to subscribe to our
-youtube channel we record all of our
-talks and post them there
-um within about a week of the talk so
-it's a good way to get information
-okay and now we are ready to get started
-so
-i will hand it over to um put myself on
-mute and i will hand it over to
-hugo and james and let you take over but
+Check out our website for resources there's a lot of resources on learning Python and R, also for contributing to open source, also for guides on accessibility and responsibility and allyship. We have a monthly newsletter that goes out towards the end of the month and it has information on our upcoming events - we have two great events coming up in November and December on open source so subscribe to our newsletter to be in the know. We are on all social media platforms as Data Umbrella; Meetup is the best place to join to find out about upcoming events, our website has resources, follow us on Twitter, we also share a lot of information on LinkedIn, and if you want to subscribe to our YouTube channel we record all of our talks and post them there within about a week of the talk so it's a good way to get information.
+
+Okay and now we are ready to get started. So I will hand it over to - put myself on mute - and i will hand it over to Hugo and James and let you take over.
+
+**Hugo:**
 thank you all for joining i just want to
 thank reishima um
 christina and and everyone else who tied
