@@ -42,6 +42,10 @@ Thank you all for joining I just want to thank Reshama, Christina and and everyo
 
 ### How to access and set up notebooks used in the webinar (<a href='https://youtu.be/MHAjCcBfT_A?t=300'>05:00</a>)
 
+<a href="https://youtu.be/MHAjCcBfT_A?t=300">
+  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t05.00.JPG"
+       alt="Notebook setup" width="50%" /></a>
+       
 **Hugo:**
 
 I just wanted to get you all accustomed to - it was February, thank you Reshama. We're working with Jupyter notebooks in a GitHub repository - the repository is pinned to the top of the chat. This is what it looks like (scrolling down the repository homepage) - these are all the files; this is the file system.
@@ -122,6 +126,10 @@ And I might do, do the same for bandwidth, bandwidth issues so if you want to ju
 
 ### An overview of Dask (<a href='https://youtu.be/MHAjCcBfT_A?t=590'>09:50</a>)
 
+<a href="https://youtu.be/MHAjCcBfT_A?t=590">
+  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t09.50.JPG"
+       alt="Notebook setup" width="50%" /></a>
+       
 **James:**
 
 yeah that sounds great so um that's sort
