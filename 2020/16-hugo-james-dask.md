@@ -79,19 +79,12 @@ Yes.
 **James:**
 
 Okay.
-exactly so i will not launch binder now
-i will not get you to now
-i've i'm doing this locally um and we
-see that i'm in uh notebook zero and if
-you want to actually have a look at this
-notebook before launching binder
-it's in the notebooks data umbrella uh
-subdirectory and its notebook zero and
-we're going to hopefully make it through
-the overview then chatting about dusk
-dusk delayed
-um and and data framing and machine
-learning
+
+****
+
+**Hugo:**
+Exactly. So I will not launch Binder now - I will not get you to now... I've - I'm doing this locally... (highlights notebook location onscreen) and we see that I'm in Notebook Zero, and if you want to actually have a look at this notebook before launching Binder, it's in the (highlights notebook location onscreen) *Notebooks Data Umbrella...* subdirectory  (clicks notebook location onscreen) and it's Notebook Zero and we're going to hopefully make it through (highlights notebook location onscreen) the overview then (highlights notebook location onscreen) chatting about Dask - Dask delayed and - and (highlights notebook location onscreen) data frames and (highlights notebook location onscreen) machine learning.
+
 um great so we have uh hashim has said
 you could open in vs code as well
 you could i mean that would require all
