@@ -46,14 +46,39 @@ My question for you James is: if we get people to launch this now, will we get t
 
 **James:**
 
-um i would let's
-hold off for now maybe
-yep maybe i'll indicate when we should
-uh launch binder okay
-fantastic cool um and just what i'm
-looking at right now
-is the github repository on your browser
-okay
+I would... let's hold off for now maybe..
+
+**Hugo:**
+
+Yep.
+
+**James:**
+
+Maybe I'll indicate when we should launch Binder.
+
+**Hugo:**
+
+Okay, fantastic.
+
+**James:**
+
+Cool um and just for reference -
+
+**Hugo:**
+
+So -
+
+**James:**
+
+What I'm looking at right now is the GitHub repository on your browser...
+
+**Hugo:**
+
+Yes.
+
+**James:**
+
+Okay.
 exactly so i will not launch binder now
 i will not get you to now
 i've i'm doing this locally um and we
