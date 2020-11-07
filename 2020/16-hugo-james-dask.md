@@ -18,26 +18,13 @@
 
 ### Introduction (<a href='https://youtu.be/MHAjCcBfT_A'>0.00</a>)
 
-Okay - hello and welcome to Data Umbrella's webinar for um October; so i'm just going to go over the agenda, I'm going to do a brief introduction then there will be the workshop by hugo and james and you can ask questions along the way in the chat or - actually the best place to ask questions is the Q&A and there's an option to upvote as well. Um... so yeah um... asking the Q&A - if you happen to post it on the chat by mistake I can also transfer it over to Q&A so that would be fine too and this webinar is being recorded
-uh briefly about me i am a statistician
-and data scientist and i am the founder
-of data umbrella um
-i am on a lot of platforms as rachmas so
-feel free to follow me on twitter and
-linkedin we have a code of conduct
-we're dedicated to providing harassment
-free experience for everyone
-um thank you for helping to make this a
-welcoming friendly professional
-community for all
-and this code of conduct applies to the
-chat
-as well
-so our mission is to provide an
-inclusive community for underrepresented
-persons in data science and we are an
-all volunteer run organization
-you can support data umbrella by doing
+Okay - hello and welcome to Data Umbrella's webinar for um October; so i'm just going to go over the agenda, I'm going to do a brief introduction then there will be the workshop by hugo and james and you can ask questions along the way in the chat or - actually the best place to ask questions is the Q&A and there's an option to upvote as well. Um... so yeah um... asking the Q&A - if you happen to post it on the chat by mistake I can also transfer it over to Q&A so that would be fine too and this webinar is being recorded.
+
+Uh briefly about me: I am a statistician and data scientist and i am the founder of Data Umbrella um... I am on a lot of platforms as @reshamas so feel free to follow me on Twitter and LinkedIn. We have a code of conduct; we're dedicated to providing a harassment-free experience for everyone... um... thank you for helping to make this a welcoming, friendly professional community for all and this code of conduct applies to the chat as well.
+
+So our mission is to provide an inclusive community for underrepresented persons in data science and we are an all volunteer run organization.
+
+You can support data umbrella by doing
 the following things you can follow our
 code of conduct and
 keep our community a place where
