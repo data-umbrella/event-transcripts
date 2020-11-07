@@ -22,48 +22,12 @@ Okay - hello and welcome to Data Umbrella's webinar for October; so i'm just goi
 
 Briefly about me: I am a statistician and data scientist and i am the founder of Data Umbrella; I am on a lot of platforms as @reshamas so feel free to follow me on Twitter and LinkedIn. We have a code of conduct; we're dedicated to providing a harassment-free experience for everyone; thank you for helping to make this a welcoming, friendly professional community for all and this code of conduct applies to the chat as well. So our mission is to provide an inclusive community for underrepresented persons in data science and we are an all volunteer run organization.
 
-You can support Data Umbrella by doing the following things: you can follow our code of conduct and keep our community a place where everybody wants to keep coming to, you can donate to our open collective and that helps to pay meet-up dues and other operational costs and you can check out this link here on GitHub - we have this new initiative where all
-the videos are being transcribed
-and so is to make them more accessible so we
-take the youtube videos and we put the
-raw there and so we've had a number of
-volunteers help us transcribe it
-so feel free to check out this link
-and maybe if you do this video
-maybe the two speakers will follow you
-on twitter i can't promise anything but
-it's possible
-um dave umbrella has a job board and
-it's at jobs.org and once this gets
-started i'll put some links in the chat
-the job that we are highlighting today
-is is the machine learning engineer job
-by
-development seed and development seat is
-based in washington dc and lisbon
-portugal
-and they do i'm going to go to the next
-slide
-what they do is they're doing social
-good work and so they're doing
-for instance mapping elections from
-afghanistan to the u.s analyzing public
-health and economic data from palestine
-to illinois
-and leading the strategy and development
-behind data world bank
-and some other organizations and i will
-share a link to their job posting in the
-chat as well
-as soon as i finish this brief
-introduction
-check out our website for resources
-there's a lot of resources on learning
-python um and r also for contributing to
-open source
-also for guides on accessibility and
-responsibility
-and allyship
+You can support Data Umbrella by doing the following things: you can follow our code of conduct and keep our community a place where everybody wants to keep coming to, you can donate to our open collective and that helps to pay meet-up dues and other operational costs and you can check out this link here on GitHub - we have this new initiative where all the videos are being transcribed and... so it's to make them more accessible - so we take the YouTube videos and we put the raw there and so we've had a number of volunteers help us transcribe it; so feel free to check out this link and maybe if you do this video, maybe the two speakers will follow you on Twitter i can't promise anything but it's possible.
+
+Data Umbrella has a job board and it's at jobs.dataumbrella.org and once this gets started i'll put some links in the chat. The job that we are highlighting today is the machine learning engineer job by Development Seed and Development Seed is based in Washington DC and Lisbon, Portugal and they do - i'm going to go to the next slide - what they do is they're doing social good work and so they're doing for instance, mapping elections from Afghanistan to the U.S, analyzing public health and economic data from Palestine to Illinois and leading the strategy and development behind data for World Bank and some other organizations and I will share a link to their job posting in the chat as well as soon as I finish this brief introduction.
+
+Check out our website for resources there's a lot of resources on learning Python and R, also for contributing to open source, also for guides on accessibility and responsibility
+and allyship.
 we have a monthly newsletter that goes
 out towards the end of the month and it
 has information
