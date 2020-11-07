@@ -28,29 +28,14 @@ You can support Data Umbrella by doing the following things: you can follow our 
 
 Data Umbrella has a job board and it's at jobs.dataumbrella.org and once this gets started I'll put some links in the chat. The job that we are highlighting today is the machine learning engineer job by Development Seed and Development Seed is based in Washington DC and Lisbon, Portugal and they do - i'm going to go to the next slide - what they do is they're doing social good work and so they're doing for instance, mapping elections from Afghanistan to the U.S, analyzing public health and economic data from Palestine to Illinois and leading the strategy and development behind data for World Bank and some other organizations and I will share a link to their job posting in the chat as well as soon as I finish this brief introduction.
 
-Check out our website for resources there's a lot of resources on learning Python and R, also for contributing to open source, also for guides on accessibility and responsibility and allyship. We have a monthly newsletter that goes out towards the end of the month and it has information on our upcoming events - we have two great events coming up in November and December on open source so subscribe to our newsletter to be in the know. We are on all social media platforms as Data Umbrella; Meetup is the best place to join to find out about upcoming events, our website has resources, follow us on Twitter, we also share a lot of information on LinkedIn, and if you want to subscribe to our YouTube channel we record all of our talks and post them there within about a week of the talk so it's a good way to get information.
+Check out our website for resources - there's a lot of resources on learning Python and R, also for contributing to open source, also for guides on accessibility and responsibility and allyship. We have a monthly newsletter that goes out towards the end of the month and it has information on our upcoming events - we have two great events coming up in November and December on open source so subscribe to our newsletter to be in the know. We are on all social media platforms as Data Umbrella; Meetup is the best place to join to find out about upcoming events, our website has resources, follow us on Twitter, we also share a lot of information on LinkedIn, and if you want to subscribe to our YouTube channel we record all of our talks and post them there within about a week of the talk so it's a good way to get information.
 
 Okay and now we are ready to get started. So I will hand it over to - put myself on mute - and i will hand it over to Hugo and James and let you take over.
 
 **Hugo:**
-thank you all for joining i just want to
-thank reishima um
-christina and and everyone else who tied
-all the tireless effort that that goes
-into putting
-um these meet-ups and these online
-sessions together
-i i think um one thing i want to say is
-actually the
-the last in-person workshop i gave
-either at the end of february or early
-march
-um was data umbrellas in inaugural
-tutorial and meetup if i if i recall
-correctly on on bayesian bayesian
-thinking and um hacker statistics and
-simulation and that type of stuff
-so it's it's just wonderful to be back
+
+Thank you all for joining i just want to thank Reshama, Christina and and everyone else who tie - all the tireless effort that - that goes into putting these meet-ups and these online
+sessions together. I - I think um one thing i want to say is actually the - the last in-person workshop i gave either at the end of February or early March was Data Umbrella's in-inaugural tutorial and meetup if I recall correctly, on Bayesian - Bayesian thinking and hacker statistics and simulation and that type of stuff, so it's just wonderful to be back
 particularly with um
 my colleague and friend friend james
 we're building really cool um
