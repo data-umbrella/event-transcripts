@@ -10,8 +10,9 @@
 
 ## Video
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=BxIoQ0gsxzA" target="_blank"><img src="http://   .jpg" 
-alt="Data Science and Machine Learning at Scale" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MHAjCcBfT_A" target="_blank">
+  <img src="https://i.ytimg.com/an_webp/MHAjCcBfT_A/mqdefault_6s.webp?du=3000&sqp=CPD5mf0F&rs=AOn4CLCjEUVnHCoOHBXT4Y1pS8z1LntiBw"
+       alt="Data Science and Machine Learning at Scale" width="50%" /></a>
 
 ## Transcript
 
