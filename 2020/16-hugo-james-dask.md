@@ -104,7 +104,7 @@ I'm taking it I went away based on what I see in the chat...
 You did, you did but now we're back; I've introduced you, I've introduced me, I've mentioned that there are many ways to do distributed compute in the Python ecosystem and we'll be
 chatting about one called Dask and maybe I'll pass to you in a second but I'll say one thing that I really like about - my background isn't in distributed compute my background's in
 Pythonic data science. When thinking about bursting to larger data sets and larger models, there are a variety of options. The thing that took me, attracted me to Dask - originally.
-I saw Cameron's note  "The ghosts in the machine aren't playing nice tonight I think that ain't that the truth" - is that Dask plays so nicely with the entire Py data ecosystem so as we'll see if you want to write Dask code for dataframes - Dask dataframes - it really mimics your Pandas code; same with Numpy, same with Scikit-learn - okay? And the other thing is Dask essentially runs the Python code under the hood so your mental model of what's happening is - actually corresponds to the code being executed. Okay.. now I'd like to pass over to James but it looks like he's disappeared again -
+I saw Cameron's note  "The ghosts in the machine aren't playing nice tonight I think that ain't that the truth" - is that Dask plays so nicely with the entire Py data ecosystem so as we'll see if you want to write Dask code for dataframes - Dask DataFrames - it really mimics your Pandas code; same with Numpy, same with Scikit-learn - okay? And the other thing is Dask essentially runs the Python code under the hood so your mental model of what's happening is - actually corresponds to the code being executed. Okay.. now I'd like to pass over to James but it looks like he's disappeared again -
 
 **James:**
 
@@ -130,58 +130,7 @@ And I might do, do the same for bandwidth, bandwidth issues so if you want to ju
        
 **James:**
 
-yeah that sounds great so um that's sort
-of
-uh a nutshell you can think of it as
-being composed of
-two main uh uh well components
-the first we call collections these are
-the
-user interfaces that you use to actually
-construct a computation you would like
-to compute in parallel or on distributed
-hardware
-there are a few different interfaces
-that desk implements uh for instance
-there's dask array
-for doing nd array computations there's
-das data frame for working with tabular
-data
-you can think of those as like gask
-array as a parallel version of numpy
-das data frame has a parallel version of
-pandas and so on
-there are also a couple other interfaces
-that uh we'll be talking about das
-delayed for instance we'll talk about
-that today we'll also talk about the
-futures api
-those are sort of for lower level uh
-custom algorithms
-in sort of paralyzing existing uh
-existing code
-the main takeaway is that there are
-several sort of familiar apis that desk
-implements and that will use today
-to actually construct your computation
-so that's the first
-part of desk it is these dash
-collections you then take these
-collections
-uh uh set up your steps for your
-computation
-and then pass them off to uh the second
-component which are
-desk schedulers and these will actually
-go through and
-execute your computation potentially in
-parallel
-there are two flavors of schedulers that
-desk offers the first
-is a are called single machine
-schedulers
-and these just take advantage of your
-local hardware they will
+Yeah that sounds great. So that's sort of - a nutshell - you can think of it as being composed of two main... well, components. The first we call collections; these are the user interfaces that you use to actually construct a computation you would like to compute in parallel or on distributed hardware. There are a few different interfaces that Dask implements... for instance, there's Dask Array for doing nd array computations, there's Dask DataFrame for working with tabular data... you can think of those as like - Dask Array as a parallel version of Numpy, Dask DataFrame as a parallel version of Pandas and so on. There are also a couple other interfaces that we'll be talking about; Dask delayed for instance - we'll talk about that today - we'll also talk about the Futures API; those are sort of for lower level custom algorithms, in sort of paralyzing existing - existing code. The main takeaway is that there are several sort of familiar APIs that Dask implements and that we'll use today to actually construct your computation. So that's the first part of Dask - it is these Dask collections - you then take these collections, set up your steps for your computation and then pass them off to the second component which are Dask schedulers and these will actually go through and execute your computation potentially in parallel. There are two flavors of schedulers that Dask offers. The first - is a - are called single machine schedulers and these just take advantage of your local hardware they will
 spin up a a local thread or process pool
 and start submitting tasks in your
 computation to to be executed in
