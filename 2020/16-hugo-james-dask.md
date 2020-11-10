@@ -134,7 +134,7 @@ Yeah that sounds great. So that's sort of - a nutshell - you can think of it as 
 
 <a href="https://youtu.be/MHAjCcBfT_A?t=610">
   <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t10.10.JPG"
-       alt="Notebook setup" width="50%" /></a>
+       alt="Dask components" width="50%" /></a>
 
 The first we call collections; these are the user interfaces that you use to actually construct a computation you would like to compute in parallel or on distributed hardware. There are a few different interfaces that Dask implements... for instance, there's Dask Array for doing nd array computations, there's Dask DataFrame for working with tabular data... you can think of those as like - Dask Array as a parallel version of Numpy, Dask DataFrame as a parallel version of Pandas and so on. There are also a couple other interfaces that we'll be talking about; Dask delayed for instance - we'll talk about that today - we'll also talk about the Futures API; those are sort of for lower level custom algorithms, in sort of paralyzing existing - existing code. The main takeaway is that there are several sort of familiar APIs that Dask implements and that we'll use today to actually construct your computation. So that's the first part of Dask - it is these Dask collections - you then take these collections, set up your steps for your computation and then pass them off to the second component which are Dask schedulers and these will actually go through and execute your computation potentially in parallel. There are two flavors of schedulers that Dask offers. The first - is a - are called single machine schedulers and these just take advantage of your local hardware they will spin up a a local thread or process pool and start submitting tasks in your computation to to be executed in parallel either on multiple threads or multiple processes. There's also a distributed scheduler - or maybe a better term for... would actually be called the advanced scheduler because it works well on a single machine but it also scales out to multiple machines, so for instance as you'll see later we will actually spin up a  distributed scheduler that has workers on remote machines on AWS so you can actually scale out beyond your local resources like say what's on your laptop.
 
@@ -155,80 +155,22 @@ So just - here's a quick break point before you know... a teaser for schedulers 
 #### An illustration of a distributed scheduler (<a href='https://youtu.be/MHAjCcBfT_A?t=780'>13:00</a>)
 
 <a href="https://youtu.be/MHAjCcBfT_A?t=780">
-  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t13.00.JPG"
+  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t13.04.JPG"
        alt="Notebook setup" width="50%" /></a>
 
 **James:**
 
-Yeah, yeah no problem, thank you. So - so yeah, looking at the image for the distributed scheduler; we're not gonna have time to go into the... a lot of detail about the distributed scheduler in this workshop so - but we do want to provide at least a high level overview of the the different parts and components of the distributed scheduler.
+Yeah, yeah no problem, thank you. So - so yeah, looking at the image for the distributed scheduler; we're not gonna have time to go into the... a lot of detail about the distributed scheduler in this workshop so - but we do want to provide at least a high level overview of the, the different parts and components of the distributed scheduler.
 
-So the first part I want to talk about is in the diagram what's labeled
-as a client
-so this is the user facing entry point
-to a cluster
-so um wherever you are running your
-python session
-that could be in a jupiter lab session
-like we are here
-that could be in a python script
-somewhere you will create
-and instantiate a client object that
-connects
-to the second component which is the das
-scheduler
-so each desk cluster has
-a single scheduler in it that sort of uh
-keeps track of all of the state for all
-of the
-the state of your cluster and all the
-tasks you'd like to compute so from your
-client you might start submitting tasks
-to the cluster the schedule will receive
-those tasks
-and compute things like all the
-dependencies needed for that task like
-say you're uh implementing you say you
-want to compute
-task c but that actually requires first
-you have to compute task b
-and task a like there are some
-dependency structures there
-it'll compute those dependencies as well
-as keep track of them
-it'll also uh communicate with all the
-workers to understand
-what worker is working on which task and
-as
-space frees up on the workers it will
-start farming out uh
-new tasks to compute to the workers um
-so
-in this particular diagram there are
-three das distributed workers here
-um however you can have as you can have
-thousands of workers if you'd like
-so the workers are the things that
-actually compute the tasks
-they also store the results of your
-tasks and then serve them back to you
-and the client
-the scheduler basically manages all the
-state needed to
-perform the computations um and you
-submit tasks
-from the client so that's sort of a
-quick
-whirlwind tour of the different
-components for the distributed scheduler
-um and at this point i think it'd be
-great to actually see
-see some of this in action um hugo would
-like to take over
-absolutely thank you for that wonderful
-introduction to darsk and
-and the schedulers in particular and we
-are going to see that um with dark in
-action
+So the first part I want to talk about is in the diagram what's labeled as a client. So this is the user facing entry point to a cluster; so um wherever you are running your python session... that could be in a jupiter lab session - like we are here, that could be in a python script somewhere... you will create and instantiate a client object that connects to the second component which is the Dask scheduler.
+
+So each Dask cluster has a single scheduler in it that sort of keeps track of all of the state - for all of the - the state of your cluster and all the tasks you'd like to compute; so from your client you might start submitting tasks to the cluster... the scheduler will receive those tasks and compute things like all the dependencies needed for that task like say you're implementing - you say you want to compute Task C, but that actually requires first you have to compute Task B and Task A - like there are some dependency structures there; it'll compute those dependencies as well as keep track of them. It'll also communicate with all the workers to understand what worker is working on which task and as space frees up on the workers it will start farming out new tasks to compute to the workers.
+
+So in this particular diagram there are three Dask distributed workers here; however, you can have as you can have thousands of workers if you'd like. So the workers are the things that actually compute the tasks. They also store the results of your tasks and then serve them back to you and the client. The scheduler basically manages all the state needed to perform the computations and you submit tasks from the client. So that's sort of a quick whirlwind tour of the different components for the distributed scheduler and at this point I think it'd be great to actually see - see some of this in action... Hugo, would you like to take over?
+
+**Hugo:**
+
+Absolutely. Thank you for that wonderful introduction to Dask and and the schedulers in particular and we are going to see that with Dask in action
 uh i'll just note that this tab in which
 i launched the binder is up and running
 if you're going to execute code here
