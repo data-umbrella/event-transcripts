@@ -144,26 +144,19 @@ Yeah... now is a good point. Yep -
 
 **Hugo:**
 
-So just - here's a quick break point before you know... a teaser for schedulers and what's happening there. I'll ask you to - in the repository there's also the link to the binder; click on launch binder (right-clicks the link), i'm going to open it in a new tab and what this will create is an environment in which you can just execute the code in in the notebooks okay
-so hopefully by the time we've gotten
-gone through this section
-this will be ready to start executing
-code so if everyone wants to do that to
-code along otherwise just
-watch or if you're running things
-locally also cool thanks james
-yeah yeah no problem thank you so so
-yeah looking at the image
-for the distributed scheduler we're not
-gonna have time to go into
-the um a lot of detail about the
-distributed scheduler in this workshop
-so but we do want to provide at least a
-high level overview of the
-the different parts and components of
-the distributed scheduler
-um so the first part i want to talk
-about is in the diagram what's labeled
+So just - here's a quick break point before you know... a teaser for schedulers and what's happening there. I'll ask you to - in the repository there's also the link to the binder; click on launch binder (right-clicks the link), i'm going to open it in a new tab and what this will create is an environment in which you can just execute the code in - in the notebooks okay... (displays the opened tab at *mybinder.org* where `coiled/data-science-at-scale/master` repository is loading) so hopefully by the time we've gotten - gone through this section, this will be ready to start executing code. So if everyone wants to do that - to code along... otherwise just watch - or if you're running things locally, also cool; thanks James.
+
+#### An illustration of a distributed scheduler (<a href='https://youtu.be/MHAjCcBfT_A?t=784'>13:04</a>)
+
+<a href="https://youtu.be/MHAjCcBfT_A?t=784">
+  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t13.04.JPG"
+       alt="Notebook setup" width="50%" /></a>
+
+**James:**
+
+Yeah, yeah no problem, thank you. So - so yeah, looking at the image for the distributed scheduler; we're not gonna have time to go into the... a lot of detail about the distributed scheduler in this workshop so - but we do want to provide at least a high level overview of the the different parts and components of the distributed scheduler.
+
+So the first part I want to talk about is in the diagram what's labeled
 as a client
 so this is the user facing entry point
 to a cluster
