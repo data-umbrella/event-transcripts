@@ -127,10 +127,16 @@ And I might do, do the same for bandwidth, bandwidth issues so if you want to ju
 <a href="https://youtu.be/MHAjCcBfT_A?t=590">
   <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t09.50.JPG"
        alt="Notebook setup" width="50%" /></a>
-       
+
 **James:**
 
-Yeah that sounds great. So that's sort of - a nutshell - you can think of it as being composed of two main... well, components. The first we call collections; these are the user interfaces that you use to actually construct a computation you would like to compute in parallel or on distributed hardware. There are a few different interfaces that Dask implements... for instance, there's Dask Array for doing nd array computations, there's Dask DataFrame for working with tabular data... you can think of those as like - Dask Array as a parallel version of Numpy, Dask DataFrame as a parallel version of Pandas and so on. There are also a couple other interfaces that we'll be talking about; Dask delayed for instance - we'll talk about that today - we'll also talk about the Futures API; those are sort of for lower level custom algorithms, in sort of paralyzing existing - existing code. The main takeaway is that there are several sort of familiar APIs that Dask implements and that we'll use today to actually construct your computation. So that's the first part of Dask - it is these Dask collections - you then take these collections, set up your steps for your computation and then pass them off to the second component which are Dask schedulers and these will actually go through and execute your computation potentially in parallel. There are two flavors of schedulers that Dask offers. The first - is a - are called single machine schedulers and these just take advantage of your local hardware they will spin up a a local thread or process pool and start submitting tasks in your computation to to be executed in parallel either on multiple threads or multiple processes. There's also a distributed scheduler - or maybe a better term for... would actually be called the advanced scheduler because it works well on a single machine but it also scales out to multiple machines, so for instance as you'll see later we will actually spin up a  distributed scheduler that has workers on remote machines on AWS so you can actually scale out beyond your local resources like say what's on your laptop.
+Yeah that sounds great. So that's sort of - a nutshell - you can think of it as being composed of two main... well, components.
+
+<a href="https://youtu.be/MHAjCcBfT_A?t=610">
+  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t10.10.JPG"
+       alt="Notebook setup" width="50%" /></a>
+
+The first we call collections; these are the user interfaces that you use to actually construct a computation you would like to compute in parallel or on distributed hardware. There are a few different interfaces that Dask implements... for instance, there's Dask Array for doing nd array computations, there's Dask DataFrame for working with tabular data... you can think of those as like - Dask Array as a parallel version of Numpy, Dask DataFrame as a parallel version of Pandas and so on. There are also a couple other interfaces that we'll be talking about; Dask delayed for instance - we'll talk about that today - we'll also talk about the Futures API; those are sort of for lower level custom algorithms, in sort of paralyzing existing - existing code. The main takeaway is that there are several sort of familiar APIs that Dask implements and that we'll use today to actually construct your computation. So that's the first part of Dask - it is these Dask collections - you then take these collections, set up your steps for your computation and then pass them off to the second component which are Dask schedulers and these will actually go through and execute your computation potentially in parallel. There are two flavors of schedulers that Dask offers. The first - is a - are called single machine schedulers and these just take advantage of your local hardware they will spin up a a local thread or process pool and start submitting tasks in your computation to to be executed in parallel either on multiple threads or multiple processes. There's also a distributed scheduler - or maybe a better term for... would actually be called the advanced scheduler because it works well on a single machine but it also scales out to multiple machines, so for instance as you'll see later we will actually spin up a  distributed scheduler that has workers on remote machines on AWS so you can actually scale out beyond your local resources like say what's on your laptop.
 
 (Scrolls through notebook located at `localhost`) Kind of scrolling down then to the image of the cluster we can see the main components of the distributed scheduler -
 
@@ -146,10 +152,10 @@ Yeah... now is a good point. Yep -
 
 So just - here's a quick break point before you know... a teaser for schedulers and what's happening there. I'll ask you to - in the repository there's also the link to the binder; click on launch binder (right-clicks the link), i'm going to open it in a new tab and what this will create is an environment in which you can just execute the code in - in the notebooks okay... (displays the opened tab at *mybinder.org* where `coiled/data-science-at-scale/master` repository is loading) so hopefully by the time we've gotten - gone through this section, this will be ready to start executing code. So if everyone wants to do that - to code along... otherwise just watch - or if you're running things locally, also cool; thanks James.
 
-#### An illustration of a distributed scheduler (<a href='https://youtu.be/MHAjCcBfT_A?t=784'>13:04</a>)
+#### An illustration of a distributed scheduler (<a href='https://youtu.be/MHAjCcBfT_A?t=780'>13:00</a>)
 
-<a href="https://youtu.be/MHAjCcBfT_A?t=784">
-  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t13.04.JPG"
+<a href="https://youtu.be/MHAjCcBfT_A?t=780">
+  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t13.00.JPG"
        alt="Notebook setup" width="50%" /></a>
 
 **James:**
