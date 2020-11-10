@@ -156,7 +156,7 @@ So just - here's a quick break point before you know... a teaser for schedulers 
 
 <a href="https://youtu.be/MHAjCcBfT_A?t=780">
   <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t13.04.JPG"
-       alt="Notebook setup" width="50%" /></a>
+       alt="Scheduler" width="50%" /></a>
 
 **James:**
 
@@ -166,7 +166,13 @@ So the first part I want to talk about is in the diagram what's labeled as a cli
 
 So each Dask cluster has a single scheduler in it that sort of keeps track of all of the state - for all of the - the state of your cluster and all the tasks you'd like to compute; so from your client you might start submitting tasks to the cluster... the scheduler will receive those tasks and compute things like all the dependencies needed for that task like say you're implementing - you say you want to compute Task C, but that actually requires first you have to compute Task B and Task A - like there are some dependency structures there; it'll compute those dependencies as well as keep track of them. It'll also communicate with all the workers to understand what worker is working on which task and as space frees up on the workers it will start farming out new tasks to compute to the workers.
 
-So in this particular diagram there are three Dask distributed workers here; however, you can have as you can have thousands of workers if you'd like. So the workers are the things that actually compute the tasks. They also store the results of your tasks and then serve them back to you and the client. The scheduler basically manages all the state needed to perform the computations and you submit tasks from the client. So that's sort of a quick whirlwind tour of the different components for the distributed scheduler and at this point I think it'd be great to actually see - see some of this in action... Hugo, would you like to take over?
+So in this particular diagram there are three Dask distributed workers here; however, you can have as you can have thousands of workers if you'd like. So the workers are the things that actually compute the tasks. They also store the results of your tasks and then serve them back to you in the client. The scheduler basically manages all the state needed to perform the computations and you submit tasks from the client. So that's sort of a quick whirlwind tour of the different components for the distributed scheduler and at this point I think it'd be great to actually see - see some of this in action... Hugo, would you like to take over?
+
+### Dask in action (<a href='https://youtu.be/MHAjCcBfT_A?t=915'>15:14</a>)
+
+<a href="https://youtu.be/MHAjCcBfT_A?t=915">
+  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t15.23.JPG"
+       alt="Dask in action" width="50%" /></a>
 
 **Hugo:**
 
