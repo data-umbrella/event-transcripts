@@ -30,4 +30,5 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 14 | Megan Robertson     |  [3 Lessons From 3 Years of Data Science](2020/14-megan-robertson-career.md)|                        |  Sethupathy  |  Needs reviewer (headers should not be in capital letters, etc)      |
 | 15 | Emma Gouillart      |  [Data Visualization with Plotly](2020/15-emma-gouillart-plotly.md)              |                        |  ?       |        |
 | 16 | Hugo / James      |  [Data Science and Machine Learning at Scale](2020/16-hugo-james-dask.md)              |                        |  Cynthia       |        |
+| 17 | Carol Willing      |  [Contributing to Core Python](2020/17-carol-python.md)              |                        |  ?      |        |
 |    |                     |                                                          |                        |              |        |
