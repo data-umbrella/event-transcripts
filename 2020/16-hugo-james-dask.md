@@ -176,43 +176,9 @@ So in this particular diagram there are three Dask distributed workers here; how
 
 **Hugo:**
 
-Absolutely. Thank you for that wonderful introduction to Dask and and the schedulers in particular and we are going to see that with Dask in action
-uh i'll just note that this tab in which
-i launched the binder is up and running
-if you're going to execute code here
-click on notebooks
-click on data umbrella oop
-and then go to the overview notebook
-and you can drag around we'll see the
-utility of these these dashboards
-in a second but you can you know drag
-your stuff around to
-to make you know however you want to
-want to structure it and then you can
-execute code
-in here i'm not going to do that i'm
-going to do this
-locally at the moment but just to see
-dust in action
-to begin with i'm going to i'm actually
-going to
-restart kernel and clear my outputs
-um so i'm going to import uh from dash
-distributed the client
-the sorry the other thing i wanted to
-mention is um we made a decision around
-content for this
-we do have a notebook that we we love to
-teach on schedulers but we decided to
-switch it out for machine learning for
-this workshop in particular we are
-teaching a similar although distinct
-workshop um at pi data global
-so we may see some of you there in which
-we'll be going um more in depth
-into schedulers as well um so if you
+Absolutely. Thank you for that wonderful introduction to Dask and and the schedulers in particular and we are going to see that with Dask in action. I'll just note that this tab in which I launched the binder, is up and running - if you're going to execute code here, click on *notebooks*, click on *data umbrella* and then go to the *overview* notebook and you can drag around. We'll see the utility of these - these dashboards in a second but you can, you know drag your stuff around to - to make - you know, however you want to - want to structure it and then you can execute code in here. I'm not going to do that,  I'm going to do this locally at the moment; but just to see Dask in action to begin with, I'm going to - I'm actually going to restart kernel and clear my outputs - so I'm going to import from Dask distributed, the client, the - sorry the other thing I wanted to mention is we made a decision around content for this. We do have a notebook that we we love to teach on schedulers but we decided to switch it out for machine learning for this workshop in particular; we are teaching a similar although distinct workshop at Py Data Global so we may see some of you there in which we'll be going more in depth into schedulers as well, so if you
 want to check that out
-definitely do so we instantiate the
+efinitely do so we instantiate the
 client
 which as james mentioned is kind of what
 we work with as the user um to submit
