@@ -182,49 +182,9 @@ Now this is something I really love about Dask, all the diagnostic tools - if I 
 
 Yeah, okay... great. So we've got a bunch of stuff that's - that's pretty interesting there and so the next thing I'm going to do... we've got a little utility file (highlights code cell containing `%run prep.py -d flights`) which downloads some of the data and this is - what it does is if you're in Binder it downloads a subset of the data; if you're anywhere else it downloads a larger set. For this particular example we're dealing with a small data set - you see the utility of Dask and distributed compute when it generalizes to larger data sets, but for pedagogical purposes we're going to sit with a smaller data set so that we can actually run - run the code: there's a trade-off there. So actually, that was already downloaded it seems but you should all see it download... I'm actually going to run that in the binder just to - you should start seeing `Downloading nyc flights dataset... done`, `Extracting`... `Creating json data` etc. Okay now what we're going to do is we're going to read in this data as a Dask DataFrame - and what I want you to notice is that it - really, the Dask code mimics Pandas code,  so instead of `pd.read_csv()` we've got `dd.read_csv()`. We've got, you know, this is the file path - the first argument; we're doing some parse date, setting some data types... okay? We've got a little  wild card regular expression there to - to join - to do a bunch of them... and then we're performing a `groupby`... okay? So we're grouping by the origin of these flights - flight data, we're looking at the the mean departure delay group(ed) by origin... the - the one difference i want to make clear is that in Dask we need a `.compute()` method; that's because Dask performs lazy computation - it won't actually do anything, because you don't want it to do anything on really large data sets until you explicitly tell it - tell it to compute.
 
-So i'm going to execute this now and we should see some information transfer between the scheduler and the workers and we should see tasks starting - starting to be done, okay? So moment of truth
-fantastic so we call this a pew pew plot
-because we see pew pew pew
-um we saw a bunch of data transfer
-happening between them these are all our
-cause
-and we can see tasks happening um it
-tells us what tasks there are we can see
-that most of the time was spent
-uh reading reading csvs then we have
-some um
-group bias on chunks and and that type
-of stuff
-um so that's a really nice uh diagnostic
-tool to see what most of your work
-um is is actually doing uh under dark
-work as you can see memory used cpu use
-um uh
-more fine-grained examples there um so
-i i'd love to know if um
-in the q a um
-i'm going to ask were you able to
-execute this code and if you were in
-binder just a thumb up
-a vote would be no would be fantastic
-um much appreciated um
-so as we've mentioned i just wanted to
-say a few things about tutorial goals
-um the goal is to cover the basics of
-dark and distributed compute we'd love
-for you to walk away with an
-understanding of when to use it when to
-not what it has to offer we're going to
-be covering um the basics of dusk
-delayed
-which although not immediately um
-applicable to data science
-provides a wonderful framework um
-for thinking um about dusk how dark
-works and understanding how it works
-under the hood
-then we're going to go into dark data
-frames and then machine learning
+So i'm going to execute this now (runs code cell) and we should see some information transfer between the scheduler and the workers and we should see tasks starting - starting to be done, okay? So moment of truth... fantastic (code cell displays output, the clusters show lines moving among them, the task stream creates a sort of bar graph and the code cell stops running) so we call this a pew pew plot because we see pew! pew! pew! We saw a bunch of data transfer happening between them (the clusters)... these are all our calls and we can see tasks happening... it tells us what tasks there are. We can see that most of the time was spent reading reading CSVs (highlights `read csv` in task graph), then we have some groupbys on chunks and - and that type of stuff (highlights task in task graph). So that's a really nice diagnostic tool to see what most of your work is - is actually doing under Dask Workers you can see memory used, `CPU use`, more fine-grained examples there. So I - I'd love to know if, in the Q&A, I'm going to ask... Were you able to execute this code?... and if you were in Binder just a thumb up, a vote would be - no - would be fantastic; much appreciated.
+
+So as we've mentioned I just wanted to say a few things about tutorial goals: the goal is to cover the basics of Dask and distributed compute; we'd love for you to walk away with an understanding of when to use it, when to not, what it has to offer; we're going to be covering the basics of Dask Delayed, which, although not immediately applicable to data science, provides a wonderful framework for thinking about Dask - how Dask works and understanding how it works under the hood; then we're going to go into Dask DataFrames and then machine learning
 hopefully um due to the technical um
 considerations with um we've got less
 time than
