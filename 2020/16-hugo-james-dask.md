@@ -176,31 +176,11 @@ So in this particular diagram there are three Dask distributed workers here; how
 
 **Hugo:**
 
-Absolutely. Thank you for that wonderful introduction to Dask and and the schedulers in particular and we are going to see that with Dask in action. I'll just note that this tab in which I launched the binder, is up and running - if you're going to execute code here, click on *notebooks*, click on *data umbrella* and then go to the *overview* notebook and you can drag around (drags one of the three dashboards displayed). We'll see the utility of these - these dashboards in a second but you can, you know drag your stuff around to - to make - you know, however you want to - want to structure it and then you can execute code in here. I'm not going to do that,  I'm going to do this locally at the moment (opens notebook at `localhost`); but just to see Dask in action to begin with, I'm going to - I'm actually going to restart kernel and clear my outputs - so I'm going to import from Dask distributed, the client, the - sorry the other thing I wanted to mention is we made a decision around content for this. We do have a notebook that we - we love to teach on schedulers but we decided to switch it out for machine learning for this workshop in particular; we are teaching a similar although distinct workshop at Py Data Global so we may see some of you there in which we'll be going more in depth into schedulers as well, so if you
-want to check that out definitely do so. We instantiate the client which as James mentioned is kind of what we work with as the user to submit our code. So that will take - take a few seconds... okay it's got a port in use so it's going - going elsewhere. What I'll just first get you to notice is that it tells us where our dashboard is - and we'll see those tools in a second - tells us about our cluster that we have four workers, eight cores, between eight and nine gigs(gigabytes) of - of RAM... okay? Now this is something I really love about Dask, all the diagnostic tools - if I click on the little Dask thing here (clicks on the Dask icon in the leftmost panel) and (navigates to the binder) we've modified the binder so that - that exists there as well. We can see (clicks on the Dask icon) - i'll hit search (clicks on search icon within the pop-up menu from the Dask icon) and it should - that now corresponds to the - the scheduler now i want to look at
-the task
-stream which will tell us in real time
-what's happening i also want to look at
-the
-cluster map so we see um here this is
-already really cool
-um we've got uh all of our workers
-around here and our scheduler
-scheduler there and when we start um
-doing some compute we'll actually see
-information flowing between these um and
-the other thing
-maybe i'll yeah i'll
-include a little progress um
-and that can be an alternate tab to um
-ask um i'm wondering
-perhaps i also want to include something
-about the workers
-yeah okay great so we've got a bunch of
-stuff
-that's that's pretty interesting there
-and so
-the next thing i'm going to do we've got
+Absolutely. Thank you for that wonderful introduction to Dask and and the schedulers in particular and we are going to see that with Dask in action. I'll just note that this tab in which I launched the binder, is up and running - if you're going to execute code here, click on *notebooks*, click on *data umbrella* and then go to the *overview* notebook and you can drag around (drags one of the three dashboards displayed). We'll see the utility of these - these dashboards in a second but you can, you know drag your stuff around to - to make - you know, however you want to - want to structure it and then you can execute code in here. I'm not going to do that,  I'm going to do this locally at the moment (opens notebook at `localhost`); but just to see Dask in action to begin with, I'm going to - I'm actually going to restart kernel and clear my outputs - so I'm going to import from Dask distributed, the client, the - sorry the other thing I wanted to mention is we made a decision around content for this. We do have a notebook that we - we love to teach on schedulers but we decided to switch it out for machine learning for this workshop in particular; we are teaching a similar although distinct workshop at Py Data Global so we may see some of you there in which we'll be going more in depth into schedulers as well, so if you want to check that out definitely do so. We instantiate the client which as James mentioned is kind of what we work with as the user to submit our code. So that will take - take a few seconds... okay it's got a port in use so it's going - going elsewhere. What I'll just first get you to notice is that it tells us where our dashboard is - and we'll see those tools in a second - tells us about our cluster that we have four workers, eight cores, between eight and nine gigs(gigabytes) of - of RAM... okay?
+
+Now this is something I really love about Dask, all the diagnostic tools - if I click on the little Dask thing here (clicks on the Dask icon in the leftmost panel) and (navigates to the binder) we've modified the binder so that - that exists there as well. We can see (clicks on the Dask icon) - i'll hit search (clicks on search icon within the pop-up menu from the Dask icon) and it should - (search result displays the same port as the port that is the output from the scheduler on the notebook) that now corresponds to the - the scheduler. Now i want to look at the task stream (clicks on the `TASK STREAM` button within the pop-up menu from the Dask icon, placing the Dask Task Stream dashboard to the right) which will tell us in real time what's happening; i also want to look at the (clicks on the `CLUSTER MAP` button within the pop-up menu from the Dask icon, placing the Dask Cluster Map dashboard just below the Dask Task Stream dashboard that is positioned to the right) cluster map. So we see here - this is already really cool - we've got all of our workers around here (moves cursor around a small dashboard below the Dask icon pop-up menu) and our scheduler - scheduler there and when we start doing some compute we'll actually see information flowing between these... and the other thing maybe... I'll yeah... I'll include a little progress (clicks on the `PROGRESS` button within the pop-up menu from the Dask icon, placing the Dask Progress dashboard to the right of the Dask Cluster Map dashboard) and that can be an alternate tab to... ask... I'm wondering perhaps I also want to include something about the workers (clicks on the `WORKERS` button within the pop-up menu from the Dask icon, placing the Dask Workers dashboard between the Dask Cluster Map and the Dask Progress dashboards).
+
+Yeah, okay... great. So we've got a bunch of stuff that's - that's pretty interesting there and so the next thing I'm going to do... we've got
 a little utility file which um downloads
 some of the data
 and this is what it does is if you're in
