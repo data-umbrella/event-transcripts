@@ -12,6 +12,7 @@
 ## Reference Links
 - Python on Discourse:  https://discuss.python.org/c/welcome/12
 - Carol's PyCon 2015 talk: https://www.youtube.com/watch?v=szeo1XgmuEk
+- Contributing to scikit-learn: https://www.dataumbrella.org/open-source/contributing-to-scikit-learn
 
 
 ## Video
