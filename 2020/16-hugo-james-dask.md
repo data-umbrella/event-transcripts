@@ -184,47 +184,9 @@ Yeah, okay... great. So we've got a bunch of stuff that's - that's pretty intere
 
 So i'm going to execute this now (runs code cell) and we should see some information transfer between the scheduler and the workers and we should see tasks starting - starting to be done, okay? So moment of truth... fantastic (code cell displays output, the clusters show lines moving among them, the task stream creates a sort of bar graph and the code cell stops running) so we call this a pew pew plot because we see pew! pew! pew! We saw a bunch of data transfer happening between them (the clusters)... these are all our calls and we can see tasks happening... it tells us what tasks there are. We can see that most of the time was spent reading reading CSVs (highlights `read csv` in task graph), then we have some groupbys on chunks and - and that type of stuff (highlights task in task graph). So that's a really nice diagnostic tool to see what most of your work is - is actually doing under Dask Workers you can see memory used, `CPU use`, more fine-grained examples there. So I - I'd love to know if, in the Q&A, I'm going to ask... Were you able to execute this code?... and if you were in Binder just a thumb up, a vote would be - no - would be fantastic; much appreciated.
 
-So as we've mentioned I just wanted to say a few things about tutorial goals: the goal is to cover the basics of Dask and distributed compute; we'd love for you to walk away with an understanding of when to use it, when to not, what it has to offer; we're going to be covering the basics of Dask Delayed, which, although not immediately applicable to data science, provides a wonderful framework for thinking about Dask - how Dask works and understanding how it works under the hood; then we're going to go into Dask DataFrames and then machine learning
-hopefully um due to the technical um
-considerations with um we've got less
-time than
-than we thought we would but um we'll
-definitely do the best we can
-we may have less time to do uh exercises
-so we've had two people who are able to
-execute this code
-if you if you tried to execute it in
-binder and were not able to
-perhaps post that in the q a um
-but um we also have several exercises
-um and i'd like you to take a minute
-just to do this exercise
-the i i'm not asking you to do this
-because i want to know if you're able to
-print hello world i'm essentially asking
-you to do it
-um so you get a sense of how these
-exercises work so
-if you can take 30 seconds to print
-hello world
-um then uh we'll we'll move on after
-that so just take um
-30 seconds now
-and it seems like we have a few more
-people who are able to execute code
-which which was great
-okay fantastic so you will put your
-solution there for some reason i have um
-an extra cell here so i'm just going to
-clip that
-and to see a solution uh i'll just get
-you to execute
-this cell and it provides the solution
-and then we can execute it and compare
-it to the
-the output of what you had okay hello
-world um
-so as as we saw i've done all this
+So as we've mentioned I just wanted to say a few things about tutorial goals: the goal is to cover the basics of Dask and distributed compute; we'd love for you to walk away with an understanding of when to use it, when to not, what it has to offer; we're going to be covering the basics of Dask Delayed, which, although not immediately applicable to data science, provides a wonderful framework for thinking about Dask - how Dask works and understanding how it works under the hood; then we're going to go into Dask DataFrames and then machine learning hopefully. Due to the technical considerations with... we've got less time than - than we thought we would but we'll definitely do the best we can. We may have less time to do exercises - so we've had two people who were able to execute this code... if you - if you tried to execute it in Binder and were not able to, perhaps post that in the Q&A - but we also have several exercises and I'd like you to take a minute just to do this exercise. The i- I'm not asking you to do this because i want to know if you're able to print     `hello world` i'm essentially asking you to do it so you get a sense of how these exercises work. So if you can take 30 seconds to print `hello world` then we'll - we'll move on after that, so just take 30 seconds now - and it seems like we have a few more people who were able to execute code which - which was great... okay, fantastic. So you will put your solution there for some reason I have an extra cell here so i'm just going to clip that (deletes blank code cell) and to see a solution uh i'll just get you to execute this cell (highlights a code cell containing `%load solutions/overview.py`) and it provides the solution and then we can execute it and compare it to the the output of what you had, okay? 'Hello world.'
+
+So as as we saw I've done all this
 locally you may have done it on binder
 um
 there is an option to work directly from
