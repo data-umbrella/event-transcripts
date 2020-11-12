@@ -19,7 +19,7 @@
 ## Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Pkg-DKkObKs" target="_blank"><img src="http://   .jpg" 
-alt="Data Science and Machine Learning at Scale" width="50%" /></a>
+alt="Carol Willing: Contributing to Core Python" width="50%" /></a>
 
 ## Transcript
 
