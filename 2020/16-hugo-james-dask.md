@@ -176,32 +176,8 @@ So in this particular diagram there are three Dask distributed workers here; how
 
 **Hugo:**
 
-Absolutely. Thank you for that wonderful introduction to Dask and and the schedulers in particular and we are going to see that with Dask in action. I'll just note that this tab in which I launched the binder, is up and running - if you're going to execute code here, click on *notebooks*, click on *data umbrella* and then go to the *overview* notebook and you can drag around. We'll see the utility of these - these dashboards in a second but you can, you know drag your stuff around to - to make - you know, however you want to - want to structure it and then you can execute code in here. I'm not going to do that,  I'm going to do this locally at the moment; but just to see Dask in action to begin with, I'm going to - I'm actually going to restart kernel and clear my outputs - so I'm going to import from Dask distributed, the client, the - sorry the other thing I wanted to mention is we made a decision around content for this. We do have a notebook that we we love to teach on schedulers but we decided to switch it out for machine learning for this workshop in particular; we are teaching a similar although distinct workshop at Py Data Global so we may see some of you there in which we'll be going more in depth into schedulers as well, so if you
-want to check that out
-efinitely do so we instantiate the
-client
-which as james mentioned is kind of what
-we work with as the user um to submit
-our code
-um so that will take take a few seconds
-um okay it's got a port in you so it's
-going going elsewhere
-what i'll just um first get you to
-notice is that it
-tells us where our dashboard is um and
-we'll see those tools in a second
-tells us about our cluster that we have
-four workers eight cores
-um between eight and nine gigs of of ram
-okay um now this is something i really
-love about dusk all the diagnostic um
-tools if i click on the little desk
-thing here
-and we've um modified the binder so that
-that exists there as well
-um we can see i'll hit search and it
-should that now corresponds to
-the the scheduler now i want to look at
+Absolutely. Thank you for that wonderful introduction to Dask and and the schedulers in particular and we are going to see that with Dask in action. I'll just note that this tab in which I launched the binder, is up and running - if you're going to execute code here, click on *notebooks*, click on *data umbrella* and then go to the *overview* notebook and you can drag around (drags one of the three dashboards displayed). We'll see the utility of these - these dashboards in a second but you can, you know drag your stuff around to - to make - you know, however you want to - want to structure it and then you can execute code in here. I'm not going to do that,  I'm going to do this locally at the moment (opens notebook at `localhost`); but just to see Dask in action to begin with, I'm going to - I'm actually going to restart kernel and clear my outputs - so I'm going to import from Dask distributed, the client, the - sorry the other thing I wanted to mention is we made a decision around content for this. We do have a notebook that we - we love to teach on schedulers but we decided to switch it out for machine learning for this workshop in particular; we are teaching a similar although distinct workshop at Py Data Global so we may see some of you there in which we'll be going more in depth into schedulers as well, so if you
+want to check that out definitely do so. We instantiate the client which as James mentioned is kind of what we work with as the user to submit our code. So that will take - take a few seconds... okay it's got a port in use so it's going - going elsewhere. What I'll just first get you to notice is that it tells us where our dashboard is - and we'll see those tools in a second - tells us about our cluster that we have four workers, eight cores, between eight and nine gigs(gigabytes) of - of RAM... okay? Now this is something I really love about Dask, all the diagnostic tools - if I click on the little Dask thing here (clicks on the Dask icon in the leftmost panel) and we've modified the binder so that that exists there as well. We can see - i'll hit search and it should - that now corresponds to the - the scheduler now i want to look at
 the task
 stream which will tell us in real time
 what's happening i also want to look at
