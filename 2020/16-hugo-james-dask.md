@@ -180,64 +180,9 @@ Absolutely. Thank you for that wonderful introduction to Dask and and the schedu
 
 Now this is something I really love about Dask, all the diagnostic tools - if I click on the little Dask thing here (clicks on the Dask icon in the leftmost panel) and (navigates to the binder) we've modified the binder so that - that exists there as well. We can see (clicks on the Dask icon) - i'll hit search (clicks on search icon within the pop-up menu from the Dask icon) and it should - (search result displays the same port as the port that is the output from the scheduler on the notebook) that now corresponds to the - the scheduler. Now i want to look at the task stream (clicks on the `TASK STREAM` button within the pop-up menu from the Dask icon, placing the Dask Task Stream dashboard to the right) which will tell us in real time what's happening; i also want to look at the (clicks on the `CLUSTER MAP` button within the pop-up menu from the Dask icon, placing the Dask Cluster Map dashboard just below the Dask Task Stream dashboard that is positioned to the right) cluster map. So we see here - this is already really cool - we've got all of our workers around here (moves cursor around a small dashboard below the Dask icon pop-up menu) and our scheduler - scheduler there and when we start doing some compute we'll actually see information flowing between these... and the other thing maybe... I'll yeah... I'll include a little progress (clicks on the `PROGRESS` button within the pop-up menu from the Dask icon, placing the Dask Progress dashboard to the right of the Dask Cluster Map dashboard) and that can be an alternate tab to... ask... I'm wondering perhaps I also want to include something about the workers (clicks on the `WORKERS` button within the pop-up menu from the Dask icon, placing the Dask Workers dashboard between the Dask Cluster Map and the Dask Progress dashboards).
 
-Yeah, okay... great. So we've got a bunch of stuff that's - that's pretty interesting there and so the next thing I'm going to do... we've got
-a little utility file which um downloads
-some of the data
-and this is what it does is if you're in
-binder it downloads a subset of the data
-if you're anywhere else it loads a
-larger set
-um for this particular example we're
-dealing with a small data set
-you see the utility of dark and
-distributed compute when it generalizes
-to larger data sets
-but for pedagogical purposes um we're
-going to sit with a smaller data set so
-that we can actually run
-run the code there's a trade-off there
-um so
-actually that was already downloaded it
-seems but you should
-all see it download i'm actually going
-to run that in the binder
-just to you should start seeing
-downloading nyc flights data set
-done extracting creating json data etc
-okay now what we're going to do
-is we're going to read in this data as a
-dask data frame and
-what i want you to notice is that it
-really the das code mimics pandas code
-so instead of pd read csv we've got dd
-read csv
-um we've got you know this is the file
-path um
-the first argument we're doing some
-parse date setting some data types
-okay um we've got a little um
-wild card regular expression there to to
-join uh
-to do a bunch of them um and then we're
-performing a group by
-okay so we're grouping by the origin of
-these flight flight data
-we're looking at the the mean departure
-delay group by origin
-the the one difference i want to make
-clear is that
-in das we need a compute method
-um that's because das performs lazy
-computation it won't actually
-do anything because you don't want it to
-do anything on really large data sets
-until you explicitly tell it tell it to
-compute so i'm going to execute this now
-and we should see some information
-transfer between the scheduler and the
-workers and we should see tasks
-starting starting to be done okay
-so moment of truth
+Yeah, okay... great. So we've got a bunch of stuff that's - that's pretty interesting there and so the next thing I'm going to do... we've got a little utility file (highlights code cell containing `%run prep.py -d flights`) which downloads some of the data and this is - what it does is if you're in Binder it downloads a subset of the data; if you're anywhere else it downloads a larger set. For this particular example we're dealing with a small data set - you see the utility of Dask and distributed compute when it generalizes to larger data sets, but for pedagogical purposes we're going to sit with a smaller data set so that we can actually run - run the code: there's a trade-off there. So actually, that was already downloaded it seems but you should all see it download... I'm actually going to run that in the binder just to - you should start seeing `Downloading nyc flights dataset... done`, `Extracting`... `Creating json data` etc. Okay now what we're going to do is we're going to read in this data as a Dask DataFrame - and what I want you to notice is that it - really, the Dask code mimics Pandas code,  so instead of `pd.read_csv()` we've got `dd.read_csv()`. We've got, you know, this is the file path - the first argument; we're doing some parse date, setting some data types... okay? We've got a little  wild card regular expression there to - to join - to do a bunch of them... and then we're performing a `groupby`... okay? So we're grouping by the origin of these flights - flight data, we're looking at the the mean departure delay group(ed) by origin... the - the one difference i want to make clear is that in Dask we need a `.compute()` method; that's because Dask performs lazy computation - it won't actually do anything, because you don't want it to do anything on really large data sets until you explicitly tell it - tell it to compute.
+
+So i'm going to execute this now and we should see some information transfer between the scheduler and the workers and we should see tasks starting - starting to be done, okay? So moment of truth
 fantastic so we call this a pew pew plot
 because we see pew pew pew
 um we saw a bunch of data transfer
