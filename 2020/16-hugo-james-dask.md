@@ -24,21 +24,21 @@
 
 **Reshama**:
 
-Okay - hello and welcome to Data Umbrella's webinar for October; so I'm just going to go over the agenda, I'm going to do a brief introduction then there will be the workshop by hugo and james and you can ask questions along the way in the chat or - actually the best place to ask questions is the Q&A and there's an option to upvote as well. So yeah; asking the Q&A - if you happen to post it on the chat by mistake I can also transfer it over to Q&A so that would be fine too and this webinar is being recorded.
+Okay - hello and welcome to Data Umbrella's webinar for October; so I'm just going to go over the agenda, I'm going to do a brief introduction then there will be the workshop by Hugo and James and you can ask questions along the way in the chat or - actually the best place to ask questions is the Q&A and there's an option to upvote as well. So yeah; asking the Q&A - if you happen to post it on the chat by mistake I can also transfer it over to Q&A so that would be fine too and this webinar is being recorded.
 
-Briefly about me: I am a statistician and data scientist and i am the founder of Data Umbrella; I am on a lot of platforms as @reshamas so feel free to follow me on Twitter and LinkedIn. We have a code of conduct; we're dedicated to providing a harassment-free experience for everyone; thank you for helping to make this a welcoming, friendly professional community for all and this code of conduct applies to the chat as well. So our mission is to provide an inclusive community for underrepresented persons in data science and we are an all volunteer run organization.
+Briefly about me: I am a statistician and data scientist and I am the founder of Data Umbrella; I am on a lot of platforms as @reshamas so feel free to follow me on Twitter and LinkedIn. We have a code of conduct; we're dedicated to providing a harassment-free experience for everyone; thank you for helping to make this a welcoming, friendly professional community for all and this code of conduct applies to the chat as well. So our mission is to provide an inclusive community for underrepresented persons in data science and we are an all-volunteer-run organization.
 
 You can support Data Umbrella by doing the following things: you can follow our code of conduct and keep our community a place where everybody wants to keep coming to, you can donate to our open collective and that helps to pay meet-up dues and other operational costs and you can check out this link here on GitHub - we have this new initiative where all the videos are being transcribed and... so it's to make them more accessible - so we take the YouTube videos and we put the raw there and so we've had a number of volunteers help us transcribe it; so feel free to check out this link and maybe if you do this video, maybe the two speakers will follow you on Twitter; I can't promise anything but it's possible.
 
-Data Umbrella has a job board and it's at jobs.dataumbrella.org and once this gets started I'll put some links in the chat. The job that we are highlighting today is the machine learning engineer job by Development Seed and Development Seed is based in Washington DC and Lisbon, Portugal and they do - i'm going to go to the next slide - what they do is they're doing social good work and so they're doing for instance, mapping elections from Afghanistan to the U.S, analyzing public health and economic data from Palestine to Illinois and leading the strategy and development behind data for World Bank and some other organizations and I will share a link to their job posting in the chat as well as soon as I finish this brief introduction.
+Data Umbrella has a job board and it's at jobs.dataumbrella.org and once this gets started I'll put some links in the chat. The job that we are highlighting today is the machine learning engineer job by Development Seed and Development Seed is based in Washington DC and Lisbon, Portugal and they do - I'm going to go to the next slide - what they do is they're doing social good work and so they're doing for instance, mapping elections from Afghanistan to the U.S, analyzing public health and economic data from Palestine to Illinois and leading the strategy and development behind data for World Bank and some other organizations and I will share a link to their job posting in the chat as well as soon as I finish this brief introduction.
 
 Check out our website for resources - there's a lot of resources on learning Python and R, also for contributing to open source, also for guides on accessibility and responsibility and allyship. We have a monthly newsletter that goes out towards the end of the month and it has information on our upcoming events - we have two great events coming up in November and December on open source so subscribe to our newsletter to be in the know. We are on all social media platforms as Data Umbrella; Meetup is the best place to join to find out about upcoming events, our website has resources, follow us on Twitter, we also share a lot of information on LinkedIn, and if you want to subscribe to our YouTube channel we record all of our talks and post them there within about a week of the talk so it's a good way to get information.
 
-Okay and now we are ready to get started. So I will hand it over to - put myself on mute - and i will hand it over to Hugo and James and let you take over.
+Okay and now we are ready to get started. So I will hand it over to - put myself on mute - and I will hand it over to Hugo and James and let you take over.
 
 **Hugo:**
 
-Thank you all for joining I just want to thank Reshama, Christina and and everyone else who tire - all the tireless effort that - that goes into putting these meet-ups and these online sessions together. I think one thing I want to say is actually the last in-person workshop i gave either at the end of February or early March was Data Umbrella's inaugural tutorial and meetup if I recall correctly, on Bayesian thinking and hacker statistics and simulation and that type of stuff, so it's just wonderful to be back particularly with my colleague and friend James. We're building really cool distributed data science products at Coiled - we'll say a bit about that but we'll do some introductions in a bit.
+Thank you all for joining I just want to thank Reshama, Christina and and everyone else who tire - all the tireless effort that - that goes into putting these meet-ups and these online sessions together. I think one thing I want to say is actually the last in-person workshop I gave - either at the end of February or early March was Data Umbrella's inaugural tutorial and meetup if I recall correctly - on Bayesian thinking and hacker statistics and simulation and that type of stuff, so it's just wonderful to be back particularly with my colleague and friend James. We're building really cool distributed data science products at Coiled - we'll say a bit about that but we'll do some introductions in a bit.
 
 ### How to access and set up notebooks used in the webinar (<a href='https://youtu.be/MHAjCcBfT_A?t=300'>05:00</a>)
 
@@ -50,7 +50,7 @@ Thank you all for joining I just want to thank Reshama, Christina and and everyo
 
 I just wanted to get you all accustomed to - it was February, thank you Reshama. We're working with Jupyter notebooks in a GitHub repository - the repository is pinned to the top of the chat. This is what it looks like (scrolling down the repository homepage) - these are all the files; this is the file system.
 
-Now we use something called Binder which is a project, out of and related to project - Project Jupyter which provides infrastructure to run notebooks without any local installs. So there are two ways you can you can code along on this tutorial; the first is - and i won't get you to do this yet - is to launch Binder. The reason I won't get you to do that yet is because once you launch it we have 10 minutes to start coding or the Binder session times out - I've been burnt by that before, actually several times - I'm surprised I even remembered it this time. The other thing you can do is install everything locally by cloning the repository, downloading Anaconda, creating a Conda environment - if you haven't done that, I suggest you do not do that now - and you launch - launch the Binder. James is going to start by telling us a few things about about Dask and distributed computing in general.
+Now we use something called Binder which is a project, out of and related to Project - Project Jupyter which provides infrastructure to run notebooks without any local installs. So there are two ways you can you can code along on this tutorial; the first is - and i won't get you to do this yet - is to launch Binder. The reason I won't get you to do that yet is because once you launch it we have 10 minutes to start coding or the Binder session times out - I've been burnt by that before, actually several times - I'm surprised I even remembered it this time. The other thing you can do is install everything locally by cloning the repository, downloading Anaconda, creating a Conda environment - if you haven't done that, I suggest you do not do that now - and you launch - launch the Binder. James is going to start by telling us a few things about about Dask and distributed computing in general.
 
 My question for you James is: if we get people to launch this now, will we get to execute a cell - code cell in 10 minutes?
 
@@ -91,9 +91,9 @@ Yes.
 Okay.
 
 **Hugo:**
-Exactly. So I will not launch Binder now - I will not get you to now... I've - I'm doing this locally... (highlights notebook location in `localhost` onscreen) and we see that I'm in notebook zero, and if you want to actually have a look at this notebook before launching Binder, it's in the (highlights notebook location in GitHub onscreen) *Notebooks Data Umbrella...* subdirectory  (clicks notebook location in GitHub onscreen) and it's (highlights notebook location in GitHub onscreen) notebook zero and we're going to hopefully make it through the overview then (highlights notebook location in GitHub onscreen) chatting about Dask - Dask *delayed* and - and (highlights notebook location onscreen) *dataframe* and (highlights notebook location onscreen) *machine learning*.
+Exactly. So I will not launch Binder now - I will not get you to now... I've - I'm doing this locally... (highlights notebook located in `localhost` onscreen) and we see that I'm in notebook zero, and if you want to actually have a look at this notebook before launching Binder, it's in the (highlights notebook location in GitHub onscreen) *Notebooks Data Umbrella...* subdirectory  (clicks notebook location in GitHub onscreen) and it's (highlights notebook location in GitHub onscreen) notebook zero and we're going to hopefully make it through the overview then (highlights notebook location in GitHub onscreen) chatting about Dask - Dask *delayed* and - and (highlights notebook location onscreen) *dataframe* and (highlights notebook location onscreen) *machine learning*.
 
-Great so we have... Hashim has said you could open in VS Code as well; you could - I mean, that would require all your local installs and that type of stuff as well but we're to introduce me and James; we work at Coiled where we build products for distributed computing infrastructure. As we'll see one of the big problems with like bursting to the cloud is all the like Kubernetes, AWS, Docker stuff, so we build a one-click host of deployments for Dask but for data science and machine learning in general. James maintains Dask along with Matt - Matt Rocklin who created Dask with a team - people who were working with Continuum, Anaconda at the time and James is a software engineer at Coiled and I run Data science evangelism, Marketing, work on a bunch of product stuff as well, wear a bunch of different hats occasionally; there are many ways to think about distributed compute and how to do it in Python. We're going to present um hey James, you're muted
+Great so we have... Hashim has said you could open in VS Code as well; you could - I mean, that would require all your local installs and that type of stuff as well but we're to introduce me and James; we work at Coiled where we build products for distributed computing infrastructure. As we'll see one of the big problems with like bursting to the cloud is all the like Kubernetes, AWS, Docker stuff, so we build a one-click host of deployments for Dask but for data science and machine learning in general. James maintains Dask along with Matt - Matt Rocklin who created Dask with a team - people who were working with Continuum, Anaconda at the time - and James is a software engineer at Coiled and I run Data science evangelism, Marketing, work on a bunch of product stuff as well, wear a bunch of different hats occasionally; there are many ways to think about distributed compute and how to do it in Python. We're going to present - hey James, you're muted -
 
 **James:**
 
@@ -186,41 +186,8 @@ So i'm going to execute this now (runs code cell) and we should see some informa
 
 So as we've mentioned I just wanted to say a few things about tutorial goals: the goal is to cover the basics of Dask and distributed compute; we'd love for you to walk away with an understanding of when to use it, when to not, what it has to offer; we're going to be covering the basics of Dask Delayed, which, although not immediately applicable to data science, provides a wonderful framework for thinking about Dask - how Dask works and understanding how it works under the hood; then we're going to go into Dask DataFrames and then machine learning hopefully. Due to the technical considerations with... we've got less time than - than we thought we would but we'll definitely do the best we can. We may have less time to do exercises - so we've had two people who were able to execute this code... if you - if you tried to execute it in Binder and were not able to, perhaps post that in the Q&A - but we also have several exercises and I'd like you to take a minute just to do this exercise. The i- I'm not asking you to do this because i want to know if you're able to print     `hello world` i'm essentially asking you to do it so you get a sense of how these exercises work. So if you can take 30 seconds to print `hello world` then we'll - we'll move on after that, so just take 30 seconds now - and it seems like we have a few more people who were able to execute code which - which was great... okay, fantastic. So you will put your solution there for some reason I have an extra cell here so i'm just going to clip that (deletes blank code cell) and to see a solution uh i'll just get you to execute this cell (highlights a code cell containing `%load solutions/overview.py`) and it provides the solution and then we can execute it and compare it to the the output of what you had, okay? 'Hello world.'
 
-So as as we saw I've done all this
-locally you may have done it on binder
-um
-there is an option to work directly from
-the cloud um and i'll i'll take you
-through this there are many ways to do
-this
-as i mentioned we're working on one way
-with coil and i'll explain the rationale
-behind that
-in in a second but i'll show you how
-easy it is
-to get a cluster up and running on on
-aws without even interacting with
-aws for free for example you can follow
-along by uh signing into uh coiled cloud
-to be clear this is not a necessity and
-it does involve you signing up to our
-product so i just wanted to be
-absolutely transparent
-about that it does not involve any
-credit card information or anything
-along those lines and in my opinion it
-does give a really nice
-uh example of how to run stuff on the
-cloud um
-to do so you can sign in at cloud dot
-coiled
-uh dot io you can also pip install
-coiled and then
-do authentication you can also spin up
-this
-this hosted coiled notebook so i'm
-going to spin that up now and i'm going
-to post that
+So as as we saw, I've done all this locally, you may have done it on Binder... there is an option to work directly from the cloud and I'll I'll take you through this - there are many ways to do this. As I mentioned we're working on one way with Coiled and I'll explain the rationale behind that in - in a second but I'll show you how easy it is to get a cluster up and running on - on AWS without even interacting with AWS for free, for example; you can follow along by signing into Coiled cloud. To be clear, this is not a necessity and it does involve you signing up to our product, so i just wanted to be absolutely transparent about that; it does not involve any credit card information or anything along those lines and in my opinion it does give a really nice example of how to run stuff on the cloud. To do so you can sign in at <a href='https://cloud.coiled.io/'>cloud.coiled.io</a> you can also `pip install coiled` and then do authentication; you can also spin up this - this hosted Coiled notebook (clicks <a href='https://cloud.coiled.io/jobs/coiled/quickstart'>link</a> on notebook), so I'm going to spin that up now and I'm going to post that
+
 here um actually yep i'm gonna post that
 in the ch
 chat um if you let me get this right
