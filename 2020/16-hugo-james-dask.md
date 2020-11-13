@@ -239,18 +239,15 @@ Oh yes, fantastic... so... yep, there's some bug with the local dashboards that 
 
 So now i'm going to do the compute - well I'm going to set myself up for the computation to do a group by passenger count and look at the mean tip (runs code cell) - now that took a very small amount of time; we see the ipython magic timing there because we haven't computed it - now we're actually going to compute (runs next code cell) - and James if you'll see in the chat, Eliana said her Coil-Coiled authentication failed; I don't know if you're able to to help with that but if you are, that would be great... and it may be difficult to debug in - but look; as we see, we have the task stream now and we see how many - you know we've got 40 cores working together, we saw the processing, we saw the bytes stored - it's over 10 gigs as I said - and we see we were able to do our basic analytics. We were able to do it on a 10 plus gig dataset in - in 21.3 seconds which is pretty - pretty exceptional. If any - any code-based issues come up and they're correlated in particular... so if you have questions about the code execution please ask in the Q&A not in the chat because others cannot vote it and I will definitively prioritize questions on technical stuff particularly ones that up- that are upvoted; but yeah, I totally agree thanks - thanks very much.
 
-### Working directly from the cloud with Coiled (<a href='https://youtu.be/MHAjCcBfT_A?t=1401'>23:21</a>)
+### Working with Dask DataFrames (<a href='https://youtu.be/MHAjCcBfT_A?t=1963'>32:43</a>)
 
-<a href="https://youtu.be/MHAjCcBfT_A?t=1401">
-  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t23.23.JPG"
+<a href="https://youtu.be/MHAjCcBfT_A?t=1963">
+  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t32.49.JPG"
        alt="Working with Coiled" width="50%" /></a>
 
 **Hugo:**
+So yeah... let's jump into - into dataframes (opens notebook two at `localhost`)
 
-
-
-um so yeah let's jump into
-into um data frames
 so of course we write here that in the
 last exercise um we used ask delayed to
 parallelize uh loading multiple csv
