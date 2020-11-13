@@ -235,41 +235,9 @@ Yeah... click on the ecs dashboard link (in the code output)
 
 **Hugo:**
 
-Oh yes, fantastic... so... yep, there's some bug with the local dashboards that we're - we're currently - currently working on but what we'll see
-now
+Oh yes, fantastic... so... yep, there's some bug with the local dashboards that we're - we're currently - currently working on but what we'll see now... just a sec, I'm going to remove all of this (closes all previously opened dashboards and the Dask icon popup menu) - we'll see now that I have access to 10 workers, I have access to 40 cores and I have access to over 170 gigs of memory (resizes window containing notebook on `localhost` to show Dask dashboards at the ecs link mentioned earlier lying to the right)... okay, so now I'm actually going to import this data set (highlights and runs code cell in notebook on `localhost`) and it's the entire year of data from 2019, and we'll start seeing on - on the diagnostics all the, all the processing happening, okay? So... actually, not yet because we haven't called compute (i.e. added `.compute()` to the `dd.read_csv()` function)... okay, so it's done this lazily, we've imported it - it shows kind of like Pandas when you show a dataframe, the column names and data types - but it doesn't show the data because we haven't loaded it yet; it does tell you how many partitions it is. So essentially - and we'll see this soon - Dask DataFrames correspond to collections of Pandas DataFrames so there are really 127 Pandas DataFrames underlying this Dask DataFrame.
 
-just a sec i'm going to remove all of
-this
-we'll see now that i have access to 10
-workers i have access to 40 cores
-and i have access to uh over 170 gigs
-of memory okay so now i'm actually going
-to
-import this data set and it's the entire
-um year of data from 2019
-and we'll start seeing on on the
-diagnostics all the all the processing
-happening okay so oh
-actually not yet because we haven't um
-called compute okay so it's done this
-lazily um
-we've imported it um it shows kind of
-like pandas when you
-show a data frame um the column names
-and data types
-um but it doesn't show the data because
-we haven't loaded it
-yet it does tell you how many partitions
-it is so essentially and we'll see this
-soon
-das data frames correspond to
-collections of pandas data frames
-um so they're really 127 pandas data
-frames underlying this task data frame
-so now i'm going to do the compute well
-i'm going to
-set myself up for the computation um to
-do a group by passenger gown and look at
+So now i'm going to do the compute - well I'm going to set myself up for the computation to do a group by passenger gown and look at
 the main tip
 now that took a very small amount of
 time we see the ipython magic
