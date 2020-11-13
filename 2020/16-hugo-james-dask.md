@@ -186,67 +186,11 @@ So i'm going to execute this now (runs code cell) and we should see some informa
 
 So as we've mentioned I just wanted to say a few things about tutorial goals: the goal is to cover the basics of Dask and distributed compute; we'd love for you to walk away with an understanding of when to use it, when to not, what it has to offer; we're going to be covering the basics of Dask Delayed, which, although not immediately applicable to data science, provides a wonderful framework for thinking about Dask - how Dask works and understanding how it works under the hood; then we're going to go into Dask DataFrames and then machine learning hopefully. Due to the technical considerations with... we've got less time than - than we thought we would but we'll definitely do the best we can. We may have less time to do exercises - so we've had two people who were able to execute this code... if you - if you tried to execute it in Binder and were not able to, perhaps post that in the Q&A - but we also have several exercises and I'd like you to take a minute just to do this exercise. The i- I'm not asking you to do this because i want to know if you're able to print     `hello world` i'm essentially asking you to do it so you get a sense of how these exercises work. So if you can take 30 seconds to print `hello world` then we'll - we'll move on after that, so just take 30 seconds now - and it seems like we have a few more people who were able to execute code which - which was great... okay, fantastic. So you will put your solution there for some reason I have an extra cell here so i'm just going to clip that (deletes blank code cell) and to see a solution uh i'll just get you to execute this cell (highlights a code cell containing `%load solutions/overview.py`) and it provides the solution and then we can execute it and compare it to the the output of what you had, okay? 'Hello world.'
 
-So as as we saw, I've done all this locally, you may have done it on Binder... there is an option to work directly from the cloud and I'll I'll take you through this - there are many ways to do this. As I mentioned we're working on one way with Coiled and I'll explain the rationale behind that in - in a second but I'll show you how easy it is to get a cluster up and running on - on AWS without even interacting with AWS for free, for example; you can follow along by signing into Coiled cloud. To be clear, this is not a necessity and it does involve you signing up to our product, so i just wanted to be absolutely transparent about that; it does not involve any credit card information or anything along those lines and in my opinion it does give a really nice example of how to run stuff on the cloud. To do so you can sign in at <a href='https://cloud.coiled.io/'>cloud.coiled.io</a> you can also `pip install coiled` and then do authentication; you can also spin up this - this hosted Coiled notebook (clicks <a href='https://cloud.coiled.io/jobs/coiled/quickstart'>link</a> on notebook), so I'm going to spin that up now and I'm going to post that
+So as as we saw, I've done all this locally, you may have done it on Binder... there is an option to work directly from the cloud and I'll I'll take you through this - there are many ways to do this. As I mentioned we're working on one way with Coiled and I'll explain the rationale behind that in - in a second but I'll show you how easy it is to get a cluster up and running on - on AWS without even interacting with AWS for free, for example; you can follow along by signing into Coiled cloud. To be clear, this is not a necessity and it does involve you signing up to our product, so i just wanted to be absolutely transparent about that; it does not involve any credit card information or anything along those lines and in my opinion it does give a really nice example of how to run stuff on the cloud. To do so you can sign in at <a href='https://cloud.coiled.io/'>cloud.coiled.io</a> you can also `pip install coiled` and then do authentication; you can also spin up this - this hosted Coiled notebook (clicks <a href='https://cloud.coiled.io/jobs/coiled/quickstart'>link</a> on notebook), so I'm going to spin that up now and I'm going to post that here... actually yep, I'm gonna post that in the chat if you - let me get this right - if you've - if you've never logged in to Coiled before it'll ask you to sign up using Gmail or GitHub so feel free to do that if you'd like; if not that's also also cool, but I just wanted to be explicit uh about that.
 
-here um actually yep i'm gonna post that
-in the ch
-chat um if you let me get this right
-um if you've if you've never logged in
-to code before it'll ask you to sign up
-using gmail or github so feel free to do
-that if you'd like
-if not that's also also cool um but i
-just wanted to be explicit
-uh about that um the reason i want to do
-this
-is to show how dars can be leveraged to
-do work on
-really large data sets so you will
-recall that i had between eight and nine
-gigs of ram on my local system
-um oh wow anthony says on ipad unable to
-execute on binder
-incredible um i don't have a strong
-sense of how binder works on ipad
-i do know that i was able to um
-to check to use a binder on my iphone
-several years ago on my way to scipy
-doing code review for someone for eric
-maher i think for what that
-that's worth um but back to this
-um we have this nyc taxi data set which
-is over 10 gigs it won't even
-i can't even store that in local memory
-i don't have enough ram to store that
-so we do need um either to do it
-locally in an out of core mode of some
-sort or we can we can burst to the cloud
-and we're actually going to burst to the
-cloud
-using using coiled um so the notebook
-is running here um for me and but i'm
-actually gonna do it uh from my local
-local notebook
-but you'll see and once again feel free
-to code along here
-it's spinning up a notebook and james
-who is
-is my co-instructor here um is to be i'm
-i'm so grateful
-all the work is done on our notebooks in
-coiled you can
-launch the cluster here and then analyze
-the entire um over 10 gigs of data there
-i'm going to do it um
-here so to do that i import coiled
-and then i import the dash distributed
-stuff and then
-i can create my own software environment
-cluster configuration i'm not going to
-do that
-because the standard coiled cluster
-configuration software environment works
-now i'm going to spin up a cluster and
+The reason I want to do this is to show how Dask can be leveraged to do work on really large data sets; so you will recall that i had between eight and nine gigs of RAM on my local system - oh wow Anthony says, "On iPad, unable to execute on Binder," incredible... I don't have a strong sense of how Binder works on iPad; I do know that I was able to - to check - to use a binder on my iPhone several years ago on my way to Scipy doing code review for someone - for Eric Maher i think, for what that - that's worth... but back to this, we have this NYC taxi dataset which is over 10 gigs - it won't even - I can't even store that in local memory - I don't have enough RAM to store that. So we do need, either to do it locally in an out of core mode of some sort or we can we can burst to the cloud - and we're actually going to burst to the cloud using - using coiled; so the notebook is running here (navigates to the Coiled page) for me and - but - I'm actually gonna do it from my local - local notebook (navigates to JupyterLab loading the notebook hosted in Coiled) but you'll see... and once again feel free to code along here... it's spinning up a notebook and James who is - is my co-instructor here is to be - I'm, I'm so grateful all the work is done on our notebooks in Coiled - you can launch the cluster here and then analyze the entire... over 10 gigs of data there... I'm going to do it here (navigates to the notebbok in `localhost`).
+
+So to do that, I import Coiled and then I import the Dask distributed stuff (highlights code cell) and then I can create my own software environment (highlights next code cell), cluster configuration (highlights next code cell) - I'm not going to do that because the standard Coiled cluster configuration software environment (highlights next code cell) works. Now i'm going to spin up a cluster (highlights and runs next code cell) and
 instantiate a client
 now because we're spinning up a cluster
 uh in in the cloud
