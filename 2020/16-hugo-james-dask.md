@@ -194,7 +194,6 @@ So as we've mentioned I just wanted to say a few things about tutorial goals: th
 
 **Hugo:**
 
-
 So as as we saw, I've done all this locally, you may have done it on Binder... there is an option to work directly from the cloud and I'll - I'll take you through this - there are many ways to do this. As I mentioned we're working on one way with Coiled and I'll explain the rationale behind that in - in a second but I'll show you how easy it is to get a cluster up and running on - on AWS without even interacting with AWS for free, for example; you can follow along by signing into Coiled cloud. To be clear, this is not a necessity and it does involve you signing up to our product, so i just wanted to be absolutely transparent about that; it does not involve any credit card information or anything along those lines and in my opinion it does give a really nice example of how to run stuff on the cloud. To do so you can sign in at <a href='https://cloud.coiled.io/'>cloud.coiled.io</a> you can also `pip install coiled` and then do authentication; you can also spin up this - this hosted Coiled notebook (clicks <a href='https://cloud.coiled.io/jobs/coiled/quickstart'>link</a> on notebook), so I'm going to spin that up now and I'm going to post that here... actually yep, I'm gonna post that in the chat if you - let me get this right - if you've - if you've never logged in to Coiled before it'll ask you to sign up using Gmail or GitHub so feel free to do that if you'd like; if not that's also also cool, but I just wanted to be explicit uh about that.
 
 The reason I want to do this is to show how Dask can be leveraged to do work on really large data sets; so you will recall that i had between eight and nine gigs of RAM on my local system - oh wow Anthony says, "On iPad, unable to execute on Binder," incredible... I don't have a strong sense of how Binder works on iPad; I do know that I was able to - to check - to use a binder on my iPhone several years ago on my way to Scipy doing code review for someone - for Eric Maher i think, for what that - that's worth... but back to this, we have this NYC taxi dataset which is over 10 gigs - it won't even - I can't even store that in local memory - I don't have enough RAM to store that. So we do need, either to do it locally in an out of core mode of some sort or we can we can burst to the cloud - and we're actually going to burst to the cloud using - using coiled; so the notebook is running here (navigates to the Coiled page) for me and - but - I'm actually gonna do it from my local - local notebook (navigates to JupyterLab loading the notebook hosted in Coiled) but you'll see... and once again feel free to code along here... it's spinning up a notebook and James who is - is my co-instructor here is to be - I'm, I'm so grateful all the work is done on our notebooks in Coiled - you can launch the cluster here and then analyze the entire... over 10 gigs of data there... I'm going to do it here (navigates to the notebbok in `localhost`).
@@ -203,47 +202,42 @@ So to do that, I import Coiled and then I import the Dask distributed stuff (hig
 
 Now because we're spinning up a cluster in - in the cloud, it'll take - it'll take - a minute - a minute or two... enough time to make a cup of coffee but it's also enough time for me to just talk a bit about why this is important and there are a lot of a lot of good - good people working on - on similar things... but part of the motivation here is that if you want to... you don't always want to do distributed data science, okay? First I'd ask you to look at - instead of using Dask, if you can optimize your Pandas code, right? Second I'd ask, if you've got big datasets - it's a good question - do you actually need all the data? So I would - if you're doing machine learning, plot your learning curve; see how accurate... see how your accuracy or whatever your metric of interest is improves as you increase the amount of data - right? - and if it plateaus before you get to a large data size then you may as well, most of the time, use your small data; see if sub-sampling can actually give you the results you need. See if you can get a bigger, bigger - access to a bigger machine so you don't have to burst to the cloud; but after all these things if you do need to burst - burst to the cloud, until recently you've had to get an AWS account, you've had to, you know, set up containers with Docker and/or Kubernetes and do all of these kind of - I suppose - DevOpsy software engineering foo stuff which, which if you're into that I - I absolutely encourage you - encourage you to do that... but a lot of working data scientists aren't paid to do that and don't necessarily want to. So that's something we're working on, is thinking about these kind of one-click hosted deployments so you don't have to do all of that; having said that I very much encourage you to try doing that stuff if - if you're interested.
 
-um we'll see that
-the
-the um cluster has just been created
-um and what i'm going to do we see that
-um oh i'm sorry
-i've done something funny here i'm
-i'm referencing the previous client anna
-james
-yeah it looks like you should go ahead
-and connect a new client to the coil
-cluster and making sure not to
-re-execute the cluster
-creation exactly so
-would that be how would i
-what's the call here i would just open
-up a new
-cell and say client equals
-um capital client and then pass in the
-cluster
-like open parentheses cluster yeah
-great
-okay fantastic and what we're seeing is
-a slight version this
-we don't need to worry about this this
-is essentially saying that um
-the environment on the cloud mis is
-there's a slight mismatch with my
-with my local environment we're fine
-with that i'm going to
-um look here for a certain reason
-um the the dashboard isn't quite working
-here at the moment james would you
-suggest i just click on this and open a
-new
-yeah click on the ecs uh dashboard link
-oh yes fantastic
-so um yep there's some
-bug with the local dashboards that we're
-we're currently
-currently working on but what we'll see
+We'll see that the - the cluster has just been created and what I'm going to do, we see that - oh I'm sorry, I've done something funny here... I'm - I'm referencing the previous client, aren't I James?
+
+**James:**
+
+Yeah it looks like you should go ahead and connect a new client to the Coiled cluster -
+
+**Hugo:**
+
+and... 
+
+**James:**
+
+making sure not to re-execute the cluster creation because -
+
+**Hugo:**
+
+Yeah, exactly. So, would that be... how would I... what's the call here?
+
+**James:**
+
+I would just open up a new cell and say `client = Client` and then pass in the cluster, like `(cluster)` (typing the code `client = Client(cluster)` in a new cell)... yeah -
+
+**Hugo:**
+
+Great... okay, fantastic - and what we're seeing is a slight version... this (highlights code cell output) - we don't need to worry about this; this is essentially saying that
+the environment on the cloud mis- is there's a slight mismatch with my, with my local environment; we're fine with that. I'm going to look here - for a certain reason the - the dashboard isn't quite working here at the moment. James would you suggest i just click on this and open a new
+
+**James:**
+
+Yeah... click on the ecs dashboard link (in the code output)
+
+**Hugo:**
+
+Oh yes, fantastic... so... yep, there's some bug with the local dashboards that we're - we're currently - currently working on but what we'll see
 now
+
 just a sec i'm going to remove all of
 this
 we'll see now that i have access to 10
