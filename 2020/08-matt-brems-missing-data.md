@@ -6,7 +6,7 @@
 - Video:  https://youtu.be/LJKYXq3WHTw
 - Slides:  https://github.com/matthewbrems/missing_data_short_version/blob/master/missing_data_slides.pdf
 - GitHub repo:  https://github.com/matthewbrems/missing_data_short_version
-- Transcriber:   ? [needs a transcriber]
+- Transcriber:   [Barbara Graniello Batlle](https://www.linkedin.com/in/bgraniello/)
 
 ## Video
 
@@ -15,21 +15,9 @@ alt="Doing Data Science with Missing Data" width="50%" /></a>
 
 ## Transcript
 
+### Intro (00:00)
 
-Oh
-you
-you
-you
-you
-if you have a
-you can use the QA function so if you're
-on zoom and you hover over the video it
-should be on the bottom below the video
-it looks like QA and you can ask
-questions there and then we'll spend
-some time to answer them we do a break
-in the middle of the talk and then at
-the end of the talk as well
+If you have any questions you can use the Q&A function. So if you're on zoom, and you hover over the video, it should be on the bottom below the video. It would say Q&A, and you can ask questions there, and then we'll spend some time to answer them during a break in the middle of the talk and then at the end of the talk as well.
 you
 hey Matt I saw you just logged in are
 you good to go
