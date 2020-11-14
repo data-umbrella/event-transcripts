@@ -17,33 +17,26 @@ alt="Doing Data Science with Missing Data" width="50%" /></a>
 
 ### Intro (00:00)
 
-If you have any questions you can use the Q&A function. So if you're on zoom, and you hover over the video, it should be on the bottom below the video. It would say Q&A, and you can ask questions there, and then we'll spend some time to answer them during a break in the middle of the talk and then at the end of the talk as well.
-you
-hey Matt I saw you just logged in are
-you good to go
-yeah good to go whenever you are cool
-yeah I just I'll just do a quick intro
-talk about the meetup group talk about
-Gao take like two minutes I'll start at
-6:05 and then you can hop into your
-presentation sounds good
-how's the new gig it's going pretty well
-week two yeah no no complaints yet it's
-been dropped a little bit into the deep
-end but that's okay what I was sort of
-looking for yeah is it what's it like on
-boarding during a pandemic so in my
-current role worst of it it's
-interesting secondly there wasn't a ton
-of onboarding there's a there's a bunch
-of stuff that I have to do kind of all
-on my own time you know compliance and
-all of that but there hasn't been a ton
-of onboarding so I don't know if that's
-just the nature of me joining in the
-middle of this project or something else
-but yeah I know I know about six
-different people and that's about it
+If you have any questions you can use the Q&A function. So, if you're on zoom, and you hover over the video, it should be on the bottom below the video. It would say Q&A, and you can ask questions there, and then we'll spend some time to answer them during a break in the middle of the talk, and then at the end of the talk as well.
+
+Hey Matt, I saw you just logged in. Are you good to go?
+
+Yeah, good to go whenever you are.
+
+Cool, yeah, I just, I'll just do a quick intro talk about the meetup group, talk about GA. I'll take like two minutes. I'll start at
+6:05 and then you can hop into your presentation.
+
+Sounds good.
+
+How's the new gig?
+
+It's going pretty well. Week two, yeah no no complaints yet. It's I've been dropped a little bit into the deep end, but that's okay. It' what I was sort of looking for. 
+
+Yeah, is it, what's it like onboarding during a pandemic?
+
+So, in my current role, first of, it it's interesting. Secondly, there wasn't a ton of onboarding. There's a, there's a bunch of stuff that I have to do kind of all on my own time you know, compliance and all of that, but there hasn't been a ton of onboarding, so I don't know if that's just the nature of me joining in the
+middle of this project or something else, but yeah, I know, I know about six different people and that's about it.
+
 okay yeah that's interesting it's it's
 weird because in a sense like remote
 work or this environment we're in you
