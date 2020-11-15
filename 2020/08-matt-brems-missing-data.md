@@ -19,67 +19,42 @@ alt="Doing Data Science with Missing Data" width="50%" /></a>
 
 If you have any questions you can use the Q&A function. So, if you're on zoom, and you hover over the video, it should be on the bottom below the video. It would say Q&A, and you can ask questions there, and then we'll spend some time to answer them during a break in the middle of the talk, and then at the end of the talk as well.
 
-Hey Matt, I saw you just logged in. Are you good to go?
+Ty: Hey Matt, I saw you just logged in. Are you good to go?
 
-Yeah, good to go whenever you are.
+Matt: Yeah, good to go whenever you are.
 
-Cool, yeah, I just, I'll just do a quick intro talk about the meetup group, talk about GA. I'll take like two minutes. I'll start at
+Ty: Cool, yeah, I just, I'll just do a quick intro talk about the meetup group, talk about GA. I'll take like two minutes. I'll start at
 6:05 and then you can hop into your presentation.
 
-Sounds good.
+Matt: Sounds good.
 
-How's the new gig?
+Ty: How's the new gig?
 
-It's going pretty well. Week two, yeah no no complaints yet. It's I've been dropped a little bit into the deep end, but that's okay. It' what I was sort of looking for. 
+Matt: It's going pretty well. Week two, yeah no no complaints yet. It's I've been dropped a little bit into the deep end, but that's okay. It' what I was sort of looking for. 
 
-Yeah, is it, what's it like onboarding during a pandemic?
+Ty: Yeah, is it, what's it like onboarding during a pandemic?
 
-So, in my current role, first of, it it's interesting. Secondly, there wasn't a ton of onboarding. There's a, there's a bunch of stuff that I have to do kind of all on my own time you know, compliance and all of that, but there hasn't been a ton of onboarding, so I don't know if that's just the nature of me joining in the
-middle of this project or something else, but yeah, I know, I know about six different people and that's about it.
+Matt: So, in my current role, first of, it's interesting. Secondly, there wasn't a ton of onboarding. There's a, there's a bunch of stuff that I have to do kind of all on my own time you know, compliance and all of that, but there hasn't been a ton of onboarding, so I don't know if that's just the nature of me joining in the middle of this project or something else, but yeah, I know, I know about six different people and that's about it.
 
-okay yeah that's interesting it's it's
-weird because in a sense like remote
-work or this environment we're in you
-cut a lot of the flow cut a lot of
-things and I guess some people might
-think they're fluff or not but right
-like a lot of the stuff you do the first
-day at work or the first week it's like
-meeting people you know all sorts of
-meetings and things like that that may
-or may not have to do with actually the
-lauric you have to do but they're just
-like work culture events right and so it
-looks like some companies are just
-cutting it out and you know it's just
-like whatever
-yeah it's it'll be interesting when we
-have to start going back into the
-officer rather if we we have to do that
-what things will look like then if there
-will be a like a retro onboarding or
-anything like that yeah well a lot of
-uncertainty there is FINRA like I don't
-know like the culture at FINRA is it
-like very much like when the government
-opens they will
-open up because I know in New York City
-you know like officers opened up and
-obviously companies like GA and other
-tech companies are like let's let's hold
-back but I have some friends that work
-in investment banks they have to like
-show up to work next week like full time
-we we haven't gotten anything about that
-yet I think we're following the to my
-knowledge and what I've heard we're
-following the like the schools in DC so
-I didn't schedule we'll see but haven't
-heard anything yet so I I would be
-surprised if we go back before like
-August 15 just based on where we are now
-but who knows okay well we have like we
-have yeah we still gonna come people
+Ty: Okay yeah, that's interesting. It's, it's weird because in a sense, like remote work, or this environment we're in, you cut a lot of the fluff, cut a lot of
+things, and I guess some people might think they're fluff or not, but right, like a lot of the stuff you do the first day at work, or the first week, it's like
+meeting people, you know, all sorts of meetings and things like that, that may or may not have to do with actually the work you have to do, but they're just like work culture events right, and so it looks like some companies are just cutting it out, and you know, it's just like whatever.
+
+Matt: Yeah. It'll be interesting when we have to start going back into the office, or rather, if we have to do that, what things will look like then. If there will be a, like a retro onboarding or anything like that. 
+
+Ty: Yeah. 
+
+Matt: Well, a lot of uncertainty there.
+
+Ty: Is FINRA like, I don't know like the culture at FINRA, is it like, very much like, when the government opens they will open up? Because I know in New York City, you know, like offices opened up, and obviously companies like GA and other tech companies are like let's let's hold back, but I have some friends that work in investment banks they have to like show up to work next week, like full time.
+
+Matt: We, we haven't gotten anything about that yet. I think we're following the, to my knowledge, and what I've heard, we're following the like the schools in DC, so ...
+
+Ty: School schedule.
+
+Matt: We'll see, but haven't heard anything yet, so I would be surprised if we go back before like August 15 just based on where we are now, but who knows. 
+
+Ty: Okay, well we have like, we have, yeah, we still gonna come people
 tricking in but I'll just start my intro
 this can everyone can you see my whole
 screen now yep okay sometimes I forget
