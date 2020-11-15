@@ -17,7 +17,7 @@ alt="Doing Data Science with Missing Data" width="50%" /></a>
 
 ### Intro (00:00)
 
-If you have any questions you can use the Q&A function. So, if you're on zoom, and you hover over the video, it should be on the bottom below the video. It would say Q&A, and you can ask questions there, and then we'll spend some time to answer them during a break in the middle of the talk, and then at the end of the talk as well.
+Ty: If you have any questions you can use the Q&A function. So, if you're on zoom, and you hover over the video, it should be on the bottom below the video. It would say Q&A, and you can ask questions there, and then we'll spend some time to answer them during a break in the middle of the talk, and then at the end of the talk as well.
 
 Ty: Hey Matt, I saw you just logged in. Are you good to go?
 
@@ -54,60 +54,21 @@ Ty: School schedule.
 
 Matt: We'll see, but haven't heard anything yet, so I would be surprised if we go back before like August 15 just based on where we are now, but who knows. 
 
-Ty: Okay, well we have like, we have, yeah, we still gonna come people
-tricking in but I'll just start my intro
-this can everyone can you see my whole
-screen now yep okay sometimes I forget
-if you go fullscreen and Google Chrome
-so thanks everyone for attending during
-these uncertain times I hope you'll get
-as much out of this talk as I'm planning
-to so the talk is called good fast cheap
-how to do data science with missing data
-and Matt brems will actually be leading
-the talk I'm just here to do an intro
-and moderate and login to my zoom
-account so just a quick agenda we're
-gonna do an intro I'm just gonna
-introduce Matt I'm gonna introduce kind
-of our sponsors and the meetup group and
-then we will open up for Q&A as I
-mentioned before zoom has like a
-built-in Q&A function so if you hover
-over this video with your mouse on the
-bottom below the video you'll see a
-things called Q&A so you can ask
-questions directly there this will be
-recorded it will send it'll be sent out
-and in a couple days so so call it two
-or three days automatically by the GA
-team if you do not get the recording for
-some reason it could be in your spam box
-but otherwise just email your local GA
-kind of
-campus and and they'll be able to sort
-it out or they'll just email me and then
-I'll email them they're recording so
-Matt brems is the speaker he actually
-just moved to FINRA maybe like two weeks
-ago but before that he was at the global
-instructor for GA Zeta Science immersive
-program across the United States and
-before that he was working in the
-political consulting realm and if you
-want to follow him on Twitter his symbol
-is or his tag his handle is Matthew
-brems I wasn't able to figure all by oh
-it was you know it's too long for the
-slide and then the event is run by data
-umbrella so the mission of data
-umbrellas provide a welcoming and
-educational space for you our G's or
-underrepresented groups in the fields of
-data science and machine learning you
-can learn about upcoming events and the
-mission at data umbrella org and you can
-follow them at data umbrella on Twitter
+Ty: Okay, well we have like, we have, yeah, we still have a couple of people tricking in, but I'll just start my intro. Can everyone, can you see my whole
+screen now?
+
+Matt: Yep. 
+
+Ty: Okay. Sometimes I forget if you go fullscreen on Google Chrome. So, thanks everyone for attending during these uncertain times. I hope you'll get as much out of this talk as I'm planning to. So, the talk is called "Good, Fast, Cheap - How to do data science with missing data" and Matt Brems will actually be leading the talk. I'm just here to do an intro, and moderate, and login to my zoom account. So, just a quick agenda: we're gonna do an intro, I'm just gonna introduce Matt, I'm gonna introduce kind of our sponsors and the meetup group, and then we will open up for Q&A. As I mentioned before, zoom has like a built-in Q&A function, so if you hover over this video with your mouse, on the bottom below the video, you'll see a thing called Q&A, so you can ask questions directly there. This will be
+recorded. It will be sent out in a couple days, call it two or three days, automatically by the GA team. If you do not get the recording for some reason it could be in your spam box, but otherwise, just email your local GA kind of campus and, and they'll be able to sort it out, or they'll just email me and then I'll email them the recording.
+
+Ty: So, Matt Brems is the speaker. He actually just moved to FINRA, maybe like two weeks ago, but before that, he was the global instructor for GA's Data Science immersive program across the United States, and before that he was working in the political consulting realm, and if you want to follow him on Twitter his symbol
+is, or his tag, his handle is @matthewbrems. 
+
+Ty: I wasn't able to figure out if your whole bio was, you know, 'twas too long for the slide. 
+
+Ty: Then the event is run by Data Umbrella. So, the mission of Data Umbrella is to provide a welcoming and educational space for URGs or underrepresented groups in the fields of data science and machine learning. You can learn about upcoming events and the mission at [dataumbrella.org](https://www.dataumbrella.org/), and you can follow them at @dataumbrella on Twitter. 
+
 data umbrella is running weekly events
 during this time like weekly virtual
 events so if you check the page there'll
