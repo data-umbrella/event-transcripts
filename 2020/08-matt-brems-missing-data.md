@@ -75,66 +75,36 @@ Matt: Awesome.
 
 Ty: I'll just stop sharing my screen and then you can yours.
 
-Matt: Yeah. I'll go ahead and start sharing my screen as well.
+Matt: Yeah. I'll go ahead and start sharing my screen as well. Good evening everybody, like, like  Ty shared, my name is Matt Brems. I use he/him pronouns. I'll go ahead and share my screen here, so hopefully you'll be able to see it. I dropped in the, I dropped it in the chat box, a link to github where you can find
+my content, so if you would like to follow along you're certainly welcomed to. I'll be focusing exclusively on slides here; however, in, in the repository there are, in the repository there's code and there will be clear breaks in the code, show when you can, that show kind of when we'll be shifting from one slide to the next, and where the code sort of fills in the blank. 
 
-good evening everybody
-like liked I shared my name is Matt
-friends I use he/him pronouns I'll go
-ahead and share my screen here so
-hopefully you'll be able to see it I
-dropped in the I dropped it in the chat
-box a link to github where you can find
-my content so if you would like to
-follow along you're certainly welcome to
-I've got I'll be focusing exclusively on
-slides here
-however in in the repository there are
-in the repository there's code and it
-will clear breaks in the code show when
-you can that show kind of when we'll be
-shifting from one slide to the next and
-where the code sort of fills in the
-blank I'm seeing that this is not
-sharing so let me actually tie really
-quickly are you able to see my slides so
-no it just says Matt brands has started
-screen sharing okay well let me go ahead
-and restart sharing that I appreciate
-folks as patience here with this this is
-my first time setting up this my first
-time using this iPad I switched iPad
-since they no longer I'm using my GA one
-so we will let's see
-yeah if everyone's wondering the slides
-from this presentation are in that link
-that Matt shared in the chat and that
-could help others PDF right so this is
-not working so what I'm gonna do I've
-got the slides on Google slides so I'll
-just go ahead and use the Google slides
-version and edit through that instead of
-instead of working on my iPad so I will
-not get to use my my stylus that that is
-that is okay so let me stop sharing that
-and I will go ahead and reshare my
-screen here again appreciate folks is
-patience with this Oh were you trying to
-cast your iPad into the zoom yeah I've
-got a okay yeah I've got it
-nice desktop thank you uh you would be
-able to see my screen now my Google
-slides have not pulled up can you see
-him yep we can say it now okay I saw a
-face light up so imagine that yeah that
-that's coming through now so I won't be
-able to annotate with my with my Apple
-pencil but but that's okay so thank you
-very much time thank you very much
-everybody for for having me join like I
-mentioned my name is Matt friends I use
-he in pronouns and what I'm here to talk
-with you about is how to do data science
-with missing data this is a really
+Matt: I'm seeing that this is not sharing. So, let me, actually Ty, really quickly, are you able to see my slides? 
+
+Ty: So, no. It just says: "Matt Brems has started screen sharing." 
+
+Matt: Okay. Well let me go ahead and restart sharing that. I appreciate folks' patience here with this. This is my first time setting up this, my first
+time using this iPad. I switched iPad since I'm no longer using my GA one, so we will, let's see.
+
+Ty: Yeah, if everyone's wondering, the slides from this presentation are in that link that Matt shared in the chat, in that github repo, there's PDF.
+
+Matt: Right, so this is not working. So, what I'm gonna do, I've got the slides on Google Slides, so I'll just go ahead and use the Google Slides
+version, and edit through that instead of, instead of working on my iPad. So, I will not get to use my, my stylus. That, that is, that is okay. So, let me stop sharing that, and I will go ahead and reshare my screen here. Again, appreciate folks' patience with this. 
+
+Ty: Oh! Were you trying to cast your iPad into the zoom? 
+
+Matt: Yeah. I've got a, okay, yeah, I've got it.
+
+Ty: Nice desktop.
+
+Matt: Thank you. Uh, you would be able to see my screen now. My Google Slides have not pulled up. Can you see them?
+
+Ty: Yep, we can see it now.
+
+Matt: Okay I saw Ty's face light up, so imagined that yeah, that, that's coming through now. So, I won't be able to annotate with my, with my Apple pencil, but, but that's okay.
+
+### How to do data science with missing data (10:20)
+
+So, thank you very much Ty, thank you very much everybody for, for having me join. Like Ty mentioned, my name is Matt Brems, I use he/him pronouns, and what I'm here to talk with you about is: how to do data science with missing data. this is a really
 challenging problem to work within to
 try and grapple with but I think it's an
 important topic because if you do data
