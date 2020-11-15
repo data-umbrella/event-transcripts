@@ -30,7 +30,7 @@ Matt: Sounds good.
 
 Ty: How's the new gig?
 
-Matt: It's going pretty well. Week two, yeah no no complaints yet. It's I've been dropped a little bit into the deep end, but that's okay. It' what I was sort of looking for. 
+Matt: It's going pretty well. Week two, yeah no no complaints yet. It's, I've been dropped a little bit into the deep end, but that's okay. It's what I was sort of looking for. 
 
 Ty: Yeah, is it, what's it like onboarding during a pandemic?
 
@@ -46,7 +46,7 @@ Ty: Yeah.
 
 Matt: Well, a lot of uncertainty there.
 
-Ty: Is FINRA like, I don't know like the culture at FINRA, is it like, very much like, when the government opens they will open up? Because I know in New York City, you know, like offices opened up, and obviously companies like GA and other tech companies are like let's let's hold back, but I have some friends that work in investment banks they have to like show up to work next week, like full time.
+Ty: Is FINRA like, I don't know like the culture at FINRA, is it like, very much like, when the government opens they will open up? Because I know in New York City, you know, like offices opened up, and obviously companies like GA and other tech companies are like let's let's hold back, but I have some friends that work in investment banks, they have to like show up to work next week, like full time.
 
 Matt: We, we haven't gotten anything about that yet. I think we're following the, to my knowledge, and what I've heard, we're following the like the schools in DC, so ...
 
@@ -67,42 +67,17 @@ is, or his tag, his handle is @matthewbrems.
 
 Ty: I wasn't able to figure out if your whole bio was, you know, 'twas too long for the slide. 
 
-Ty: Then the event is run by Data Umbrella. So, the mission of Data Umbrella is to provide a welcoming and educational space for URGs or underrepresented groups in the fields of data science and machine learning. You can learn about upcoming events and the mission at [dataumbrella.org](https://www.dataumbrella.org/), and you can follow them at @dataumbrella on Twitter. 
+Ty: Then the event is run by Data Umbrella. So, the mission of Data Umbrella is to provide a welcoming and educational space for URGs or underrepresented groups in the fields of data science and machine learning. You can learn about upcoming events and the mission at [dataumbrella.org](https://www.dataumbrella.org/), and you can follow them @dataumbrella on Twitter. Data Umbrella is running weekly events during this time, like weekly virtual events, so if you check the page, there'll be another really interesting data science event within the next seven to ten days, call it. PyLadies is also a co-sponsor. It's the New York City chapter of a large national group. So, it's a group for python ladies and non-binary people of all levels of programming experience, and you can check the home page of the national organization [pyladies.com](https://pyladies.com/), and then their Twitter handle is @NYCPyLadies. The ,ast but not least, the company where I work at, and where I met Matt Brems, and it's letting us borrow their webinar zoom account is: General Assembly.So, General Assembly is a pioneer in the education and career transformation space, specializing in today's most in-demand skills. So, the homepage is [generalassemb.ly](https://generalassemb.ly/), or generalassemb-dot-l-y, and then the Twitter handle is @GA. We run a lot of cool classes in tech, data, marketing, product management. If you're interested in learning about the classes, you can also ask questions to me and I can help sort that out.
 
-data umbrella is running weekly events
-during this time like weekly virtual
-events so if you check the page there'll
-be another really interesting data
-science event within the next seven to
-ten days call it pi ladies is also a
-co-sponsor it's the New York City
-chapter of a large national group so
-it's a group for python ladies and nine
-non-binary people of all levels of
-programming experience and you can check
-the home page of the national
-organization pi ladies calm and then
-their Twitter handle is NYC PI ladies
-and then last but not least the company
-where I work at and where I met Matt
-brims and is letting us borrow their
-webinar zoom account is General Assembly
-so General Assembly is a pioneer in the
-education and career transformation
-space specializing in today's most
-in-demand skills so the homepage is
-General Assembly or General Assembly Y
-and then the Twitter handle is at GA we
-run a lot of cool classes and tech data
-marketing product management if you're
-interested in learning
-the classes you can also ask questions
-to me I can I can help sort that out but
-without further ado we will move on to
-Matt's talk awesome just stop staring my
-screen and then you can yours yeah I'll
-go ahead and start sharing my screen as
-well good evening everybody
+Ty: Without further ado, we will move on to Matt's talk. 
+
+Matt: Awesome.
+
+Ty: I'll just stop sharing my screen and then you can yours.
+
+Matt: Yeah. I'll go ahead and start sharing my screen as well.
+
+good evening everybody
 like liked I shared my name is Matt
 friends I use he/him pronouns I'll go
 ahead and share my screen here so
