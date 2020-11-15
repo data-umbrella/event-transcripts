@@ -104,171 +104,32 @@ Matt: Okay I saw Ty's face light up, so imagined that yeah, that, that's coming 
 
 ### How to do data science with missing data (10:20)
 
-So, thank you very much Ty, thank you very much everybody for, for having me join. Like Ty mentioned, my name is Matt Brems, I use he/him pronouns, and what I'm here to talk with you about is: how to do data science with missing data. this is a really
-challenging problem to work within to
-try and grapple with but I think it's an
-important topic because if you do data
-science you have inevitably run into
-challenges with missing data or missing
-information and the ways that we try and
-handle that probably are not the ways
-that we should be handling that so I've
-got some stuff here you can see this in
-the slides ty has already talked about
-my background so I'll go ahead and skip
-beyond this you're welcome to to hit me
-up afterward if you'd like to talk about
-any of these experiences but the lay of
-the land for tonight so we're gonna
-start by talking about missing data
-we'll get into strategies for doing data
-science with missing data and provided
-that we've got time we're gonna wrap up
-with some practical considerations and
-warnings for you to keep in mind as this
-goes on please feel free to at any
-moment drop notes in the slack or in the
-zoom channel so I will keep an eye on
-that as well as the Q&A so at
-any point feel free to do that to drop
-stuff in there and I'll try and respond
-kind of in real time
-so how big of a problem is missing data
-and this is just gonna be the the very
-quick start of it it's a really
-challenging question for us to answer
-because what's going to happen when we
-are trying to work with missing data we
-try and quantify how big of a problem it
-is is that from a practical point of
-view and it sounds trivial to say this
-we can only see what we observe so we're
-only going to be able to actually see
-the data that we've gathered we don't
-know the value of that missing thing
-itself so the only way for us to be able
-to quantify or understand the magnitude
-of how big of a problem missing data is
-is there we can use simulated data to
-try and help and answer that question
-now in the interest of time we're not
-going to go through actually generating
-the simulated data and looking at this
-but if I move forward to this slide if
-you would like to check this out all of
-the code is pre-written for you in the
-notebook and in the so in the repository
-I've got three different sets of
-notebooks
-there's one with a prefix 0 0 1 with a
-prefix 0 1 and one with a prefix 0 2 so
-you can run that on your own if you
-would like but in short what you would
-see at that notebook is we create some
-data or we generate a complete data set
-and then we take 20% of those
-observations and turn them off or we set
-those to be missing and we see how much
-of an impact that would have on our
-model if and what we notice is that if
-we were to look at the slope and the
-y-intercept of our simple linear
-regression model there's actually a
-really really really large effect and so
-that is a quick way for us to try and
-quantify how bad or how big of a problem
-missing data is now that depends on a
-whole host of factors how much data do
-you have what is the type of missing
-data that you're dealing with how what
-type of model are you trying to fit how
-many variables do you have all sorts of
-things factored into that but in a very
-very simple case we can see that missing
-data is really going to undermine a lot
-of our inferences and the conclusions
-that we may try to make
-so this brings me to what I want to get
-into which is what is a realistic
-approach for us so if you're familiar
-with the good fast cheap idea in project
-management what that means is that you
-can come up with a project that is good
-and fast and if you come up with a
-project that is good and fast what's
-going to end up happening is it's not
-gonna be cheap that is it will be more
-expensive to be able to do that project
-because if somebody wants something done
-quickly and wants something done well
-people will probably have to pay top
-dollar for that on the other hand you
-can think about a good and cheap project
-so sometimes people will say hey I need
-a project that is high quality and they
-don't want to pay a ton of money for it
-and that's a very realistic scenario to
-come up but the challenge is if
-somebody's not willing to invest in it
-and you want something that's high
-quality generally that will take a large
-amount of time in order to deliver that
-solution so here we see the overlap
-between good and cheap is that it will
-take time to deliver and then finally at
-the bottom here we see fast and cheap
-most frequently in my personal
-experience people will say hey I want to
-pay this low dollar amount for a project
-and I need it done tomorrow well what's
-gonna happen is is that if something is
-done fast and that something is done on
-the cheap it's not going to be the best
-quality in most cases so because of that
-we need to think about how can we take
-this approach and apply it to - missing
-data the reason that I bring this up is
-that oftentimes what clients or managers
-or anybody else once they will say I
-want something that is good and fast and
-cheap but that's not going to be
-feasible connecting this directly with
-missing data we think about what missing
-data means in terms of a fast and cheap
-analysis that's going to be you just
-drop all of your missing values or you
-do a single imputation
-if you want an analysis that is done
-well and is fairly inexpensive then you
-have to fill in your missing values or
-handle missing data in what I would call
-the proper way so we can talk about
-proper imputation or the pattern sub
-model approach and then finally and
-we'll get into what those means shortly
-and then finally if you want an analysis
-that's good and your analysis to be very
-quick then you should gather your data
-in a complete manner the downside of
-that of course is it's incredibly
-expensive to do that you have to figure
-out how can you collect complete data
-without missing any data and oftentimes
-you have to pay top dollar for that
-something that might be a hard sell for
-when you're talking with your boss or
-your client or somebody else so I'm not
-I what you should come away from this
-evening is not this is the specific way
-I need to always handle my missing data
-but get a better understanding of what
-are the trade-offs and missing data what
-are the different challenges in are the
-trade-offs if I go with one approach
-versus another approach so given that
-introduction what I'd like to do is talk
-about what are strategies for doing data
-science with missing data so the first
+So, thank you very much Ty, thank you very much everybody for, for having me join. Like I mentioned, my name is Matt Brems, I use he/him pronouns, and what I'm here to talk with you about is: how to do data science with missing data. This is a really challenging problem to work with, and to try and grapple with, but I think it's an important topic, because if you do data science you have inevitably run into challenges with missing data or missing information, and the ways that we try and handle that, probably are not the ways that we should be handling that. So, I've got some stuff here, you can see this in the slides. Ty has already talked about my background, so I'll go ahead and skip beyond this. You're welcome to, to hit me up afterwards if you'd like to talk about any of these experiences. 
+
+The lay of the land for tonight, so we're gonna start by talking about missing data, we'll get into strategies for doing data science with missing data, and, provided that we've got time, we're gonna wrap up with some practical considerations and warnings for you to keep in mind. As this goes on, please feel free to, at any moment, drop notes in the slack, or in the zoom channel, so I will keep an eye on that as well, as the Q&A. So, at any point feel free to do that, to drop
+stuff in there, and I'll try and respond kind of in real time. 
+
+So, how big of a problem is missing data? And this is just gonna be the, the very quick start of it. It's a really challenging question for us to answer, because what's going to happen when we are trying to work with missing data and we try and quantify how big of a problem it is, is that, from a practical point of view, and it sounds trivial to say this, we can only see what we observe. So we're only going to be able to actually see the data that we've gathered. We don't
+know the value of that missing thing itself. So the only way for us to be able to quantify, or understand, the magnitude of how big of a problem missing data is,
+is that we can use simulated data to try and help us answer that question. Now, in the interest of time, we're not going to go through actually generating the simulated data and looking at this, but if I move forward to this slide, if you would like to check this out, all of the code is pre-written for you in the
+notebook. 
+
+So, in the repository, I've got three different sets of notebooks. There's one with a prefix 00. One with a prefix 01, and one with a prefix 02. So, you can run that on your own, if you would like, but in short what you would see at that notebook is, we create some data, or we generate a complete dataset, and then we take 20% of those observations and turn them off, or we set those to be missing, and we see how much of an impact that would have on our model. If, and what we notice is that, if we were to look at the slope and the y-intercept of our simple linear regression model, there's actually a really, really, really large effect, and so
+that is a quick way for us to try and quantify how bad, or how big of a problem missing data is. Now that depends on a whole host of factors: How much data do
+you have? What is the type of missing data that you're dealing with? How,  What type of model are you trying to fit? How many variables do you have? All sorts of
+things factored into that, but in a very, very simple case, we can see that missing data is really going to undermine a lot of our inferences and the conclusions
+that we may try to make.
+
+So, this brings me to what I want to get into, which is: What is a realistic approach for us? So, if you're familiar with the good, fast, cheap idea in project
+management, what that means is that you can come up with a project that is good and fast, and if you come up with a project that is good and fast, what's
+going to end up happening is it's not gonna be cheap. That is, it will be more expensive to be able to do that project, because if somebody wants something done
+quickly, and wants something done well, people will probably have to pay top dollar for that. On the other hand, you can think about a good and cheap project, so sometimes people will say: "hey I need a project that is high quality", and they don't want to pay a ton of money for it, and that's a very realistic scenario to
+come up, but the challenge is: if somebody's not willing to invest in it, and you want something that's high quality, generally, that will take a large amount of time in order to deliver that solution. So here we see the overlap between good and cheap, is that it will take time to deliver. And then finally at the bottom here, we see fast and cheap. Most frequently, in my personal experience, people will say: "hey I want to pay this low dollar amount for a project and I need it done tomorrow." Well, what's gonna happen is, is that if something is done fast, and that something is done on the cheap, it's not going to be the best quality in most cases. So, because of that we need to think about: How can we take this approach and apply it to missing data? The reason that I bring this up is that oftentimes what clients, or managers, or anybody else wants, they will say: "I want something that is good and fast and cheap" but that's not going to be feasible. Connecting this directly with missing data, we think about what missing data means in terms of a fast and cheap analysis, that's going to be: you just
+drop all of your missing values, or you do a single imputation. If you want an analysis that is done well, and is fairly inexpensive, then you have to fill in your missing values, or handle missing data in what I would call the proper way. So we can talk about proper imputation, or the pattern submodel approach, and then finally, and we'll get into what those mean shortly. And then finally, if you want an analysis that's good, and your analysis to be very quick, then you should gather your data in a complete manner. The downside of that, of course, is it's incredibly expensive to do that. You have to figure out how can you collect complete data, without missing any data, and oftentimes, you have to pay top dollar for that, something that might be a hard sell for when you're talking with your boss, or your client, or somebody else. So, I'm not, what you should come away from this evening, is not this is the specific way I need to always handle my missing data, but get a better understanding of: What are the trade-offs in missing data? What are the different challenges in, or the trade-offs, if I go with one approach versus another approach. 
+
+### Strategies for doing data science with missing data (16:49)
+
+So, given that introduction, what I'd like to do is talk about what are strategies for doing data science with missing data. so the first
 thing to do is let's talk about how to
 avoid missing data so something that I
 think is really important to note is
