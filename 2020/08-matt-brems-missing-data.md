@@ -129,356 +129,41 @@ drop all of your missing values, or you do a single imputation. If you want an a
 
 ### Strategies for doing data science with missing data (16:49)
 
-So, given that introduction, what I'd like to do is talk about what are strategies for doing data science with missing data. so the first
-thing to do is let's talk about how to
-avoid missing data so something that I
-think is really important to note is
-that it's usually going to be more
-expensive up front but cheaper in the
-long run to avoid missing data so as you
-think and this is probably the this is
-not the best way of going about best way
-trying to come up with the right phrase
-for it this is not the this is not the
-fanciest or coolest approach to missing
-data for me to spend time to talk about
-avoiding missing data you're like yeah
-like okay I know that it's better for us
-to collect data as opposed to collect
-data that is missing and I get that but
-it's important to talk about this
-because oftentimes in the long run it's
-going to be a better thing for you to
-avoid that missing data upfront
-depending on the jobs you have were the
-jobs you want to have if you're working
-in an organization where you're
-gathering survey data or you're working
-to collect data in some capacity
-if you have any control over that there
-may be small to moderate design changes
-that can be implemented there that
-allowed to gather significantly more
-data if you gather more data you don't
-have to invest time in how to handle
-that missing data later you can just use
-the entirety of your data if you've got
-more data your inferences and your
-predictions and everything tend to be
-more precise your variance is lower and
-so because of all of this it's often
-better for us to try and avoid missing
-data upfront if we can so I want to take
-a moment to talk very briefly about some
-of these again you can read all of these
-on your screen but some of the things
-that I think about our for example
-decreasing the burden on your respondent
-or minimizing the number of questions
-somebody has to respond I responded to
-two surveys earlier today I'm Survey
-Monkey a former colleague had posted
-some stuff on LinkedIn and I filled
-those out and they were I was willing to
-do it even on my phone because they were
-relatively short surveys I like the
-beach Chipotle app I eat from Chipotle
-quite frequently and up until actually
-like last week what they would do is if
-you ordered online through the app they
-would follow up about an hour later with
-a green smiley face or a red frowny face
-and say hey how was your dinner this
-evening
-and you could click that smiley face or
-the frowning face and if you click the
-smiley face they said hey thank you so
-much if you click the frowny face you
-got to put a couple of checkboxes and
-say this is what I this is what I didn't
-like or this was this was not
-satisfactory and that was it so many
-other organizations there were so many
-other data collection mechanisms end up
-requiring you to fill out 20 30 40 50
-questions and so what ends up happening
-is that you often will create missing
-data by the design of what you're
-looking at is opposed to any anything
-else
-so making some changes on how you can
-decrease the burden on your respondent
-maybe making questions closed-ended
-instead of open-ended like like a fill
-in the blank question
-one other note that I want to make here
-is thinking about in groups thinking
-about improving accessibility that's a
-very very important point so there are
-lots of different ways you can get into
-this we can think about language
-accessibility we can think about
-readability we can think about
-individuals who may be hard of hearing
-and ways to gather data from individuals
-but it's important to think about
-accessibility and inclusivity when we
-design that so if you are part of an
-organization where you are gathering
-data in some capacity is there a way to
-improve that accessibility to others for
-example when I was doing polling and
-surveys in the context of politics we
-would administer surveys in multiple
-languages specifically English and
-Spanish when we were calling different
-populations or specifically different
-states that had a a particularly large
-Hispanic population or spanish-speaking
-population that was something that we
-wanted to do because otherwise we were
-just leaving out broad swaths of the
-population which would of course down
-the road compromise our inferences so
-you can make a compelling business case
-for doing something like this it's not I
-mean accessibility in my opinion is in
-and of itself a valuable goal in
-addition to that I think that it's
-important to recognize that when
-attempting to encourage other people or
-share with other people that they should
-take some action or invest some funds or
-some energy in that that there are some
-positive business effects to it as well
-moving onto the next slide so we talked
-about avoiding missing data how do we
-ignore missing data well the very very
-short summary is that we're going to
-assume that any observation that we've
-observed is similar to those
-observations for which we are missing
-data when we ignore we're making an
-implicit assumption which may or may not
-be a valid thing to do when I was in
-grad school a professor shared that a
-very general rough guideline is that if
-you are missing less than five percent
-of all of your data you may be okay
-ignoring that data that's missing now if
-you are trying to do something like
-supervised learning you fit a model
-where you've got a bunch of inputs and
-an output your Y variable if you're
-missing a ton of data from your Y
-variable
-then even if you're missing less than 5%
-of your data overall that may compromise
-your inferences too much you may not be
-willing to do that or if there are
-certain variables that you know were
-believed to be really meaningful and
-you're missing a lot of data from those
-maybe ignoring missing data isn't the
-right way to go now when we ignore
-missing data effectively it's what most
-software's are going to do by default in
-our in Python in something else if you
-just put your data into your model and
-press GO
-or dot fit or whatever it is you choose
-to do if you were to do that and didn't
-handle your missing data in some
-capacity or in some way then you're
-probably going to that's effectively
-ignoring it your model or your software
-is almost certainly going to drop all of
-your observations that contain one or
-more missing values in it and that may
-be okay to do if that number is
-relatively small but I want to emphasize
-up here there is an assumption that you
-are making with that and that may or may
-not be a valid assumption to make
-so the last thing that I want to talk
-about is how to account for missing data
-I mentioned how to avoid missing data
-upfront if you can't avoid it you might
-say can I ignore it well here before we
-account for MIT and if we can't ignore
-it then we have to account for it but
-before getting into that I want to shift
-our mindset a little bit because there
-is a a belief that we can just plug in
-those gaps in our data that you know and
-perhaps you were perhaps someone
-expected that you would be able to come
-here tonight and I would give you a new
-Python package that allows you to fill
-in missing data and and you've got that
-technique you can put in your work flow
-and in your wallet and kind of move on
-your way but the problem with that is
-that you have to do this in a specific
-way or we're really just making up data
-and making up data has all sorts of
-issues a we might be wrong be it's not a
-an ethical thing to do in my opinion and
-so because of this we need to be very
-careful about how we would fill in some
-of those gaps or how we how we tackle
-missing data but I like to shift our
-mindset a little bit and say in most
-cases we're not really fixing missing
-data it's not like we just have this as
-a new step in our workflow where I fit
-some some method in pandas or in
-scikit-learn and then move on with the
-rest of my day we're really just
-learning how to cope with missing data
-so given that shift in our mindset that
-we're really just learning how to
-effectively and in a principled way cope
-with our missing data let's move beyond
-this so we want to talk about how to
-account for missing data and there is
-code in the repository to go through
-both unit missingness and item
-missingness so I want to I want to share
-that with you and that's again in the
-repository if you'd like to take a look
-one note that I want to make is please
-again feel free to drop questions in the
-chat if there are questions that you
-have because I want to make sure that I
-can answer them as we go I really want
-this to be as helpful as possible for
-for each so let's talk about unit and
-item missingness there are a couple of
-different ways that data can be missing
-unit missingness is where we're missing
-all of our values from one observation
-so for example here index 3 if I'm
-gathering data on individuals and let's
-say that person 3 just did not respond
-to my survey or for whatever reason I
-have no information from this person if
-I have n A's for all of those that would
-be an example of unit missingness this
-person did not share their information
-with me and so I have no information
-item missingness or I like to refer to
-it as Swiss cheese missing this is where
-there are holes in your data so indices
-1 2 in 10,000 have this for example for
-index 1 we do not have information on
-age or income but we do have information
-on sex here for individual 2 or index 2
-we do not have sex but we do have access
-to age and income data and then all the
-way down to row 10,000 we're missing one
-value here in the income
-so the way that we handle unit and item
-missingness is a little bit different so
-in terms of unit missingness the very
-very quick summary of how to handle unit
-missingness and i am let me actually go
-ahead and pull up this notebook just to
-very quickly show what this looks like
-I'm gonna go ahead and pull open this
-jupiter notebook if you do not have
-jupiter notebook on your computer or if
-you're not familiar with python or
-anything like that that's okay
-i'm probably only gonna spend about two
-to three minutes talking about this but
-do want to pull this up as an example
-so when we are that is item missing this
-what I meant to do is pull up the unit
-missing this one I grabbed the wrong one
-so I apologize I'm gonna move back over
-here I'm going to go ahead and shut that
-down and open up the jupiter notebook 0
-1 unit missing this
-you
-and I'll drop that in the chat here zero
-one unit missing this IP Y and B which
-can be found in that repository in my
-experience the most common method of
-handling unit missingness where we're
-missing an entire row of data is if we
-have supplemental data on that
-individual to do something called weight
-class adjustments where we take our
-observations and we break them into
-classes and then we will weight them
-before doing our analysis so for example
-let's say that I'm working in HR
-analytics so I'm working in human
-resources and I want to understand how
-satisfied are individuals within our
-organization let's say that to make this
-simple we have two different departments
-we have a finance department and an
-accounting department for which I want
-to study individuals and let's say that
-maybe when I administer these surveys
-that in the finance and accounting team
-they're split perfectly evenly got 50%
-of people in finance 50% of people in
-accounting but let's say that maybe
-people in finance had too much other
-stuff to do or were less responsible or
-whatever kind of motivation you want to
-ascribe to that and let's say that
-people in finance were less likely to
-respond to my survey and let's say that
-people in accounting whether it's
-because they had less on their plate
-they're more organized they're more
-conscientious of this they just wanted
-to reply whatever else let's say that
-accounting people responded more to my
-server and so because of this if I
-scroll down here what we're going to do
-is we're going to see that if I look at
-all of my survey responses so let's say
-I administer this survey 50% of people
-are in accounting 50% of people are in
-finance but when I get my surveys back I
-get a disproportionate number of
-responses in the accounting department
-here about 77% of my responses are in
-accounting meaning that only about 22 or
-23 percent of my responses are in
-finance well if
-I was going to just take these values
-and I was just gonna do a simple average
-to understand on average how happy are
-my employees I might be putting some
-additional bias in my model here and
-that bias may come in because I received
-way more responses from accounting than
-from Finance so what I would like to do
-the strategy that we can employ is
-something called a weight class
-adjustment where I'm going to basically
-down weight all of my people from
-accounting I'm going to up weight all of
-my respondents from finance and what
-that's going to do is going to put them
-back on an equal playing field because
-again 50% of people were in finance and
-50% of people were in accounting so the
-way that we do that is we take our full
-sample of people do all of the 100
-percent of people who we administered
-those surveys to both the observed and
-the missing we're going to lump them all
-together and we break them into
-subgroups based on characteristics that
-we know in this case I know accounting
-and finance I'm going to give every
+So, given that introduction, what I'd like to do is talk about what are strategies for doing data science with missing data. So the first thing to do is, let's talk about how to avoid missing data. So, something that I think is really important to note is that it's usually going to be more expensive up front, but cheaper in the long run to avoid missing data. So, as you think, and this is probably the, this is not the best way of, sorry not best way, I'm trying to come up with the right phrase for it, this is not the, this is not the fanciest or coolest approach to missing data. For me, to spend time to talk about avoiding missing data, you're like: "yeah, like okay, I know that it's better for us to collect data as opposed to collect data that is missing", and I get that, but it's important to talk about this, because oftentimes, in the long run, it's going to be a better thing for you to avoid that missing data upfront. Depending on the jobs you have, or the jobs you want to have, if you're working in an organization where you're gathering survey data, or you're working to collect data in some capacity, if you have any control over that, there may be small to moderate design changes that can be implemented there, that allow you to gather significantly more data. If you gather more data you don't have to invest time in how to handle that missing data later, you can just use the entirety of your data. If you've got more data, your inferences, and your predictions, and everything, tend to be more precise. Your variance is lower, and so because of all of this, it's often better for us to try and avoid missing data upfront, if we can. 
+
+So, I want to take a moment to talk very briefly about some of these, again you can read all of these on your screen, but some of the things that I think about are for example: decreasing the burden on your respondent, or minimizing the number of questions somebody has to respond I responded to two surveys earlier today in Survey Monkey. A former colleague had posted some stuff on LinkedIn, and I filled those out, and they were, I was willing to do it even on my phone because they were relatively short surveys. I like the Chipotle app. I eat from Chipotle quite frequently, and up until actually like last week, what they would do is, if
+you ordered online through the app they would follow up about an hour later with a green smiley face or a red frowny face and say: "Hey how was your dinner this
+evening?", and you could click the smiley face or the frowny face, and if you clicked the smiley face they said: "Hey thank you so much." If you clicked the frowny face you got to put a couple of checkboxes and say this is what I, this is what I didn't like, or this was, this was not satisfactory, and that was it. So many other organizations, there are so many other data collection mechanisms, end up requiring you to fill out twenty, thirty, forty, fifty questions, and so what ends up happening is that you often will create missing data by the design of what you're looking at, as opposed to any anything else. So making some changes on how you can decrease the burden on your respondent, maybe making questions closed-ended instead of open-ended, like, like a fill-in-the-blank question. 
+
+One other note that I want to make here is thinking about, thinking about improving accessibility, that's a very, very important point. So, there are lots of different ways you can get into this. We can think about language accessibility. We can think about readability. We can think about individuals who may be hard of hearing and ways to gather data from individuals, but it's important to think about accessibility and inclusivity when we design that. So, if you are part of an organization where you are gathering data in some capacity, is there a way to improve that accessibility to others? For example, when I was doing polling and surveys in the context of politics, we would administer surveys in multiple languages, specifically English and Spanish, when we were calling different populations, or specifically, different states that had a a particularly large Hispanic population or spanish-speaking population. That was something that we wanted to do, because otherwise we were just leaving out broad swaths of the population, which would, of course, down the road, compromise our inferences. So you can make a compelling business case for doing something like this. It's not, I mean, accessibility, in my opinion, is in and of itself a valuable goal. In addition to that, I think that it's important to recognize that when attempting to encourage other people, or share with other people, that they should take some action, or invest some funds, or some energy in that, that there are some positive business effects to it as well.
+
+Moving onto the next slide. So we talked about avoiding missing data. How do we ignore missing data? Well, the very, very short summary is that we're going to
+assume that any observation that we've observed is similar to those observations for which we are missing data. When we ignore, we're making an implicit assumption, which may or may not be a valid thing to do. When I was in grad school, a professor shared that a very general rough guideline is that: if you are missing less than five percent of all of your data, you may be okay ignoring that data that's missing. Now if you are trying to do something like
+supervised learning, you fit a model where you've got a bunch of inputs and an output, your Y variable, if you're missing a ton of data from your Y variable, then, even if you're missing less than five percent of your data overall, that may compromise your inferences too much, you may not be willing to do that. Or if there are certain variables that you know were believed to be really meaningful and you're missing a lot of data from those, maybe ignoring missing data isn't the
+right way to go. Now, when we ignore missing data effectively, it's what most softwares are going to do by default, in R, in Python, in something else, if you
+just put your data into your model and press GO, or dot fit, or whatever it is you choose to do, if you were to do that, and didn't handle your missing data in some capacity or in some way, then you're probably going to, that's effectively ignoring it. Your model, or your software, is almost certainly going to drop all of
+your observations that contain one or more missing values in it, and that may be okay to do if that number is relatively small, but I want to emphasize up here, there is an assumption that you are making with that, and that may or may not be a valid assumption to make.
+
+So, the last thing that I want to talk about is: how to account for missing data. I mentioned how to avoid missing data upfront. If you can't avoid it you might
+say: "can I ignore it?" Well, here before we account for it, and if we can't ignore it, then we have to account for it, but before getting into that, I want to shift our mindset a little bit because there is a, a belief that we can just plug in those gaps in our data, that you know, and perhaps you were, perhaps someone
+expected that you would be able to come here tonight and I would give you a new Python package that allows you to fill-in missing data, and, and you've got that
+technique you can put in your work flow, and in your wallet, and kind of move on your way, but the problem with that is that you have to do this in a specific
+way or we're really just making up data. Making up data has all sorts of issues: a) we might be wrong; b) it's not an ethical thing to do, in my opinion. So, because of this, we need to be very careful about how we would fill-in some of those gaps, or how we, how we tackle missing data, but I'd like to shift our
+mindset a little bit and say in most cases we're not really fixing missing data. It's not like we just have this new step in our workflow where I fit
+some, some method in pandas or in scikit-learn and then move on with the rest of my day. We're really just learning how to cope with missing data. So given that shift in our mindset that we're really just learning how to effectively and in a principled way cope with our missing data, let's move beyond. 
+
+### How to account for missing data (25:03)
+
+So, I want to talk about how to account for missing data, and there is code in the repository to go through both unit missingness and item missingness. So I want to, I want to share that with you, and that's again in the repository, if you'd like to take a look. One note that I want to make is, please, again, feel free to drop questions in the chat, if there are questions that you have, because I want to make sure that I can answer them as we go. I really want this to be as helpful as possible for, for each of you. So, let's talk about unit and item missingness. There are a couple of different ways that data can be missing. Unit missingness is where we're missing all of our values from one observation. So, for example here, index 3, if I'm gathering data on individuals, and let's say that person 3 just did not respond to my survey, or for whatever reason, I have no information from this person. If I have NA's for all of those, that would be an example of unit missingness. This person did not share their information with me and so I have no information. Item missingness, or, I like to refer to it as Swiss cheese missingness, is where there are holes in your data. So indices 1, 2, and 10,000 have this. For example, for index 1, we do not have information on age or income, but we do have information on sex here. For individual 2, or index 2, we do not have sex, but we do have access to age and income data, and then, all the
+way down to row 10,000 we're missing one value here in the income column. 
+
+So, the way that we handle unit and item missingness is a little bit different. So, in terms of unit missingness, the very, very quick summary of how to handle unit missingness, and i am, let me actually go ahead and pull up this notebook just to, very quickly, show what this looks like. I'm gonna go ahead and pull open this jupiter notebook. If you do not have jupiter notebook on your computer, or if you're not familiar with python or, anything like that, that's okay. I'm probably only gonna spend about two to three minutes talking about this, but I do want to pull this up as an example. So when we are, oops that is item missingness, what I meant to do is pull up the unit missingness one, I grabbed the wrong one, so I apologize. I'm gonna move back over here. I'm going to go ahead and shut that down and open up the jupiter notebook 01, unit missingness. I'll drop that in the chat here, 01_unit_missingness.ipynb, which can be found in that repository. In my experience, the most common method of handling unit missingness, where we're missing an entire row of data, is if we have supplemental data on that individual, to do something called weight class adjustments, where we take our observations and we break them into classes and then we will weigh them
+before doing our analysis. 
+
+So, for example, let's say that I'm working in HR analytics, so I'm working in human resources and I want to understand how satisfied are individuals within our organization. Let's say that, to make this simple, we have two different departments, we have a finance department and an accounting department, for which I want to study individuals, and let's say that, maybe when I administer these surveys, that in the finance and accounting team, they're split perfectly evenly, fifty percent of people in finance, fifty percent of people in accounting. Let's say that maybe people in finance had too much other stuff to do, or were less responsible, or whatever kind of motivation you want to ascribe to them. and let's say that people in finance were less likely to respond to my survey, and let's say that people in accounting, whether it's because they had less on their plate, they're more organized, they're more conscientious of this, they just wanted to reply, whatever else, let's say that accounting people responded more to my survey. So, because of this, if I scroll down here, what we're going to do is, we're going to see that, if I look at all of my survey responses, so let's say I administer this survey, fifty percent of people are in accounting, fifty percent of people are in finance, but when I get my surveys back I get a disproportionate number of responses in the accounting department. Here, about seventy-seven percent of my responses are in accounting, meaning that only about twenty-two or twenty-three percent of my responses are in finance. Well, if I was going to just take these values and I was just gonna do a simple average to understand on average how happy are my employees, I might be putting some additional bias in my model here, and that bias may come in because I received way more responses from accounting than from finance. So, what I would like to do, the strategy that we can employ is something called a weight class adjustment where I'm going to basically down weight all of my people from accounting, I'm going to up weight all of my respondents from finance, and what that's going to do is, going to put them back on an equal playing field, because again, fifty percent of people were in finance and fifty percent of people were in accounting. 
+
+So, the way that we do that is, we take our full sample of people. All of the one-hundred percent of people who we administered those surveys to, both the observed and the missing. We're going to lump them all together and we break them into subgroups based on characteristics that we know. In this case I know accounting
+and finance. I'm going to give every
 individual a weight as well so the
 weight for people in group I is going to
 be what's the true percentage of people
