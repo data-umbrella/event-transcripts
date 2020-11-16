@@ -48,7 +48,7 @@ Matt: Well, a lot of uncertainty there.
 
 Ty: Is FINRA like, I don't know like the culture at FINRA, is it like, very much like, when the government opens they will open up? Because I know in New York City, you know, like offices opened up, and obviously companies like GA and other tech companies are like let's let's hold back, but I have some friends that work in investment banks, they have to like show up to work next week, like full time.
 
-Matt: We, we haven't gotten anything about that yet. I think we're following the, to my knowledge, and what I've heard, we're following the like the schools in DC, so ...
+Matt: We, we haven't gotten anything about that yet. I think we're following the, to my knowledge, and what I've heard, we're following the, like the schools in DC, so ...
 
 Ty: School schedule.
 
@@ -133,9 +133,9 @@ So, given that introduction, what I'd like to do is talk about what are strategi
 
 So, I want to take a moment to talk very briefly about some of these, again you can read all of these on your screen, but some of the things that I think about are for example: decreasing the burden on your respondent, or minimizing the number of questions somebody has to respond I responded to two surveys earlier today in Survey Monkey. A former colleague had posted some stuff on LinkedIn, and I filled those out, and they were, I was willing to do it even on my phone because they were relatively short surveys. I like the Chipotle app. I eat from Chipotle quite frequently, and up until actually like last week, what they would do is, if
 you ordered online through the app they would follow up about an hour later with a green smiley face or a red frowny face and say: "Hey how was your dinner this
-evening?", and you could click the smiley face or the frowny face, and if you clicked the smiley face they said: "Hey thank you so much." If you clicked the frowny face you got to put a couple of checkboxes and say this is what I, this is what I didn't like, or this was, this was not satisfactory, and that was it. So many other organizations, there are so many other data collection mechanisms, end up requiring you to fill out twenty, thirty, forty, fifty questions, and so what ends up happening is that you often will create missing data by the design of what you're looking at, as opposed to any anything else. So making some changes on how you can decrease the burden on your respondent, maybe making questions closed-ended instead of open-ended, like, like a fill-in-the-blank question. 
+evening?", and you could click the smiley face or the frowny face, and if you clicked the smiley face they said: "Hey thank you so much." If you clicked the frowny face you got to put a couple of checkboxes and say this is what I, this is what I didn't like, or this was, this was not satisfactory, and that was it. So many other organizations, there are so many other data collection mechanisms, end up requiring you to fill out twenty, thirty, forty, fifty questions, and so what ends up happening is that you often will create missing data by the design of what you're looking at, as opposed to anything else. So making some changes on how you can decrease the burden on your respondent, maybe making questions closed-ended instead of open-ended, like, like a fill-in-the-blank question. 
 
-One other note that I want to make here is thinking about, thinking about improving accessibility, that's a very, very important point. So, there are lots of different ways you can get into this. We can think about language accessibility. We can think about readability. We can think about individuals who may be hard of hearing and ways to gather data from individuals, but it's important to think about accessibility and inclusivity when we design that. So, if you are part of an organization where you are gathering data in some capacity, is there a way to improve that accessibility to others? For example, when I was doing polling and surveys in the context of politics, we would administer surveys in multiple languages, specifically English and Spanish, when we were calling different populations, or specifically, different states that had a a particularly large Hispanic population or spanish-speaking population. That was something that we wanted to do, because otherwise we were just leaving out broad swaths of the population, which would, of course, down the road, compromise our inferences. So you can make a compelling business case for doing something like this. It's not, I mean, accessibility, in my opinion, is in and of itself a valuable goal. In addition to that, I think that it's important to recognize that when attempting to encourage other people, or share with other people, that they should take some action, or invest some funds, or some energy in that, that there are some positive business effects to it as well.
+One other note that I want to make here is thinking about, thinking about improving accessibility, that's a very, very important point. So, there are lots of different ways you can get into this. We can think about language accessibility. We can think about readability. We can think about individuals who may be hard of hearing and ways to gather data from individuals, but it's important to think about accessibility and inclusivity when we design that. So, if you are part of an organization where you are gathering data in some capacity, is there a way to improve that accessibility to others? For example, when I was doing polling and surveys in the context of politics, we would administer surveys in multiple languages, specifically English and Spanish, when we were calling different populations, or specifically, different states that had a, a particularly large hispanic population or spanish-speaking population. That was something that we wanted to do, because otherwise we were just leaving out broad swaths of the population, which would, of course, down the road, compromise our inferences. So you can make a compelling business case for doing something like this. It's not, I mean, accessibility, in my opinion, is in and of itself a valuable goal. In addition to that, I think that it's important to recognize that when attempting to encourage other people, or share with other people, that they should take some action, or invest some funds, or some energy in that, that there are some positive business effects to it as well.
 
 Moving onto the next slide. So we talked about avoiding missing data. How do we ignore missing data? Well, the very, very short summary is that we're going to
 assume that any observation that we've observed is similar to those observations for which we are missing data. When we ignore, we're making an implicit assumption, which may or may not be a valid thing to do. When I was in grad school, a professor shared that a very general rough guideline is that: if you are missing less than five percent of all of your data, you may be okay ignoring that data that's missing. Now if you are trying to do something like
@@ -147,7 +147,7 @@ your observations that contain one or more missing values in it, and that may be
 So, the last thing that I want to talk about is: how to account for missing data. I mentioned how to avoid missing data upfront. If you can't avoid it you might
 say: "can I ignore it?" Well, here before we account for it, and if we can't ignore it, then we have to account for it, but before getting into that, I want to shift our mindset a little bit because there is a, a belief that we can just plug in those gaps in our data, that you know, and perhaps you were, perhaps someone
 expected that you would be able to come here tonight and I would give you a new Python package that allows you to fill-in missing data, and, and you've got that
-technique you can put in your work flow, and in your wallet, and kind of move on your way, but the problem with that is that you have to do this in a specific
+technique you can put in your workflow, and in your wallet, and kind of move on your way, but the problem with that is that you have to do this in a specific
 way or we're really just making up data. Making up data has all sorts of issues: a) we might be wrong; b) it's not an ethical thing to do, in my opinion. So, because of this, we need to be very careful about how we would fill-in some of those gaps, or how we, how we tackle missing data, but I'd like to shift our
 mindset a little bit and say in most cases we're not really fixing missing data. It's not like we just have this new step in our workflow where I fit
 some, some method in pandas or in scikit-learn and then move on with the rest of my day. We're really just learning how to cope with missing data. So given that shift in our mindset that we're really just learning how to effectively and in a principled way cope with our missing data, let's move beyond. 
@@ -157,7 +157,7 @@ some, some method in pandas or in scikit-learn and then move on with the rest of
 So, I want to talk about how to account for missing data, and there is code in the repository to go through both unit missingness and item missingness. So I want to, I want to share that with you, and that's again in the repository, if you'd like to take a look. One note that I want to make is, please, again, feel free to drop questions in the chat, if there are questions that you have, because I want to make sure that I can answer them as we go. I really want this to be as helpful as possible for, for each of you. So, let's talk about unit and item missingness. There are a couple of different ways that data can be missing. Unit missingness is where we're missing all of our values from one observation. So, for example here, index 3, if I'm gathering data on individuals, and let's say that person 3 just did not respond to my survey, or for whatever reason, I have no information from this person. If I have NA's for all of those, that would be an example of unit missingness. This person did not share their information with me and so I have no information. Item missingness, or, I like to refer to it as Swiss cheese missingness, is where there are holes in your data. So indices 1, 2, and 10,000 have this. For example, for index 1, we do not have information on age or income, but we do have information on sex here. For individual 2, or index 2, we do not have sex, but we do have access to age and income data, and then, all the
 way down to row 10,000 we're missing one value here in the income column. 
 
-So, the way that we handle unit and item missingness is a little bit different. So, in terms of unit missingness, the very, very quick summary of how to handle unit missingness, and i am, let me actually go ahead and pull up this notebook just to, very quickly, show what this looks like. I'm gonna go ahead and pull open this jupiter notebook. If you do not have jupiter notebook on your computer, or if you're not familiar with python or, anything like that, that's okay. I'm probably only gonna spend about two to three minutes talking about this, but I do want to pull this up as an example. So when we are, oops that is item missingness, what I meant to do is pull up the unit missingness one, I grabbed the wrong one, so I apologize. I'm gonna move back over here. I'm going to go ahead and shut that down and open up the jupiter notebook 01, unit missingness. I'll drop that in the chat here, 01_unit_missingness.ipynb, which can be found in that repository. In my experience, the most common method of handling unit missingness, where we're missing an entire row of data, is if we have supplemental data on that individual, to do something called weight class adjustments, where we take our observations and we break them into classes and then we will weigh them
+So, the way that we handle unit and item missingness is a little bit different. So, in terms of unit missingness, the very, very quick summary of how to handle unit missingness, and i am, let me actually go ahead and pull up this notebook just to, very quickly, show what this looks like. I'm gonna go ahead and pull open this Jupiter Notebook. If you do not have Jupiter Notebook on your computer, or if you're not familiar with python or, anything like that, that's okay. I'm probably only gonna spend about two to three minutes talking about this, but I do want to pull this up as an example. So when we are, oops that is item missingness, what I meant to do is pull up the unit missingness one, I grabbed the wrong one, so I apologize. I'm gonna move back over here. I'm going to go ahead and shut that down and open up the Jupiter Notebook 01, unit missingness. I'll drop that in the chat here, 01_unit_missingness.ipynb, which can be found in that repository. In my experience, the most common method of handling unit missingness, where we're missing an entire row of data, is if we have supplemental data on that individual, to do something called weight class adjustments, where we take our observations and we break them into classes and then we will weigh them
 before doing our analysis. 
 
 So, for example, let's say that I'm working in HR analytics, so I'm working in human resources and I want to understand how satisfied are individuals within our organization. Let's say that, to make this simple, we have two different departments, we have a finance department and an accounting department, for which I want to study individuals, and let's say that, maybe when I administer these surveys, that in the finance and accounting team, they're split perfectly evenly, fifty percent of people in finance, fifty percent of people in accounting. Let's say that maybe people in finance had too much other stuff to do, or were less responsible, or whatever kind of motivation you want to ascribe to them. and let's say that people in finance were less likely to respond to my survey, and let's say that people in accounting, whether it's because they had less on their plate, they're more organized, they're more conscientious of this, they just wanted to reply, whatever else, let's say that accounting people responded more to my survey. So, because of this, if I scroll down here, what we're going to do is, we're going to see that, if I look at all of my survey responses, so let's say I administer this survey, fifty percent of people are in accounting, fifty percent of people are in finance, but when I get my surveys back I get a disproportionate number of responses in the accounting department. Here, about seventy-seven percent of my responses are in accounting, meaning that only about twenty-two or twenty-three percent of my responses are in finance. Well, if I was going to just take these values and I was just gonna do a simple average to understand on average how happy are my employees, I might be putting some additional bias in my model here, and that bias may come in because I received way more responses from accounting than from finance. So, what I would like to do, the strategy that we can employ is something called a weight class adjustment where I'm going to basically down-weight all of my people from accounting, I'm going to up-weight all of my respondents from finance, and what that's going to do is, going to put them back on an equal playing field, because again, fifty percent of people were in finance and fifty percent of people were in accounting. 
@@ -165,10 +165,10 @@ So, for example, let's say that I'm working in HR analytics, so I'm working in h
 So, the way that we do that is, we take our full sample of people. All of the one-hundred percent of people who we administered those surveys to, both the observed and the missing. We're going to lump them all together and we break them into subgroups based on characteristics that we know. In this case I know accounting
 and finance. I'm going to give every individual a weight as well. So the weight for people in group i is going to be what's the true percentage of people
 in that group divided by what's the percentage of observed responses in that group. So, for example, in the accounting group, the true percentage of people who
-were in accounting is one-half, divided by the percentage of responses from accounting, which was as we saw up here, about seventy-seven percent. I let Python do the math and so the weight for each accounting vote is about sixty-four point six percent. I do the exact same thing for finance, and what that means is that each finance vote gets a weight of two point two. So, for every finance person, this is finance, and this is accounting, every single finance person who replied, they get a vote that's two point two times. So one person submits a survey I'm gonna up-weigh them two point two times. For every accounting person who responded, instead of each person getting one vote, they effectively get point six-four-five votes. If we want to take the weights in each of those groups and multiply that by the number of responses that we get, that ends up equalizing things so that the total weight from all of my accounting responses and the total weight from all of my finance responses end up being equal, or in this case, almost exactly equal. 
+were in accounting is one-half, divided by the percentage of responses from accounting, which was as we saw up here, about seventy-seven percent. I let Python do the math and so the weight for each accounting vote is about sixty-four point six percent. I do the exact same thing for finance, and what that means is that each finance vote gets a weight of two point two. So, for every finance person, this is finance, and this is accounting, every single finance person who replied, they get a vote that's two point two times. So one person submits a survey, I'm gonna up-weigh them two point two times. For every accounting person who responded, instead of each person getting one vote, they effectively get point six-four-five votes. If we want to take the weights in each of those groups and multiply that by the number of responses that we get, that ends up equalizing things so that the total weight from all of my accounting responses and the total weight from all of my finance responses end up being equal, or in this case, almost exactly equal. 
 
 Once you have created those weights, what you can do is just pass them in to Sklearn. So, you'll create a column of weights, I've done that here, just added a column in pandas, df bracket weights, and then what we can do is use that in order to do more complex analyses. So, if I were to just calculate, for example, the
-raw average of employee satisfaction, I ger an employee satisfaction score of about five point seven, but if I calculate the weighted average based on my employee satisfaction score, it's significantly lower, I get here five point four-five. So, that, that average score went from five point seven down to five point four-five. A decent drop, and that's because people in accounting, this is based on the data I generated up-top, but people in accounting were on average happier with their jobs. People in finance were, on average, less satisfied with their jobs. What ends up happening though is, when accounting over responds and finance under responds, is that that's gonna skew our results. Now, if you were to take this information, and you want to build a more sophisticated model with this, you can do so by passing df weights, if you're, if you're a user of Python, and specifically scikit-learn, if you want to, you can pass df bracket weights, that column, or that vector of weights, when you fit your model, and it will weight your models results based on those, those weights that you've given it. So, you could do this for a linear regression model, or you could do this for a random forest, or something else if you would like to. 
+raw average of employee satisfaction, I get an employee satisfaction score of about five point seven, but if I calculate the weighted average based on my employee satisfaction score, it's significantly lower, I get here five point four-five. So, that, that average score went from five point seven down to five point four-five. A decent drop, and that's because people in accounting, this is based on the data I generated up-top, but people in accounting were on average happier with their jobs. People in finance were, on average, less satisfied with their jobs. What ends up happening though is, when accounting over responds and finance under responds, is that that's gonna skew our results. Now, if you were to take this information, and you want to build a more sophisticated model with this, you can do so by passing df weights, if you're, if you're a user of Python, and specifically scikit-learn, if you want to, you can pass df bracket weights, that column, or that vector of weights, when you fit your model, and it will weight your models results based on those, those weights that you've given it. So, you could do this for a linear regression model, or you could do this for a random forest, or something else if you would like to. 
 
 ### How one nineteen year old Illinois man is distorting national polling averages (34:43)
 
@@ -201,273 +201,25 @@ calculate the average of income but it's going to be skewed pretty significantly
 So those are the three different types of missingness, and I want to talk about a couple of ways that, in the 15 minutes we've got left, that we can handle. So there are five different methods here that I outline. I'm going to move quickly through them because there's a recording here and I want to be respectful of
 folks' time and not hold folks over, but again please ask any questions that you have in the chat. 
 
-So let's start by talking about deductive imputation. Deductive is, it has to do with logic. We're going to deduce values. We're going to use logical rules to understand how we can fill data in. So let's say that there was a survey that asks if somebody was the victim of a crime in the last 12 months, and that person says: "no" and then the same survey has a later question that says "were you the victim of a violent crime in the last 12 months?" and that respondent leaves the answer blank. We can use logic, we don't have to make any guesses, or we don't have to do any inference, we can use logic to say given the answer to my first question I know the answer to that, and I can fill in that missing value through logic. This requires specific coding, so you would have to, as we get new data, we have to recognize how do my variables, or my columns relate to one another. You would have to code that up. That's not something that is going to be consistent across all data sets so you can't just download a library to do that. It can be time-consuming, but it's good because it doesn't require any inference, and it does not matter what type of missing data you're working with, whether it's missing at random, not at random, completely at random, you can do this in any of those cases.
+So let's start by talking about deductive imputation. Deductive is, it has to do with logic. We're going to deduce values. We're going to use logical rules to understand how we can fill data in. So let's say that there was a survey that asks if somebody was the victim of a crime in the last 12 months, and that person says: "no" and then the same survey has a later question that says "were you the victim of a violent crime in the last 12 months?" and that respondent leaves the answer blank. We can use logic, we don't have to make any guesses, or we don't have to do any inference, we can use logic to say given the answer to my first question I know the answer to that, and I can fill in that missing value through logic. This requires specific coding, so you would have to, as we get new data, we have to recognize how do my variables, or my columns relate to one another? You would have to code that up. That's not something that is going to be consistent across all datasets so you can't just download a library to do that. It can be time-consuming, but it's good because it doesn't require any inference, and it does not matter what type of missing data you're working with, whether it's missing at random, not at random, completely at random, you can do this in any of those cases.
 
-The next thing that I
-want to bring up is mean median and mode
-imputation so I imagine that many of you
-have done this at some point or another
-for any n a value or any missing value
-and your data you just replace your
-missing value with the mean or the
-median or the mode of that column it's a
-quick fix it's easy to implement and it
-seems reasonable but it can really
-significantly distort your histogram and
-it underestimates your variance and
-we'll talk in a minute about why that
-variance or that variability is so
-important it should only be considered
-if your data is missing completely at
-random so if you can say based on my
-understanding of my data I can truly
-believe and maybe some quick analyses
-that I do in my data you can say look I
-believe that my data are missing
-completely at random this would only be
-appropriate in that case but even then
-you probably shouldn't do this in their
-better ways of handling missing data so
-this is an example so what I have up top
-and this is all in that zero two
-notebook if you want to take a look at
-that zero two item missingness these
-visuals come directly from that movement
-so here up top
-this is the real histogram of data with
-in blue this blue vertical bar shows us
-the true average of that data down below
-we're looking at the same data but in
-blue I have which data I've observed and
-then any value that was missing I filled
-the mean in so here this orange bar
-gives me the mean you'll notice that
-that's a pretty dramatic difference
-between the top and the bottom if you're
-missing ten twenty thirty percent of
-values in a column which is not the
-craziest thing in the world to think
-through you might get something like
-this so first off you're going to
-distort that histogram so that's one
-challenge of working with this
-the other thing that I want to run
-through is why is under estimating
-variance a bad thing so here I've got
-the formula for your sample standard
-deviation and you can go through this if
-you would like but in short if you are
-working with the sample standard
-deviation what you'll notice is that if
-you've observed your first K
-observations and then observation k plus
-1 all the way through n those are
-missing and you try and use mean
-imputation what you'll do is for K plus
-1 through n you fill the meaning for
-those values that formula ships instead
-of dividing by K you're gonna divide by
-n that denominator gets bigger but you
-can rewrite this formula by breaking it
-out for the first K values those values
-you've observed the actual real data and
-here k plus 1 through n all of those
-values that were missing and you filled
-in the mean for we'll notice here we've
-got x-bar which is our sample mean minus
-x-bar which is our sample mean that's
-zero zero squared is zero and if you add
-a bunch of those up that still gives you
-zero so what ends up happening is that
-this part of your this part of your
-variance or this part of your standard
-deviation remains exactly the same you
-don't add anything there but your
-denominator gets bigger the reason I
-walk through that is by doing this your
-standard deviation gets smaller your
-standard deviation is used in a number
-of ways one if you try and generate a
-confidence interval then your standard
-you're gonna get maybe a 95% confidence
-interval but that's gonna get smaller I
-apologize if you can you can either see
-the Lightning or hear the thunder on
-sign so you may see your your confidence
-interval get much smaller depending on
-how many of those values you move it
-that's not because you're getting more
-confident or that's not because you
-decrease your level of confidence and
-say 95
-to 90% confidence that's just because we
-imputed our meat so we might become
-falsely confident in our results
-something similar happens to p-value
-where your p-value may shrink so your
-p-value of point O 7 now becomes a
-p-value of say point O 3 all of the
-sudden we get a significant result but
-even though we but that significant
-result is only because we filled in this
-missing data so Ramesh asks and I
-apologize if I mispronounce anybody's
-name thank you for your question you
-mesh do you see significant gains in
-model performance from imputing using
-methods like Miss forests or other model
-based in QT how do they compare it in
-simpler imputing methods like mean
-imputation so mean median and mode
-imputation and if I move to the next
-slide this is a write-up of that
-confidence interval gets smaller the
-p-value gets smaller but that's not
-something that's that's not real that's
-not valid if we look at mode imputation
-we see a similar challenge where one
-value is artificially inflated at ton
-but we're still going to see in effect
-where that standard deviation is almost
-certainly going to get smaller and
-artificially so so when it comes to
-trying to impute properly what you
-should do and in the interest of time
-I'm gonna skip ahead if you were to try
-and fit a single regression imputation
-where you fit a model to your data like
-Miss forests or something else you're
-gonna get values that look like this
-where those imputed values are all
-lumped in the middle it's still not
-going to work the way that you expect it
-to and that's because when you generate
-those predictions that deterministic
-computation that you do is usually going
-to fall on one line instead you imagine
-that you probably want to generate
-values that look more like this that
-resembled a true variability that you
-see in your rule
-so because of that in order to properly
-impute we need to impose because anytime
-you fill in a value with one number
-you're treating it like you know that
-true number and that's not the case if
-you fill in any missing value na with a
-zero or a ten or a thousand you're
-acting like you know that value don't so
-the way to properly impute missing data
-is to make like ten copies of your data
-set to do imputation with some
-stochastic behavior so you can add in
-like a random error if you were to do a
-regression model or if you were to do
-miss forest you could you would be able
-to maybe adding some randomness into
-that you would do that on all ten of
-your copies of your data sets once
-you've got ten copies of your data set
-that are full they've got some different
-values in them then you would build like
-your final model or do your final
-analysis on each of those data sets then
-combine your results together just like
-you would aggregate results in a random
-forest so if you are doing a
-classification or a regression model you
-can average your predictions for
-classification you would do like a vote
-based prediction across all ten of those
-models that you constructed there's a
-visual here that I think helps to drive
-that point home again you start with
-your data there's a bunch of pound signs
-or hash tag symbols in here that
-represent missing data you make a bunch
-of copies of that this image has three
-copies of your data and fills those in
-using some sort of random imputation
-method like a regression model with some
-random error then you build your final
-model or analysis on those three data
-sets you get your results and then you
-combine them together if your goal is to
-do prediction you can do that if your
-goal is to do inference there's
-something called rubens rules we're
-gonna drop that name in the channel here
-Ruben's rules
-in order to combine those estimates
-together so I've got a little bit of
-context on that on Rubens rules so
-there's documentation in the repository
-if that's something that you want to
-explore on your
-so there's content in the notebook on
-that but the last thing that I want to
-go through is I've talked about those
-first four methods of imputation the
-pattern sub-model approach is where I
-want to end up for today and that
-pattern sub-model approach for handling
-missing data is you're gonna take your
-data set and you break it into subsets
-of data based on how your data is
-missing then what you're going to do is
-build one model on each of those subsets
-creating many different models you won't
-combine those models together you will
-end up with many different models so a
-visual example look at the data set on
-the left hand side I have a Y I have an
-x1 and an x2 what I can do is I can take
-my first two rows what here because I've
-observed the same data I'm gonna call
-that pattern one my next two rows I'm
-gonna call that pattern to the next two
-rows our pattern 3 and then my final row
-is pattern 4 I'm gonna group my data
-into four chunks based on how my data
-are observed in missing together and I'm
-gonna fit a different model on each of
-those so you would end up with four
-different models here one model would be
-if you wanted to do a linear regression
-model y equals beta naught plus beta 1
-times X 1 plus beta 2 times X 2 and that
-would be fit on those first few
-observations then you would fit a
-separate linear regression model on
-these next observations where you just
-exclude any value for X 2 because you
-don't have any value for x 2 so that
-would be a model like y equals beta
-naught plus beta 1 times X 1 so you
-would based on this come up with four
-different models there are a lot of
-advantages to this and if your goal is
-just to make predictions then you should
-use the pattern sub model approach that
-I described here that this will
-outperform imputation methods if your
-data are not missing at random
-and it's gonna perform about on par with
-imputation methods are filling in
-methods if your data are missing at
-random or missing completely at random
-it does not require missingness
-assumptions so that's one of in my
-opinion one of the cool things about
-that it is a based on my understanding a
-relatively new method there was a paper
-released in I think September of 2018 on
-that I think it was mentioned a a long
-time ago in a more esoteric paper but to
-my knowledge there's not a ton of
-machinery like in Python to implement
-this so it has to be a little bit more
-of a manual process so I know that we're
+The next thing that I want to bring up is: mean, median, and mode imputation. So, I imagine that many of you have done this at some point or another. For any NA value or any missing value in your data you just replace your missing value with the mean or the median or the mode of that column. It's a quick fix. It's easy to implement and it seems reasonable, but it can really significantly distort your histogram, and it underestimates your variance, and we'll talk in a minute about why that variance or that variability is so important. It should only be considered if your data is missing completely at random. So, if you can say: "based on my
+understanding of my data I can truly believe", and maybe some quick analyses that I do in my data you can say, "look I believe that my data are missing completely at random." This would only be appropriate in that case, but even then you probably shouldn't do this, and  there are better ways of handling missing data. So, this is an example, so what I have up top, and this is all in that 02 notebook if you want to take a look at that 02_item_missingness. These visuals come directly from that notebook. So here up top, this is the real histogram of data with, in blue, this blue vertical bar shows us the true average of that data. Down below,
+we're looking at the same data but, in blue I have which data I've observed and then any value that was missing I filled the mean in, so here this orange bar gives me the mean. you'll notice that that's a pretty dramatic difference between the top and the bottom. If you're missing ten, twenty, thirty percent of values in a column, which is not the craziest thing in the world to think through, you might get something like this. So first off, you're going to distort that histogram, so that's one challenge of working with this. The other thing that I want to run through is why is under estimating variance a bad thing. So here I've got the formula for your sample standard deviation, and you can go through this if you would like, but in short, if you are working with the sample standard deviation, what you'll notice is that if you've observed your first k observations, and then observation k plus 1 all the way through n, those are missing, and you try and use mean
+imputation, what you'll do is for k plus 1 through n you fill the mean for those values, that formula shifts, instead of dividing by k you're gonna divide by
+n, that denominator gets bigger, but you can rewrite this formula by breaking it out for the first k values, those values you've observed, the actual real data, and here k plus 1 through n all of those values that were missing and you filled in the mean for. We'll notice here we've got x-bar, which is our sample mean, minus x-bar, which is our sample mean, that's zero. Zero squared is zero, and if you add a bunch of those up, that still gives you zero so what ends up happening is: that this part of your, this part of your variance, or this part of your standard deviation remains exactly the same, you don't add anything there, but your
+denominator gets bigger. The reason I walk through that is, by doing this, your standard deviation gets smaller. Your standard deviation is used in a number of ways. One if you try and generate a confidence interval then your standard, you're gonna get maybe a 95% confidence interval, but that's gonna get smaller. I apologize if you can, you can either see the Lightning or hear the thunder outside. So, you may see your, your confidence interval get much smaller depending on how many of those values you imputed. That's not because you're getting more confident, or that's not because you decreased your level of confidence, let's say ninety-five to ninety percent confidence, that's just because we imputed our mean. So we might become falsely confident in our results. Something similar happens to p-value where your p-value may shrink, so your p-value of point zeo seven now becomes a p-value of say point zero three. All of a sudden we get a significant result, but even though we, but that significant result is only because we filled in this missing data.
+
+So Umesh asks, and I apologize if I mispronounce anybody's name, thank you for your question Umesh. Do you see significant gains in model performance from imputing using methods like MissForests or other model based imputating? How do they compare with simpler imputing methods like mean imputation? So mean, median, and mode
+imputation, and if I move to the next slide this is a write-up of that, confidence interval gets smaller, the p-value gets smaller, but that's not something, that's, that's not real. That's not valid. If we look at mode imputation, we see a similar challenge where one value is artificially inflated a ton, but we're still going to see in effect where that standard deviation is almost certainly going to get smaller and artificially so. So when it comes to trying to impute properly, what you should do, and in the interest of time I'm gonna skip ahead, if you were to try and fit a single regression imputation where you fit a model to your data like MissForests or something else, you're gonna get values that look like this, where those imputed values are all lumped in the middle. It's still not
+going to work the way that you expect it to and that's because when you generate those predictions, that deterministic computation that you do, is usually going
+to fall on one line. Instead, you imagine that you probably want to generate values that look more like this, that resembled a true variability that you see in your data. So because of that, in order to properly impute, we need to impute many times. Because anytime you fill in a value with one number, you're treating it like you know that true number, and that's not the case. If you fill in any missing value NA with a zero, or a ten, or a thousand, you're acting like you know that value, and you don't. So the way to properly impute missing data is to make like ten copies of your dataset to do imputation with some stochastic behavior, so you can add in like a random error if you were to do a regression model, or if you were to do MissForest, you could, you would be able to maybe add in some randomness into that. You would do that on all ten of your copies of your datasets. Once you've got ten copies of your dataset that are full, they've got some different values in them, then you would build like your final model, or do your final analysis on each of those datasets. Then combine your results together just like
+you would aggregate results in a random forest. So if you are doing a classification or a regression model you can average your predictions, for classification you would do like a vote based prediction across all ten of those models that you constructed. There's a visual here that I think helps to drive that point home. Again, you start with your data, there's a bunch of pound signs or hash tag symbols in here that represent missing data. You make a bunch of copies of that, this image has three copies of your data, and fills those in using some sort of random imputation method like a regression model with some random error. Then you build your final model or analysis on those three data sets. You get your results and then you combine them together. zif your goal is to do prediction, you can do that. If your goal is to do inference, there's something called Rubin's rules, we're gonna drop that name in the channel here. Rubin's rules. In order to combine those estimates together. So I've got a little bit of context on that, on Rubin's rules, so there's documentation in the repository if that's something that you want to
+explore on your own. So there's content in the notebook on that. 
+
+The last thing that I want to go through is, I've talked about those first four methods of imputation, the pattern submodel approach is where I want to end up for today. And that pattern submodel approach for handling missing data is: you're gonna take your dataset and you break it into subsets of data based on how your data is missing, then what you're going to do is build one model on each of those subsets creating many different models, you won't combine those models together, you will end up with many different models. So, a visual example. Look at the dataset on the left hand side. I have a Y, I have an x1, and an x2. What I can do is, I can take my first two rows right here because I've observed the same data, I'm gonna call that pattern one. My next two rows I'm gonna call that pattern two. The next two rows are pattern three, and then my final row is pattern four. I'm gonna group my data into four chunks based on how my data are observed in missing together, and I'm gonna fit a different model on each of those. So you would end up with four different models here. One model would be, if you wanted to do a linear regression model Y equals beta naught plus beta one times x1 plus beta two times x2, and that would be fit on those first few observations. Then you would fit a separate linear regression model on these next observations where you just exclude any value for x2 because you don't have any value for x2, so that would be a model like y equals beta naught plus beta one times x1. So you would, based on this, come up with four different models. There are a lot of advantages to this and if your goal is just to make predictions then you should use the pattern submodel approach that I described here. That, this will outperform imputation methods if your data are not missing at random and it's gonna perform about on par with imputation methods or filling in methods if your data are missing at random or missing completely at random. It does not require missingness assumptions, so that's one of, in my opinion, one of the cool things about that. It is a based on, my understanding, a relatively new method, there was a paper released in I think September of 2018 on that. I think it was mentioned a, a long time ago in a more esoteric paper, but to my knowledge there's not a ton of machinery like in Python to implement this so it has to be a little bit more of a manual process. 
+
+o I know that we're
 right at the end of time here and I do
 want to be respectful of focus time so
 first off thank you so much for for
