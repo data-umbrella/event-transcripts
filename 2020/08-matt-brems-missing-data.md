@@ -160,346 +160,50 @@ way down to row 10,000 we're missing one value here in the income column.
 So, the way that we handle unit and item missingness is a little bit different. So, in terms of unit missingness, the very, very quick summary of how to handle unit missingness, and i am, let me actually go ahead and pull up this notebook just to, very quickly, show what this looks like. I'm gonna go ahead and pull open this jupiter notebook. If you do not have jupiter notebook on your computer, or if you're not familiar with python or, anything like that, that's okay. I'm probably only gonna spend about two to three minutes talking about this, but I do want to pull this up as an example. So when we are, oops that is item missingness, what I meant to do is pull up the unit missingness one, I grabbed the wrong one, so I apologize. I'm gonna move back over here. I'm going to go ahead and shut that down and open up the jupiter notebook 01, unit missingness. I'll drop that in the chat here, 01_unit_missingness.ipynb, which can be found in that repository. In my experience, the most common method of handling unit missingness, where we're missing an entire row of data, is if we have supplemental data on that individual, to do something called weight class adjustments, where we take our observations and we break them into classes and then we will weigh them
 before doing our analysis. 
 
-So, for example, let's say that I'm working in HR analytics, so I'm working in human resources and I want to understand how satisfied are individuals within our organization. Let's say that, to make this simple, we have two different departments, we have a finance department and an accounting department, for which I want to study individuals, and let's say that, maybe when I administer these surveys, that in the finance and accounting team, they're split perfectly evenly, fifty percent of people in finance, fifty percent of people in accounting. Let's say that maybe people in finance had too much other stuff to do, or were less responsible, or whatever kind of motivation you want to ascribe to them. and let's say that people in finance were less likely to respond to my survey, and let's say that people in accounting, whether it's because they had less on their plate, they're more organized, they're more conscientious of this, they just wanted to reply, whatever else, let's say that accounting people responded more to my survey. So, because of this, if I scroll down here, what we're going to do is, we're going to see that, if I look at all of my survey responses, so let's say I administer this survey, fifty percent of people are in accounting, fifty percent of people are in finance, but when I get my surveys back I get a disproportionate number of responses in the accounting department. Here, about seventy-seven percent of my responses are in accounting, meaning that only about twenty-two or twenty-three percent of my responses are in finance. Well, if I was going to just take these values and I was just gonna do a simple average to understand on average how happy are my employees, I might be putting some additional bias in my model here, and that bias may come in because I received way more responses from accounting than from finance. So, what I would like to do, the strategy that we can employ is something called a weight class adjustment where I'm going to basically down weight all of my people from accounting, I'm going to up weight all of my respondents from finance, and what that's going to do is, going to put them back on an equal playing field, because again, fifty percent of people were in finance and fifty percent of people were in accounting. 
+So, for example, let's say that I'm working in HR analytics, so I'm working in human resources and I want to understand how satisfied are individuals within our organization. Let's say that, to make this simple, we have two different departments, we have a finance department and an accounting department, for which I want to study individuals, and let's say that, maybe when I administer these surveys, that in the finance and accounting team, they're split perfectly evenly, fifty percent of people in finance, fifty percent of people in accounting. Let's say that maybe people in finance had too much other stuff to do, or were less responsible, or whatever kind of motivation you want to ascribe to them. and let's say that people in finance were less likely to respond to my survey, and let's say that people in accounting, whether it's because they had less on their plate, they're more organized, they're more conscientious of this, they just wanted to reply, whatever else, let's say that accounting people responded more to my survey. So, because of this, if I scroll down here, what we're going to do is, we're going to see that, if I look at all of my survey responses, so let's say I administer this survey, fifty percent of people are in accounting, fifty percent of people are in finance, but when I get my surveys back I get a disproportionate number of responses in the accounting department. Here, about seventy-seven percent of my responses are in accounting, meaning that only about twenty-two or twenty-three percent of my responses are in finance. Well, if I was going to just take these values and I was just gonna do a simple average to understand on average how happy are my employees, I might be putting some additional bias in my model here, and that bias may come in because I received way more responses from accounting than from finance. So, what I would like to do, the strategy that we can employ is something called a weight class adjustment where I'm going to basically down-weight all of my people from accounting, I'm going to up-weight all of my respondents from finance, and what that's going to do is, going to put them back on an equal playing field, because again, fifty percent of people were in finance and fifty percent of people were in accounting. 
 
 So, the way that we do that is, we take our full sample of people. All of the one-hundred percent of people who we administered those surveys to, both the observed and the missing. We're going to lump them all together and we break them into subgroups based on characteristics that we know. In this case I know accounting
-and finance. I'm going to give every
-individual a weight as well so the
-weight for people in group I is going to
-be what's the true percentage of people
-in that group divided by what's the
-percentage of observed responses in that
-group so for example in the accounting
-group the true percentage of people who
-were in accounting is 1/2 divided by the
-percentage of responses from accounting
-which was as we saw appear about 77% I
-let Python do the math and so the weight
-for each accounting vote is about 64
-point six percent
-I do the exact same thing for finance
-and what that means is that each finance
-though gets a weight of 2.2 so for every
-finance person this is finance and this
-is accounting every single finance
-person who replied they get a vote
-that's 2.2 times so one person submits a
-survey I'm gonna up with them 2.2 times
-for every accounting person who
-responded instead of each person getting
-one vote they effectively get point six
-four five votes if we want to take the
-weights in each of those groups and
-multiply that by the number of responses
-that we get that ends up equalizing
-things so that the total weight from all
-of my accounting responses and the total
-weight from all of my finance responses
-end up being equal or in this case
-almost exactly equal once you have
-created those weights what you can do is
-just pass them in to SK learn so you'll
-create a column of weights I've done
-that here just added a column in pandas
-DF bracket weights
-and then what we can do is use that in
-order to do more complex analyses so if
-I were to just calculate for example the
-raw average of employee satisfaction I
-did an employee satisfaction score of
-about five point seven but if I
-calculate the weighted average based on
-my employee satisfaction score it's
-significantly lower I get here five
-point four five so that that average
-score went from five point seven down to
-five point four five above a decent drop
-and that's because people in accounting
-this is based on the data I generated up
-top but people in accounting were on
-average happier with their jobs people
-in finance were on average less
-satisfied with their jobs what ends up
-happening though is when accounting over
-responds and Finance under responds is
-that that's gonna skew our results now
-if you want to take this information and
-you want to build a more sophisticated
-model with this you can do so by passing
-DF weight if you're if you're a user of
-Python and specifically scikit-learn
-if you want to you can pass DF bracket
-weight that column or that vector of
-weights when you fit your model and it
-will weight
-your models results based on those those
-weights that you've given it so you
-could do this for a linear regression
-model or you could do this for a random
-forest or something else if you would
-like to two quick things that I want to
-call out one is that our goal with post
-weighting when we do this weight class
-adjustment is to decrease our bias but
-what should we be concerned about well
-when we decrease bias
-we tend to increase variance and so
-there's an article from the New York
-Times back in 2016 some of you may be
-familiar with this there was an
-individual I believe it was the the
-title of this article is how one
-nineteen year old Illinois man is
-distorting national polling averages and
-what this ended up and so I encourage
-you to take a look at this if you would
-like to take a look at and read this but
-effectively they created these buckets
-they weren't just looking at the
-accounting and Finance Department but
-instead they looked at for example age
-geography sex other information maybe
-political party all of these different
-buckets and by creating so many
-different buckets and attaching a weight
-to those buckets based on response rates
-what ends up happening is they decrease
-bias but there tends to be an increase
-in variance and so what ended up
-happening here I would encourage you to
-perhaps take a look at that later if you
-would like but what ends up happening is
-that the person who had that who is
-distorting national polling averages his
-weight as assigned by this approach was
-a was thirty times higher than the
-average individuals weight and was
-actually 300 times more than the person
-with the smallest weight in this poll so
-this one individual had an enormous li
-outsized influence on these polling
-averages so it's something to to keep in
-mind related to this I'm making an
-assumption here I'm making an assumption
-and thank you Sam for for sharing that
-link I'm making an assumption here that
-I know that fifty percent of my people
-are in accounting and fifty percent of
-my people are in finance but that's not
-always a realistic assumption so if I
-want to understand what percentage of
-people will support the Democratic
-candidate in the upcoming election and I
-want to look at things across age groups
-eighteen to thirty four thirty five to
-fifty four or fifty five and up I have
-to make a guess about that as I write
-here hopefully it's an educated guess
-but what we see in past elections may
-not be indicative of what we're going to
-see in this election thinking about the
-2016
-kradic presidential primary my
-understanding is far more young people
-came out and voted in that Democratic
-presidential primary largely in support
-of Bernie Sanders thinking about that
-that's something that we may not have
-noticed in 2010 2008 2004
-so if we use past data to predict the
-future it can be really challenging to
-do that in a way that's principled we
-think about when then-senator Obama was
-running in 2008 what ends up happening
-was when when he was running against
-secretary or then I should say
-then-senator Clinton in oh wait what
-ends up happening is that if you just
-looked at information in 2000 and 2004
-you're likely going to dramatically
-underestimate the proportion of people
-of color specifically black voters who
-came out in support of Obama during the
-2008 election so this is this weight
-class adjustment method is something
-that you can sometimes do but you can't
-always do that and so it's important to
-keep in mind some of the limitations of
-this we would be assuming that we know
-what the distribution of in this case
-what I've highlighted the age groups are
-but that's certainly not a guarantee I'm
-gonna go ahead and shut this and I'm
-gonna move back over to the slides
-you
-so to try and talk about how to pull
-some of these pieces together in a work
-flow we have not talked about we have
-not talked about imputation 4 for unit
-non-response yet but we'll get into that
-here in terms of my work flow I start by
-saying how much missing data do I have
-and is it worth my time to try and
-address it anytime I'm doing a data
-science problem that's one of the first
-things I look at then I say is it
-reasonable to attempt deductive
-imputation which we're going to talk
-about momentarily then if my goal is to
-generate predictions then I'm going to
-use the pattern sub model approach if I
-want to conduct inference that I will
-use the best imputation method available
-ideally proper imputation so we'll talk
-about what each of these are because a
-lot of those bold in terms are things we
-haven't seen yet in order to get into
-that though one last thing that I need
-to talk about are three different types
-of missing data
-now you when you look at your data and
-you see a bunch of na s in your data or
-a handful of na s in your data they all
-look the same to us but there are
-actually three different types of
-missing data that are important to know
-so I'm taking inspiration from my friend
-Allison here my friend Allison she is
-getting her PhD in biology at Notre Dame
-very proud of her so let's say that
-she's a grad student in a lab working
-late and while she's pipetting in the
-lab she reaches for her pen and
-accidentally knocks one petri dish off
-the desk so from that petri dish my
-friend Allison loses all of the data
-that she otherwise would have collected
-so over here I'm looking at what maybe
-that might look like in terms of data
-gathering so Allison was able to measure
-how much bacteria or what was the width
-of the bacteria in her petri dish on day
-one for all of these different petri
-dishes did the same thing on day two
-but this here you can see 16 millimeters
-but really that would be an n/a in our
-data that's something that we do not
-have access to we would call that
-missing completely at random this data
-is missing completely at random because
-there's no systematic differences
-between that data that's missing and the
-data that we've observed
-moving on to the next example there's
-something called missing at random and I
-apologize please do not shoot the
-messenger I was not in the room when
-people decided on these terms
-I think these terms are silly and I wish
-there was a better way to describe them
-but I apologize on behalf of
-statisticians here so we talked about
-missing completely at random here we've
-got missing at random so let's say that
-we work for the Department of
-Transportation and we're looking at the
-Pennsylvania Turnpike a toll road that a
-highway that hasn't told me with on it
-so that you can understand people have
-to pay whenever they go through this
-toll booth in order to use the
-Pennsylvania Turnpike and let's say that
-there's a a sensor set up to track how
-many cars go through a given gate in a
-given time window
-well that sensor breaks and doesn't
-gather any information between 7 and 10
-a.m. what we would describe that as is
-data that's missing at random and the
-reason that we call it missing at random
-is that conditional on some data that we
-do have in hand the data of interest is
-not systematically different so whether
-or not that data point is missing
-depends on data that we have observed in
-this case we have observed time that is
-information that we do have and time
-contributes to that missingness that
-missingness is based on are contingent
-upon those specific hours that data is
-missing you might imagine this solution
-for trying to tackle this type of
-missing data is maybe we want to use the
-time in order to help us fill in or
-generate some value for those number of
-vehicles that are that we are missing
-the last type of data that's missing the
-last type of missingness I should say is
-data that's not missing at random let's
-say that I administer a survey and that
-survey includes a question about income
-people who have lower incomes are less
-likely to respond to that question about
-income what we call that data that's not
-missing at random because whether or not
-something is missing depends on the
-value of that missing thing itself here
-for example we see that people who have
-lower incomes are on average less likely
-to share their incomes with me so if we
-wanted to do something simple like
-calculate the average of this data I can
-calculate the average of income but it's
-going to be skewed pretty significantly
-upward we're gonna see a value that's
-much higher than it should be now this
-is the most complicated type of
-missingness to work with because we
-don't have access to these incomes here
-so those are the three different types
-of missingness and i want to talk about
-a couple of ways that in the 15 minutes
-we've got left that we can handle so
-there are five different methods here
-that I outline I'm going to move quickly
-through them because there's a reporting
-here and I want to be respectful of
-folks this time and not hold folks over
-but again please ask any questions that
-you have in the chat
-so let's start by talking about
-deductive imputation deductive is it has
-to do with logic we're going to deduce
-values we're going to use logical rules
-to understand how we can fill data in so
-let's say that there was a survey that
-asks if somebody was the victim of a
-crime in the last 12 months and that
-person says no and then of the same
-survey has a later question that says
-really the victim of a violent crime in
-the last 12 months and that respondent
-leaves the answer blank we can use logic
-we don't have to make any guesses or we
-don't have to do any inference we can
-use logic to say given the answer to my
-first question I know the answer to that
-and I can fill in that missing value
-through logic this requires specific
-coding so you would have to as we get
-new data we have to recognize how do my
-variables or my columns relate to one
-another you would have to code that up
-that's not something that is going to be
-consistent across all data sets so you
-can't just download a library to do that
-it can be time-consuming but it's good
-because it doesn't require any inference
-and it does not matter what type of
-missing data you're working with whether
-it's missing at random not at random
-completely at random you can do this in
-any of those cases the next thing that I
+and finance. I'm going to give every individual a weight as well. So the weight for people in group i is going to be what's the true percentage of people
+in that group divided by what's the percentage of observed responses in that group. So, for example, in the accounting group, the true percentage of people who
+were in accounting is one-half, divided by the percentage of responses from accounting, which was as we saw up here, about seventy-seven percent. I let Python do the math and so the weight for each accounting vote is about sixty-four point six percent. I do the exact same thing for finance, and what that means is that each finance vote gets a weight of two point two. So, for every finance person, this is finance, and this is accounting, every single finance person who replied, they get a vote that's two point two times. So one person submits a survey I'm gonna up-weigh them two point two times. For every accounting person who responded, instead of each person getting one vote, they effectively get point six-four-five votes. If we want to take the weights in each of those groups and multiply that by the number of responses that we get, that ends up equalizing things so that the total weight from all of my accounting responses and the total weight from all of my finance responses end up being equal, or in this case, almost exactly equal. 
+
+Once you have created those weights, what you can do is just pass them in to Sklearn. So, you'll create a column of weights, I've done that here, just added a column in pandas, df bracket weights, and then what we can do is use that in order to do more complex analyses. So, if I were to just calculate, for example, the
+raw average of employee satisfaction, I ger an employee satisfaction score of about five point seven, but if I calculate the weighted average based on my employee satisfaction score, it's significantly lower, I get here five point four-five. So, that, that average score went from five point seven down to five point four-five. A decent drop, and that's because people in accounting, this is based on the data I generated up-top, but people in accounting were on average happier with their jobs. People in finance were, on average, less satisfied with their jobs. What ends up happening though is, when accounting over responds and finance under responds, is that that's gonna skew our results. Now, if you were to take this information, and you want to build a more sophisticated model with this, you can do so by passing df weights, if you're, if you're a user of Python, and specifically scikit-learn, if you want to, you can pass df bracket weights, that column, or that vector of weights, when you fit your model, and it will weight your models results based on those, those weights that you've given it. So, you could do this for a linear regression model, or you could do this for a random forest, or something else if you would like to. 
+
+### How one nineteen year old Illinois man is distorting national polling averages (34:43)
+
+Two quick things that I want to call out: one is that our goal with cost weighting, when we do this weight class adjustment, is to decrease our bias, but what should we be concerned about? Well, when we decrease bias, we tend to increase variance, and so there's an article from the New York Times back in 2016, some of you may be familiar with this, there was an individual I believe, it was, the, the title of this article is: "How one nineteen year old Illinois man is distorting national polling averages." And what this ended up, and so I encourage you to take a look at this, if you would like to take a look at and read this, but effectively, they created these buckets, they weren't just looking at the accounting and finance department, but instead they looked at, for example: age, geography, sex, other information, maybe political party, all of these different buckets, and by creating so many different buckets and attaching a weight to those buckets based on response rates, what ends up happening is they decrease bias but there tends to be an increase in variance. So what ended up happening here, I would encourage you to perhaps take a look at that later if you would like, but what ends up happening is that the person who had that, who is distorting national polling averages, his weight as assigned by this approach was a, was thirty times higher than the average individual's weight, and was actually 300 times more than the person with the smallest weight in this poll. So this one individual had an enormously outsized influence on these polling averages. So it's something to, to keep in mind. Related to this, I'm making an assumption here, I'm making an assumption, and thank you Sam for, for sharing that link. I'm making an assumption here that I know that fifty percent of my people are in accounting and fifty percent of my people are in finance, but that's not always a realistic assumption. So if I
+want to understand what percentage of people will support the Democratic candidate in the upcoming election and I want to look at things across age groups: eighteen to thirty-four, thirty-five to fifty-four, or fifty-five and up, I have to make a guess about that, as I write here, hopefully it's an educated guess,
+but what we see in past elections may not be indicative of what we're going to see in this election. Thinking about the 2016 Democratic presidential primary, my
+understanding is, far more young people came out and voted in that Democratic presidential primary largely in support of Bernie Sanders. Thinking about that, that's something that we may not have noticed in 2010, 2008, 2004. So if we use past data to predict the future, it can be really challenging to do that in a way that's principled. We think about when then-senator Obama was running in 2008, what ends up happening was, when, when he was running against secretary, or then, I should say then-senator Clinton in 08, what ends up happening is that, if you just looked at information in 2000 and 2004, you're likely going to dramatically
+underestimate the proportion of people of color, specifically black voters who came out in support of Obama during the 2008 election. So this, this weight class adjustment method is something that you can sometimes do, but you can't always do that, and so it's important to keep in mind some of the limitations of this. We would be assuming that we know what the distribution of, in this case what I've highlighted, the age groups are, but that's certainly not a guarantee. 
+
+### Pulling the pieces together in one workflow (38:28)
+
+I'm gonna go ahead and shut this, and I'm gonna move back over to the slides. So, to try and talk about how to pull some of these pieces together in a workflow, we have not talked about, we have not talked about imputation for, for unit non-response yet, but we'll get into that here. In terms of my workflow, I start by
+saying: "how much missing data do I have, and is it worth my time to try and address it?" Anytime I'm doing a data science problem, that's one of the first
+things I look at, then I say: "is it reasonable to attempt deductive imputation?" Which we're going to talk about momentarily. Then, if my goal is to generate predictions, then I'm going to use the pattern submodel approach. If I want to conduct inference, then I will use the best imputation method available, ideally proper imputation. So, we'll talk about what each of these are, because a lot of those bolded terms are things we haven't seen yet. In order to get into that though, one last thing that I need to talk about are three different types of missing data.
+
+Now, you, when you look at your data and you see a bunch of NAs in your data, or a handful of NAs in your data, they all look the same to us, but there are
+actually three different types of missing data that are important to know. So I'm taking inspiration from my friend Allison here. My friend Allison, she is
+getting her PhD in biology at Notre Dame, very proud of her, so let's say that she's a grad student in a lab working late, and while she's pipetting in the
+lab, she reaches for her pen and accidentally knocks one petri dish off the desk. So from that petri dish, my friend Allison loses all of the data that she otherwise would have collected. So, over here, I'm looking at what maybe that might look like in terms of data gathering. So Allison was able to measure how much bacteria, or what was the width of the bacteria, in each petri dish on day one for all of these different petri dishes. Did the same thing on day two, but this here, you can see 16 millimeters, but really that would be an NA in our data, that's something that we do not have access to. We would call that: missing completely at random. This data is missing completely at random because there's no systematic differences between that data that's missing and the data that we've observed. 
+
+Moving on to the next example, there's something called: missing at random. And I apologize, please do not shoot the messenger, I was not in the room when people decided on these terms. I think these terms are silly and I wish there was a better way to describe them, but I apologize on behalf of statisticians here. So we talked about missing completely at random, here we've got missing at random. So let's say that we work for the Department of Transportation, and we're looking at the Pennsylvania Turnpike, a toll road, a highway, that has a toll booth, so that you can understand, people have to pay whenever they go through this toll booth in order to use the Pennsylvania Turnpike, and let's say that there's a, a sensor set up to track how many cars go through a given gate in a given time window. Well, that sensor breaks and doesn't gather any information between 7 and 10 a.m. What we would describe that as, is data that's missing at random, and the reason that we call it missing at random, is that conditional on some data that we do have in hand, the data of interest is not systematically different, so whether
+or not that data point is missing depends on data that we have observed. In this case we have observed time, that is information that we do have, and time contributes to that missingness. That missingness is based on, are contingent upon those specific hours that data is missing. You might imagine the solution for trying to tackle this type of missing data is, maybe, we want to use the time in order to help us fill-in, or generate some value for those number of vehicles that are, that we are missing.
+
+The last type of data that's missing, the last type of missingness I should say, is data that's not missing at random. Let's say that I administer a survey, and that survey includes a question about income. People who have lower incomes are less likely to respond to that question about income. What we call that data that's not missing at random because whether or not something is missing depends on the value of that missing thing itself. Here, for example, we see that people who have
+lower incomes are on average less likely to share their incomes with me. So if we wanted to do something simple, like calculate the average of this data, I can
+calculate the average of income but it's going to be skewed pretty significantly upward. We're gonna see a value that's much higher than it should be. Now, this is the most complicated type of missingness to work with because we don't have access to these incomes here.
+
+### How do we account for item nonresponse (43:44)
+
+So those are the three different types of missingness, and I want to talk about a couple of ways that, in the 15 minutes we've got left, that we can handle. So there are five different methods here that I outline. I'm going to move quickly through them because there's a recording here and I want to be respectful of
+folks' time and not hold folks over, but again please ask any questions that you have in the chat. 
+
+So let's start by talking about deductive imputation. Deductive is, it has to do with logic. We're going to deduce values. We're going to use logical rules to understand how we can fill data in. So let's say that there was a survey that asks if somebody was the victim of a crime in the last 12 months, and that person says: "no" and then the same survey has a later question that says "were you the victim of a violent crime in the last 12 months?" and that respondent leaves the answer blank. We can use logic, we don't have to make any guesses, or we don't have to do any inference, we can use logic to say given the answer to my first question I know the answer to that, and I can fill in that missing value through logic. This requires specific coding, so you would have to, as we get new data, we have to recognize how do my variables, or my columns relate to one another. You would have to code that up. That's not something that is going to be consistent across all data sets so you can't just download a library to do that. It can be time-consuming, but it's good because it doesn't require any inference, and it does not matter what type of missing data you're working with, whether it's missing at random, not at random, completely at random, you can do this in any of those cases.
+
+The next thing that I
 want to bring up is mean median and mode
 imputation so I imagine that many of you
 have done this at some point or another
