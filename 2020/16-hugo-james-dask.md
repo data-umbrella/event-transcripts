@@ -250,48 +250,9 @@ So yeah... let's jump into - into Dask DataFrames (opens notebook two at `localh
 
 Something I love about Dask's dataframes - I mean I rant about this all the time - it's how... it's the Pandas API and - and Matt -Matt Rocklin actually has a post on - on the blog called "A brief history of Dask" in which he talks about the technical goals of Dask but also talks about a social goal of Dask which in Matt's words is to "invent nothing"; he wanted and the team wanted the Dask API to be as comfortable and familiar for users as possible and that's something  really appreciate about it.
 
-So we see we have element - *elementwise operations*, we have the - our favorite - *row-wise selections*, we have *loc*, we have the *common aggregations*, we saw *groupby*s before, we have *is in*s, we have *datetime string accessors*. Oh James! We forgot to - I forgot to edit this and I -it should be *groupby* - I don't know what - what a *fruitby* is but that's something... we'll make sure the next iteration to - to get it right; at least we've got it right there and in the code but have a look at the Dask dataframe API docs to check out what's happening and a lot of the time Dask dataframes can serve as drop in replacements for Pandas dataframes.
-the one thing that i just want to make
-clear as i did before
-um is that you need to call compute
-because of the
-lazy laser compute property of das
-so this is wonderful to talk about when
-to use
-data frames so if your data fits in
-memory
-use pandas um if your data fits in
-memory and your code
-doesn't run super quickly um
-i wouldn't go to dusk i'd try to i'd do
-my best to optimize my pandas code
-before trying to get gains gains and
-efficiency um
-but dark itself becomes useful when the
-data set you want to analyze is larger
-than your machine's ram
-um where you normally run into memory
-errors and that's what we saw
-with the taxicab example the other
-example that we'll see when we get to um
-[Music]
-machine learning is
-you can do machine learning on a small
-data set that fits in memory but if
-you're
-building big models or training over
-like a lot of different hyper parameters
-or different types of models
-you can you can parallelize that using
-using dark so there is
-you know you want to use dash perhaps in
-the big data or medium to big data limit
-um as we see here um or in the medium to
-big model limit where training
-for example takes and takes a lot of
-time okay
-so without further ado uh let's get
-started with das data frames
+So we see we have element - *elementwise operations*, we have the - our favorite - *row-wise selections*, we have *loc*, we have the *common aggregations*, we saw *groupby*s before, we have *is in*s, we have *datetime string accessors*. Oh James! We forgot to - I forgot to edit this and I -it should be *groupby* - I don't know what - what a *froupby* is but that's something... we'll make sure the next iteration to - to get it right; at least we've got it right there and in the code but have a look at the Dask dataframe API docs to check out what's happening and a lot of the time Dask dataframes can serve as drop in replacements for Pandas dataframes. The one thing that I just want to make clear as I did before, is that you need to call `compute()` because of the lazy - lazy compute property of Dask. So this is wonderful to talk about when to use Dask dataframes. So if your data fits in memory use Pandas; if your data fits in memory and your code doesn't run super quickly I wouldn't go to Dask, I'd try to - I'd do my best to optimize my Pandas code before trying to get gains - gains and efficiency; but Dask itself becomes useful when the dataset you want to analyze is larger than your machine's RAM, where you normally run into memory errors and that's what we saw with the taxicab example. The other example that we'll see when we get to machine learning is you can do machine learning on a small dataset that fits in memory but if you're building big models or training over like a lot of different hyperparameters or different types of models, you can you can parallelize that using - using Dask. So there is, you know - you want to use Dask perhaps in the big data or medium to big data limit as we see here, or in the medium to big model limit where training, for example, takes and takes a lot of time, okay?
+
+So without further ado let's get started with Dask dataframes
 um you likely ran this uh preparation
 file to get the data in the previous
 um notebook but if you didn't execute
