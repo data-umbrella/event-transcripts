@@ -254,29 +254,7 @@ So we see we have element - *elementwise operations*, we have the - our favorite
 
 So without further ado let's get started with Dask dataframes; (highlights a code cell) you likely ran this preparation file to get the data in the previous notebook but if you didn't execute that... now we're going to (highlights a code cell) get our file names by doing - doing a few joins and we see our file is a string `data/nycflights/*` - to access all of them - `.csv` and we're going to import our Dask dust.dataframe and read in (highlights a code cell) our dataframe, parsing some dates, setting some - setting some data types, okay? I'll execute that (runs all cells above together with the current cell) we'll see we have 10 partitions... as we noted before, if this was a Pandas dataframe we'd see a bunch of entries here; we don't, we see only the column names and the data types of the columns and the reason is, as we've said it explicitly here, is the representation of the dataframe object contains no data, it's done - Dask has done enough work to read the start of the file so that we know a bit about it, some of the important stuff and then infer the column types and column names and data types, okay?... but we don't - once again we don't - let's say we've got 100 gigs of data, we don't want to like do this call and suddenly it's reading all that stuff in and doing a whole bunch of compute until we explicitly tell it to, okay? (Highlights a code cell) Now this is really cool... if you know a bit of Pandas you'll know that you can there's an attribute `columns` which (runs code cell) prints out - it's well... it's actually the columns form an index, right?... the pandas index object - and we get the - we get the column names there... cool! Pandas in Dask form. (Highlights a code cell) We can check out the data types as well as we would in Pandas we see we've got some *int*s for the day of the week, we've got some *float*s for departure time, - maybe we'd actually prefer that to be, you know, a date time at some point - we've got some objects which generally are the most general o-objects so generally strings... so that's all Pandas-y type stuff. In addition Dask dataframes have an attribute, `npartitions`  (highlights a code cell) which tells us the number of partitions and we saw before that that's 10, so i'd expect to see 10 here... (runs code cell) Hey, look at that.
 
-um now this is something that
-um we talk about a lot in the
-delayed notebook is really the task
-graph
-and i don't want to say too much about
-that but really it's a
-visual schematic of of the order in
-which different types of compute happen
-okay um and so the task graph for
-read csv tells us what happens when we
-call compute
-and essentially it reads csv um
-10 ten times zero indexed of course
-because python
-um it reads csv uh ten different times
-into these ten different pandas pandas
-data frames
-and if there were group buys or stuff
-after that we'd see them happen in
-in the in the graph there and we may see
-an example of this in a second
-um so once again as with pandas
-um we're going to view the the head of
+Now this is something that we talk about a lot in the *delayed* notebook is really the task graph (highlights a code cell) - and i don't want to say too much about that - but really it's a visual schematic of - of the order in which different types of compute happen, okay? (runs code cell) ... and so the task graph for `read.csv` tells us what happens when we call compute and essentially it reads csv 10 ten times, zero indexed of course - because Python, reads csv ten different times into these ten different Pandas - Pandas dataframes and if there were `groupby`s or stuff after that we'd see them happen in - in the - in the graph there and we may see an example of this in a second. So once again (highlights a code cell) as with Pandas um we're going to view the the head of
 the data frame
 great and we see a bunch of stuff um
 you know we we see the first first five
