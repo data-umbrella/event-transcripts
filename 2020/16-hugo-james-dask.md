@@ -248,44 +248,9 @@ So now i'm going to do the compute - well I'm going to set myself up for the com
 **Hugo:**
 So yeah... let's jump into - into Dask DataFrames (opens notebook two at `localhost`). So of course we write here that in the last exercise we used Dask Delayed to parallelize loading multiple csv files into a Pandas DataFrame. We're not - we - we haven't done that but you can definitely go through and have a look at that - but I think perhaps even more immediately relevant for a data science crowd and an analytics crowd is - which is what I see here from the reasons people - people have joined - is jumping into Dask DataFrames, and as I said before a Dask dataframe really feels like a Pandas dataframe, but internally it's composed of many different - different dataframes. This is one - one way to think about it, that we have all these Pandas dataframes and the collection of them is a Dask dataframe - and as we saw before they're partitioned. We saw when we loaded the taxi dataset in the Dask dataframe was 127 partitions right? Where each partition was a normal Panda - Pandas dataframe and they can live on disk as they did, early in the first example - Dask in action - or they can live on other machines as when I spun up a coiled cluster and and did it on - on AWS.
 
-um something i love about darth's data
-frames i mean i ran about this
-all the time um it's how it's the pandas
-api and and matt
-matt rocklin actually um uh
-has a post on on the
-blog called a brief history of dusk in
-which he talks about the technical goals
-of
-us but also talks about a social goal of
-task which in matt's words is to invent
-nothing he wanted and the team wanted
-um the dusk api to be as
-comfortable um and familiar for users
-as possible and that's something i
-really appreciate
-about it so um we see we have element
-element uh wires on operations we have
-the
-our favorite row eyes selections we have
-loc we have the common aggregations we
-saw group buyers before we have
-is-ins we have date time string
-accessors
-um oh james we forgot to i forgot to
-edit this and i
-it should be grouped by i don't know
-what what a fruit buy is but that's
-something um
-we'll make sure the next iteration to to
-get right at least we've got it right
-there and in the code
-um but have a look at the dash data
-frame api docs to check out what's
-happening
-um and a lot of the time dash data
-frames can serve as drop in replacements
-for pandas data frames
+Something I love about Dask's dataframes - I mean I rant about this all the time - it's how... it's the Pandas API and - and Matt -Matt Rocklin actually has a post on - on the blog called "A brief history of Dask" in which he talks about the technical goals of Dask but also talks about a social goal of Dask which in Matt's words is to "invent nothing"; he wanted and the team wanted the Dask API to be as comfortable and familiar for users as possible and that's something  really appreciate about it.
+
+So we see we have element - *elementwise operations*, we have the - our favorite - *row-wise selections*, we have *loc*, we have the *common aggregations*, we saw *groupby*s before, we have *is in*s, we have *datetime string accessors*. Oh James! We forgot to - I forgot to edit this and I -it should be *groupby* - I don't know what - what a *fruitby* is but that's something... we'll make sure the next iteration to - to get it right; at least we've got it right there and in the code but have a look at the Dask dataframe API docs to check out what's happening and a lot of the time Dask dataframes can serve as drop in replacements for Pandas dataframes.
 the one thing that i just want to make
 clear as i did before
 um is that you need to call compute
