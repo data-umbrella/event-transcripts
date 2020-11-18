@@ -4,9 +4,8 @@
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2020/18-thomas-streamlit.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/274110563/
 - Video:   
-- Jupyter notebook:  N/A
-- GitHub repo:  N/A
-- Slides:  
+- GitHub repo:  https://github.com/thomasjpfan/data-umbrella-2020-streamlit-ml
+- Slides:  N/A
 - Transcriber:  ? [needs a transcriber]
 
 
