@@ -252,72 +252,8 @@ Something I love about Dask's dataframes - I mean I rant about this all the time
 
 So we see we have element - *elementwise operations*, we have the - our favorite - *row-wise selections*, we have *loc*, we have the *common aggregations*, we saw *groupby*s before, we have *is in*s, we have *datetime string accessors*. Oh James! We forgot to - I forgot to edit this and I -it should be *groupby* - I don't know what - what a *froupby* is but that's something... we'll make sure the next iteration to - to get it right; at least we've got it right there and in the code but have a look at the Dask dataframe API docs to check out what's happening and a lot of the time Dask dataframes can serve as drop in replacements for Pandas dataframes. The one thing that I just want to make clear as I did before, is that you need to call `compute()` because of the lazy - lazy compute property of Dask. So this is wonderful to talk about when to use Dask dataframes. So if your data fits in memory use Pandas; if your data fits in memory and your code doesn't run super quickly I wouldn't go to Dask, I'd try to - I'd do my best to optimize my Pandas code before trying to get gains - gains and efficiency; but Dask itself becomes useful when the dataset you want to analyze is larger than your machine's RAM, where you normally run into memory errors and that's what we saw with the taxicab example. The other example that we'll see when we get to machine learning is you can do machine learning on a small dataset that fits in memory but if you're building big models or training over like a lot of different hyperparameters or different types of models, you can you can parallelize that using - using Dask. So there is, you know - you want to use Dask perhaps in the big data or medium to big data limit as we see here, or in the medium to big model limit where training, for example, takes and takes a lot of time, okay?
 
-So without further ado let's get started with Dask dataframes
-um you likely ran this uh preparation
-file to get the data in the previous
-um notebook but if you didn't execute
-that um
-now we're going to get our file names by
-doing
-doing a few joins and we see our file is
-a string data nyc
-flights um a wildcard
-to access all of them dot dot csv
-and we're going to import our dusk
-dust.dataframe and read in our dataframe
-um parsing some dates setting some
-sending some data types
-okay i'll execute that we'll see we have
-10
-partitions um as we noted before
-if this was a pandas data frame we'd see
-a bunch of entries here
-we don't we see only the column names
-and the data types of the columns um and
-the reason is
-as we've said it explicitly here is the
-representation of the data frame object
-contains no data
-um it's done dusk has done enough work
-to read the start of the file
-um so that we know a bit about it some
-of the important stuff and then further
-column types and
-column names and data types okay but we
-don't once again we don't let's say
-we've got 100 gigs of data
-we don't want to like do this call and
-suddenly it's reading all that stuff in
-and
-doing a whole bunch of compute until we
-explicitly
-uh tell it to okay now this is really
-cool if you know a bit of pandas
-you'll know that you can um there's an
-attribute columns which
-prints out it's well it's actually the
-columns form an index right the pandas
-index
-object um and we get the we get the
-column names there
-cool pandas in dark form
-we can check out the data types as well
-um as we would in pandas we see we've
-got some ins for the day of the week
-we've got some floats for departure time
-um maybe we'd actually um prefer that to
-be
-you know a date time at some point we've
-got some objects which generally are the
-most general on
-objects so generally strings um
-so that's all pandasey type stuff in
-addition das data frames have
-an attribute um n partitions which tells
-us the number of partitions and we saw
-before
-that that's 10 so i'd expect to see 10
-here hey look at that
+So without further ado let's get started with Dask dataframes; (highlights a code cell) you likely ran this preparation file to get the data in the previous notebook but if you didn't execute that... now we're going to (highlights a code cell) get our file names by doing - doing a few joins and we see our file is a string `data/nycflights/*` - to access all of them - `.csv` and we're going to import our Dask dust.dataframe and read in (highlights a code cell) our dataframe, parsing some dates, setting some - setting some data types, okay? I'll execute that (runs all cells above together with the current cell) we'll see we have 10 partitions... as we noted before, if this was a Pandas dataframe we'd see a bunch of entries here; we don't, we see only the column names and the data types of the columns and the reason is, as we've said it explicitly here, is the representation of the dataframe object contains no data, it's done - Dask has done enough work to read the start of the file so that we know a bit about it, some of the important stuff and then infer the column types and column names and data types, okay?... but we don't - once again we don't - let's say we've got 100 gigs of data, we don't want to like do this call and suddenly it's reading all that stuff in and doing a whole bunch of compute until we explicitly tell it to, okay? (Highlights a code cell) Now this is really cool... if you know a bit of Pandas you'll know that you can there's an attribute `columns` which (runs code cell) prints out - it's well... it's actually the columns form an index, right?... the pandas index object - and we get the - we get the column names there... cool! Pandas in Dask form. (Highlights a code cell) We can check out the data types as well as we would in Pandas we see we've got some *int*s for the day of the week, we've got some *float*s for departure time, - maybe we'd actually prefer that to be, you know, a date time at some point - we've got some objects which generally are the most general o-objects so generally strings... so that's all Pandas-y type stuff. In addition Dask dataframes have an attribute, `npartitions`  (highlights a code cell) which tells us the number of partitions and we saw before that that's 10, so i'd expect to see 10 here... (runs code cell) Hey, look at that.
+
 um now this is something that
 um we talk about a lot in the
 delayed notebook is really the task
