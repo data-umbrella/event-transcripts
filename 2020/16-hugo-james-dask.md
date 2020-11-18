@@ -246,43 +246,8 @@ So now i'm going to do the compute - well I'm going to set myself up for the com
        alt="Working with Coiled" width="50%" /></a>
 
 **Hugo:**
-So yeah... let's jump into - into dataframes (opens notebook two at `localhost`)
+So yeah... let's jump into - into Dask DataFrames (opens notebook two at `localhost`). So of course we write here that in the last exercise we used Dask Delayed to parallelize loading multiple csv files into a Pandas DataFrame. We're not - we - we haven't done that but you can definitely go through and have a look at that - but I think perhaps even more immediately relevant for a data science crowd and an analytics crowd is - which is what I see here from the reasons people - people have joined - is jumping into Dask DataFrames, and as I said before a Dask dataframe really feels like a Pandas dataframe, but internally it's composed of many different - different dataframes. This is one - one way to think about it, that we have all these Pandas dataframes and the collection of them is a Dask dataframe - and as we saw before they're partitioned. We saw when we loaded the taxi dataset in the Dask dataframe was 127 partitions right? Where each partition was a normal Panda - Pandas dataframe and they can live on disk as they did, early in the first example - Dask in action - or they can live on other machines as when I spun up a coiled cluster and and did it on - on AWS.
 
-so of course we write here that in the
-last exercise um we used ask delayed to
-parallelize uh loading multiple csv
-files into a pandas data frame
-um we're not we we haven't done that but
-you can definitely go through and have a
-look at that
-um but i think perhaps even
-more immediately relevant for a data
-science crowd and an analytics crowd is
-which is what i see here from the
-reasons people people have joined um is
-jumping into dusk data frames
-um and as i said before adas data frame
-um
-really feels like a pandas data frame um
-but internally it's composed of many
-different
-different data frames this is one one
-way to think about it that we have all
-these pandas data frames
-um and the collection of them is a dark
-data frame
-and as we saw before they're partitioned
-we saw
-when we loaded the taxi data set in the
-dash data frame was 127 partitions right
-um where each partition was a normal
-panda pandas data frame
-um and they can live on disk as they did
-early uh in the first example dark in
-action or they can live on other
-machines as when i spun up
-a coiled cluster and and did it on on
-aws
 um something i love about darth's data
 frames i mean i ran about this
 all the time um it's how it's the pandas
