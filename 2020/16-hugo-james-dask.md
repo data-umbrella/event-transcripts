@@ -381,36 +381,16 @@ That's a great question and we actually didn't see... (scrolling up) let's see..
 
 **James:**
 
-Yeah! Yeah and um yeah exactly and i
-guess also this is more of an uh kind of
-an illustrative point here
-i guess uh so you're just using uh
-directly using in jobs with
-something like job lib um by default
-we'll use local threads and processes
-on like whatever machine you happen to
-be running on so
-like in this case on hugo's laptop um
-one of the real advantages of using
-uh job lib with the das back in will
-actually dispatch
-back to um to run tasks on a dash
-cluster is that your cluster can
-expand beyond what local resources you
-have
-so you can run um you know you can
-basically scale out like for instance
-using the coil cluster
-uh to have many many cpus and
-a large amount of ram that you wouldn't
-have on your locally uh table to run and
-there you'll see
-both large performance gains as well as
-you'll be able to expand
-your the set of possible problems you
-can solve uh
-to larger than ram uh scenarios so
-you're out of out of core training
+Yeah! Yeah and um yeah exactly and I guess also this is more of an - kind of an illustrative point here? I guess... so you're just using - directly using `n_jobs` with something like Joblib. By default we'll use local threads and processes on like whatever machine you happen to be running on, so like in this case on Hugo's laptop. One of the real advantages of using Joblib with the Dask backend - it will actually dispatch back to - to run tasks on a Dask cluster - is that your cluster can expand beyond what local resources you have. So you can run, you know - you can basically scale out like for instance using the Coiled cluster - to have many, many CPUs and a large amount of RAM that you wouldn't have on your locally uh table to run and there you'll see both large performance gains as well as you'll be able to expand your - the set of possible problems you can solve, to larger than RAM scenarios so you're out of - out of core training.
+
+### Conclusion (<a href='https://youtu.be/MHAjCcBfT_A?t=4012'>1:06:52</a>)
+
+<a href="https://youtu.be/MHAjCcBfT_A?t=4012">
+  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t1.06.52.JPG"
+       alt="Conclusion" width="50%" /></a>
+
+**Hugo:**
+
 exactly and thank you jack this was
 absolutely unplanned and we didn't plan
 that question but that's a wonderful
