@@ -305,30 +305,10 @@ So what we're going to do now is just break down machine learning scaling proble
 
 So as I mentioned before, when thinking about distributed compute, a lot of people do it when they have large data, they don't necessarily think about the large model limit and this schematic kind of speaks to that.
 
-<img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t48.24.JPG" alt="Scaling Problems Visualization" width="50%" />
+<img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t48.24.JPG"
+alt="Scaling Problems Visualization" width="25%" />
 
-If you've got a small model that fits in RAM, you don't need to think about distributed compute; if your data size - if your data is larger than your RAM, so your computer's RAM-bound, then you want to start going to a distributed setting or if your model is big and CPU-bound such as like large-scale hyper-parameter searches or like ensemble blended models of like machine learning algorithms... whatever it is and then of course we have the you know big data - big model limit where distributed computer desk is
-incredibly handy as i'm sure
-you could uh imagine okay and
-that's really what i've what i've gone
-through here
-um a bird's-eye view of the strategies
-we think about um
-if it's in memory in the bottom left
-quadrant just use scikit-learn or your
-favorite ml library
-um otherwise known as psychic learn um
-for me anyway
-um
-i was going to make a note about xg
-boost but i but i won't
-um for large models
-uh you can use joblib and your favorite
-circuit learn estimator
-for large data sets uh use our dark ml
-estimators so we're gonna do a whirlwind
-tour of psychic learn in
-in five minutes we're going to load in
+7f you've got a small model that fits in RAM, you don't need to think about distributed compute; if your data size - if your data is larger than your RAM, so your computer's RAM-bound, then you want to start going to a distributed setting or if your model is big and CPU-bound such as like large-scale hyper-parameter searches or like ensemble blended models of like machine learning algorithms... whatever it is and then of course we have the you know big data - big model limit where distributed compute in Dask is incredibly handy, as I'm sure you could imagine, okay?... and that's really what i've - what i've gone through here. A bird's-eye view of the strategies we think about... if it's in memory in the bottom left quadrant just use Scikit-Learn or your favorite ml library, otherwise known as Scikit-Learn - for me anyway. I was going to make a note about XG Boost but I - but I won't. For large models, you can use Joblib and your favorite Scikit-Learn estimator; for large datasets uh use our Dask-ML estimators so we're gonna do a whirlwind tour of Scikit-Learn in - in five minutes we're going to load in
 some data so we'll actually generate it
 we'll import scikit-learn for our ml
 algorithm create an estimator
