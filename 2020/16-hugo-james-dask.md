@@ -267,62 +267,8 @@ Now this is something that we talk about a lot in the *delayed* notebook is real
 
 **Hugo:**
 
+So now i want to show you some computations with Dask dataframes, okay? So since Dask dataframes implement a Pandas-like API, we can just write our familiar Pandas codes. So, I want to look at the column,(highlights a code ceell containing `max_delay`) departure delay and look at the maximum of that column; I'm going to call that `max_delay`. So you can see we're selecting the column and then applying the max method as we would (runs code cell) with Pandas. Oh what happened there? Gives us some Dask scalar series... and what's happened is we haven't called compute, right? So it hasn't actually done the compute yet. We're going to do compute but first we're going to visualize the task graph like we did here (highlights a previous code cell) and let's try to reason what the task graph would look like, right? So the task graph first is going to read in all of these things, and then it'll probably perform this selector on each of these different pandas data frames comprising the Dask dataframe, and then it will compute the max of each of those and then do a max on all those maxes, I think (runs current code cell) - that's what I would assume is happening here... great. So that's what we're - what we're doing we're reading this; so we read the first - perform the first *read-csv* get this Dask dataframe, *getitem* i think is that selection, then we're taking the *max* - we're doing the same for all of them, then we take all of these *max*s and aggregate them and then take the max of that, okay? So that - that's essentially what's happening when I call compute (highlights a code cell containing `%time max_delay.compute()`) which i'm going to do now (runs code cell). Moment of truth... okay! So that took around eight seconds and it tells us the max and I-I'm sorry? let's let's just get
 
-
-um so now i want to show you some
-computations
-with uh dark data frames okay so
-since dash data frames implement a
-pandas like api
-um we can just write our familiar pandas
-codes so
-i want to look at the column um
-uh departure delay and look at the
-maximum of that column
-i'm going to call that max delay so you
-can see we're selecting the column
-and then applying the max method as we
-would with pandas oh what happened there
-gives us some uh da scala
-series um and
-what's happened is we haven't called
-compute right so it hasn't actually done
-the compute yet um
-we're going to do compute but first
-we're going to visualize the task graph
-like we did
-here and let's try to reason what the
-task graph would look like right so
-the task graph first it's going to read
-in
-all of these things and then
-it'll probably perform this selector
-on each of these
-different pandas data frames comprising
-the dash data frame
-and then it will compute the max of each
-of those and then do a max on all those
-maxes
-i think that's what i would assume is
-happening here
-great so that's what we're what we're
-doing we're reading this so we read the
-first
-um perform the first read csv get this
-das data frame
-um get item i think is that selection
-then we're taking the max
-we're doing the same for all of them
-then we take all of these max's
-and aggregate them and then take the max
-of that okay so that
-that's essentially what's happening when
-i call compute which i'm going to do
-now
-moment of truth okay
-so uh that took around eight seconds and
-it tells us the max
-and i i'm sorry let's let's just get
 out some of our dashboards up
 as well um
 huh i think in this notebook we are
