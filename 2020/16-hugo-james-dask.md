@@ -391,91 +391,38 @@ Yeah! Yeah and um yeah exactly and I guess also this is more of an - kind of an 
 
 **Hugo:**
 
-exactly and thank you jack this was
-absolutely unplanned and we didn't plan
-that question but that's a wonderful
-segue into
-me now performing exactly the same
-compute with the same code
-using uh the dasc as the parallel back
-end um on a
-on a coiled cluster which is an aws
-cluster right
-um so we can i'm more currently anyway
-so i will execute
-this code um and it's exactly the same
-as we did
-um whoa
-okay great um so
-we see our tasks task stream here
-um
-you see once again we see the majority
-is being batch
-um uh fit and and getting the scores out
-um
-similarly we see the same result being
-the best
-i'll just notice that for this for this
-small task doing it on the cloud took 20
-seconds
-uh doing it locally for me took um 80
-seconds so that's a four-fold increase
-in performance
-on a very small task so imagine what
-that does if you can
-take the same code as you've written
-here and burst to the cloud
-uh with with one click or however
-however you do it um
-i think that that's incredibly powerful
-and that the fact that your code
-and what's happening in the back end
-with dusk um generalizes immediately to
-the new setting of working on a cluster
-i personally find very exciting and if
-you work with larger data sets or
-building larger models or big hyper
-parameter sweeps i'm pretty sure
-um it's an exciting option for all of
-you also um
-so on that note um i'd like to reiterate
-james what james said and thanking you
-all so much
-for joining us um for asking great
-questions
-and for bearing with us through some
-some technical technical hurdles
-but it made it even even funner when
-when we got up and running uh once again
-i'd love to thank
-mark christina and and the rest of the
-organizers for doing such a wonderful
-job
-um and doing such a great service to uh
-the data science and machine learning
-community and ecosystem worldwide so
-thank you once again for having us
-thank you hugo and james um i have to
-say like with all the technical
-difficulties i was actually giggling
-because it was kind of funny um
-yeah but we're very sorry and we thank
-you for your patience
-and sticking through it and um
-i will um be editing this video
-to um you know make it as efficient as
-possible
-and have that available tim supercard
-thank you um great and i'll just ask you
-if you are interested in checking out
-coiled go to our website if you want to
-check out our product
-go to cloud.coil.io we started building
-this company in february
-um we're really excited about building a
-new product um so if you're interested
-reach out we'd love to chat with you
-about what we're doing and what we're up
-to
-um and it's wonderful to be in the same
-community as you all so thanks
+Exactly and thank you Ja- this was absolutely unplanned and we didn't plan that question but that's a wonderful segue into me now performing exactly the same compute with the same code using the Dask as the parallel backend on a - on a Coiled cluster(highlights a code cell containing `with joblib.parallel_backend('dask', scatter=[X, y]):`) which is an AWS cluster, right? So we can - I'm more currently - anyway, so I will execute (runs code cell) this code and it's exactly the same as we did... whoa... okay, great. So we see our tasks, task stream here... you see, once again we see the majority is being batch... fit, and - and getting the scores out. Similarly we see the same result being the best. I'll just notice that for this - for this small task, doing it on the cloud took 20 seconds; doing it locally for me took 80 seconds so that's a four-fold increase in performance on a very small task so imagine what that does if you can take the same code as you've written here and burst to the cloud with - with one click or however - however you do it. I think that that's incredibly powerful and that the fact that your code and what's happening in the backend with Dask generalizes immediately to the new setting of working on a cluster, I personally find very exciting and if you work with larger datasets or building larger models or big hyperparameter sweeps, I'm pretty sure it's an exciting option for all of you also.
+
+So on that note um i'd like to reiterate James - what James said and thanking you all so much for joining us, for asking great questions and for bearing with us through some - some technical - technical hurdles, but it made it even - even funner when when we got up and running. Once again I'd love to thank Reshama, Christina and - and the rest of the organizers for doing such a wonderful job and doing such a great service to the data science and machine learning community and ecosystem worldwide; so thank you once again for having us.
+
+**Reshama:**
+
+Thank you Hugo and James! I have to say like with all the technical difficulties I was actually giggling because it was kind of funny - 
+
+**Hugo:**
+
+Yeah!
+
+**Reshama:**
+
+... but we're very sorry and we thank you for your patience and sticking through it, and I will be editing this video to, you know, make it as efficient as possible and have that available to everyone...
+
+**Hugo:**
+
+Super ca-
+
+**Reshama:**
+
+Thank you...
+
+**Hugo:**
+
+... great, and I'll just ask -
+
+**James:**
+
+Thank you.
+
+**Hugo:**
+
+If you are interested in checking out Coiled go to our <a href='https://coiled.io/'>website</a>; if you want to check out our product, go to - go to <a href='https://cloud.coiled.io/'>cloud.coiled.io</a>. We started building this company in February. We're really excited about building a new product so if you're interested, reach out - we'd love to chat with you about what we're doing and what we're up to... and it's wonderful to be in the same community as you all, so thanks.
