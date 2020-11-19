@@ -279,7 +279,7 @@ Exactly. Yeah thank you for that - that - that catch, James... great. It's even 
 
 **James:**
 
-Yeah so it depends on... this - I mean yeah, short answer yes you can use Dask to train reinforcement learning models. So there's a package that Hugo will talk about called Dask-ML that we'll see in the next notebook, for distributing machine learning, that parallelizes and and distributes some existing models using Dask. So for instance things like random forces - forest inside scikit learn... so - so yes you can use Dask to do distributed training for models. I'm not actually sure if Dask-ML implements any reinforcement learning models in particular, but that is certainly something that - that can be done.
+Yeah so it depends on... this - I mean yeah, short answer yes you can use Dask to train reinforcement learning models. So there's a package that Hugo will talk about called Dask-ML that we'll see in the next notebook, for distributing machine learning, that parallelizes and and distributes some existing models using Dask. So for instance things like random forces - forest inside Scikit-Learn... so - so yes you can use Dask to do distributed training for models. I'm not actually sure if Dask-ML implements any reinforcement learning models in particular, but that is certainly something that - that can be done.
 
 **Hugo:**
 
@@ -301,47 +301,13 @@ Exactly, and it's - it's been wonderful to see so many people - so many people d
 
 **Hugo:**
 
-so what we're going to do now is um
-just break down machine learning scaling
-problems into two categories
-just review a bit of psychic learn in
-passing um
-solve a machine learning problem with
-single michelle single michelle
-um i don't know who she is but single
-michelle wow
-single machine and parallelism with
-psychic learning job lib
-then solve an l problem with an ml
-problem with multiple machines and
-parallelism using uh dark as well
-and we won't have time to burst for the
-cloud i don't think but you can also
-play
-play around with that okay so as i
-mentioned before
-when thinking about distributed compute
-a lot of people do it when they have
-large data they don't necessarily think
-about the large model limit
-um and this schematic kind of speaks to
-that um
-if you've got a small model that fits in
-ram you don't need to think about
-distributed compute
-if your data size if your data is larger
-than your ram
-um so your computer's ram bound then you
-want to start going to a distributed
-setting or if your model is big and cpu
-bound um such as like large-scale
-hyper-parameter searches or like
-ensembl blended models of like machine
-learning algorithms
-um whatever it is and then of course we
-have the
-you know big data big model uh limit
-where um distributed computer desk is
+So what we're going to do now is just break down machine learning scaling problems into two categories; just review a bit of Scikit-Learn in passing, solve a machine learning problem with single michelle - single Michelle? I don't know who she is but single michelle - wow. Single machine and parallelism with Scikit-Learn and Joblib then solve an l problem with - an ml problem with multiple machines and parallelism using Dask as well... and we won't have time to burst through the cloud - I don't think - but you can also play - play around with that, okay?
+
+So as I mentioned before, when thinking about distributed compute, a lot of people do it when they have large data, they don't necessarily think about the large model limit and this schematic kind of speaks to that.
+
+<img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t48.24.JPG" alt="Scaling Problems Visualization" width="50%" />
+
+If you've got a small model that fits in RAM, you don't need to think about distributed compute; if your data size - if your data is larger than your RAM, so your computer's RAM-bound, then you want to start going to a distributed setting or if your model is big and CPU-bound such as like large-scale hyper-parameter searches or like ensemble blended models of like machine learning algorithms... whatever it is and then of course we have the you know big data - big model limit where distributed computer desk is
 incredibly handy as i'm sure
 you could uh imagine okay and
 that's really what i've what i've gone
