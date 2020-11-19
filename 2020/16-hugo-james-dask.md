@@ -373,50 +373,15 @@ We'll see all this data transfer happening here, we'll see our tasks happening h
 
 **James:**
 
-Yeah, sure! I just also first off wanted to say, thanks everyone for attending and like bearing - bearing with us, with the technical difficulties - really appreciate that. Real quick - I'm just - yeah so if you have - if you have questions please post in the Q&A section while the Coiled cluster's spinning up. Theodore posted, "In the last - largest example of grid search, how much performance gain did we get from using das and not just `n_jobs`?"
+Yeah, sure! I just also first off wanted to say, thanks everyone for attending and like bearing - bearing with us, with the technical difficulties - really appreciate that. Real quick - I'm just - yeah so if you have - if you have questions please post in the Q&A section while the Coiled cluster's spinning up. Theodore posted, "In the last - largest example of grid search, how much performance gain did we get from using Dask and not just `n_jobs`?"
 
 **Hugo:**
 
-That's a great question and we actually didn't see... (scrolling up) let's see...
-so it took 80 seconds
-ah let me get this they're actually not
-comparable
-um because i did the grid search over
-a different set of hyper parameters i
-did it over a larger set of hyper
-parameters
-um right so when i did um
-end jobs i did it there were only um it
-was a two by two grid of hyper
-parameters
-whereas when i did it um with with dusk
-it was a
-one two three four five six six by three
-so let's just reason about that um this
-one was
-eighteen six by three is eighteen which
-took eighty seconds
-um and this one was two by two
-uh so it was four and it took
-26 seconds um
-so a minor gain i think with this hyper
-parameter
-search if you multiply that by by four
-you'll
-well 4.2 4.5 you'll need that would have
-taken maybe two minutes or something
-something like that so we saw some
-increase in efficiency
-not a great deal but um james maybe you
-can say more to this
-part of the reason for that is that
-we're doing it on kind of a very small
-example so we won't necessarily see the
-gains in efficiency
-with a data set this size and with um a
-small hyper parameter suite like this is
-that right
-yeah yeah and um yeah exactly and i
+That's a great question and we actually didn't see... (scrolling up) let's see... so it took 80 seconds... Ah! Let me get this (scrolling up) - they're actually not comparable because I did the grid search over a different set of hyperparameters - I did it over a larger set of hyperparameters, right? So when I did `n_jobs` I did it - there were only - it was a two by two grid of hyperparameters; whereas,  when I did it with - with Dask, it was a one, two, three, four, five, six - six by three. So let's just reason about that. This one was eighteen - six by three is eighteen - which took eighty seconds, and this one was two by two - so it was four - and it took 26 seconds. So, a minor gain I think, with this hyperparameter search; if you multiply that by - by four you'll - well 4.2, 4.5 you'll need; that would have taken maybe two minutes or something - something like that so we saw some increase in efficiency, not a great deal but James maybe you can say more to this... Part of the reason for that, is that we're doing it on kind of a very small example so we won't necessarily see the gains in efficiency with a data set this size and with a small hyperparameter suite like this, is that right?
+
+**James:**
+
+Yeah! Yeah and um yeah exactly and i
 guess also this is more of an uh kind of
 an illustrative point here
 i guess uh so you're just using uh
