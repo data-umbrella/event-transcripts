@@ -312,43 +312,11 @@ If you've got a small model that fits in RAM, you don't need to think about dist
 
 We're going to load in some data so we'll actually generate it, we'll import Scikit-Learn for our ml algorithm, create an estimator, and then check the accuracy of the model, okay? So once again I'm actually going to (selects Kernel from the Jupyter Notebook menu, then clicks on *Restart Kernel and Clear All Outputs*) clear all outputs after (Clicks *Restart* on the confirmation box) restarting the kernel... okay. So this is a utility function of Scikit-Learn to create some data sets (highlights a code cell containing `from sklearn.datasets import make_classification`), so I'm going to make a classification data set with four features and 10,000 samples (runs code cell) and just have a quick view, of some of it - so just a reminder on ml, `X` is the samples matrix um the size of `X` is the number of samples in terms of rows, number of features as columns, and then a feature or an attribute is what we're trying to predict essentially, okay? So `y` is the predictor variable which we're, we're - which we're... or the target variable which we're trying to predict. (Highlights and runs a code cell containing `y[:8]`) So let's have a quick view of `y` - it's zeros and ones in in this case, okay? So, yep that's what i've said here; `y` are the targets, which are real numbers for regression tasks or integers for classification or any other discrete sets of values. No words about unsupervised learning at the moment; we're just going to support - we're going to fit a support vector classifier for this example. (Highlights a code cell containing `from sklearn.svm import SVC`) So let's just load the appropriate Scikit-Learn module (runs code cell); we don't really need to discuss what support vector classifiers are at the moment. Now, this is one of the very beautiful things about the Scikit-Learn API in terms of fitting the the model; we instantiate a classifier and we want to fit it to the features with respect to the target, okay? So the first argument is the features, second argument (highlights a code cell containing `estimator.fit(X, y)`) is the target (runs code cell) variable.
 
-So we've done that; now I'm not going to worry about inspecting the learned features, I just want to see how accurate it was, okay?... and once we see how accurate it was - I'm not gonna do this - but then we can make a prediction, right?... using `estimator.predict` on a new - a new dataset. So this (highlights a a code cell containing `estimator.score(X, y)`) estimator will tell us - so this score will tell us the accuracy and essentially that's the proportion or percentage or fraction of the results that were - that the estimator got correct, and we're doing this on the training dataset; we've just trained the model on this so this is telling us (runs code cell) the accuracy on the - on the training dataset, okay? So it's 90% accurate on the training dataset. If you dive into this a bit more, you'll recognize that if we - we really want to know the accuracy on a holdout set or a test set - and it should be probably a bit lower - because this is what we use to fit it, okay... but all that having been said I expect, you know, if - if this is all resonating with you it means we can really move on to the distributed stuff in - in a second... but the other thing that-that's important to note is that we've trained it but a lot of model- a lot of estimators and models have hyperparameters that affect the fit but - you that - we need to specify up front instead of being learned during training. So you know there's a C parameter here, there's a - are we using shrinking or not? - so we specify those. (Highlights a code cell containing `estimator = SVC(C=0.00001, shrinking=**False**, random_state=0)`) We didn't need to specify them because there are default values but here we specify them
-okay and um
-then we're going to um
-look at the score now
-okay this is amazing we've got 50
-accuracy um
-which is the worst score possible just
-think about this if if you've got binary
-classification task and you've got 40
-accuracy then you just flip the labels
-and that changes to 60 accuracy so it's
-amazing that we've actually hit
-50 accuracy we're to be congratulated on
-that
-um and what i want to note here is that
-we have two sets of hyper parameters
-we've used one's
-created 90 actual model with 90 accuracy
-another one one with 50 accuracy um
-so we want to find the best hyper
-parameters essentially and that's why
-hyper parameter optimization
-is is so important um there are several
-ways to do hyper parameter optimization
-one is called grid search uh cross
-validation i won't talk about cross
-validation
-um it's essentially um a more robust
-analogue of train test split where you
-uh train on a subset of your data and
-compute the accuracy on a test
-on a holdout set or a test set um cross
-validation is
-a as i said a slightly more robust
-analog of this
-it's called grid search because we have
-a grid of hyper parameters so
+So we've done that; now I'm not going to worry about inspecting the learned features, I just want to see how accurate it was, okay?... and once we see how accurate it was - I'm not gonna do this - but then we can make a prediction, right?... using `estimator.predict` on a new - a new dataset. So this (highlights a code cell containing `estimator.score(X, y)`) estimator will tell us - so this score will tell us the accuracy and essentially that's the proportion or percentage or fraction of the results that were - that the estimator got correct, and we're doing this on the training dataset; we've just trained the model on this so this is telling us (runs code cell) the accuracy on the - on the training dataset, okay? So it's 90% accurate on the training dataset. If you dive into this a bit more, you'll recognize that if we - we really want to know the accuracy on a holdout set or a test set - and it should be probably a bit lower - because this is what we use to fit it, okay... but all that having been said I expect, you know, if - if this is all resonating with you it means we can really move on to the distributed stuff in - in a second... but the other thing that-that's important to note is that we've trained it but a lot of model- a lot of estimators and models have hyperparameters that affect the fit but - you that - we need to specify up front instead of being learned during training. So you know there's a C parameter here, there's a - are we using shrinking or not? - so we specify those. (Highlights a code cell containing `estimator = SVC(C=0.00001, shrinking=False, random_state=0)`) We didn't need to specify them because there are default values but here we specify them, (runs code cell) okay?... and then (highlights a code cell containing `estimator.score(X, y)`) we're going to look at the score now (runs code cell)... okay. This is amazing; we've got 50% accuracy which is the worst score possible.
+
+Just think about this; if - if you've got binary classification task and you've got 40% accuracy then you just flip the labels and that changes to 60% accuracy, so it's amazing that we've actually hit 50% accuracy, we're to be congratulated on that... and what I want to note here is that we have two sets of hyperparameters we've used; one's created 90% accu- model with 90% accuracy, another one - one with 50% accuracy. So we want to find the best hyperparameters essentially and that's why hyperparameter optimization is - is so important. There are several ways to do hyperparameter optimization; one is called Grid Search Cross Validation - I won't talk about cross validation - it's essentially a more robust analogue of Train/Test Split where you train on a subset of your data and compute the accuracy on a test - on a holdout set or a test set. Cross validation is, a-as I said, a slightly more robust analog of this. It's called Grid Search because we have a grid of hyper parameters.
+
+so
 we have you know in this case we have a
 hyper parameter c we have a hyper
 parameter kernel
