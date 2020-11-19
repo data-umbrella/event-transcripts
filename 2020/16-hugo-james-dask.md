@@ -176,7 +176,7 @@ So in this particular diagram there are three Dask distributed workers here; how
 
 **Hugo:**
 
-Absolutely. Thank you for that wonderful introduction to Dask and and the schedulers in particular and we are going to see that with Dask in action. I'll just note that this tab in which I launched the binder, is up and running - if you're going to execute code here, click on *notebooks*, click on *data umbrella* and then go to the *overview* notebook and you can drag around (drags one of the three dashboards displayed). We'll see the utility of these - these dashboards in a second but you can, you know drag your stuff around to - to make - you know, however you want to - want to structure it and then you can execute code in here. I'm not going to do that,  I'm going to do this locally at the moment (opens notebook at `localhost`); but just to see Dask in action to begin with, I'm going to - I'm actually going to restart kernel and clear my outputs - so I'm going to import from Dask distributed, the client, the - sorry the other thing I wanted to mention is we made a decision around content for this. We do have a notebook that we - we love to teach on schedulers but we decided to switch it out for machine learning for this workshop in particular; we are teaching a similar although distinct workshop at Py Data Global so we may see some of you there in which we'll be going more in depth into schedulers as well, so if you want to check that out definitely do so. We instantiate the client which as James mentioned is kind of what we work with as the user to submit our code. So that will take - take a few seconds... okay it's got a port in use so it's going - going elsewhere. What I'll just first get you to notice is that it tells us where our dashboard is - and we'll see those tools in a second - tells us about our cluster that we have four workers, eight cores, between eight and nine gigs(gigabytes) of - of RAM... okay?
+Absolutely. Thank you for that wonderful introduction to Dask and and the schedulers in particular and we are going to see that with Dask in action. I'll just note that this tab in which I launched the binder, is up and running - if you're going to execute code here, click on *notebooks*, click on *data umbrella* and then go to the *overview* notebook and you can drag around (drags one of the three dashboards displayed). We'll see the utility of these - these dashboards in a second but you can, you know drag your stuff around to - to make - you know, however you want to - want to structure it and then you can execute code in here. I'm not going to do that,  I'm going to do this locally at the moment (opens notebook at `localhost`); but just to see Dask in action to begin with, I'm going to - I'm actually going to restart kernel and clear my outputs - so I'm going to import from Dask distributed, the client, the - sorry the other thing I wanted to mention is we made a decision around content for this. We do have a notebook that we - we love to teach on schedulers but we decided to switch it out for machine learning for this workshop in particular; we are teaching a similar although distinct workshop at PyData Global so we may see some of you there in which we'll be going more in depth into schedulers as well, so if you want to check that out definitely do so. We instantiate the client which as James mentioned is kind of what we work with as the user to submit our code. So that will take - take a few seconds... okay it's got a port in use so it's going - going elsewhere. What I'll just first get you to notice is that it tells us where our dashboard is - and we'll see those tools in a second - tells us about our cluster that we have four workers, eight cores, between eight and nine gigs(gigabytes) of - of RAM... okay?
 
 Now this is something I really love about Dask, all the diagnostic tools - if I click on the little Dask thing here (clicks on the Dask icon in the leftmost panel) and (navigates to the binder) we've modified the binder so that - that exists there as well. We can see (clicks on the Dask icon) - i'll hit search (clicks on search icon within the pop-up menu from the Dask icon) and it should - (search result displays the same port as the port that is the output from the scheduler on the notebook) that now corresponds to the - the scheduler. Now i want to look at the task stream (clicks on the `TASK STREAM` button within the pop-up menu from the Dask icon, placing the Dask Task Stream dashboard to the right) which will tell us in real time what's happening; i also want to look at the (clicks on the `CLUSTER MAP` button within the pop-up menu from the Dask icon, placing the Dask Cluster Map dashboard just below the Dask Task Stream dashboard that is positioned to the right) cluster map. So we see here - this is already really cool - we've got all of our workers around here (moves cursor around a small dashboard below the Dask icon pop-up menu) and our scheduler - scheduler there and when we start doing some compute we'll actually see information flowing between these... and the other thing maybe... I'll yeah... I'll include a little progress (clicks on the `PROGRESS` button within the pop-up menu from the Dask icon, placing the Dask Progress dashboard to the right of the Dask Cluster Map dashboard) and that can be an alternate tab to... ask... I'm wondering perhaps I also want to include something about the workers (clicks on the `WORKERS` button within the pop-up menu from the Dask icon, placing the Dask Workers dashboard between the Dask Cluster Map and the Dask Progress dashboards).
 
@@ -267,146 +267,34 @@ Now this is something that we talk about a lot in the *delayed* notebook is real
 
 **Hugo:**
 
-So now i want to show you some computations with Dask dataframes, okay? So since Dask dataframes implement a Pandas-like API, we can just write our familiar Pandas codes. So, I want to look at the column,(highlights a code ceell containing `max_delay`) departure delay and look at the maximum of that column; I'm going to call that `max_delay`. So you can see we're selecting the column and then applying the max method as we would (runs code cell) with Pandas. Oh what happened there? Gives us some Dask scalar series... and what's happened is we haven't called compute, right? So it hasn't actually done the compute yet. We're going to do compute but first we're going to visualize the task graph like we did here (highlights a previous code cell) and let's try to reason what the task graph would look like, right? So the task graph first is going to read in all of these things, and then it'll probably perform this selector on each of these different pandas data frames comprising the Dask dataframe, and then it will compute the max of each of those and then do a max on all those maxes, I think (runs current code cell) - that's what I would assume is happening here... great. So that's what we're - what we're doing we're reading this; so we read the first - perform the first *read-csv* get this Dask dataframe, *getitem* i think is that selection, then we're taking the *max* - we're doing the same for all of them, then we take all of these *max*s and aggregate them and then take the max of that, okay? So that - that's essentially what's happening when I call compute (highlights a code cell containing `%time max_delay.compute()`) which i'm going to do now (runs code cell). Moment of truth... okay! So that took around eight seconds and it tells us the max and I-I'm sorry? let's let's just get
+So now i want to show you some computations with Dask dataframes, okay? So since Dask dataframes implement a Pandas-like API, we can just write our familiar Pandas codes. So, I want to look at the column,(highlights a code ceell containing `max_delay`) departure delay and look at the maximum of that column; I'm going to call that `max_delay`. So you can see we're selecting the column and then applying the max method as we would (runs code cell) with Pandas. Oh what happened there? Gives us some Dask scalar series... and what's happened is we haven't called compute, right? So it hasn't actually done the compute yet. We're going to do compute but first we're going to visualize the task graph like we did here (highlights a previous code cell) and let's try to reason what the task graph would look like, right? So the task graph first is going to read in all of these things, and then it'll probably perform this selector on each of these different pandas data frames comprising the Dask dataframe, and then it will compute the max of each of those and then do a max on all those maxes, I think (runs current code cell) - that's what I would assume is happening here... great. So that's what we're - what we're doing we're reading this; so we read the first - perform the first *read-csv* get this Dask dataframe, *getitem* i think is that selection, then we're taking the *max* - we're doing the same for all of them, then we take all of these *max*s and aggregate them and then take the max of that, okay? So that - that's essentially what's happening when I call compute (highlights a code cell containing `%time max_delay.compute()`) which i'm going to do now (runs code cell). Moment of truth... okay! So that took around eight seconds and it tells us the max and I-I'm sorry? (Clicks on the Dask icon) Let's - let's just get out some of our dashboards up as well... (scrolls up the notebook)
 
-out some of our dashboards up
-as well um
-huh i think in this notebook we are
-using the single machine scheduler hugo
-so i don't think there is a dashboard to
-be seen exactly
-yeah thank you for that that that catch
-james um
-great um is even better
-um uh james we have a question around
-using dark for
-um reinforcement learning can you
-can you speak to that um yeah so
-uh it depends on this i mean yeah short
-answer
-yes you can use gas to train
-reinforcement learning models
-um so there's a package that hugo will
-talk about called desk ml that we'll see
-in the next notebook uh for distributing
-machine learning
-um that paralyzes and and distributes
-um some existing models uh using desks
-so for instance things like
-random forces forest inside kit learn
-um so so yes you can use das to uh
-uh do distributed training for models
-i'm not actually sure if gaskml
-implements
-any reinforcement learning models in
-particular
-um but that is certainly something that
-that can be done
-yeah and i'll i'll build on that by
-saying we are about to jump into machine
-learning
-um i don't think as james said i don't
-think
-there's reinforcement learning um
-explicitly that
-that one can do um but um you of course
-can use the das
-scheduler yourself to um you know to
-distribute any reinforcement learning
-stuff
-you you have as well and that's actually
-another another point to make that maybe
-james can speak to a bit more is that um
-the dark team of course built all of
-these high-level collections and task
-arrays and
-dust data frames and were pleasantly
-surprised when
-you know maybe even up to half the
-people using dust came in all like we
-love all that but we're going to use
-the scheduler for our own bespoke use
-cases right
-yeah exactly yeah the original intention
-was to like make basically a num
-like a parallel numpy so that was like
-the desk array stuff like run
-run numpy and parallel on your laptop um
-and and yeah so in order to do that we
-ended up
-building a distributed scheduler um
-which sort of does
-arbitrary task uh computations so
-not just things like uh you know
-parallel numpy but
-really whatever you'd like to throw at
-it and uh it turns out that ended up
-being really
-useful for people um and so yeah now
-people use that
-um sort of on their own uh just using
-the distributed scheduler to do
-totally custom algorithms um in parallel
-um
-in addition to these like nice
-collections like you saw hugo presents
-the dash data frame um api is you know
-the same as the panda's api so there is
-this like familiar space you can use
-things
-like the high-level collections but you
-can also run
-uh whatever custom like hugo said
-bespoke computations
-you might have exactly and it's it's
-been wonderful to see
-so many people so many people do that
-and the first thing
-as we'll see here the first thing to
-think about is if
-if you're doing lifestyle compute if
-there's anything you can you know
-parallelize embarrassingly as they say
-right so just
-if you're doing a hyper parameter search
-you just
-run some on one worker and some on
-the other and there there's no
-interaction effect so you don't need to
-worry about that as opposed to
-if you're trying to do um
-you know train on streaming data where
-you may require it all
-to happen on on on the same worker okay
-um yeah so even think about trying to
-compute the standard deviation of a
-of a a univariate data set right um
-in in that case um you can't just send
-you can't just compute the standard
-deviation on two workers and then
-combine the result in some some way you
-need to do something slightly slightly
-more nuanced and slightly
-slightly clever more clever um i mean
-you still can actually in
-in that case but you can't just do it as
-naively as that
-um but so now we're talking about
-parallel and distributed machine
-learning we have 20 minutes left so this
-is kind of going to be a whirlwind tour
-but um you know whirlwinds when safe uh
-exciting and informative um i just want
-to make clear the material in this
-notebook is based on the open source
-content from darsk's
-tutorial repository as there's a bunch
-of stuff we've shown you today
-the reason we've done that is because
-they did it so well so i just want to
-give a shout out to all the das
-contributors
-okay so what we're going to do now is um
+**James:**
+
+I think in this notebook we are using the single machine scheduler, Hugo. So i don't think there is a dashboard to be seen.
+
+**Hugo:**
+
+Exactly. Yeah thank you for that - that - that catch, James... great. It's even better. James, we have a question around using Dask for reinforcement learning. Can you - can you speak to that?
+
+**James:**
+
+Yeah so it depends on... this - I mean yeah, short answer yes you can use Dask to train reinforcement learning models. So there's a package that Hugo will talk about called DaskML that we'll see in the next notebook, for distributing machine learning, that parallelizes and and distributes some existing models using Dask. So for instance things like random forces - forest inside scikit learn... so - so yes you can use Dask to do distributed training for models. I'm not actually sure if DaskML implements any reinforcement learning models in particular, but that is certainly something that - that can be done.
+
+**Hugo:**
+
+Yeah and I'll - I'll build on that by saying we are about to jump into machine learning... I don't think - as James said I don't think there's reinforcement learning, explicitly, that - that one can do, but you of course can use the Dask scheduler yourself to, you know, to distribute any reinforcement learning stuff you - you have as well... and that's actually another - another point to make, that maybe James can speak to a bit more. It's that the Dask team of course built all of these high-level collections and Dask arrays and Dask dataframes and were pleasantly surprised when you know, maybe even up to half the people using Dask came in all like, we love all that but we're going to use the scheduler for our own bespoke use cases, right?
+
+**James:**
+
+Yeah, exactly. Yeah... the original intention was to like make basically a numpy - like a parallel numpy, so that was like the Dask array stuff like run - run numpy in parallel on your laptop... and - and yeah. So in order to do that we ended up building a distributed scheduler which sort of does arbitrary Dask computations; so not just things like, you know, parallel numpy, but really whatever you'd like to throw at it and it turns out that ended up being really useful for people... and so yeah, now people use that sort of on their own, just using the distributed scheduler to do totally custom algorithms (Hugo opens the machine learning notebook at `localhost`) in parallel. In addition to these like nice collections, like you saw, Hugo presents the Dask dataframe API - is, you know, the same as the Pandas API... so there is this like familiar space you can use things, like the high-level collections, but you can also run whatever custom - like Hugo said, bespoke computations - you might have.
+
+**Hugo:**
+
+Exactly, and it's - it's been wonderful to see so many people - so many people do that and the first thing, as we'll see here, the first thing to think about is if - if you're doing lifestyle compute, if there's anything you can, you know, parallelize embarrassingly, as they say, right? So just - if you're doing a hyperparameter search, you just run some on one worker and some on the other, and there there's no interaction effect; so you don't need to worry about that as opposed to, if you're trying to do - you know, train on streaming data where you may require it all to happen on on on the same worker, okay? Yeah so even think about trying to compute the standard deviation of a - of a-a univariate data set, right? In - in that case um you can't just send - you can't just compute the standard deviation on two workers and then combine the result in some - some way; you need to do something slightly - slightly more nuanced and slightly - slightly clever - more clever, I mean you still can actually in - in that case, but you can't just do it as naively as that... but - so, now we're talking about parallel and distributed machine learning, we have 20 minutes left so this is kind of going to be a whirlwind tour, but... you know, whirlwinds when safe, exciting and informative. I just want to make clear, the material in this notebook is based on the open source content from Dask's tutorial repository as there's a bunch of stuff we've shown you today. The reason we've done that is because they did it so well, so i just want to give a shout out to all the Dask contributors, okay?
+
+
+so what we're going to do now is um
 just break down machine learning scaling
 problems into two categories
 just review a bit of psychic learn in
