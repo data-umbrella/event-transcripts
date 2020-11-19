@@ -337,49 +337,9 @@ If you dive into this a bit more, you'll recognize that if we - we really want t
 
 Just think about this; if - if you've got binary classification task and you've got 40% accuracy then you just flip the labels and that changes to 60% accuracy, so it's amazing that we've actually hit 50% accuracy, we're to be congratulated on that... and what I want to note here is that we have two sets of hyperparameters we've used; one's created 90% accu- model with 90% accuracy, another one - one with 50% accuracy. So we want to find the best hyperparameters essentially and that's why hyperparameter optimization is - is so important. There are several ways to do hyperparameter optimization; one is called Grid Search Cross Validation - I won't talk about cross validation - it's essentially a more robust analogue of Train/Test Split where you train on a subset of your data and compute the accuracy on a test - on a holdout set or a test set. Cross validation is, a-as I said, a slightly more robust analog of this. It's called Grid Search because we have a grid of hyper parameters.
 
-so
-we have you know in this case we have a
-hyper parameter c we have a hyper
-parameter kernel
-and we can imagine them in a in a grid
-and we're performing
-um we're checking out um the score
-over all this gr over this entire grid
-of hyper parameters okay
-so to do that um i import grid search
-csv
-now i'm going to um
-compute um the estimator over
-over these train the estimator over over
-this grid um
-and as you see this is taking time now
-okay
-um and what i wanted to make clear and i
-think should be becoming
-clearer now is that if we have a large
-hyper parameter
-uh sweep we want to do on a small data
-set das can be useful for that
-okay because we can send some of the
-parameters to
-one worker some to another and they can
-perform them um in parallel so that's
-embarrassingly parallel because
-you're you're doing the same work as you
-would otherwise
-um but sending it to a bunch of
-different workers we saw that took 30
-seconds which is in my realm of
-comfort as a data scientist i'm happy to
-wait 30 seconds
-um if i had to wait much longer if this
-grid was bigger
-i'd start to get probably a bit
-frustrated um
-but we see that it computed um
-it for c is equal to all combinations of
-these
-essentially okay um so that's really all
+So we have - you know, in this case we have (highlights a code cell containing `grid_search.fit(X, y)`) a hyperparameter `'C'` we have a hyperparameter `'kernel'` and we can imagine them in a - in a grid, and we're performing... we're checking out the score over all this gr- over this entire grid of hyperparameters, okay? So to do that (highlights a code cell containing `from sklearn.model_selection import GridSearchCV`) I import GridSearch (runs this code cell) csv... now, I'm going to compute the estimator (runs the code cell containing `grid_search.fit(X, y)`) over - over these; train the estimator over - over this grid, and as you see this is taking time now, okay?... and what I wanted to make clear - and I think should be becoming clearer now - is that if we have a large hyperparameter sweep we want to do on a small dataset Dask can be useful for that, okay?... because we can send some of the parameters to one worker, some to another and they can perform them in parallel. So that's embarrassingly parallel because you're - you're doing the same work as you would otherwise, but sending it to a bunch of different workers. We saw that took 30 seconds which is in my realm of comfort as a data scientist; I'm happy to wait 30 seconds... if I had to wait much longer - if this grid was bigger - I'd start to get probably a bit frustrated... but we see that it computed it for C is equal to all combinations of these essentially, okay?
+
+um so that's really all
 i wanted to say there um and then we can
 see the best parameters
 and the best score so the best score was
