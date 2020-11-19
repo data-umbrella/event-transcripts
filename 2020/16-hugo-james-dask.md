@@ -279,7 +279,7 @@ Exactly. Yeah thank you for that - that - that catch, James... great. It's even 
 
 **James:**
 
-Yeah so it depends on... this - I mean yeah, short answer yes you can use Dask to train reinforcement learning models. So there's a package that Hugo will talk about called DaskML that we'll see in the next notebook, for distributing machine learning, that parallelizes and and distributes some existing models using Dask. So for instance things like random forces - forest inside scikit learn... so - so yes you can use Dask to do distributed training for models. I'm not actually sure if DaskML implements any reinforcement learning models in particular, but that is certainly something that - that can be done.
+Yeah so it depends on... this - I mean yeah, short answer yes you can use Dask to train reinforcement learning models. So there's a package that Hugo will talk about called Dask-ML that we'll see in the next notebook, for distributing machine learning, that parallelizes and and distributes some existing models using Dask. So for instance things like random forces - forest inside scikit learn... so - so yes you can use Dask to do distributed training for models. I'm not actually sure if Dask-ML implements any reinforcement learning models in particular, but that is certainly something that - that can be done.
 
 **Hugo:**
 
@@ -293,6 +293,13 @@ Yeah, exactly. Yeah... the original intention was to like make basically a numpy
 
 Exactly, and it's - it's been wonderful to see so many people - so many people do that and the first thing, as we'll see here, the first thing to think about is if - if you're doing lifestyle compute, if there's anything you can, you know, parallelize embarrassingly, as they say, right? So just - if you're doing a hyperparameter search, you just run some on one worker and some on the other, and there there's no interaction effect; so you don't need to worry about that as opposed to, if you're trying to do - you know, train on streaming data where you may require it all to happen on on on the same worker, okay? Yeah so even think about trying to compute the standard deviation of a - of a-a univariate data set, right? In - in that case um you can't just send - you can't just compute the standard deviation on two workers and then combine the result in some - some way; you need to do something slightly - slightly more nuanced and slightly - slightly clever - more clever, I mean you still can actually in - in that case, but you can't just do it as naively as that... but - so, now we're talking about parallel and distributed machine learning, we have 20 minutes left so this is kind of going to be a whirlwind tour, but... you know, whirlwinds when safe, exciting and informative. I just want to make clear, the material in this notebook is based on the open source content from Dask's tutorial repository as there's a bunch of stuff we've shown you today. The reason we've done that is because they did it so well, so i just want to give a shout out to all the Dask contributors, okay?
 
+### Parallel and Distributed Machine Learning (<a href='https://youtu.be/MHAjCcBfT_A?t=2834'>47:14</a>)
+
+<a href="https://youtu.be/MHAjCcBfT_A?t=2834">
+  <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t47.11.JPG"
+       alt="Parallel and Distributed Machine Learning" width="50%" /></a>
+
+**Hugo:**
 
 so what we're going to do now is um
 just break down machine learning scaling
