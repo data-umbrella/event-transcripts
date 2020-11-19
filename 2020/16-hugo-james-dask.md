@@ -363,89 +363,13 @@ Link in the chat -
 
 **Hugo:**
 
-Fantastic... and (highlights a code cell containing `grid_search.best_params_, grid_search.best_score_`) so we've - (runs code cell) we've seen how we have single machine parallelism here using the - using the `n_jobs` `kwarg` and in the final minutes let's see multiple, multi-machine parallelism with Dask, okay? So what I'm going to do is (highlights code cell containing `import joblib` `import dask.distributed`) I'm going to do my imports (run code cell) and create my client, instantiating my client and check it out, okay? So once again I'm working locally
+Fantastic... and (highlights a code cell containing `grid_search.best_params_, grid_search.best_score_`) so we've - (runs code cell) we've seen how we have single machine parallelism here using the - using the `n_jobs` `kwarg` and in the final minutes let's see multiple, multi-machine parallelism with Dask, okay? So what I'm going to do is (highlights code cell containing `import joblib` `import dask.distributed`) I'm going to do my imports (run code cell) and create my client, instantiating my client and check it out, okay? So once again I'm working locally (clicks on the Dask icon)... I hit search (clicks on search icon within the pop-up menu from the Dask icon then clicks on `TASK STREAM` as before) and that'll... (positions the Task Stream dashboard to the right of the notebook) Dask is pretty smart in terms of like knowing which - which client I want to check out... do the task stream because it's my favorite, I'll do the (clicks on `CLUSTER MAP` as before) cluster map otherwise known as the pew! pew! map (positions the Dask Cluster Map dashboard below the Task Stream one) and then I want some progress (clicks on `PROGRESS` as before, positioning its dasboard beside the Dask Cluster Map one) we all - we all crave progress, don't we?... and maybe (clicks on `WORKERS` as before, positioning its dasboard beside the Dask Progress one) my workers tab, okay... great!
 
-um i hit search and that'll
-task is pretty smart in terms of like
-knowing uh which which client i want to
-check out
-do the tasks stream
-because it's my favorite i'll do the
-cluster map otherwise known as the pew
-pew map
-um and then
-i want some progress we all we all crave
-progress don't we um
-and
-maybe my workers tab okay great so um
-we've got that up and running now i'm
-going to do a slightly uh
-larger hyper parameter search okay um
-so remember we had just a couple for c
-a couple for kernel um we're going to do
-more we have some for shrinking now i'm
-actually
-going to comment that out because i
-don't know how long that's going to take
-um if you're coding them on binder now
-this may actually take
-far far too long for you um but we'll
-we'll see so i'll execute this code and
-we should see
-just sick no we shouldn't see any work
-happening yet um
-but what i'm doing here is
-oh looks like okay my clusters back up
-great
-we're doing our grid search but we're
-going to use um
-dask as as the back end right and this
-is a context manager where we're
-asserting that um
-and and we can just discuss the the
-syntax there but it's not particularly
-important currently i'm going to execute
-this now
-and
-let's see
-fantastic we'll see all this um data
-transfer happening here we'll see our
-tasks
-um happening here we can see these big
-batches of fit and score
-fit um so fitting fitting the models
-then finding um
-how well they perform uh via this
-k-fold cross validation
-which is really cool
-and
-let's just yep we can see um
-what's happening here we can see we
-currently have 12 processing we've got
-seven in memory and we have um
-several more that we need to do uh our
-desk workers we can see
-us oh we can see our cpu usage
-we can see how we can see cpu usage
-across all the workers which is which is
-pretty cool seeing that distribution
-is uh is really nice whenever some form
-of b swarm
-plot if you have enough um would would
-be useful there
-or even um some form of cumulative
-distribution function or something like
-that
-um not a histogram people okay um you
-can go to my bayesian tutorial
-um that i've taught here before to hear
-me rave about um
-the the horrors of histograms um
-so we saw that talk a minute which is
-great and we split it across
-you know eight cores or whatever it is
-and now we'll have a look
-once again we get the same best
+So, we've got that up and running... now, I'm going to do a slightly (drags the horizontal tab for a code cell containing `# Uncomment this for larger grid searches on a cluster`) larger hyperparameter search, okay? So remember we had just a couple for `'C'`, a couple for `'kernel'`, - we're going to do more - we have some for shrinking... now I'm actually (comments out `'shrinking': [True, False],`) going to comment that out because I don't know how long that's going to take; if you're coding them on Binder now, this may actually take far - far too long for you, but we'll - we'll see. So I'll (runs code cell) execute this code and we should see... just a sec - no we shouldn't see any work happening yet, but what I'm doing here is... oh! Looks like - okay, my clusters back up - great. We're doing our grid search but we're going to use Dask as - as the backend, right?... and this is a context manager where we're asserting that (highlights a code cell containing `grid_search.fit(X, y)`) and - and we can just discuss the - the syntax there but it's not particularly important currently. I'm going to execute (runs code cell) this now and let's see... fantastic.
+
+We'll see all this data transfer happening here, we'll see our tasks happening here, we can see these big batches of fit and score fit - so fitting - fitting the models then finding how well they perform via this *k-fold* cross validation which is really cool... and let's just... yep - we can see what's happening here. We can see we... currently have 12 processing - we've got seven in memory and we have several more that we need to do. Our Dask workers, we can see our c- oh! we can see our CPU usage, we can see how - we can see CPU usage across all the workers which is - which is pretty cool, seeing that distribution is, is really nice. Whenever some form of bee swarm plot - if you have enough - would - would be useful there, or even um some form of cumulative distribution function or something like that. Not a histogram, people! Okay, you can go to my bayesian tutorial that I've taught here before to hear me rave about the - the horrors of histograms.
+
+(Highlights a code cell containing `grid_search.best_params_, grid_search.best_score_`) So we saw that talk - a minute! Which is great and we split it across, you know eight cores or whatever it is, and now we'll have a look once again we get the same best
 performer which is which is a sanity
 check
 um and that's pretty cool
