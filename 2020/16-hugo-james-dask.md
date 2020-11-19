@@ -369,44 +369,15 @@ So, we've got that up and running... now, I'm going to do a slightly (drags the 
 
 We'll see all this data transfer happening here, we'll see our tasks happening here, we can see these big batches of fit and score fit - so fitting - fitting the models then finding how well they perform via this *k-fold* cross validation which is really cool... and let's just... yep - we can see what's happening here. We can see we... currently have 12 processing - we've got seven in memory and we have several more that we need to do. Our Dask workers, we can see our c- oh! we can see our CPU usage, we can see how - we can see CPU usage across all the workers which is - which is pretty cool, seeing that distribution is, is really nice. Whenever some form of bee swarm plot - if you have enough - would - would be useful there, or even um some form of cumulative distribution function or something like that. Not a histogram, people! Okay, you can go to my bayesian tutorial that I've taught here before to hear me rave about the - the horrors of histograms.
 
-(Highlights a code cell containing `grid_search.best_params_, grid_search.best_score_`) So we saw that talk - a minute! Which is great and we split it across, you know eight cores or whatever it is, and now we'll have a look once again we get the same best
-performer which is which is a sanity
-check
-um and that's pretty cool
-i think um we have a we actually have a
-few minutes left so i am gonna
-just see if i can um
-oh let me think
-yeah i will see if i can burst burst to
-the cloud and and
-and do this um that will take uh a
-minute
-a minute or two to create the cluster
-again um but while we're while we're
-doing that i'm wondering if we have any
-any questions um or if
-anyone has any feedback on on this
-workshop i very much welcome
-welcome that um perhaps if there are any
-final messages you'd
-you'd like to say james while we're
-spinning this up you can
-you can let me know yeah sure i just
-also first off wanted to say thanks
-everyone for attending and like bearing
-bearing with us uh with the technical
-difficulties really appreciate that
-um real quick i'm just yeah so if you
-have if you have questions please post
-in the q a section while the cold
-cluster's spinning up uh
-theodore posted in the last largest
-example of grid search
-how much performance gain did we get
-from using das and not just in jobs
-hmm that's a great question and we
-actually
-didn't see um let's see
+(Highlights a code cell containing `grid_search.best_params_, grid_search.best_score_`) So we saw that talk - a minute! Which is great and we split it across, you know eight cores or whatever it is, and now we'll have a look (runs code cell). Once again, we get the same best performer which is - which is a sanity check... and that's pretty cool. I think we have a- we actually have a few minutes left. So I am gonna just see if I can... oh, let me think... yeah (runs code cell), I will see if I can (highlights a code cell containing `import coiled`) burst - burst to the cloud and - and (runs code cell) - and do this. That will take a minute - a minute or two to create the cluster again, but while we're - while we're doing that, I'm wondering if we have any - any questions?... or if anyone has any feedback on - on this workshop? I very much welcome - welcome that; perhaps if there are any final messages you'd - you'd like to say James?... while we're spinning this up, you can - you can let me know?
+
+**James:**
+
+Yeah, sure! I just also first off wanted to say, thanks everyone for attending and like bearing - bearing with us, with the technical difficulties - really appreciate that. Real quick - I'm just - yeah so if you have - if you have questions please post in the Q&A section while the Coiled cluster's spinning up. Theodore posted, "In the last - largest example of grid search, how much performance gain did we get from using das and not just `n_jobs`?"
+
+**Hugo:**
+
+That's a great question and we actually didn't see... (scrolling up) let's see...
 so it took 80 seconds
 ah let me get this they're actually not
 comparable
