@@ -308,104 +308,11 @@ So as I mentioned before, when thinking about distributed compute, a lot of peop
 <img src="https://github.com/CeeThinwa/event-transcripts/blob/patch-1/images/v16/v16t48.24.JPG"
 alt="Scaling Problems Visualization" width="25%" />
 
-7f you've got a small model that fits in RAM, you don't need to think about distributed compute; if your data size - if your data is larger than your RAM, so your computer's RAM-bound, then you want to start going to a distributed setting or if your model is big and CPU-bound such as like large-scale hyper-parameter searches or like ensemble blended models of like machine learning algorithms... whatever it is and then of course we have the you know big data - big model limit where distributed compute in Dask is incredibly handy, as I'm sure you could imagine, okay?... and that's really what i've - what i've gone through here. A bird's-eye view of the strategies we think about... if it's in memory in the bottom left quadrant just use Scikit-Learn or your favorite ml library, otherwise known as Scikit-Learn - for me anyway. I was going to make a note about XG Boost but I - but I won't. For large models, you can use Joblib and your favorite Scikit-Learn estimator; for large datasets uh use our Dask-ML estimators so we're gonna do a whirlwind tour of Scikit-Learn in - in five minutes we're going to load in
-some data so we'll actually generate it
-we'll import scikit-learn for our ml
-algorithm create an estimator
-and then check the accuracy of the model
-okay so once again i'm actually going to
-clear all outputs after restarting the
-kernel
-okay so this is a utility function of
-psychic learn to create some data sets
-so i'm going to make um
-a classification data set with four
-features and 10 000 samples and just
-have a quick view
-um of some of it um
-so just a reminder on ml
-um x is the samples matrix um the size
-of x
-is um the number of samples
-uh in terms of rows number of features
-as columns
-um and then a feature or an attribute
-is uh what we're trying to predict
-essentially okay um so why um
-is the predictor variable uh which we're
-where
-um which we're or the target variable
-which we're trying to predict so let's
-have a quick view
-of why it's zeros and ones in in this
-case
-okay so um yep that's what i've said
-here
-why are the targets which are real
-numbers for regression tasks or integers
-for classification
-or any other discrete sets of values um
-no words about unsupervised learning at
-the moment we're just going to support
-we're going to
-fit a support vector classifier for this
-example
-so let's just load the appropriate
-scikit-learn
-module we don't really need to discuss
-what
-support vector classifiers are at the
-moment now this is one of the
-very beautiful things about the
-scikit-learn api
-in terms of fitting the the model
-we instantiate um a classifier and we
-want to fit it
-to the features with respect to the
-target okay so the first argument is the
-features second argument
-is the target variable
-so we've done that now i'm not going to
-worry about inspecting the learn
-features um i just want to see how
-accurate it was okay and once we see how
-accurate it was i'm not gonna do this
-but then we can um make a prediction
-right
-using uh estimator dot predict on a new
-a new data set
-um so this estimator will tell us
-so this score will tell us the accuracy
-and essentially
-that's the proportion or percentage
-a fraction of um
-the uh results that were that the
-estimator got correct and we're doing
-this on the training
-data set we've just trained the model on
-this so this is telling us
-um the accuracy on the on the training
-data set okay so it's 90
-accurate on the training data set if you
-dive into this a bit more you'll
-recognize that
-um if we we really want to know the
-accuracy
-on a holdout set or a test set
-um and it should be probably a bit lower
-because this is what we use to fit it
-okay
-but all that having been said i expect
-um you know
-if if this is all resonating with you it
-means we can really move on to the
-distributed stuff um um in in a second
-um but the other thing that that's
-important to note is that we've trained
-it but
-a lot of model a lot of estimators and
-models have um hyper parameters that
-affect the fit but you
+If you've got a small model that fits in RAM, you don't need to think about distributed compute; if your data size - if your data is larger than your RAM, so your computer's RAM-bound, then you want to start going to a distributed setting or if your model is big and CPU-bound such as like large-scale hyper-parameter searches or like ensemble blended models of like machine learning algorithms... whatever it is and then of course we have the you know big data - big model limit where distributed compute in Dask is incredibly handy, as I'm sure you could imagine, okay?... and that's really what i've - what i've gone through here. A bird's-eye view of the strategies we think about... if it's in memory in the bottom left quadrant just use Scikit-Learn or your favorite ml library, otherwise known as Scikit-Learn - for me anyway. I was going to make a note about XG Boost but I - but I won't. For large models, you can use Joblib and your favorite Scikit-Learn estimator; for large datasets uh use our Dask-ML estimators so we're gonna do a whirlwind tour of Scikit-Learn in - in five minutes.
+
+We're going to load in some data so we'll actually generate it, we'll import Scikit-Learn for our ml algorithm, create an estimator, and then check the accuracy of the model, okay? So once again I'm actually going to (selects Kernel from the Jupyter Notebook menu, then clicks on *Restart Kernel and Clear All Outputs*) clear all outputs after (Clicks *Restart* on the confirmation box) restarting the kernel... okay. So this is a utility function of Scikit-Learn to create some data sets (highlights a code cell containing `from sklearn.datasets import make_classification`), so I'm going to make a classification data set with four features and 10,000 samples (runs code cell) and just have a quick view, of some of it - so just a reminder on ml, `X` is the samples matrix um the size of `X` is the number of samples in terms of rows, number of features as columns, and then a feature or an attribute is what we're trying to predict essentially, okay? So `y` is the predictor variable which we're, we're - which we're... or the target variable which we're trying to predict. (Highlights and runs a code cell containing `y[:8]`) So let's have a quick view of `y` - it's zeros and ones in in this case, okay? So, yep that's what i've said here; `y` are the targets, which are real numbers for regression tasks or integers for classification or any other discrete sets of values. No words about unsupervised learning at the moment; we're just going to support - we're going to fit a support vector classifier for this example. (Highlights a code cell containing `from sklearn.svm import SVC`) So let's just load the appropriate Scikit-Learn module (runs code cell); we don't really need to discuss what support vector classifiers are at the moment. Now, this is one of the very beautiful things about the Scikit-Learn API in terms of fitting the the model; we instantiate a classifier and we want to fit it to the features with respect to the target, okay? So the first argument is the features, second argument (highlights a code cell containing `estimator.fit(X, y)`) is the target (runs code cell) variable.
+
+So we've done that; now I'm not going to worry about inspecting the learned features, I just want to see how accurate it was, okay?... and once we see how accurate it was - I'm not gonna do this - but then we can make a prediction, right?... using `estimator.predict` on a new - a new dataset. So this (highlights a a code cell containing `estimator.score(X, y)`) estimator will tell us - so this score will tell us the accuracy and essentially that's the proportion or percentage or fraction of the results that were - that the estimator got correct, and we're doing this on the training dataset; we've just trained the model on this so this is telling us (runs code cell) the accuracy on the - on the training dataset, okay? So it's 90% accurate on the training dataset. If you dive into this a bit more, you'll recognize that if we - we really want to know the accuracy on a holdout set or a test set - and it should be probably a bit lower - because this is what we use to fit it, okay... but all that having been said I expect, you know, if - if this is all resonating with you it means we can really move on to the distributed stuff in - in a second... but the other thing that-that's important to note is that we've trained it but a lot of model- a lot of estimators and models have hyperparameters that affect the fit but you
 that we need to specify up front um
 instead of being learned during training
 so
