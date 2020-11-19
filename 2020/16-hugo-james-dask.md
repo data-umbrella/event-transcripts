@@ -351,77 +351,20 @@ Okay, so what we've done is we've really segmented ML scaling problems into two 
 
 **Hugo:**
 
-so we then carried out a typical
-sklearn workflow for ml problems
-um with small models and small data and
-we reviewed hyper parameters and hyper
-parameter
-optimization um so in this section
-um we'll see how job lib which is a set
-of tools to provide lightweight
-pipelining
-um in python uh gives us parallelism on
-our laptop and then we'll see how dark
-ml can give us um awesome parallelism
-uh on on clusters okay so essentially
-um what i'm doing here is i'm doing
-exactly the same as above
-with a grid search but i'm using the
-quark the keyword argument n
-jobs which tells you how many tasks uh
-to run in parallel
-using the cause available on your local
-workstation and specifying minus one
-jobs
-means the it just runs them the maximum
-possible
-okay so i'm going to execute that
-great
-so we should be done in a second feel
-free to ask um any questions
-in the chat oh alex
-um has a great question in the q a does
-das have
-uh see a sequel and query optimizer
-um i'm actually so excited that um
-[Music]
-and james maybe you can provide a couple
-of links to this um
-we're really excited to have seen dark
-dust sql um
-developments there uh recently um
-so that's dark hyphen hyphen sql um
-and we're actually we're working on some
-some content and a blog post and maybe a
-live live coding session
-about that in in the near future um so
-if anyone if you want updates from from
-coyle feel free to go to our website and
-sign up for our mailing list
-and we'll let you know about all of this
-type of stuff but the short answer is
-yes alex and it's getting better and um
-if james is able to post post a link
-there that would be that would be
-fantastic
-um so we've done link in the chat
-fantastic um
-[Music]
-and so we've we've seen how
-we have um
-[Music]
-single machine parallelism here um using
-the
-um using the end jobs quark um and in
-the final minutes
-let's see multiple multi-machine
-parallelism
-with dusk okay um so
-what i'm going to do is i'm going to
-uh do my imports and create my
-client incentive my client and check it
-out
-okay so once again i'm working locally
+So we then carried out a typical `sklearn` workflow for ML problems with small models and small data and we reviewed hyperparameters and hyperparameter optimization, so in this section we'll see how Joblib - which is a set of tools to provide lightweight pipelining in Python - gives us parallelism on our laptop and then we'll see how Dask-ML can give us awesome parallelism on - on clusters, okay? So essentially, what I'm doing here (highlights code cell containing `grid_search.fit(X, y)`) is I'm doing exactly the same as above with a grid search but I'm using the `kwarg` - the keyword argument - `n_jobs` which tells you how many tasks to run in parallel using the cores available on your local workstation and specifying `-1` jobs means the- it just runs them - the maximum possible, okay? So (runs code cell) I'm going to execute that... great... so we should be done in a second, feel free to ask any questions in the... chat...
+
+Oh, Alex has a great question in the Q&A, does Dask have a SQL and query optimizer... I'm actually so excited that - and James, maybe you can provide a couple of links to this - we're really excited to have seen Dask, Dask-SQL developments there uh recently, so that's Dask hyphen - hyphen SQL and we're actually - we're working on some - some content and a blog post and maybe a live - live coding session about that in in the near future. So, if anyone - if you want updates from - from Coiled feel free to go to our website and sign up for our mailing list and we'll let you know about all of this type of stuff... but the short answer is, yes Alex and it's getting better, and if James is able to post - post a link there that would be that would be fantastic.
+
+So we've done... 
+
+**James:**
+
+Link in the chat -
+
+**Hugo:**
+
+Fantastic... and (highlights a code cell containing `grid_search.best_params_, grid_search.best_score_`) so we've - (runs code cell) we've seen how we have single machine parallelism here using the - using the `n_jobs` `kwarg` and in the final minutes let's see multiple, multi-machine parallelism with Dask, okay? So what I'm going to do is (highlights code cell containing `import joblib` `import dask.distributed`) I'm going to do my imports (run code cell) and create my client, instantiating my client and check it out, okay? So once again I'm working locally
+
 um i hit search and that'll
 task is pretty smart in terms of like
 knowing uh which which client i want to
