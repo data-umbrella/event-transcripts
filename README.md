@@ -21,7 +21,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 05 | Andreas Mueller     | [Crash Course in Contributing to Scikit-learn](2020/05-andreas-mueller-contributing.md) || Reshama  | Complete |
 | 06 | Reshama Shaikh      | [Example PR for Scikit-learn](2020/06-reshama-shaikh-sklearn-pr.md)    |           | Reshama / Mark  | Complete |
 | 07 | Shailvi Wakhlu      |  [Fixing Bad Data and Using SQL](2020/07-shailvi-wakhlu-fixing-data.md)|                        |  Juanita            |  Complete    |
-| 08 | Matt Brems          |   [Data Science with Missing Data](2020/08-matt-brems-missing-data.md) |                        |  Barbara            |        |
+| 08 | Matt Brems          |   [Data Science with Missing Data](2020/08-matt-brems-missing-data.md) |                        |  Barbara            |    Complete    |
 | 09 | Sam Bail            | [Intro to Terminal](2020/09-sam-bail-terminal.md)                      |                        |  Isaack    |  Complete      |
 | 10 | Emily Robinson      |  [Build a Career in Data Science](2020/10-emily-robinson-career.md)    |                        |  Kevin       | Complete       |
 | 11 | Rebecca Kelly       |  [kdb Time Series Data](2020/11-rebecca-kelly-kdb.md)                  |                        |  Coretta   |   Needs reviewer (paragraphs are too long)       |
