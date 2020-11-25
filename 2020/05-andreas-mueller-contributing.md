@@ -52,7 +52,7 @@ So I give the command here which is `conda create -n` and I gave it a name for t
 
 ```bash
 conda create -n sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
-source actviate sklearndev
+source activate sklearndev
 conda install -c conda-forge sphinx-gallery
 ```
 Then, if you want to work on documentation, you also need to install the sphinx-gallery package.  This is not on main conda so you need to install it from the conda-forge channel using `conda install -c conda-forge sphinx-gallery`.
@@ -80,7 +80,7 @@ Alright, so now you have your local copy of the scikit-learn development version
 
 #### Windows (8:14)
 If you're on Windows to install it, you will need a C++ compiler so you need to install the Visual Studio toolkit. And if you try to
-do a pip install - e dot, it'll probably give you an error message.  The error message will tell you exactly what to download and where.  For OS Access Linux, you'll have compiler probably already installed so you don't need to worry about that.  So then you have your build installation, your fresh installation from the development branch of scikit-learn.
+do a `pip install - e . `, it'll probably give you an error message.  The error message will tell you exactly what to download and where.  For OS Access Linux, you'll have compiler probably already installed so you don't need to worry about that.  So then you have your build installation, your fresh installation from the development branch of scikit-learn.
 
 ### Slide 9: Starting on Issues (8:50)
 <a href="https://youtu.be/5OL8XoMMOfA?t=530" target="_blank"><img  src="images/sklearn_s9.png" width="50%" /></a>
@@ -95,7 +95,7 @@ If you want to start from someone else's pull request, where they already starte
 ### Slide 10: Starting on Issues (9:59)
 <a href="https://youtu.be/5OL8XoMMOfA?t=600" target="_blank"><img  src="images/sklearn_s10.png" width="50%" /></a>
 
-So before you start coding, you want to create a new branch for your feature.  You can can do this by doing git checkout dash b (`git checkout -b <brachname>` ) and then a name for your branch.
+So before you start coding, you want to create a new branch for your feature.  You can can do this by doing git checkout dash b (`git checkout -b <branchname>` ) and then a name for your branch.
 
 You shouldn't work on your master branch.  You shouldn't make changes to your master branch.  You should always work on a feature branch. So for example if you want to improve the documentation for random forests, you might do get check out - b  random forests underscore docs or something like this (`git checkout -b randomforests_docs`).  This is mostly for you, but it's useful if it has like an understandable name.
 
