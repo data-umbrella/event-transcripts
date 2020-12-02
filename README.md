@@ -31,4 +31,9 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 15 | Emma Gouillart      |  [Data Visualization with Plotly](2020/15-emma-gouillart-plotly.md)              |                        |  ?       |        |
 | 16 | Hugo / James      |  [Data Science and Machine Learning at Scale](2020/16-hugo-james-dask.md)              |                        |  Cynthia       |    Complete    |
 | 17 | Carol Willing      |  [Contributing to Core Python](2020/17-carol-python.md)              |                        |  ?      |        |
+| 18 | Thomas Fan      |  [Streamlit for Data Science](2020/18-thomas-streamlit.md)              |                        |  ?      |        |
+| 19 | Matti Picus      |  [Contributing to NumPy](2020/19-matti-numpy.md)              |                        |  ?      |        |
 |    |                     |                                                          |                        |              |        |
+
+
+18-thomas-streamlit.md
