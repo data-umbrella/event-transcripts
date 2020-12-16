@@ -33,7 +33,8 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 17 | Carol Willing      |  [Contributing to Core Python](2020/17-carol-python.md)              |                        |  ?      |        |
 | 18 | Thomas Fan      |  [Streamlit for Data Science](2020/18-thomas-streamlit.md)              |                        |  ?      |        |
 | 19 | Matti Picus      |  [Contributing to NumPy](2020/19-matti-numpy.md)              |                        |  ?      |        |
-|    |                     |                                                          |                        |              |        |
+| 20 | Marco Gorelli    |  [Contributing to pandas](2020/20-marco-pandas.md)              |                        |  ?      |        |
+|    |                  |                                                          |                        |              |        |
 
 
 18-thomas-streamlit.md
