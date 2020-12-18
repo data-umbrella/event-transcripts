@@ -37,4 +37,3 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 |    |                  |                                                          |                        |              |        |
 
 
-18-thomas-streamlit.md
