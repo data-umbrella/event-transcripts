@@ -11,8 +11,10 @@
 
 ## Video
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5TCdoWemSXI" target="_blank"><img src="http://   .jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Pkg-DKkObKs" target="_blank"><img src="http://img.youtube.com/vi/5TCdoWemSXI/0.jpg" 
 alt="Thomas Fan: Using Streamlit for Data Science" width="50%" /></a>
+
+
 
 ## Transcript
 
