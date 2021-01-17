@@ -2,7 +2,7 @@
 
 ## Key Links
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/21-nick-command.md
-- Meetup Event:  https://www.meetup.com/data-umbrella/events/273988776/
+- Meetup Event:  https://www.meetup.com/data-umbrella/events/274778387/
 - Video:   https://youtu.be/y4fYxmE0HZM 
 - GitHub repo:  https://github.com/nickjj/nyhackr-cli-dev-env
 - Slides:  https://github.com/nickjj/nyhackr-cli-dev-env/blob/master/nyhackr-cli-dev-env.pdf
