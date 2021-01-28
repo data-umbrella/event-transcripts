@@ -36,6 +36,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 20 | Marco Gorelli    |  [Contributing to pandas](2020/20-marco-pandas.md)              |                        |  ?      |        |
 |    |                  |                                                          |                        |              |        |
 | 21 | Nick Janetakis   |  [Creating a Command Line Focused Development Environment](2021/21-nick-command.md)              |                        |  ?      |        |
+| 22 | Melissa Weber   |  [Intro to Sphinx for Python Documentation](2021/22-melissa-sphinx.md)              |                        |  ?      |        |
 |    |                  |                                                          |                        |              |        |
 
 
