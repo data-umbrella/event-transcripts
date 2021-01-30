@@ -1248,8 +1248,10 @@ uh send it back to you.
 question about GDB. Could you go over
 briefly ways to use GDB with numpy?
 So Brian are you using windows or linux?
-I can show you in linux I can't really
-show you in windows
+other
+other
+I can show you in Linux I can't really
+show you in Windows
 so did my
 uh my screen made itself
 smaller let me make this font bigger.
