@@ -16,12 +16,9 @@
 - https://numpydoc.readthedocs.io/en/latest/format.html#docstring-standard
 
 
-
-
-
 ## Video 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=y4fYxmE0HZM" target="_blank"><img src="http://img.youtube.com/vi/y4fYxmE0HZM/0.jpg" 
-alt="Nick Janetakis: Command Line Focused Development Environment" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tXWscUSYdBs" target="_blank"><img src="http://img.youtube.com/vi/tXWscUSYdBs/0.jpg" 
+alt="Melissa Weber: Sphinx for Python Documentation" width="50%" /></a>
 
 ## Transcript
