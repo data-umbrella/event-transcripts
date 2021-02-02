@@ -32,7 +32,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 16 | Hugo / James      |  [Data Science and Machine Learning at Scale](2020/16-hugo-james-dask.md)              |                        |  Cynthia       |    Complete    |
 | 17 | Carol Willing      |  [Contributing to Core Python](2020/17-carol-python.md)              |                        |  ?      |        |
 | 18 | Thomas Fan      |  [Streamlit for Data Science](2020/18-thomas-streamlit.md)              |                        |  ?      |        |
-| 19 | Matti Picus      |  [Contributing to NumPy](2020/19-matti-numpy.md)              |                        |  ?      |        |
+| 19 | Matti Picus      |  [Contributing to NumPy](2020/19-matti-numpy.md)              |                        |  Isaack      |        |
 | 20 | Marco Gorelli    |  [Contributing to pandas](2020/20-marco-pandas.md)              |                        |  ?      |        |
 |    |                  |                                                          |                        |              |        |
 | 21 | Nick Janetakis   |  [Creating a Command Line Focused Development Environment](2021/21-nick-command.md)              |                        |  ?      |        |
