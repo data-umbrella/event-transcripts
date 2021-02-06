@@ -22,6 +22,7 @@ alt="Matti Picus:Contributing to NumPy" width="50%" /></a>
 
 ## Transcript
 
+Introduction:
 Hello everybody,
 welcome to Data Umbrella's Webinar.
 so our processes usually, I do a
@@ -36,6 +37,8 @@ and will be available on youtube um
 usually within a couple of days but
 sometimes a week depending on
 how much editing has to be done.
+
+Intro(0:39)
 A quick introduction about myself, i'm
 the founder of Data Umbrella
 i'm a Statistician/ Data scientist by
@@ -127,6 +130,8 @@ setup Environment which is on January so,
 you know, there's more information on the
 Meetup group about these events and
 signing up for it.
+
+Handing over to Matti(4:01)
 Today's speaker is Matti Picus. I hope
 i'm pronouncing it that right.
 um Matti is an active computer
@@ -143,9 +148,11 @@ him on Github at mattip;
 and with that I will turn off my video
 and
 I will hand it the floor over to Matti.
+
+How to get involved in NumPy(4:42)
 Great uh okay here we go
 so my talk today is how to get involved
-in numpy
+in Numpy
 um as Reshama said my name is Matti Picus.
 This presentation is in the Jupyter
 Notebook
@@ -167,18 +174,20 @@ we'd like to talk to you today is to get
 help with
 to get you started with helping us with
 documentation,
-tutorials, code and devops. So numpy is
+tutorials, code and devops. So Numpy is
 much more than just the code itself.
 We have other ways you can contribute.
-So what are we going to do? First of all,
-don't panic the project itself is huge
+So what are we going to do?
+
+What we'll cover(5:47)
+First of all, don't panic. The project itself is huge
 it has lots of different corners
 and i'm gonna talk about some stuff and
 if it doesn't make sense,
 that's okay i'm gonna have a brief
-history of numpy.
+history of Numpy.
 When was it started? By whom and what? for
-what drives numpy? what are the goals and
+what drives Numpy? what are the goals and
 how do we decide on those goals?
 who are the who decides what happens in
 the community?
@@ -186,20 +195,22 @@ We're going to talk about communication
 channels and ways you can get in touch
 with us
 and the different repos there are in
-github and then we'll
+Github and then we'll
 demonstrate how to build and test numpy
 and then we'll take a look at
 some how to find issues and prs that
 contributors can work on
 and then at the end we'll take some
-questions if there's still time;
-but first me my name is Matti. As I said
+questions if there's still time.
+
+About Matti(6:40)
+But first me my name is Matti. As I said
 i'm a Quansight developer. Quansight is a
 company of about 80-90 developers working both in open source
 and for contracted work.
 I was previously employed by the
 Berkeley Institute of Data Science to
-work full-time on numpy
+work full-time on Numpy
 I did that for two years before i joined
 Quansight and i'll talk a bit more about
 that
@@ -230,8 +241,10 @@ I was lucky enough to have a very uh
 smooth
 course in my life not everybody else
 does and i'd like to help others
-move on and become able to contribute to society tech and
+move on and become able to contribute to society, tech and
 open source in particular.
+
+History of Numpy(8:11)
 Okay so back to the talk about Numpy.
 Numpy, as you can see here in 2006
 uh it was started by Travis Oliphant. It
@@ -249,7 +262,7 @@ as well. As time went, on the Numpy API
 and the Numpy way of looking at
 a chunk of memory and dividing it up
 into
-items became very popula,r was adopted by
+items became very popular was adopted by
 the deep learning
 frameworks by a library called CuPy,
 which allows you to
@@ -294,6 +307,8 @@ Now, we'll talk about
 what actually is Numpy, how do the
 core people who push Numpy forward
 what do they think the goals of it are.
+
+What drives Numpy(10:30)
 So as I said, this is all a Jupyter
 Notebook,
 um i'm just using the the website here
@@ -534,6 +549,8 @@ member of the community
 and now let's actually talk about
 contributing to numpy
 and working with numpy.
+
+Communication Channels and Github repos(19:44)
 Like most of the world numpy has moved
 to Github
 most of our our our activity takes place
@@ -588,6 +605,8 @@ Right, got it.
 Okay, so that's how you can that's how
 you kind of wander around the Github
 NumPys.
+
+Building and testing NumPy(21:56)
 How do you actually build and test and
 get involved
 in uh in working with numpy the library
@@ -755,7 +774,6 @@ that's in the runtest it's way too much
 to go through
 but let's try running it
 the only argument i'll give it is show
-[Music]
 build and build
 log which will show the compilation
 as it's going ah I didn't do something, I
@@ -820,8 +838,10 @@ That's usually the way world works but
 if you're on a mac os and windows
 there's a few things you might have to
 look out for when you're
-starting to build Numpy. mac os
-is pretty close to linux so it's pretty
+starting to build Numpy.
+
+Things to look out for(31:58)
+mac os is pretty close to linux so it's pretty
 smooth.
 You may have some problems with the
 accelerate library which is linear
@@ -842,7 +862,7 @@ C and it's not we don't use c++ basically because we support
 some very old compilers.
 As I said we try not to break things uh
 that means that
-because it's written in c you need to
+because it's written in C you need to
 know something about
 the Python C api and how ref counting
 works
@@ -944,6 +964,8 @@ have about
 some questions
 answers to try and look through and
 find some issues you can work on.
+
+Take a look at some issues and PRs(36:50)
 Typical workflow in Numpy is much
 like the other lectures you've heard in
 in this or the other talks you've heard
@@ -1105,7 +1127,7 @@ is that for some reason start is being
 interpreted as stop
 and the other less critical problem is
 that
-stop is is when stop alone is put in
+stop is when stop alone is put in
 there is no start equals zero.
 Okay so people started commenting you'll
 see how long it took for someone to
@@ -1211,6 +1233,8 @@ Okay and as I said, it got complicated
 quickly.
 That's pretty much what i want to talk
 about um
+
+Q&A(47:47)
 I'd like to take uh some Q&A now let's
 see what we can do with that just to
 summarize my goal here was hopefully not to scare
@@ -1358,6 +1382,8 @@ pure Python things that could be
 improved
 great
 any more questions anymore?
+
+Outro(55:04)
 Matti, this was such a great talk I
 can't overstate like how informative and
 useful it is
