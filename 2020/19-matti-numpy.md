@@ -1271,7 +1271,7 @@ Reshama, I think i'll
 uh send it back to you.
 question about GDB. Could you go over
 briefly ways to use GDB with numpy?
-So Brian are you using Windows or linux?
+So Brian are you using windows or linux?
 other
 other
 I can show you in Linux I can't really
