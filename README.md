@@ -37,7 +37,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 |    |                  |                                                          |                        |              |        |
 | 21 | Nick Janetakis   |  [Creating a Command Line Focused Development Environment](2021/21-nick-command.md)              |                        |  ?      |        |
 | 22 | Melissa Weber   |  [Intro to Sphinx for Python Documentation](2021/22-melissa-sphinx.md)              |                        |  ?      |        |
-| 23 | Ryan Kruse      |  [Building a Political Census with Placekey](2021/23-ryan-placekey.md |                              |                        |              |        |
+| 23 | Ryan Kruse      |  [Building a Political Census with Placekey](2021/23-ryan-placekey.md) |                              |                        |              |       |
 | 24 | Sam Bail        |  [Wonderful World of Data Quality in Python](2021/24-sam-data.md)   |                        |              |        |
 |    |                  |                                                          |                        |              |        |
 
