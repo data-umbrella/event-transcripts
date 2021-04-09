@@ -1,8 +1,6 @@
 
 # Ryan Kruse:  Building a Political Census with Placekey
 
-*** UPDATE BELOW ***
-
 ## Key Links
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/23-ryan-placekey.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/276090431/
