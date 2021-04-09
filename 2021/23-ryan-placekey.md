@@ -14,7 +14,7 @@
 
 ## Video: 
 
-<img width="1149" alt="Screen Shot 2021-03-21 at 6 00 28 PM" src="https://user-images.githubusercontent.com/43222117/111922309-75f62280-8a6f-11eb-8cb3-c29b5978b181.png">
+<img  alt="Screen Shot 2021-03-21 at 6 00 28 PM" src="https://user-images.githubusercontent.com/43222117/111922309-75f62280-8a6f-11eb-8cb3-c29b5978b181.png" width="50%">
 
 ## Transcript
 
