@@ -10,9 +10,9 @@
 - Transcriber:  ? [needs a transcriber]
 
 
-## Video:  *** UPDATE THIS ***
+## Video:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=tXWscUSYdBs" target="_blank"><img src="http://img.youtube.com/vi/tXWscUSYdBs/0.jpg" 
-alt="Melissa Weber: Sphinx for Python Documentation" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=G_XHSh66zW0" target="_blank"><img src="http://img.youtube.com/vi/G_XHSh66zW0/0.jpg" 
+alt="Sam Bail: Wonderful World of Data Quality in Python" width="50%" /></a>
 
 ## Transcript
