@@ -1,7 +1,5 @@
 # Sam Bail:  The Wonderful World of Data Quality in Python
 
-*** UPDATE BELOW ***
-
 ## Key Links
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/24-sam-data.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/276462758/
