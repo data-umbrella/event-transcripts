@@ -6,7 +6,9 @@
 - Video:   https://youtu.be/lHJqOE5j6xE 
 - GitHub repo:  
 - Slides:  https://github.com/numpy/archive/blob/master/content/data_umbrella_dec_2_2020/data_umbrella.ipynb
-- Transcriber:  ? [needs a transcriber]
+- Transcriber: Isaack Mungui
+- GitHub: github.com/isaack-mungui
+- LinkedIn: https://www.linkedin.com/in/isaack-mungui-54bab9146/
 
 ## Resources
 - NumPy Slack: https://join.slack.com/t/numpy-team/shared_invite/zt-e2d24txg-w3Mq1OJZ2nEAAcGgQOoC0A
