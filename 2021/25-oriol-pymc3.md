@@ -3,7 +3,7 @@
 ## Key Links
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/25-oriol-pymc3.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/277075016/
-- Video:    
+- Video:  https://youtu.be/6dc7JgR8eI0
 - GitHub repo:  https://oriolabril.github.io/pymc3-data_umbrella/
 - Transcriber:  ? [needs a transcriber]
 
