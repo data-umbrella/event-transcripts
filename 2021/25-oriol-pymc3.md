@@ -13,9 +13,9 @@
 - https://github.com/bambinos/bambi
 
 
-## Video:  ** UPDATE **
+## Video: 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=G_XHSh66zW0" target="_blank"><img src="http://img.youtube.com/vi/G_XHSh66zW0/0.jpg" 
-alt="Sam Bail: Wonderful World of Data Quality in Python" width="50%" /></a>
+<img width="640" alt="Screen Shot 2021-04-22 at 9 45 19 AM" src="https://user-images.githubusercontent.com/43222117/115725307-baffc400-a34f-11eb-81aa-23abfe6879c5.png">
+
 
 ## Transcript
