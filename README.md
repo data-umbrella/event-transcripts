@@ -40,6 +40,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 23 | Ryan Kruse      |  [Building a Political Census with Placekey](2021/23-ryan-placekey.md) |                              |                        |              |       |
 | 24 | Sam Bail        |  [Wonderful World of Data Quality in Python](2021/24-sam-data.md)   |                        |              |        |
 | 25 | Oriol Abril Pla |  [Intuitive Bayesian Modeling with PyMC3](2021/25-oriol-pymc3.md)        |                        |              |        |
+| 26 | Luisa Rebull     | [Astronomy Data & Image Processing](2021/26-luisa-astronomy.md)                |                        |              |        |
 |    |                  |                                                          |                        |              |        |
 |    |                  |                                                          |                        |              |        |
 
