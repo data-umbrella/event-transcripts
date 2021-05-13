@@ -10,10 +10,9 @@
 ## Resources
 - http://web.ipac.caltech.edu/staff/rebull/outr/datalinks.html
 
-## Video:   UPDATE THIS  
+## Video:  
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=q10mVlYQUbA" target="_blank"><img src="http://img.youtube.com/vi/tXWscUSYdBs/0.jpg" 
-alt="Luisa Rebull: Astronomy Data and Image Processing" width="50%" /></a>
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=q10mVlYQUbA" target="_blank"><img src="http://img.youtube.com/vi/q10mVlYQUbA/0.jpg" 
+alt="Luisa Rebull: Astronomy Data & Image Processing" width="50%" /></a>
 
 ## Transcript
