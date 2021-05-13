@@ -14,7 +14,8 @@
 
 ## Video: 
 
-<img  alt="Screen Shot 2021-03-21 at 6 00 28 PM" src="https://user-images.githubusercontent.com/43222117/111922309-75f62280-8a6f-11eb-8cb3-c29b5978b181.png" width="50%">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NYV4fB3IU0k" target="_blank"><img src="http://img.youtube.com/vi/NYV4fB3IU0k/0.jpg" 
+alt="Ryan Kruse: Building a Political Census with Placekey" width="50%" /></a>
 
 ## Transcript
 
