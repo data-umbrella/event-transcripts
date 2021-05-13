@@ -15,7 +15,7 @@
 
 ## Video: 
 
-<img width="640" alt="Screen Shot 2021-04-22 at 9 45 19 AM" src="https://user-images.githubusercontent.com/43222117/115725307-baffc400-a34f-11eb-81aa-23abfe6879c5.png">
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6dc7JgR8eI0" target="_blank"><img src="http://img.youtube.com/vi/6dc7JgR8eI0/0.jpg" 
+alt="Oriol Abril Pla: Bayesian Modeling with PyMC3" width="50%" /></a>
 
 ## Transcript
