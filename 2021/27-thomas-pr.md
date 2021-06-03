@@ -11,6 +11,7 @@
 - Slides:  https://thomasjpfan.github.io/data-umbrella-2021-reviewing-prs/#/
 
 ## Video:  ** UPDATE THUMBNAIL** 
+(image thumbnail to be added:  Cristina, please delete this line once image has been updated)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dyxS9KKCNzA" target="_blank"><img src="http://img.youtube.com/vi/dyxS9KKCNzA/0.jpg" 
 alt="Thomas Fan: 3 Components of Reviewing a Pull Request" width="50%" /></a>
