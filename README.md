@@ -28,20 +28,21 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 12 | Mridu Bhatnagar     |  [Build a Bot](2020/12-mridu-bhatnagar-bot.md)                             |                        |  ?           |        |
 | 13 | Liz DiLuzio         |  [Creating Nimble Data Processes](2020/13-liz-diluzio-data-process.md)    |                        |  Lily           | Complete       |
 | 14 | Megan Robertson     |  [3 Lessons From 3 Years of Data Science](2020/14-megan-robertson-career.md)|                        |  Sethupathy  |  Needs reviewer (headers should not be in capital letters, etc)      |
-| 15 | Emma Gouillart      |  [Data Visualization with Plotly](2020/15-emma-gouillart-plotly.md)              |                        |  ?       |        |
-| 16 | Hugo / James      |  [Data Science and Machine Learning at Scale](2020/16-hugo-james-dask.md)              |                        |  Cynthia       |    Complete    |
-| 17 | Carol Willing      |  [Contributing to Core Python](2020/17-carol-python.md)              |                        |  ?      |        |
-| 18 | Thomas Fan      |  [Streamlit for Data Science](2020/18-thomas-streamlit.md)              |                        |  ?      |        |
-| 19 | Matti Picus      |  [Contributing to NumPy](2020/19-matti-numpy.md)              |                        |  Isaack      |        |
-| 20 | Marco Gorelli    |  [Contributing to pandas](2020/20-marco-pandas.md)              |                        |  ?      |        |
-|    |                  |                                                          |                        |              |        |
-| 21 | Nick Janetakis   |  [Creating a Command Line Focused Development Environment](2021/21-nick-command.md)              |                        |  ?      |        |
-| 22 | Melissa Weber   |  [Intro to Sphinx for Python Documentation](2021/22-melissa-sphinx.md)              |                        |  ?      |        |
-| 23 | Ryan Kruse      |  [Building a Political Census with Placekey](2021/23-ryan-placekey.md) |                              |                        |              |       |
-| 24 | Sam Bail        |  [Wonderful World of Data Quality in Python](2021/24-sam-data.md)   |                        |              |        |
-| 25 | Oriol Abril Pla |  [Intuitive Bayesian Modeling with PyMC3](2021/25-oriol-pymc3.md)        |                        |              |        |
-| 26 | Luisa Rebull     | [Astronomy Data & Image Processing](2021/26-luisa-astronomy.md)                |                        |              |        |
-|    |                  |                                                          |                        |              |        |
-|    |                  |                                                          |                        |              |        |
+| 15 | Emma Gouillart  |  [Data Visualization with Plotly](2020/15-emma-gouillart-plotly.md)              |                        |  ?       |        |
+| 16 | Hugo / James    |  [Data Science and Machine Learning at Scale](2020/16-hugo-james-dask.md)              |                        |  Cynthia       |    Complete    |
+| 17 | Carol Willing   |  [Contributing to Core Python](2020/17-carol-python.md)           |                        |  ?      |        |
+| 18 | Thomas Fan      |  [Streamlit for Data Science](2020/18-thomas-streamlit.md)        |                        |  ?      |        |
+| 19 | Matti Picus     |  [Contributing to NumPy](2020/19-matti-numpy.md)                  |                        |  Isaack      |        |
+| 20 | Marco Gorelli   |  [Contributing to pandas](2020/20-marco-pandas.md)                |                        |  ?      |        |
+|    |                 |                                                                   |                        |              |        |
+| 21 | Nick Janetakis  |  [Creating a Command Line Focused Development Environment](2021/21-nick-command.md)        |                        |  ?      |        |
+| 22 | Melissa Weber   |  [Intro to Sphinx for Python Documentation](2021/22-melissa-sphinx.md) |                   |  ?      |        |
+| 23 | Ryan Kruse      |  [Building a Political Census with Placekey](2021/23-ryan-placekey.md) |                   |                        |              |       |
+| 24 | Sam Bail        |  [Wonderful World of Data Quality in Python](2021/24-sam-data.md) |                        |              |        |
+| 25 | Oriol Abril Pla |  [Intuitive Bayesian Modeling with PyMC3](2021/25-oriol-pymc3.md) |                        |              |        |
+| 26 | Luisa Rebull    | [Astronomy Data & Image Processing](2021/26-luisa-astronomy.md)   |                        |              |        |
+| 27 | Thomas Fan      | [3 Components of Reviewing a Pull Request](2021/27-thomas-pr.md)  |                        |              |        |
+|    |                 |                                                                   |                        |              |        |
+|    |                 |                                                                   |                        |              |        |
 
 
