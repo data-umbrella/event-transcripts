@@ -42,7 +42,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 25 | Oriol Abril Pla |  [Intuitive Bayesian Modeling with PyMC3](2021/25-oriol-pymc3.md) |                        |              |        |
 | 26 | Luisa Rebull    | [Astronomy Data & Image Processing](2021/26-luisa-astronomy.md)   |                        |              |        |
 | 27 | Thomas Fan      | [3 Components of Reviewing a Pull Request](2021/27-thomas-pr.md)  |                        |              |        |
+| 28 | Liz DiLuzio     | [Excel for Data Analysts](2021/28-liz-excel.md)                   |                        |              |        |
 |    |                 |                                                                   |                        |              |        |
 |    |                 |                                                                   |                        |              |        |
-
 
