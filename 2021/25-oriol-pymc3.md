@@ -5,6 +5,7 @@
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/277075016/
 - Video:  https://youtu.be/6dc7JgR8eI0
 - GitHub repo:  https://oriolabril.github.io/pymc3-data_umbrella/
+- Slides:  https://www.slideshare.net/CorrieBartelheimer/bayesian-workflow-with-pymc3-and-arviz
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
