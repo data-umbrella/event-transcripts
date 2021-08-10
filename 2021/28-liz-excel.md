@@ -12,9 +12,10 @@
 - Newsletter:  https://mailchi.mp/1a602237bad6/newsletter-sign-up
 
 
-## Video:  ** NEEDS TO BE UPDATED **
+## Video:  
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dyxS9KKCNzA" target="_blank"><img src="http://img.youtube.com/vi/dyxS9KKCNzA/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ybMxQs6J2eM" target="_blank"><img src="http://img.youtube.com/vi/ybMxQs6J2eM/0.jpg" 
 alt="Elizabeth DiLuzio: Excel for Data Analysts" width="50%" /></a>
+
 
 ## Transcript
