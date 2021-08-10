@@ -11,9 +11,9 @@
 - N/A
 
 
-## Video:  ** NEEDS TO BE UPDATED **
+## Video: 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dyxS9KKCNzA" target="_blank"><img src="http://img.youtube.com/vi/dyxS9KKCNzA/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hc8-AhYBu08" target="_blank"><img src="http://img.youtube.com/vi/hc8-AhYBu08/0.jpg" 
 alt="Sam Bail: Intro to Data Analysis with Pandas and Jupyter Notebook" width="50%" /></a>
 
 ## Transcript
