@@ -45,6 +45,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 28 | Liz DiLuzio     | [Excel for Data Analysts](2021/28-liz-excel.md)                   |                        |              |        |
 | 29 | Sam Bail  o     | [Intro to Jupyter & Pandas](2021/29-sam-jupyter-pandas.md)        |                        |              |        |
 | 30 | Sean Law        | [Time Series with STUMPY](2021/30-sean-stumpy.md)                 |                        |              |        |
+| 31 | Brendan Collins | [Data Visualizations with Bokeh](2021/31-brendan-bokeh.md)        |                        |              |        |
 |    |                 |                                                                   |                        |              |        |
 |    |                 |                                                                   |                        |              |        |
 
