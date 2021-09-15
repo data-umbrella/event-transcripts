@@ -8,7 +8,7 @@ https://www.meetup.com/data-umbrella
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/33-rami-dashboard.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/280446430/
 - Video:  https://youtu.be/kqrpvaokg-Q
-- GitHub repo:   
+- GitHub repo:   https://ramikrispin.github.io/italy_dash/
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
