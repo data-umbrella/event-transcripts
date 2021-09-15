@@ -47,6 +47,8 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 30 | Sean Law        | [Time Series with STUMPY](2021/30-sean-stumpy.md)                 |                        |              |        |
 | 31 | Brendan Collins | [Data Visualizations with Bokeh](2021/31-brendan-bokeh.md)        |                        |              |        |
 | 32 | Coonoor Behal   | [When Quitting is Good](2021/32-coonoor-quit.md)                  |                        |              |        |
+| 33 | Rami Krispin    | [COVID-19 R Dashboard in Production](2021/33-rami-dashboard.md)   |                        |              |        |
 |    |                 |                                                                   |                        |              |        |
 |    |                 |                                                                   |                        |              |        |
 
+33-rami-dashboard.md
