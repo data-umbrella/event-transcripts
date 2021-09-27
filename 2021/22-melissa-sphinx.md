@@ -15,6 +15,9 @@
 - https://numpy.org/doc/stable
 - https://numpydoc.readthedocs.io/en/latest/format.html#docstring-standard
 
+## Sphinx Themes
+- https://sphinxthemes.com/themes/read-the-docs
+- 
 
 ## Video 
 
