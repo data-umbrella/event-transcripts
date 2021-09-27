@@ -6,7 +6,7 @@
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/22-melissa-sphinx.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/275518677/
 - Video:   https://youtu.be/tXWscUSYdBs 
-- GitHub repo:  https://github.com/melissawm/minimalsphinxdocs
+- GitHub repo:  https://github.com/melissawm/minimalsphinx
 - Slides:  https://hackmd.io/@melissawm/SkjCa3OkO#/
 - Transcriber:  ? [needs a transcriber]
 
