@@ -43,7 +43,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 26 | Luisa Rebull    | [Astronomy Data & Image Processing](2021/26-luisa-astronomy.md)   |                        |              |        |
 | 27 | Thomas Fan      | [3 Components of Reviewing a Pull Request](2021/27-thomas-pr.md)  |                        |              |        |
 | 28 | Liz DiLuzio     | [Excel for Data Analysts](2021/28-liz-excel.md)                   |                        |              |        |
-| 29 | Sam Bail  o     | [Intro to Jupyter & Pandas](2021/29-sam-jupyter-pandas.md)        |                        |              |        |
+| 29 | Sam Bail        | [Intro to Jupyter & Pandas](2021/29-sam-jupyter-pandas.md)        |                        |              |        |
 | 30 | Sean Law        | [Time Series with STUMPY](2021/30-sean-stumpy.md)                 |                        |              |        |
 | 31 | Brendan Collins | [Data Visualizations with Bokeh](2021/31-brendan-bokeh.md)        |                        |              |        |
 | 32 | Coonoor Behal   | [When Quitting is Good](2021/32-coonoor-quit.md)                  |                        |              |        |
