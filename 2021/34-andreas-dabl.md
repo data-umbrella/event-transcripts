@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/34-andreas-dabl.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/280283624/
-- Video:  
+- Video:  https://youtu.be/h92RMJi4mRM
 - GitHub repo:   https://github.com/dabl/dabl
 - Transcriber:  ? [needs a transcriber]
 
