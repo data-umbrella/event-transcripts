@@ -49,6 +49,8 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 32 | Coonoor Behal   | [When Quitting is Good](2021/32-coonoor-quit.md)                  |                        |              |        |
 | 33 | Rami Krispin    | [COVID-19 R Dashboard in Production](2021/33-rami-dashboard.md)   |                        |              |        |
 | 34 | Andreas Mueller | [Data Science with dabl](2021/34-andreas-dabl.md)                 |                        |              |        |
+| 35 | Juan Martin Loyola | [Pair Programming with Visual Studio Code Live Share](2021/35-live-share.md)                 |                        |              |        |
+| 36 | Mariatta Wijaya | [Continuous Integration and Unit Tests](2021/36-mariatta-ci.md)                 |                        |              |        |
 |    |                 |                                                                   |                        |              |        |
 |    |                 |                                                                   |                        |              |        |
 
