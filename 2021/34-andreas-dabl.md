@@ -1,4 +1,4 @@
-# Andreas Mueller:  
+# Andreas Mueller:  Taking the edge off of data science with dabl
 
 ## Meetup
 Join our Meetup group for upcoming events:
