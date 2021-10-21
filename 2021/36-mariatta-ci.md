@@ -12,7 +12,8 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- 
+- Slides:  [Continuous Integration + Unit Testing](https://github.com/data-umbrella/event-transcripts/blob/main/resources/Data_Umbrella-Mariatta-CI-UnitTesting.pdf)
+
 ## Video:   ** NEED TO UPDATE **
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gMchDJP0yEI" target="_blank"><img src="http://img.youtube.com/vi/XKNdXN-Jfmo/0.jpg" 
