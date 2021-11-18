@@ -14,7 +14,8 @@
 - Twitter: (https://twitter.com/bokeh)
 - Bokeh notebooks:  https://github.com/bokeh/bokeh-notebooks
 - Bokeh docs:  https://docs.bokeh.org/en/latest/index.html
-
+- Starting from timestamp 16:48, Brendan is working on the Bokeh Quickstart which is at https://github.com/bokeh/bokeh-notebooks/blob/main/quickstart/quickstart.ipynb.
+- Then he starts on the tutorial from 30:34 https://github.com/bokeh/bokeh-notebooks/tree/main/tutorial 
 
 ## Video:   ** NEED TO UPDATE **
 
