@@ -51,6 +51,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 34 | Andreas Mueller | [Data Science with dabl](2021/34-andreas-dabl.md)                 |                        |              |        |
 | 35 | Juan Martin Loyola | [Pair Programming with Visual Studio Code Live Share](2021/35-live-share.md)                 |                        |              |        |
 | 36 | Mariatta Wijaya | [Continuous Integration and Unit Tests](2021/36-mariatta-ci.md)                 |                        |              |        |
+| 37 | Doris Lee  | [Visualize Your Pandas Dataframe with Zero Effort with Lux](2021/37-doris-lux.md)                 |                        |              |        |
 |    |                 |                                                                   |                        |              |        |
 |    |                 |                                                                   |                        |              |        |
 
