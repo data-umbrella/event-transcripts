@@ -14,12 +14,10 @@ https://www.meetup.com/data-umbrella
 ## Resources
 - Slides:  [Continuous Integration + Unit Testing](https://github.com/data-umbrella/event-transcripts/blob/main/resources/Data_Umbrella-Mariatta-CI-UnitTesting.pdf)
 
-## Video:   ** NEED TO UPDATE **
+## Video:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gMchDJP0yEI" target="_blank"><img src="http://img.youtube.com/vi/XKNdXN-Jfmo/0.jpg" 
-alt="Rami Krispin: COVID-19 R Dashboard in Production" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vLBr_AfomUY" target="_blank"><img src="http://img.youtube.com/vi/vLBr_AfomUY/0.jpg"
+alt="Mariatta Wijaya: Intro to Unit Testing and Continuous Integration" width="50%" /></a>
 
 ## Transcript
 
-
-Note:  @nestornav will update

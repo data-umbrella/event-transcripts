@@ -17,12 +17,10 @@ https://www.meetup.com/data-umbrella
 - Auto ML paper: https://ml.informatik.uni-freiburg.de/wp-content/uploads/papers/18-AUTOML-AutoChallenge.pdf
 - scikit-learn release highlights: https://scikit-learn.org/stable/whats_new/v1.0.html
 
-## Video:   ** NEED TO UPDATE **
+## Video:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gMchDJP0yEI" target="_blank"><img src="http://img.youtube.com/vi/XKNdXN-Jfmo/0.jpg" 
-alt="Rami Krispin: COVID-19 R Dashboard in Production" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=h92RMJi4mRM" target="_blank"><img src="http://img.youtube.com/vi/h92RMJi4mRM/0.jpg" 
+alt="Taking the Edge Off of Data Science with dabl" width="50%" /></a>
 
 ## Transcript
 
-
-Note:  @nestornav will update
