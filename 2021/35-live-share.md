@@ -1,26 +1,23 @@
 # Juan Martin Loyola & Reshama Shaikh: Pair Programming with Visual Studio Code Live Share
 
-Below parts all need to be checked and updated. 
-
 ## Meetup
 Join our Meetup group for upcoming events:
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/36-mariatta-ci.md
-- Meetup Event:  https://www.meetup.com/data-umbrella/events/280724753/
-- Video:  https://youtu.be/vLBr_AfomUY
-- GitHub repo:   https://github.com/Mariatta/sample_ci_repo
+- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/35-live-share.md
+- Meetup Event:  No applicable
+- Video:  https://youtu.be/WHOiljOYGVw
+- GitHub repo: No applicable
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- 
-## Video:   ** NEED TO UPDATE **
+- Blog: https://blog.dataumbrella.org/pair-programming-with-visual-studio-code-live-share
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gMchDJP0yEI" target="_blank"><img src="http://img.youtube.com/vi/XKNdXN-Jfmo/0.jpg" 
-alt="Rami Krispin: COVID-19 R Dashboard in Production" width="50%" /></a>
+## Video:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WHOiljOYGVw" target="_blank"><img src="http://img.youtube.com/vi/WHOiljOYGVw/0.jpg"
+alt="Live Share with Visual Studio Code" width="50%" /></a>
 
 ## Transcript
 
-
-Note:  @nestornav will update
