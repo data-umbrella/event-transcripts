@@ -15,13 +15,10 @@ https://www.meetup.com/data-umbrella
 - Slides / Notebook:  https://tinyurl.com/demo-lux
 
 
+## Video:
 
-## Video:   ** NEED TO UPDATE **
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=O28RZ8SsSQk" target="_blank"><img src="http://img.youtube.com/vi/O28RZ8SsSQk/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=O28RZ8SsSQk" target="_blank"><img src="http://img.youtube.com/vi/O28RZ8SsSQk/0.jpg"
 alt="Doris Lee: Visualize Your Pandas Dataframe with Zero Effort with Lux" width="50%" /></a>
 
 ## Transcript
 
-
-Note:  @nestornav will update
