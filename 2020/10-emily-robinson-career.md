@@ -8,6 +8,9 @@
 - Transcriber: [Kevin Kipkemoi](https://www.linkedin.com/in/kevkipkemoi)
 - Book: [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science?a_aid=dataumbrella&a_bid=e9fbded0) 40% discount
 
+## Resources
+- [Building a Data Science career is different in Europe than in the US](https://looreen.github.io/posts/2020-07-11-career/)
+
 ## Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HsFFuFYz7zE" target="_blank"><img src="http://img.youtube.com/vi/HsFFuFYz7zE/0.jpg" 
