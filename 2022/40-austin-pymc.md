@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/40-austin-pymc.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/282790294/
-- Video:  https://youtu.be/OI8TTH8EsDI
+- Video:  [ADD VIDEO LINK HERE]
 - GitHub repo:
 - Transcriber:  ? [needs a transcriber]
 
