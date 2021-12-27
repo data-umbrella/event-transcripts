@@ -5,7 +5,7 @@ Join our Meetup group for upcoming events:
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/40-eduardo-ploomber.md
+- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/39-eduardo-ploomber.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/282572465/
 - Video:  https://youtu.be/OI8TTH8EsDI
 - GitHub repo: https://github.com/ploomber/ploomber

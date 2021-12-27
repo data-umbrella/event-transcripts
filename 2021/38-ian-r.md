@@ -5,7 +5,7 @@ Join our Meetup group for upcoming events:
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/39-ian-r.md
+- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/38-ian-r.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/281938125/
 - Video:  https://youtu.be/5c4cb6kvJGE
 - GitHub repo:  https://github.com/ian-flores/r-ecosystem-4-python
