@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/42-gonzalo-github-actions.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/282772806/
-- Video:  https://youtu.be/OI8TTH8EsDI
+- Video:   [ADD VIDEO LINK HERE]
 - GitHub repo:
 - Transcriber:  ? [needs a transcriber]
 
