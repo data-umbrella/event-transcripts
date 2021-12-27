@@ -9,7 +9,7 @@
 Subscribe to our YouTube [Data Umbrella channel](https://www.youtube.com/c/DataUmbrella/videos).
 
 ## [Contributing Guide](CONTRIBUTING.md)
-Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing / transcribing work.  
+Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing / transcribing work.
 
 
 | #  | Speaker             | Talk Transcript                                        | Note                   | Transcriber  | Status |
@@ -52,7 +52,9 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 35 | Juan Martin Loyola | [Pair Programming with Visual Studio Code Live Share](2021/35-live-share.md)                 |                        |              |        |
 | 36 | Mariatta Wijaya | [Continuous Integration and Unit Tests](2021/36-mariatta-ci.md)                 |                        |              |        |
 | 37 | Doris Lee  | [Visualize Your Pandas Dataframe with Zero Effort with Lux](2021/37-doris-lux.md)                 |                        |              |        |
-|    |                 |                                                                   |                        |              |        |
-|    |                 |                                                                   |                        |              |        |
+| 38 | Ian Flores | [R, an Ecosystem Where Pythonistas Can Thrive](2021/38-ian-r.md)       |                        |              |        |
+| 39 | Eduardo Blancs  |  [Ploomber, Maintainable and Collaborative Pipelines in Jupyter](2021/39-eduardo-ploomber.md) |                        |              |        |
+|  | |                 |                        |              |        |
+|  | |                 |                        |              |        |
 
 
