@@ -1,4 +1,7 @@
 
+Transcript:
+https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint/blob/master/1_transcript_ACM_contributing_sklearn.md
+
 
 ```text
 
@@ -15,12 +18,14 @@
 00:08:50 Starting on issues
 00:09:38 Fetch someone else's PR
 00:09:59 Starting on issues
-
- 
-## Event
-
-
-## About the Speaker
-
+00:11:20 Creating a PR
+00:12:17 Describing a PR
+00:14:45 Regression Tests
+00:16:15 What's Next
+00:18:52 Finding Issues
+00:22:22 Reviewing
+00:25:25 Workflow Reminders
+00:29:00 Final Words
+00:29:59 Thank you
 
 ```
