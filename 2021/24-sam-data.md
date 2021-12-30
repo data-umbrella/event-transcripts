@@ -14,3 +14,5 @@
 alt="Sam Bail: Wonderful World of Data Quality in Python" width="50%" /></a>
 
 ## Transcript
+
+
