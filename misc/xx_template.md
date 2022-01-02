@@ -1,9 +1,9 @@
 Notes:
 39 events
-- 2 not recorded
-37 events
-- 11 done
-"27" left
+- -2 not recorded
+- 37 events
+- -12 done
+- 25 left
 
 ```text
 ## Upcoming Events
