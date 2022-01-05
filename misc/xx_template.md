@@ -1,9 +1,4 @@
-Notes:
-39 events
-- -2 not recorded
-- 37 events
-- -12 done
-- 25 left
+
 
 ```text
 ## Upcoming Events
@@ -30,15 +25,12 @@ Speaker:  Talk Title
 00:00:00  
 00:00:00  
 
-
  
 ## Event
 
 
 ## About the Speaker
 
-
-## Notes
 
 
 ```
