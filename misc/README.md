@@ -5,14 +5,14 @@ Notes:
 - -2 not recorded
 = 37 events
 ------------------
-- -13 done
+- -15 done
 ------------------
-- 24 left
+- 22 left
 - 
 - 
 - 
 Order of most popular:  
-Marco, Oriol, Thomas (steamlit), 
-Sean (stumpy), bokeh, kdb, pandas, 
+Thomas (streamlit), 
+Sean (stumpy), bokeh, kdb, 
 ty, carol, emma
 
