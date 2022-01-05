@@ -8,3 +8,11 @@ Notes:
 - -13 done
 ------------------
 - 24 left
+- 
+- 
+- 
+Order of most popular:  
+Marco, Oriol, Thomas (steamlit), 
+Sean (stumpy), bokeh, kdb, pandas, 
+ty, carol, emma
+
