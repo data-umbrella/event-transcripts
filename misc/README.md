@@ -1,26 +1,13 @@
 ## Description Notes for YouTube Videos
 
-Notes:
 
-39 events
-
-39 videos
-
--2 not recorded
-
-= 37 events
-
+- +40 videos
+- -19 descriptions complete
 ------------------
-
--19 done
-
-------------------
-18 left
+- =21 left
 
 
- 
 Order of most popular:  
-1. bokeh
 1. kdb
 1. sam pandas
 1. carol
@@ -38,7 +25,7 @@ Order of most popular:
 1. excel,
 1. ryan
 1. nimble
-
 1. discord
 1. luisa
 1. vsc
+1. sprint video
