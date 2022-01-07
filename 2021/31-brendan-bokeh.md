@@ -4,7 +4,7 @@
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/31-brendan-bokeh.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/279895809/
 - Video:  https://youtu.be/gMchDJP0yEI
-- GitHub repo:
+- GitHub repo: 
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources

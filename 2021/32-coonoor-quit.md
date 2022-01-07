@@ -8,7 +8,7 @@ https://www.meetup.com/data-umbrella
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/32-coonoor-quit-bokeh.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/280283618/
 - Video:  https://youtu.be/Y6ema9jzxFw
-- GitHub repo:
+- GitHub repo: 
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources

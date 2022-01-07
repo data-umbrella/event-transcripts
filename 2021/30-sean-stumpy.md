@@ -4,7 +4,7 @@
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/30-sean-stumpy.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/278955616/
 - Video:  https://youtu.be/XKNdXN-Jfmo
-- GitHub repo:
+- GitHub repo: 
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
