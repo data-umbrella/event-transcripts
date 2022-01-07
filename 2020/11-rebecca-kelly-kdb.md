@@ -8,6 +8,9 @@
 - GitHub repo:  not applicable
 - Transcriber: Coretta Johnson
 
+## Resources
+https://github.com/KxSystems/embedPy
+
 ## Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=92YticvZzCM" target="_blank"><img src="http://img.youtube.com/vi/92YticvZzCM/0.jpg" 
