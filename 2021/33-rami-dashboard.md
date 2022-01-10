@@ -17,7 +17,7 @@ This talk focuses on a holistic approach for deploying data science projects int
 
 ## Video:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gMchDJP0yEI" target="_blank"><img src="http://img.youtube.com/vi/XKNdXN-Jfmo/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kqrpvaokg-Q" target="_blank"><img src="http://img.youtube.com/vi/kqrpvaokg-Q/0.jpg"
 alt="Rami Krispin: COVID-19 R Dashboard in Production" width="50%" /></a>
 
 ## Transcript

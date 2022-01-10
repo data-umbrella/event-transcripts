@@ -19,13 +19,8 @@
 
 ## Video:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gMchDJP0yEI" target="_blank"><img src="http://img.youtube.com/vi/XKNdXN-Jfmo/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=gMchDJP0yEI" target="_blank"><img src="http://img.youtube.com/vi/gMchDJP0yEI/0.jpg"
 alt="Brendan Collins: Visualizing Data? Get to Know Bokeh!" width="50%" /></a>
 
 ## Transcript
-
-
-
-
-
 

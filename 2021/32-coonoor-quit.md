@@ -18,7 +18,7 @@ https://www.amazon.com/Quit-Life-Affirming-Joy-Giving-Up-ebook/dp/B093QN3GXJ
 
 ## Video:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gMchDJP0yEI" target="_blank"><img src="http://img.youtube.com/vi/XKNdXN-Jfmo/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Y6ema9jzxFw" target="_blank"><img src="http://img.youtube.com/vi/Y6ema9jzxFw/0.jpg"
 alt="Coonoor Behal: When Quitting is Good" width="50%" /></a>
 
 ## Transcript
