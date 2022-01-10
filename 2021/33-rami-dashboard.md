@@ -15,9 +15,9 @@ https://www.meetup.com/data-umbrella
 This talk focuses on a holistic approach for deploying data science projects into production (e.g., CI/CD) with the use of open-source and free tools such as R, bash, Docker, Github Actions, etc. During this talk, we will review the general architect of a Covid19 cases tracker that automatically gets updated daily (see: https://ramikrispin.github.io/italy_dash/).
 
 
-## Video:   ** NEED TO UPDATE **
+## Video:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gMchDJP0yEI" target="_blank"><img src="http://img.youtube.com/vi/XKNdXN-Jfmo/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kqrpvaokg-Q" target="_blank"><img src="http://img.youtube.com/vi/kqrpvaokg-Q/0.jpg"
 alt="Rami Krispin: COVID-19 R Dashboard in Production" width="50%" /></a>
 
 ## Transcript
