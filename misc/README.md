@@ -2,14 +2,12 @@
 
 
 - +41 videos
-- -24 descriptions complete
+- -26 descriptions complete
 ------------------
-- =17 left
+- =15 left
 
 
 Order of most popular:  
-1. nick
-1. mariatta
 1. doris
 1. terminal
 1. megan
