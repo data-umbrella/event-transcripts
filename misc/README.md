@@ -1,14 +1,13 @@
 ## Description Notes for YouTube Videos
 
 
-- +40 videos
-- -19 descriptions complete
+- +41 videos
+- -21 descriptions complete
 ------------------
-- =21 left
+- =20 left
 
 
 Order of most popular:  
-1. kdb
 1. sam pandas
 1. carol
 1. emma
@@ -22,7 +21,7 @@ Order of most popular:
 1. luisa
 1. shailvi
 1. coonoor
-1. excel,
+1. excel
 1. ryan
 1. nimble
 1. discord
