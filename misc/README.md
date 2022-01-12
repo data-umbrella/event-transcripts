@@ -2,13 +2,12 @@
 
 
 - +41 videos
-- -23 descriptions complete
+- -24 descriptions complete
 ------------------
-- =18 left
+- =17 left
 
 
 Order of most popular:  
-1. emma
 1. nick
 1. mariatta
 1. doris
