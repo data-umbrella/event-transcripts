@@ -20,7 +20,10 @@ Austin Rochford: Introduction to Probabilistic Programming with PyMC
 
 ## Agenda
 00:00:00 Reshama introduces Data Umbrella
-00:05:00 Austin begins talk 
+00:04:40 Austin begins talk 
+00:50:37 Meenal talks about upcoming PyMC sprint
+00:56:30 Q&A with Austin
+
 
 
  

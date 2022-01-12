@@ -2,14 +2,12 @@
 
 
 - +41 videos
-- -21 descriptions complete
+- -23 descriptions complete
 ------------------
-- =20 left
+- =18 left
 
 
 Order of most popular:  
-1. sam pandas
-1. carol
 1. emma
 1. nick
 1. mariatta
