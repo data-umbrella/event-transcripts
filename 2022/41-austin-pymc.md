@@ -12,8 +12,8 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- Jupyter Notebook: https://github.com/pymc-devs/pymc-data-umbrella/blob/main/webinars/probabilistic_programming_with_pymc/notebook.ipynb	
-- Austin's website:  https://austinrochford.com/talks.htmlhttps://austinrochford.com/talks.html	
+- Jupyter Notebook: https://github.com/pymc-devs/pymc-data-umbrella/blob/main/webinars/probabilistic_programming_with_pymc/notebook.ipynb
+- Austin's website:  https://austinrochford.com/talks.htmlhttps://austinrochford.com/talks.html
 - PyMC Series of events:  https://pymc-data-umbrella.xyz/en/latest/webinars/index.html
 
 

@@ -54,6 +54,9 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 37 | Doris Lee  | [Visualize Your Pandas Dataframe with Zero Effort with Lux](2021/37-doris-lux.md)                 |                        |              |        |
 | 38 | Ian Flores | [R, an Ecosystem Where Pythonistas Can Thrive](2021/38-ian-r.md)       |                        |              |        |
 | 39 | Eduardo Blancs  |  [Ploomber, Maintainable and Collaborative Pipelines in Jupyter](2021/39-eduardo-ploomber.md) |                        |              |        |
+| 40 | Meenal Jhajharia| [Intro to NumPy Array Operations](2022/40-meenal-array.md)       |                        |              |        |
+| 41 | Austin Rochford | [Introduction to Probabilistic Programming with PyMC](2022/41-austin-pymc.md)       |                        |              |        |
+| 42 | Gonzalo Peña-Castellanos | [Automating Workflows with GitHub Actions](2022/42-gonzalo-github-actions.md)       |                        |              |        |
 |  | |                 |                        |              |        |
 |  | |                 |                        |              |        |
 
