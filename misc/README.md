@@ -2,13 +2,12 @@
 
 
 - +41 videos
-- -26 descriptions complete
+- -27 descriptions complete
 ------------------
-- =15 left
+- =14 left
 
 
 Order of most popular:  
-1. doris
 1. terminal
 1. megan
 1. bot
