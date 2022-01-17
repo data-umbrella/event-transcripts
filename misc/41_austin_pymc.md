@@ -47,6 +47,8 @@ Austin Rochford: Introduction to Probabilistic Programming with PyMC
 00:28:10 Using arviz (library with pre-built visualizations and statistical routines that will help you understand the results of your inference with PyMC.
 00:33:08 What is Ridge Regression? (normal priors on your coefficients)
 00:36:05 Student-T Distribution
+00:39:00 Why are we using Aesara? To do Hamiltonian Monte Carlo
+00:43:10 Bayesian Analysis of Lego Prices
 00:50:37 Meenal talks about upcoming PyMC sprint
 00:56:30 Q&A with Austin
 
