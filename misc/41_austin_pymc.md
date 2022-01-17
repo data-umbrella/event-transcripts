@@ -16,6 +16,7 @@ Austin Rochford: Introduction to Probabilistic Programming with PyMC
 ## Resources
 - Jupyter Notebook: https://github.com/pymc-devs/pymc-data-umbrella/blob/main/webinars/probabilistic_programming_with_pymc/notebook.ipynb
 - Austin's website: https://austinrochford.com/talks.htmlhttps://austinrochford.com/talks.html	
+- Arviz: https://github.com/arviz-devs/arviz
 - PyMC Series of events: https://pymc-data-umbrella.xyz/en/latest/webinars/index.html
 
 ## Topics Covered
@@ -38,12 +39,14 @@ Austin Rochford: Introduction to Probabilistic Programming with PyMC
 00:08:53 What is probabilistic programming?
 00:10:15 Mathematical: Monte Carlo Methods
 00:13:55 Monty Hall Problem (game: Let's Make a Deal)
-00:16:15 Solve Monty Hall Problem using PyMC
+00:16:15 Solve Monty Hall Problem using PyMC (solution)
 00:18:42 Using aesara
 00:21:00 Doing inference with sampling
 00:24:00 What is Aesara? (It is based on Theano.) PyMC's tensor computational backend, fills niche such as PyTorch or TensorFlow.
 00:25:20 Using PyMC to do robust regression: with example Anscombe's Quartet
 00:28:10 Using arviz (library with pre-built visualizations and statistical routines that will help you understand the results of your inference with PyMC.
+00:33:08 What is Ridge Regression? (normal priors on your coefficients)
+00:36:05 Student-T Distribution
 00:50:37 Meenal talks about upcoming PyMC sprint
 00:56:30 Q&A with Austin
 
