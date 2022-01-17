@@ -42,7 +42,8 @@ Austin Rochford: Introduction to Probabilistic Programming with PyMC
 00:18:42 Using aesara
 00:21:00 Doing inference with sampling
 00:24:00 What is Aesara? (It is based on Theano.) PyMC's tensor computational backend, fills niche such as PyTorch or TensorFlow.
-00:25:20 Robust Regression example: Anscombe's Quartet
+00:25:20 Using PyMC to do robust regression: with example Anscombe's Quartet
+00:28:10 Using arviz (library with pre-built visualizations and statistical routines that will help you understand the results of your inference with PyMC.
 00:50:37 Meenal talks about upcoming PyMC sprint
 00:56:30 Q&A with Austin
 
