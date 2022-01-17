@@ -2,13 +2,12 @@
 
 
 - +41 videos
-- -29 descriptions complete
+- -30 descriptions complete
 ------------------
-- =12 left
+- =11 left
 
 
 Order of most popular:  
-1. bot
 1. matt
 1. luisa
 1. shailvi
