@@ -2,13 +2,12 @@
 
 
 - +41 videos
-- -30 descriptions complete
+- -31 descriptions complete
 ------------------
-- =11 left
+- =10 left
 
 
 Order of most popular:  
-1. matt
 1. luisa
 1. shailvi
 1. coonoor
