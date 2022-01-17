@@ -39,6 +39,9 @@ Austin Rochford: Introduction to Probabilistic Programming with PyMC
 00:10:15 Mathematical: Monte Carlo Methods
 00:13:55 Monty Hall Problem (game: Let's Make a Deal)
 00:16:15 Solve Monty Hall Problem using PyMC
+00:18:42 Using aesara
+00:21:00 Doing inference with sampling
+00:24:00 What is Aesara? (It is based on Theano.) PyMC's tensor computational backend, fills niche such as PyTorch or TensorFlow.
 00:50:37 Meenal talks about upcoming PyMC sprint
 00:56:30 Q&A with Austin
 
