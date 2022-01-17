@@ -18,9 +18,9 @@ https://www.meetup.com/data-umbrella
 
 
 
-## Video:   ** NEED TO UPDATE **
+## Video:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=OI8TTH8EsDI" target="_blank"><img src="http://img.youtube.com/vi/OI8TTH8EsDI/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Qu6-_AnRCs8" target="_blank"><img src="http://img.youtube.com/vi/Qu6-_AnRCs8/0.jpg"
 alt="Eduardo Blancas: Pipelines in Jupyter with Ploomber" width="50%" /></a>
 
 ## Transcript
