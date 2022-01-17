@@ -18,9 +18,22 @@ Austin Rochford: Introduction to Probabilistic Programming with PyMC
 - Austin's website: https://austinrochford.com/talks.htmlhttps://austinrochford.com/talks.html	
 - PyMC Series of events: https://pymc-data-umbrella.xyz/en/latest/webinars/index.html
 
+## Topics Covered
+- Probabilistic programming from two perspectives
+-- Philosophical: storytelling with data
+-- Mathematical: Monte Carlo methods
+- Probabilistic programming with PyMC
+-- The Monty Hall problem
+-- Robust regression
+- Hamiltonian Monte Carlo
+-- Aesara
+- Lego? example
+- Next Steps
+
 ## Agenda
 00:00:00 Reshama introduces Data Umbrella
 00:04:40 Austin begins talk 
+00:06:15 Talk agenda
 00:50:37 Meenal talks about upcoming PyMC sprint
 00:56:30 Q&A with Austin
 
