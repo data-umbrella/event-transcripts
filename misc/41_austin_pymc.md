@@ -34,6 +34,11 @@ Austin Rochford: Introduction to Probabilistic Programming with PyMC
 00:00:00 Reshama introduces Data Umbrella
 00:04:40 Austin begins talk 
 00:06:15 Talk agenda
+00:08:08 Probabilistic programming from two perspectives
+00:08:53 What is probabilistic programming?
+00:10:15 Mathematical: Monte Carlo Methods
+00:13:55 Monty Hall Problem (game: Let's Make a Deal)
+00:16:15 Solve Monty Hall Problem using PyMC
 00:50:37 Meenal talks about upcoming PyMC sprint
 00:56:30 Q&A with Austin
 
