@@ -16,16 +16,45 @@ Austin Rochford: Introduction to Probabilistic Programming with PyMC
 ## Resources
 - Jupyter Notebook: https://github.com/pymc-devs/pymc-data-umbrella/blob/main/webinars/probabilistic_programming_with_pymc/notebook.ipynb
 - Austin's website: https://austinrochford.com/talks.htmlhttps://austinrochford.com/talks.html	
+- Arviz: https://github.com/arviz-devs/arviz
 - PyMC Series of events: https://pymc-data-umbrella.xyz/en/latest/webinars/index.html
+
+## Contribute to PyMC: upcoming online hackathon (sprint)
+- https://www.meetup.com/data-umbrella/events/283178769/
+
+## Topics Covered
+- Probabilistic programming from two perspectives
+-- Philosophical: storytelling with data
+-- Mathematical: Monte Carlo methods
+- Probabilistic programming with PyMC
+-- The Monty Hall problem
+-- Robust regression
+- Hamiltonian Monte Carlo
+-- Aesara
+- Lego? example
+- Next Steps
 
 ## Agenda
 00:00:00 Reshama introduces Data Umbrella
 00:04:40 Austin begins talk 
+00:06:15 Talk agenda
+00:08:08 Probabilistic programming from two perspectives
+00:08:53 What is probabilistic programming?
+00:10:15 Mathematical: Monte Carlo Methods
+00:13:55 Monty Hall Problem (game: Let's Make a Deal)
+00:16:15 Solve Monty Hall Problem using PyMC (solution)
+00:18:42 Using aesara
+00:21:00 Doing inference with sampling
+00:24:00 What is Aesara? (It is based on Theano.) PyMC's tensor computational backend, fills niche such as PyTorch or TensorFlow.
+00:25:20 Using PyMC to do robust regression: with example Anscombe's Quartet
+00:28:10 Using arviz (library with pre-built visualizations and statistical routines that will help you understand the results of your inference with PyMC.
+00:33:08 What is Ridge Regression? (normal priors on your coefficients)
+00:36:05 Student-T Distribution
+00:39:00 Why are we using Aesara? To do Hamiltonian Monte Carlo.
+00:43:10 Bayesian Analysis of Lego Prices
+00:49:00 Recommended books
 00:50:37 Meenal talks about upcoming PyMC sprint
 00:56:30 Q&A with Austin
-
-
-
  
 ## Event
 
