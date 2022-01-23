@@ -57,6 +57,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 40 | Meenal Jhajharia| [Intro to NumPy Array Operations](2022/40-meenal-array.md)       |                        |              |        |
 | 41 | Austin Rochford | [Introduction to Probabilistic Programming with PyMC](2022/41-austin-pymc.md)       |                        |              |        |
 | 42 | Gonzalo Peña-Castellanos | [Automating Workflows with GitHub Actions](2022/42-gonzalo-github-actions.md)       |                        |              |        |
+| 43 | Ricardo Vieira | [Contributing to PyMC](2022/43-ricardo-vieira-contributing-pymc.md)       |                        |              |        |
 |  | |                 |                        |              |        |
 |  | |                 |                        |              |        |
 
