@@ -9,24 +9,49 @@ Gonzalo Peña-Castellanos: Automating Workflows with GitHub Actions
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/42-gonzalo-github-actions.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/282772806/
 - Video:  https://youtu.be/d48WGkePFq0
-- GitHub repo:
 
+## Resources
+- Slides: https://bit.ly/github-workflows
+- GitHub Support: https://support.github.com
+- Napari repo:  https://github.com/tlambert03/napari-plugin-action
+- GitHub Actions documentation: https://github.com/tlambert03/napari-plugin-action
+- Mariatta's talk on continuous integration: https://youtu.be/vLBr_AfomUY
+
+## Outline of Talk
+- GitHub, Workflows and GitHub Actions
+- Actions components
+- GitHub Actions marketplace
+- Workflow syntax
+- Creating a Workflow
+- Creating a custom action
 
 ## Agenda
 00:00:00 Reshama introduces Data Umbrella
+00:00:00 Gonzalo introduces self and projects
+00:06:36 Outline of talk  
+00:08:00 GitHub, Workflows and GitHub Actions
+00:11:00 GitHub Development Workflow with "events"
+Can trigger "events" or "actions" based on these events: issue opened, PR submitted, comment on issue or PR is merged, closed or updated
+00:11:55 Continuous integration and continuous development (CI/CD)
+00:12:05 ("webhook" mentioned), cross-platform testing is done by CI/CD  
+00:13:55 Microsoft and how GitHub Actions started; GH actions is a nice wrapper around Azure pipelines   
+00:15:07 What are GitHub Actions? A platform to "automate development workflows"  
+00:15:22 Mariatta's talk on CI/CD  
+00:16:00 What are developer workflows?  CI/CD does not mean GitHub actions. It is one of *many* workflows you can automate, but it is not the only one.
+00:16:13 Types of developer workflows
+00:19:35 Part 2: GitHub Action Components  
+00:19:52 Workflows (& YAML files)   
+00:20:28 Events  
+00:20:55 Jobs and Runners  
+00:21:52 Actions  
+00:22:55 Workflow Syntax  
+00:23:15 Workflow yaml file 
+00:24:00 YAML = YAML Ain't Markup Language   
+00:26:21 Event types: labels  
+00:26:44 Event types: Pushing / PRs / Branches  
+00:00:00  
+00:00:00  
 00:00:00 
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00   
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-
  
 ## Event
 Learn about GitHub Actions and how they can accelerate your application development workflows. A workflow is a configurable automated process made up of one or more jobs. We will learn how to configure and use workflows existing current actions and start looking at how an action can be developed from scratch.
