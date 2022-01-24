@@ -3,12 +3,13 @@
 ## Key Links
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/26-luisa-astronomy.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/277511547/
-- Video:  https://youtu.be/q10mVlYQUbA
+- Video 1: https://youtu.be/q10mVlYQUbA
 - GitHub repo:   N/A
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
 - http://web.ipac.caltech.edu/staff/rebull/outr/datalinks.html
+- Video 2 (Demo on Accessing IRSA astronomy data): https://youtu.be/veUkHUP_V4M
 
 ## Video:  
 
