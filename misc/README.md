@@ -2,15 +2,13 @@
 
 
 - +42 videos
-- -35 descriptions complete
+- -37 descriptions complete
 ------------------
-- =07 left
+- =05 left
 
 Order of most popular:  
 1. shailvi
-1. coonoor
-1. excel
-1. ryan
-1. nimble
+1. placekey (ryan)
+1. nimble (Liz)
 1. discord
 1. vsc
