@@ -4,8 +4,6 @@ https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint/blob/master/1
 
 
 ```text
-
-
 ## Agenda
 00:00:00 to 00:00:40 Intro 
 00:00:40 Instructions for scikit-learn
@@ -27,5 +25,28 @@ https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint/blob/master/1
 00:25:25 Workflow Reminders
 00:29:00 Final Words
 00:29:59 Thank you
+
+```
+
+```
+## Info:  Video Volume 2
+- video: https://youtu.be/p_2Uw2BxdhA
+
+Reminder:
+- The "master" branch has now been renamed to "main".
+
+## Agenda
+00:00:00 Intro 
+00:00:31 Check out the basics
+00:00:59 Pair programming
+00:02:04 Pair Programming: TIPS
+00:03:06 Navigating the code
+00:03:41 Demo 1: VSCode
+00:06:08 Demo 2: scikit-learn PR
+00:06:30 Demo 3: Search Function
+00:07:58 Basics of Sphinx
+00:09:29 Updating your branch(es)
+00:10:54 Branches and your second pull request (PR)
+00:13:04 Data Scientists
 
 ```
