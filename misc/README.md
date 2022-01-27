@@ -2,11 +2,9 @@
 
 
 - +42 videos
-- -39 descriptions complete
+- -42 descriptions complete
 ------------------
-- =03 left
+- =00 left
 
 Order of most popular:  
-1. nimble (Liz)
-1. discord (RS)
-1. vsc (RS/JML)
+
