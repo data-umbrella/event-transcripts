@@ -23,7 +23,18 @@ Ricardo Vieira: Contributing to PyMC
 
 ## Agenda
 00:00:00 Reshama introduces Data Umbrella
-00:xx:xx Ricardo begins
+00:04:08 Ricardo begins
+00:07:20 About PyMC
+00:10:30 PyMC Timeline & Personal Timeline (History)
+00:14:10 How it started: an innocent feature request
+00:16:05 What does a first PR (pull request) look like? 
+00:19:30 How was the contributing experience?
+00:20:20 There is a whole community to support and challenge you
+00:20:37 Came back to keep contributing
+00:21:39 Reviewing a first time contributor's pull request (being on the other side of it)
+00:27:22 So you want to be an OSS contributor?
+00:31:35 Q&A
+
 
 ## Event
 From first time contributor to project maintainer. What is it like? In this testimonial I'll revisit the steps of my first ever contributions to Open Source Software, to the PyMC library. I will then jump one year into the present and show what reviewing someone else's first time contribution looks like. Hopefully, this will help demystify open source contributions without taking any of the magic out of them!
