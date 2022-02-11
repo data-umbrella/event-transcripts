@@ -19,7 +19,7 @@ Oriol Abril Pla: Contributing to PyMC Documentation
 - PyMC Sprint website: https://pymc-data-umbrella.xyz
 - Getting started with contributing to PyMC, docstring tutorial: https://pymc-data-umbrella.xyz/en/latest/sprint/docstring_tutorial.html#docstring-tutorial
 
-
+```text
 ## Agenda
 00:00:00 Reshama introduces Data Umbrella
 00:05:28 Oriol begins, Overview of PyMC Documentation
@@ -34,7 +34,7 @@ Oriol Abril Pla: Contributing to PyMC Documentation
 00:00:00  
 00:00:00  
 00:00:00  
-
+```
  
 ## Event
 The best software libraries of the world are severely restrictive and inaccessible if they are not properly documented, resulting in few or no users. PyMC has an extensive documentation corpus with examples of all kinds which has been built since its initial release back in 2015! In this webinar we’ll explain how to contribute to PyMC documentation to update it to our new infrastructure built during the last 8 months thanks to Outreachy and GSoD (Google Season of Docs).
