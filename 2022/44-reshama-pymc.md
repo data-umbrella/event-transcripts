@@ -1,3 +1,4 @@
+# Reshama Shaikh: An Example Pull Request to PyMC
 
 ## Upcoming Events
 Join our Meetup group for more events!
@@ -25,34 +26,33 @@ NumPy Style Guide:
 https://numpydoc.readthedocs.io/en/latest/format.html#sections
 
 
-## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:00:00 
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00   
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-
- 
-
 ## About the Speaker
 Reshama Shaikh
 
-LinkedIn: https://www.linkedin.com/in/reshamas/
-Twitter: https://twitter.com/reshamas
+LinkedIn: https://www.linkedin.com/in/reshamas/ \
+Twitter: https://twitter.com/reshamas \
 GitHub: https://github.com/reshamas
 
 
-## Video: ** NEED TO UPDATE **
+## Video:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Iq0dY5hU4D4" target="_blank"><img src="http://img.youtube.com/vi/Iq0dY5hU4D4/0.jpg"
-alt="Ricardo Vieira: Contributing to PyMC" width="50%" /></a>
+
+## Agenda
+00:00:00 Reshama introduces Data Umbrella\
+00:00:00
+00:00:00
+00:00:00
+00:00:00
+00:00:00
+00:00:00
+00:00:00
+00:00:00
+00:00:00
+00:00:00
+00:00:00
+00:00:00
+
 
 ## Transcript
