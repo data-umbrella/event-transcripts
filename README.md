@@ -58,7 +58,8 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 41 | Austin Rochford | [Introduction to Probabilistic Programming with PyMC](2022/41-austin-pymc.md)       |                        |              |        |
 | 42 | Gonzalo Peña-Castellanos | [Automating Workflows with GitHub Actions](2022/42-gonzalo-github-actions.md)       |                        |              |        |
 | 43 | Ricardo Vieira | [Contributing to PyMC](2022/43-ricardo-vieira-contributing-pymc.md)       |                        |              |        |
-| 44 | Oriol Abril | [Contributing to PyMC Documentation](2022/44-oriol-abril-contributing-pymc-doc.md)       |                        |              |        |
+| 44 | Reshama Shaikh| [An Example Pull Request to PyMC](2022/44-reshama-pymc.md)       |                        |              |        |
+| 45 | Oriol Abril Pla | [Contributing to PyMC Documentation](2022/45-oriol-abril-contributing-pymc-doc.md)       |                        |              |        |
 |  | |                 |                        |              |        |
 |  | |                 |                        |              |        |
 
