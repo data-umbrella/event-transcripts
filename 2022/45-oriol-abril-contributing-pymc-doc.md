@@ -38,20 +38,4 @@ GitHub: https://github.com/OriolAbril
 alt="Oriol Abril Pla: Contributing to PyMC Documentation " width="50%" /></a>
 
 
-## Agenda
-00:00:00 Reshama introduces Data Umbrella \
-00:05:28 Oriol begins, Overview of PyMC Documentation \
-00:11:22 Implementation: Jupyter Notebook + sphinx (+ extensions) \
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00   
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00
-
-
 ## Transcript
