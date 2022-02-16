@@ -4,6 +4,7 @@
 Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
+Oriol Abril Pla: Contributing to PyMC Documentation
 
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/45-oriol-abril-contributing-pymc-doc.md
