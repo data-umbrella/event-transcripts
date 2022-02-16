@@ -39,20 +39,5 @@ GitHub: https://github.com/reshamas
 alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 
 
-## Agenda
-00:00:00 Reshama introduces Data Umbrella\
-00:00:00
-00:00:00
-00:00:00
-00:00:00
-00:00:00
-00:00:00
-00:00:00
-00:00:00
-00:00:00
-00:00:00
-00:00:00
-00:00:00
-
 
 ## Transcript
