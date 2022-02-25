@@ -9,7 +9,7 @@ Julia Signell: Introduction to Holoviz
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/50-julia-holoviz.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/283994637/
-- Video: https://youtu.be/NbmdFJsnuuo
+- Video: 
 - GitHub repo: https://github.com/jsignell/intro-to-holoviz
 - Transcriber:  ? [needs a transcriber]
 
