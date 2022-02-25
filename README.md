@@ -60,6 +60,11 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 43 | Ricardo Vieira | [Contributing to PyMC](2022/43-ricardo-vieira-contributing-pymc.md)       |                        |              |        |
 | 44 | Reshama Shaikh| [An Example Pull Request to PyMC](2022/44-reshama-pymc.md)       |                        |              |        |
 | 45 | Oriol Abril Pla | [Contributing to PyMC Documentation](2022/45-oriol-abril-contributing-pymc-doc.md)       |                        |              |        |
+| 46 | Christy Heaton| [Geospatial Data and Maps with Python](2022/46-christy-python-geomapping.md)       |                        |              |        |
+| 47 | Laura Gutierrez| [Creating a Python Plotly Dashboard](2022/47-laura-plotly-dashboard.md)       |                        |              |        |
+| 48 | Clair Sullivan| [Arrays, Linked Lists and Graphs](2022/48-clair-linkedlist.md)       |                        |              |        |
+| 49 | Lauren Burke| [Setting up a Personal Website with Jekyll & GitHub Pages](2022/49-lauren-jekyll-blog.md)       |                        |              |        |
+| 50 | Julia Signell| [Introduction to Holoviz](2022/50-julia-holoviz.md)       |                        |              |        |
 |  | |                 |                        |              |        |
 |  | |                 |                        |              |        |
 
