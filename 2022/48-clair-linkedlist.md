@@ -9,7 +9,7 @@ Clair Sullivan: Arrays, Linked Lists and Graphs
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/48-clair-linkedlist.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/283846178/
-- Video: https://youtu.be/NbmdFJsnuuo
+- Video: 
 - GitHub repo: https://github.com/cj2001/data_umbrella_linked_lists 
 - Transcriber:  ? [needs a transcriber]
 
