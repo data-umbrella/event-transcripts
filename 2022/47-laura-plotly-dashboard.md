@@ -9,7 +9,7 @@ Laura Gutierrez: Creating a Python Plotly Dashboard
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/47-laura-plotly-dashboard.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/284027428/
-- Video: https://youtu.be/NbmdFJsnuuo
+- Video: 
 - GitHub repo: N/A
 - Transcriber:  ? [needs a transcriber]
 
