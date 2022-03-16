@@ -46,6 +46,9 @@ Clair Sullivan: Arrays, Linked Lists and Graphs: Identifying the Right Tool for 
 00:41:47 How to Get Into Graphs with Python
 00:42:45 Graph python packages vs graph databases
 00:44:20 sandbox.neo4j.com (get free databases instances)
+00:52:00 Graph Data Science (https://github.com/cj2001/data_umbrella_linked_lists/blob/main/notebooks/graph_data_science.ipynb)
+00:56:00 Cypher query
+01:00:20 Q&A
 
 ## Event
 It is easy and convenient to treat all data as an array. They are the basis of much of Python and a simple data structure to deal with. But there are times that arrays fail us, such as on element insertion and the pre-allocation of memory. There is power and efficiency in linking data through data structures such as linked lists. We will see how using linked lists can reduce Big O complexity and solve a variety of problems. Then we will explore how graph data structures take this a step further and open up a world of new options and opportunities for efficient computation.
