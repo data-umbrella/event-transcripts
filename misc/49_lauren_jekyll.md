@@ -20,10 +20,22 @@ Lauren Burke: Setting up a Personal Website with Jekyll & GitHub Pages
 - Reshama's blog:  https://reshamas.github.io
 - Lauren's blog: https://laurburke.github.io
 
+## Outline
+- Section 1: Jekyll / GitHub Pages Background
+- Section 2: Creating Your Site
+- Section 3: Hosting on GitHub Pages
+- Section 4: Customization Options
 
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:00:00 Lauren begins talk
+00:00 Reshama introduces Data Umbrella
+03:50 Reshama introduces Lauren
+05:15 Lauren begins presentation
+05:48 Lauren: Intro & Agenda
+06:12 Section 1: Background
+06:15 Why create a personal website/blog?
+07:24 What are Jekyll & GitHub Pages?
+08:05 Why use Jekyll / GitHub Pages?
+08:50 Section 2: Creating Your Site
 
 
 ## Event
