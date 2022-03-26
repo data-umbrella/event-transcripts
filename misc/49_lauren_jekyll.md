@@ -10,7 +10,7 @@ Lauren Burke: Setting up a Personal Website with Jekyll & GitHub Pages
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/49-lauren-jekyll.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/284042132/
-- Video:  
+- Video:  https://youtu.be/7SBXl94xNl8
 - GitHub repo:  https://github.com/laurburke2/laurburke2.github.io
  
 ## Resources
