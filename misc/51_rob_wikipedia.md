@@ -10,7 +10,7 @@ Rob Lanphier: Editing Wikipedia: Because Someone Has to...
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/
 - Meetup Event: https://www.meetup.com/data-umbrella/events/284604324/
-- Video: 
+- Video: https://youtu.be/s5kUSMUaZLM
 - Slides: https://docs.google.com/presentation/d/1F_X9CcwvBwWq1I95B15tc22r2iJvsen8t19RlK4azmk/edit?usp=sharing
 
 ## Resources
