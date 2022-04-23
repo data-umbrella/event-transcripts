@@ -9,7 +9,7 @@ Laura Gutierrez: Creating a Python Plotly Dashboard
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/47-laura-plotly-dashboard.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/284027428/
-- Video: 
+- Video: https://www.youtube.com/watch?v=b1gmh4W3H9A
 - GitHub repo: N/A
 - Transcriber:  ? [needs a transcriber]
 
@@ -23,9 +23,9 @@ LinkedIn: https://www.linkedin.com/in/laurafunderburk/
 Twitter: https://twitter.com/LGFunderburk
 GitHub: https://github.com/lfunderburk
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+## Video:  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=b1gmh4W3H9A" target="_blank"><img src="http://img.youtube.com/vi/b1gmh4W3H9A/0.jpg"
+alt=" Laura Gutierrez: Creating a Python Plotly Dashboard" width="50%" /></a>
 
 
 ## Transcript
