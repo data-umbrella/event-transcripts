@@ -26,15 +26,22 @@ https://numpydoc.readthedocs.io/en/latest/format.html#sections
 
 
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:00:00 
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-
- 
+00:00:00 Data Umbrella Introduction
+00:00:17 PyMC Introduction
+00:00:25 -- Tutorial on Contributing to PyMC Library --
+00:00:37 Steps for Submitting a Pull Request 
+00:01:19 1. Get a GitHub account
+00:01:30 2. Install Git, Conda, text editor
+00:02:05 3. Fork/clone/create branch
+00:05:05 4. Choosing a documentation to work on and create a feature branch
+00:05:48 5. Creating virtual environment (can take awhile)
+00:09:28   -Finished creating virtual environment
+00:10:20 6. Install PyMC
+00:11:36 7. Open and Edit file with text editor
+00:15:40 8. Commit and Push changes to branch
+00:16:14 9. Submit a pull request (PR)
+00:20:10 Contributing Notes
+00:20:26 PR approval messages 
 
 ## About the Speaker
 Reshama Shaikh
