@@ -9,7 +9,7 @@ William Lyon: Introduction to GraphQL for Data Scientists
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/
 - Meetup Event: https://www.meetup.com/data-umbrella/events/284764217/
-- Video: 
+- Video: https://youtu.be/3QVguMgyAhU
 - GitHub repo: https://dev.neo4j.com/graphql-data-science-repo
 - Transcriber:  ? [needs a transcriber]
 
