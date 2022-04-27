@@ -16,7 +16,7 @@ William Lyon: Introduction to GraphQL for Data Scientists
 ## Resources
 
 ## About the Speaker
-William Lyon
+William Lyon is a Developer Relations Engineer at Neo4j, the open-source graph database where he helps developers and data scientists be successful with graphs. He is the author of the book "Full Stack GraphQL" published by Manning and holds a masters degree in Computer Science from the University of Montana.
 
 LinkedIn: https://www.linkedin.com/in/lyonwj/
 Twitter: https://twitter.com/lyonwj
