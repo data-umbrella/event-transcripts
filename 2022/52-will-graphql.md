@@ -1,7 +1,7 @@
 # William Lyon: Introduction to GraphQL for Data Scientists
 
 ## Upcoming Events
-Join our Meetup group for more events!
+Join our Meetup group for more events!  
 https://www.meetup.com/data-umbrella
 
 William Lyon: Introduction to GraphQL for Data Scientists
@@ -21,9 +21,9 @@ William Lyon: Introduction to GraphQL for Data Scientists
 ## About the Speaker
 William Lyon is a Developer Relations Engineer at Neo4j, the open-source graph database where he helps developers and data scientists be successful with graphs. He is the author of the book "Full Stack GraphQL" published by Manning and holds a masters degree in Computer Science from the University of Montana.
 
-LinkedIn: https://www.linkedin.com/in/lyonwj/
-Twitter: https://twitter.com/lyonwj
-GitHub: https://github.com/johnymontana
+- LinkedIn: https://www.linkedin.com/in/lyonwj/
+- Twitter: https://twitter.com/lyonwj
+- GitHub: https://github.com/johnymontana
 
 ## Video:  ** NEED TO UPDATE **
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
