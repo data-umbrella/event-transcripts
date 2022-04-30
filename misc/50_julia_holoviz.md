@@ -16,14 +16,28 @@ Julia Signell: Introduction to Holoviz
 ## Resources
 - IWD 1-minute video: https://youtu.be/Z81fx_Fa34o
 
-
-## Outline
-
-
 ## Agenda
-00:00 Reshama introduces Data Umbrella
-00:00 Julia begins presenation
-
+00:00:00 -- Data Umbrella Introduction by Reshama --
+00:04:56 -- Presentation on Holoviz by Julia --
+00:05:46 Intro to Holoviz
+00:06:30 Visualization Overview
+00:09:53 Intro to the dataset
+00:12:36 * Section 1: HvPlot demo
+00:16:38 Grouping
+00:17:48 Combining Plots
+00:18:38 * Section 2: Visualizing Array Data with HvPlot
+00:21:28 Adding Geographic context
+00:22:35 * Section 3: Interactive Pipelines
+00:23:52 Widgets
+00:26:53 Adding interactive component
+00:29:21 * Section 4: Making a Dashboard with Panel
+00:30:14 Building components of the dashboard
+00:31:53 Callbacks (optional)
+00:33:00 Set up the dashboard using a template
+00:33:50 Finished Dashboard
+00:35:05 Running the dashboard using Terminal
+00:36:20 -- Recap of the workshop --
+00:37:18 -- Q & A --
 
 ## Event
 

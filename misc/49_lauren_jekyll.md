@@ -27,16 +27,32 @@ Lauren Burke: Setting up a Personal Website with Jekyll & GitHub Pages
 - Section 4: Customization Options
 
 ## Agenda
-00:00 Reshama introduces Data Umbrella
-03:50 Reshama introduces Lauren
-05:15 Lauren begins presentation
-05:48 Lauren: Intro & Agenda
-06:12 Section 1: Background
-06:15 Why create a personal website/blog?
-07:24 What are Jekyll & GitHub Pages?
-08:05 Why use Jekyll / GitHub Pages?
-08:50 Section 2: Creating Your Site
-
+00:00:00 -- Data Umbrella Introduction by Reshama --
+00:03:50 Reshama introduces Lauren
+00:05:15 -- Jekyll blog Presentation by Lauren -- 
+00:05:48 Intro & Agenda
+00:06:12 * Section 1: Background
+00:06:15 Why create a personal website/blog?
+00:07:24 What are Jekyll & GitHub Pages?
+00:08:05 Why use Jekyll / GitHub Pages?
+00:08:50 * Section 2: Creating Your Site
+00:08:53 Prerequisites
+00:09:30 Install Jekyll
+00:10:05 Create a New Jekyll Project
+00:10:45 Run your site locally
+00:11:16 What's inside the project?
+00:12:44 Updating Site Configuration
+00:13:32 * Section 3: Hosting on GitHub Pages
+00:13:39 Initialize the Repository
+00:14:15 Add the GitHub Pages Gem
+00:14:48 Personal Access Tokens (PAT)
+00:16:16 Push to GitHub
+00:18:05 * Section 4: Customization Options
+00:18:13 1. Theme
+00:21:04 2. Posts & Pages
+00:28:46 3. Blog Settings
+00:32:33 4. Other Customizations
+00:34:46 -- Q & A --
 
 ## Event
 
