@@ -42,14 +42,17 @@ Sean Law: Modern Time Series Analysis with STUMPY
 00:32:50 "These are the best ideas in time series data mining in the last two decades."
 00:33:05 STUMPY is born: a powerful and scalable open source Python library that efficiently computes the matrix profile, which can be used for a variety of time series data mining tasks
 00:34:35 STUMPY has minimal dependencies: Python (core), NumPy (numerical), SciPy (accessory), Numba (parallelize); + Dask (distribute) (optional)
-
-
-
-
+00:36:20 STUMPY code in python
+00:37:55 Why should you use STUMPY? (user friendly, developed by data scientists, interpretable, fast & scalable, reliable, complementary
+00:38:45 When should you use STUMPY? 
+00:39:05 Live demo and tutorial highlights
+00:39:20 Q&A: How does Euclidean distance method compare to cross-correlating the two time series? (Z normalized Euclidean distance with 1-to-1 mapping). A correlation of 1 is a distance of 0.
+00:40:48 Q&A: How do you pick sequence length? What do you do after identify the minimum (minima)?
+00:41:10 live example of STUMPY
 
 
 ## Event
-STUMPY is a powerful and scalable library that efficiently computes something called the matrix profile, which can be used for a variety of time series data mining tasks.
+STUMPY is a powerful and scalable library that efficiently computes something called the matrix profile, which can be used for a variety of time series data mining tasks.  STUMPY is open source (pip or conda install stumpy)
 
 ## About the Speaker
 Sean Law is a senior applied scientific researcher and lead data scientist currently working with a multi-talented R&D team at Charles Schwab. He has experience producing cutting edge methodologies, building high-performance predictive models, and developing rapid prototypes. Additionally, he is one of the co-organizers of PyData Ann Arbor and is also the creator and core maintainer of STUMPY, a powerful and scalable open source Python library that can be used for a variety of time series data mining tasks..
