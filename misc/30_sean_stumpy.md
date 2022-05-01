@@ -37,7 +37,12 @@ Sean Law: Modern Time Series Analysis with STUMPY
 00:27:40 looking at global minima (subsequence are each other's nearest neighbors) (motif = potential pattern)
 00:29:00 matrix profile index = the index (location) of the nearest neighbor for a given subsequence
 00:30:30 global, maxima, discord, anomaly
-00:31:10 Brute force, STAMP, STOMP, GPU-STOMP
+00:31:10 Algorithms: Brute force, STAMP, STOMP, GPU-STOMP
+00:32:20 "Given the matrix profile, most time series data mining problems are trivial or easy to solve in a few lines of code."
+00:32:50 "These are the best ideas in time series data mining in the last two decades."
+00:33:05 STUMPY is born: a powerful and scalable open source Python library that efficiently computes the matrix profile, which can be used for a variety of time series data mining tasks
+00:34:35 STUMPY has minimal dependencies: Python (core), NumPy (numerical), SciPy (accessory), Numba (parallelize); + Dask (distribute) (optional)
+
 
 
 
