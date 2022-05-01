@@ -18,10 +18,30 @@ Oriol Abril Pla: Intuitive Bayesian Modeling with PyMC3
 - https://github.com/corriebar/Bayesian-Workflow-with-PyMC
 - https://developers.google.com/season-of-docs/
 - https://github.com/bambinos/bambi
+- Probabilistic Programming and Bayesian Modeling with PyMC3 - Christopher Fonnesbeck: https://youtu.be/M-kBB2I4QlE
 
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:06:10 Oriol begins talk 
+00:00 Reshama introduces Data Umbrella
+06:55 Oriol begins talk 
+07:50 Bayesian Paradigm (Data is considered once fixed it has been observed; Model parameters are treated as random)
+11:20 Prior information (prior distributioin)
+12:30 Uncertainty
+13:55 Probabilistic programming
+14:42 Generative modeling
+14:48 Automagical solvers
+15:55 Inference algorithms (MCMC: HMC+NUTS, Metropolis, Gibbs); Variational inference: ADVI
+16:55 PyMC3
+17:58 PyMC version 4 is built on top of aesara. PyMC Version 3 was built on Theano.
+19:30 PyMC is extensible
+20:30 PyMC is community-driven
+23:45 PyMC in practice
+23:50 Example 1: Coal mining disasters
+30:00 Example 2: Housing prices in Berlin
+36:30 Acknowledgments
+38:15 Resources, where to go next
+40:45 python code example
+43:45 Oriol's journey in open source and statistics; was a Google Summer of Code scholar
+
 
  
 ## Event
