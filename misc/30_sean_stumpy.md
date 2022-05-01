@@ -11,7 +11,7 @@ Sean Law: Modern Time Series Analysis with STUMPY
 - Video:  https://youtu.be/XKNdXN-Jfmo
 
 ## Resources
-- https://stumpy.readthedocs.io/en/latest/
+- Documentation: https://stumpy.readthedocs.io/en/latest/
 - STUMPY on Twitter: https://twitter.com/stumpy_dev
 
 ## Agenda
@@ -28,6 +28,18 @@ Sean Law: Modern Time Series Analysis with STUMPY
 00:14:15 Simple and intuitive approaches to analyzing time series data: easy to interpret, user/data agnostic, no prior knowledge, parameter free (or limited)
 00:15:55 Parameters to choose: subsequence length m
 00:16:20 Using Euclidean distance to compare two subsequences (Pythagorean Theorem)
+00:18:40 Pairwise Euclidean Distance (distance profile: closest match, nearest neighbor)
+00:21:00 computing distance matrix: gives full information about conservation of subsequences
+00:22:12 Question to consider: is this solution scalable?
+00:22:25 compute distance matrix using python
+00:24:57 a new data structure: matrix profile.  "Matrix Profile" papers published in 2016 by University of California at Riverside & University of New Mexico
+00:25:23 What is a matrix profile? A: A vector that stores the distance between each subsequence within a time series and its nearest neighbor
+00:27:40 looking at global minima (subsequence are each other's nearest neighbors) (motif = potential pattern)
+00:29:00 matrix profile index = the index (location) of the nearest neighbor for a given subsequence
+00:30:30 global, maxima, discord, anomaly
+00:31:10 Brute force, STAMP, STOMP, GPU-STOMP
+
+
 
 
 
