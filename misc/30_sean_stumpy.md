@@ -54,6 +54,12 @@ Sean Law: Modern Time Series Analysis with STUMPY
 00:51:25 Q&A: How do you detect dynamic changes in the period and will it give the number of same events?
 00:52:50 Call to action: Contribute (to open source), Communicate, Consume
 00:53:50 Q on choosing a sequence size
+00:57:20 Q&A: Once I know what subsequences are closest, what's the next step?
+00:58:40 Q&A: It's powerful in Python. Hearing a lot about Julia. Do you think this is something that has potential in Julia lang?
+01:01:50 Q&A: Does STUMPY deal with irregularly sampled data on missing (time series) data?
+01:02:44 Q&A: Because of the pandemic, did you observe some interesting things with STUMPY?
+01:04:02 Q&A: How do we take care of outliers before computing the matrix profile?
+01:05:55 Q&A: How did you get started on this open source package?
 
 ## Event
 STUMPY is a powerful and scalable library that efficiently computes something called the matrix profile, which can be used for a variety of time series data mining tasks.  STUMPY is open source (pip or conda install stumpy)
