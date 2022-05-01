@@ -1,5 +1,3 @@
-
-
 ```text
 ## Upcoming Events
 Join our Meetup group for more events!
@@ -14,11 +12,18 @@ Sean Law: Modern Time Series Analysis with STUMPY
 
 ## Resources
 - https://stumpy.readthedocs.io/en/latest/
+- STUMPY on Twitter: https://twitter.com/stumpy_dev
 
 ## Agenda
 00:00:00 Reshama introduces Data Umbrella
 00:04:07 Sean begins talk 
- 
+00:05:14 The time series business problem
+00:08:00 Overview: Visualizations, Statistics, ARIMA, Anomaly Detection, Forecasting, Machine Learning, Clustering, Dymamic Time Warping
+00:10:00 Deep Learning
+00:11:38 Simple dataset example: Time series with length, n=13
+
+
+
 ## Event
 STUMPY is a powerful and scalable library that efficiently computes something called the matrix profile, which can be used for a variety of time series data mining tasks.
 
