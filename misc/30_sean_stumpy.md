@@ -20,7 +20,14 @@ Sean Law: Modern Time Series Analysis with STUMPY
 00:05:14 The time series business problem
 00:08:00 Overview: Visualizations, Statistics, ARIMA, Anomaly Detection, Forecasting, Machine Learning, Clustering, Dymamic Time Warping
 00:10:00 Deep Learning
-00:11:38 Simple dataset example: Time series with length, n=13
+00:11:38 Simple dataset example: Time series with length, n=13 (look for repeat patterns, anomalies)
+00:12:20 Subsequence: a portion or section of the full time series
+00:12:55 What's the goal in analyzing time series data?
+00:13:30 Question: Do any conserved behaviors exist in my time series data?
+00:13:50 Occam's Razor: simpler solutions are more likely to be correct than complex ones
+00:14:15 Simple and intuitive approaches to analyzing time series data: easy to interpret, user/data agnostic, no prior knowledge, parameter free (or limited)
+00:15:55 Parameters to choose: subsequence length m
+00:16:20 Using Euclidean distance to compare two subsequences (Pythagorean Theorem)
 
 
 
