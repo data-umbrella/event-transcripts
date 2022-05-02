@@ -17,19 +17,17 @@ Christy Heaton: Geospatial Data and Maps with Python
 
 
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:00:00 
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00   
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
+00:00:00 -- Data Umbrella Introduction by Reshama --
+00:04:01 Reshama introduces the talk
+00:05:05 -- Christy begins presentation-- 
+00:06:18 Maps and layers
+00:07:30 Projections and Coordinate Systems
+00:09:24 Mapping Software 
+00:10:47 Python mapping libraries 
+00:12:47 Demo time: Geopandas
+00:37:23 Demo time: Spatial Analysis
+00:53:15 Mapping limitations 
+00:53:52 -- Q & A --
 
  
 ## Event
