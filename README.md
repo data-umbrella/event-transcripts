@@ -65,7 +65,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 48 | Clair Sullivan| [Arrays, Linked Lists and Graphs](2022/48-clair-linkedlist.md)       |                        |              |        |
 | 49 | Lauren Burke| [Setting up a Personal Website with Jekyll & GitHub Pages](2022/49-lauren-jekyll-blog.md)       |                        |              |        |
 | 50 | Julia Signell| [Introduction to Holoviz](2022/50-julia-holoviz.md)       |                        |              |        |
-|  | |                 |                        |              |        |
-|  | |                 |                        |              |        |
-
+| 51 | Rob Lanphier| [Editing Wikipedia: Because Someone Has to...](2022/51-rob-wikipedia.md)|                        |              |        |
+| 52 | William Lyon| [Introduction to GraphQL for Data Scientists](2022/52-will-graphql.md)|
+| 53 | Sebastian Raschka and Adrian Wälchli| [Introduction to PyTorch](2022/53-sebastian-adrian-pytorch.md) | 
 
