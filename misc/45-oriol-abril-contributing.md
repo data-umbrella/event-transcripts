@@ -21,19 +21,21 @@ Oriol Abril Pla: Contributing to PyMC Documentation
 
 ```text
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:05:28 Oriol begins, Overview of PyMC Documentation
-00:11:22 Implementation: Jupyter Notebook + sphinx (+ extensions)   
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00   
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
+00:00:00 -- Data Umbrella Introduction by Reshama --
+00:05:28 -- Overview of PyMC Documentation by Oriol -- 
+00:11:22 Implementation: Jupyter Notebook + sphinx (+ extensions)  
+00:15:45 -- Tutorial - Notebook Transfomation --
+00:16:48 MyST: Markedly Structured Text
+00:19:10 Roles: helps assign references
+00:26:15 Formatting roles
+00:26:49 Directives: specify block/paragraph features
+00:27:19 Figure
+00:32:00 Admonitions directives
+00:33:06 -- Jupyter Style Guide --
+00:34:36 First cell / directive setup
+00:35:24 References
+00:36:51 Epilogue
+00:38:38 -- Q & A --
 ```
  
 ## Event
