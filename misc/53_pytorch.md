@@ -1,5 +1,3 @@
-
-
 ```text
 ## Upcoming Events
 Join our Meetup group for more events!
@@ -12,7 +10,7 @@ Video 1/3: https://youtu.be/B5GHmm3KN2A
 Video 2/3: https://youtu.be/AEMU92KOq1U
 
 [53c] Q&A: Sebastian Raschka & Adrian Wälchli (PyTorch, LightningLite)
-Video 3/3:
+Video 3/3: https://youtu.be/HaXK4Os5mdo
 
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/
@@ -26,6 +24,8 @@ Video 3/3:
 - Suggested resource: https://github.com/rasbt/deeplearning-models/blob/master/pytorch-lightning_ipynb/kfold/kfold-light-cnn-mnist.ipynb
 - https://github.com/rasbt/deeplearning-models/blob/master/pytorch-lightning_ipynb/kfold/kfold-light-cnn-mnist.ipynb
 - Sebastian's book: https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn
+- kfold: https://github.com/rasbt/deeplearning-models/blob/master/pytorch-lightning_ipynb/kfold/kfold-light-cnn-mnist.ipynb
+- model inspection:  https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html#inspect-the-model-using-tensorboard
 
 ## Community Announcements
 - Adding timestamps: https://github.com/data-umbrella/event-transcripts/issues/92
