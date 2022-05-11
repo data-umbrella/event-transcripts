@@ -16,15 +16,15 @@ Sebastian Raschka and Adrian Wälchli: Introduction to PyTorch
 ## Resources
 
 ## About the Speaker
-Sebastian
-LinkedIn: https://www.linkedin.com/in/sebastianraschka/
-Twitter: https://twitter.com/rasbt
-GitHub: https://github.com/rasbt
+### Sebastian
+- LinkedIn: https://www.linkedin.com/in/sebastianraschka/
+- Twitter: https://twitter.com/rasbt
+- GitHub: https://github.com/rasbt
 
-Adrian
-LinkedIn: https://www.linkedin.com/in/adrian-waelchli/
-GitHub: https://github.com/awaelchli
-Twitter: https://twitter.com/adrianwaelchli
+### Adrian
+- LinkedIn: https://www.linkedin.com/in/adrian-waelchli/
+- GitHub: https://github.com/awaelchli
+- Twitter: https://twitter.com/adrianwaelchli
 
 ## Video:  ** NEED TO UPDATE **
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
