@@ -26,6 +26,7 @@ Video 3/3: https://youtu.be/HaXK4Os5mdo
 - Sebastian's book: https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn
 - kfold: https://github.com/rasbt/deeplearning-models/blob/master/pytorch-lightning_ipynb/kfold/kfold-light-cnn-mnist.ipynb
 - model inspection:  https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html#inspect-the-model-using-tensorboard
+- Link to code examples: https://github.com/PyTorchLightning/dataumbrella22-intro-pytorch
 
 ## Community Announcements
 - Adding timestamps: https://github.com/data-umbrella/event-transcripts/issues/92
