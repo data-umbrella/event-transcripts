@@ -78,11 +78,19 @@ optimizer.zero_grad() (remember to reset the gradients for each iteration)
 17:22 Try different strategies for best performance
 20:10 docs.pytorchlightning.ai
     
-
 [53c] Video 3: Q&A with Sebastian and Adrian
-00:00:00  
-00:00:00  
-00:00:00  
+00:00 Getting started with Q&A 
+00:40 Q: Which activations functions have we used and why?
+02:50 Q: When and based on what criteria do we use nn.Module and nn.Sequential?
+04:10 Q: When do we use nn.Sequential?
+05:54 Q: More info on the  Developer conference: Lightning DevCon? 
+07:14 Q: Why do we have a static dataset instead of cross-validation?
+09:35 Q: Is reducing precision to 16-bit the same as quantization? (Quantization is mainly for speeding up inference. Mixed precision is more for training.)
+11:46 Q: After creating multiple models, we define them in the run method of lite, and we get our experiment results at lightning speed?
+12:42 Q: How do we measure and validate PyTorch performance?
+14:36 Q: Computational graphs seem like a practical way to look at modeling. Can you recommend resources to learn more about creating these graphs?
+
+
 
  
 ## Event
