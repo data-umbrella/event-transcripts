@@ -34,9 +34,39 @@ Video 3/3: https://youtu.be/HaXK4Os5mdo
 
 [53a] Video 1: Intro to PyTorch
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:00:00 
-00:00:00  
+00:00 Reshama introduces Data Umbrella
+08:25 Sebastian begins 
+09:50 What is PyTorch? (tensor library, automatic differentiation engine, deep learning library)
+10:50 TensorFlow vs PyTorch: why PyTorch is so popular
+12:55 PyTorch: tensor library (rank-x tensor: scalar, vector, matrix, 3D tensor, 4D tensor
+15:40 tensor library, torch.tensor ~= numpy.array)
+17:19 PyTorch: automatic differentiation support
+25:28 automatic differentiation in PyTorch
+26:30 autograd
+28:12 PyTorch: deep learning library 
+28:30 3 Steps in Neural Network Training
+29:39 Defining the Model
+33:50 Step 1: Define forward method
+37:28 Step 2: Defining the training loop (initialize the model and optimizer)
+41:10 Iterating over the training examples
+42:52 Computing the predictions
+45:10 Computing the backward pass (backpropagation)
+optimizer.zero_grad() (remember to reset the gradients for each iteration)
+46:41 Updating the model weights
+47:14 Tracking the performance
+47:52 no_grad() (we don't care about gradients here, we don't need to construct the computation graph)
+48:52 Why do I like PyTorch?
+50:38 Live Demo
+51:10 Developer conference: Lightning DevCon
+52:26 demo in Jupyter Notebook
+
+
+
+
+
+
+
+ 
 
 
 [53b] Video 2: Scaling Up with LightningLite
