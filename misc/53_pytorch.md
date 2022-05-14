@@ -60,20 +60,24 @@ optimizer.zero_grad() (remember to reset the gradients for each iteration)
 51:10 Developer conference: Lightning DevCon
 52:26 demo in Jupyter Notebook
 
-
-
-
-
-
-
- 
-
-
 [53b] Video 2: Scaling Up with LightningLite
+
 ## Agenda
-00:00:00 
-00:00:00 
-00:00:00    
+00:00 Sebastian finishes up, introduces Adrian: scaling the code to multiple GPUs
+01:26 Adrian begins
+02:05 Intro to LightningLite
+06:55 pip install pytorch-lightning
+08:15 The LightningLite Skeleton
+09:22 Step 1: Initializing the model and optimizer
+10:37 Step 2: Setting up the data loaders
+11:22 Step 3: Iterating over the training examples
+12:15 Step 4: Updating the model weights
+13:32 Why did we make these changes to the code?
+13:38 Accelerate your PyTorch code
+15:50 Mixed precision saves you memory
+17:22 Try different strategies for best performance
+20:10 docs.pytorchlightning.ai
+    
 
 [53c] Video 3: Q&A with Sebastian and Adrian
 00:00:00  
