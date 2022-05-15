@@ -21,11 +21,25 @@ Brendan Collins: Visualizing Data? Get to Know Bokeh!
 - Bokeh docs:  https://docs.bokeh.org/en/latest/index.html
 
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:05:30 Brendan begins talk 
-00:16:48 Brendan is working on the Bokeh Quickstart which is at https://github.com/bokeh/bokeh-notebooks/blob/main/quickstart/quickstart.ipynb  
-00:30:34 tutorial https://github.com/bokeh/bokeh-notebooks/tree/main/tutorial  
-00:40:50 Q&A begins  
+00:00 Reshama introduces Data Umbrella
+05:30 Brendan introduces self
+09:15 Bokeh presentation begins
+11:04 Applications which use bokeh (Dask, Panel, Chartify, Microscopium)
+14:55 History of Bokeh
+16:44 Brendan is working on the Bokeh Quickstart which is at (https://github.com/bokeh/bokeh-notebooks/blob/main/quickstart/quickstart.ipynb)
+24:05 Bokeh server (`bokeh serve`)
+25:50 Getting started with Bokeh (virtual environment, installation, etc.)  
+30:34 Bokeh Tutorial (https://github.com/bokeh/bokeh-notebooks/tree/main/tutorial)
+39:30 Contributing to Bokeh open source project
+40:50 Q&A begins
+41:10 Q: Is Bokeh similar to ggplot2?
+41:39 Q: What is the Bokeh project that you are most excited about?
+42:55 Q: Does Bokeh support datetime annotations on hover?
+43:40 Q: How do you choose between using different dataviz packages or tools in your work?
+46:25 Q: Can you talk a bit more about WebGL?
+49:57 Q: Including LaTeX support in Bokeh for pdf?
+51:25 Q: Does Bokeh use JavaScript directly, or in the backend? 
+52:06 Q: What is it about Bokeh visualizations that make them publication ready?
  
 ## Event
 Open source data visualization tools are increasing the ways that we can interact with massive datasets in meaningful ways. Bokeh is an interactive visualization library built for modern web browsers. It is a great tool for displaying large datasets in the form of interactive plots, dashboards and apps.
