@@ -19,21 +19,31 @@ William Lyon: Introduction to GraphQL for Data Scientists
 - Movies app:  https://movies.neo4j-graphql.com/
 - Colab notebook: https://colab.research.google.com/github/johnymontana/graphql-for-data-scientists/blob/main/notebooks/meetup.ipynb
 
+## Outline
+- What is GraphQL?
+  a) Created by Facebook in 2012, they open sourced it in 2015
+- Why is it interesting for data scientists?
+  a) As a data source
+  b) To operationalize the results of data science
 
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:00:00 
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00   
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
-00:00:00  
+00:00:00 Reshama/Beryl introduce Data Umbrella
+00:04:30 Will begins presentation
+00:06:38 Neo4j is hiring: neo4j.com/careers 
+00:09:35 What is GraphQL?  
+00:11:28 GraphQL Concepts: type definitions, Schema Definition Language (SDL)
+00:13:04 GraphQL Operations: query, mutation, subscript
+00:14:44 Selection set
+00:16:35 Resolver Functions
+00:19:50 Benefits of GraphQL (overfetching, underfetching)
+00:22:40 Challenges
+00:23:35 GraphQL Tooling: GraphQL Playground
+00:25:35 Demo
+00:35:35 Get data from Meetup API
+00:52:00 Working with GraphQL Data in a DataFrame
+00:53:30 Graph Data Science with Neo4j Sandbox
+00:55:50 Cypher Query Language
+
 
 ## About the Event
 This session will introduce GraphQL, with a focus on the use of GraphQL in data science. We will start with an overview of GraphQL, including the advantages/disadvantages of using GraphQL. Next, we will explore common patterns for building GraphQL APIs. Finally, we will see how GraphQL can be integrated into common data science workflows using Python and Jupyter notebooks. 
