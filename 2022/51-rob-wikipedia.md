@@ -17,12 +17,15 @@ Rob Lanphier: Editing Wikipedia: Because Someone Has to...
 ## Resources
 https://en.wikipedia.org/wiki/User:RobLa/NewEditorLinks
 
+## About the Event
+
+
 ## About the Speaker
 Rob Lanphier
 
-LinkedIn: https://www.linkedin.com/in/robla
-Twitter: https://twitter.com/robla
-GitHub: https://github.com/robla
+- LinkedIn: https://www.linkedin.com/in/robla
+- Twitter: https://twitter.com/robla
+- GitHub: https://github.com/robla
 
 ## Video:  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=s5kUSMUaZLM" target="_blank"><img src="http://img.youtube.com/vi/s5kUSMUaZLM/0.jpg"
