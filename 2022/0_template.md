@@ -12,6 +12,10 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
+[will post after the video is available]
+
+## About the Event
+[get from Meetup]
 
 ## About the Speaker
 [get from Meetup]
