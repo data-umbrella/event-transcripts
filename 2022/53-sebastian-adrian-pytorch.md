@@ -15,7 +15,12 @@ Sebastian Raschka and Adrian Wälchli: Introduction to PyTorch
 
 ## Resources
 
+## About the Event
+
+
 ## About the Speaker
+[bios]
+
 ### Sebastian
 - LinkedIn: https://www.linkedin.com/in/sebastianraschka/
 - Twitter: https://twitter.com/rasbt
