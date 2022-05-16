@@ -19,6 +19,7 @@ Doris Lee: Visualize Your Pandas Dataframe with Zero Effort with Lux
 ## Agenda
 00:00:00 Reshama introduces Data Umbrella
 00:05:15 Doris begins talk
+
 00:39:04 Getting started with Lux, installation, etc.  
 00:45:10 Q&A  
  
