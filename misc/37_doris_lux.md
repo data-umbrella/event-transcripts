@@ -17,11 +17,15 @@ Doris Lee: Visualize Your Pandas Dataframe with Zero Effort with Lux
 
 
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:05:15 Doris begins talk
+00:00 Reshama introduces Data Umbrella
+05:15 Doris begins talk
+06:43 Working with pandas
+09:28 Lux
+09:55 Hands-on demo: https://tinyurl.com/demo-lux
 
-00:39:04 Getting started with Lux, installation, etc.  
-00:45:10 Q&A  
+
+39:04 Getting started with Lux, installation, etc.  
+45:10 Q&A  
  
 ## Event
 Visualizations help data scientists discover trends, patterns, identify outliers, and derive insights from their data. However, existing visualization libraries in Python require users to write a substantial amount of code for plotting even a single visualization, often hindering the flow of data exploration. In this talk, you will learn about Lux, a lightweight visualization tool on top of Pandas dataframes. Lux recommends visualizations for free to users as they explore their data within a Jupyter notebook without the need to write additional code. For more information, see: https://github.com/lux-org/lux
