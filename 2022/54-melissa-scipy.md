@@ -12,7 +12,12 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-[will post after the video is available]
+- Slides:  https://hackmd.io/@melissawm/rJZKaomD5
+- SciPy on GitHub: https://github.com/scipy/scipy
+- Melissa's video on sphinx documentation: https://youtu.be/tXWscUSYdBs
+- Contribute to SciPy:  https://scipy.org/contribute/
+- SciPy meetings calendar: https://scientific-python.org/calendars/
+
 
 ## About the Event
 SciPy is one of the foundational libraries in the PyData/Scientific Python stack, and is a popular tool for scientists, data scientists, industry professionals and students. It builds upon the NumPy array structures and provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics and many other classes of problems. In this talk, we will walk through the steps necessary to contribute to SciPy, including code, documentation, triaging issues and pull request reviews. We will also talk about community and the different ways you can interact with SciPy maintainers.
