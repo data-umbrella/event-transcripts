@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/54-melissa-scipy.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/285571437/
-- Video: 
+- Video: https://youtu.be/V1FCSijy460
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
