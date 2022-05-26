@@ -39,14 +39,26 @@ alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 
 ## Transcript
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:04:25 Reshama introduces Melissa Mendonca
-00:05:12 Melissa begins her talk
-00:05:37 Talk Agenda
-00:06:29 Melissa mentions Imposter Syndrome
-00:07:38 What is Scipy?
-00:08:38 History of Scipy
-00:10:10 How Scipy is organized
-00:13:44 Quick tour of Scipy repository
-00:21:25 How to contribute to Scipy
-
+00:00:00 Reshama introduces Data Umbrella\
+00:04:25 Reshama introduces Melissa Mendonca\
+00:05:12 Melissa begins her talk\
+00:05:37 Talk Agenda\
+00:06:29 Melissa mentions Imposter Syndrome\
+00:07:38 What is Scipy?\
+00:08:38 History of Scipy\
+00:10:10 How Scipy is organized\
+00:13:44 Quick tour of Scipy repository\
+00:21:25 How to contribute to Scipy\
+00:25:57 Setting up Development environment\
+00:30:05 Using Gitpod to set up Development environment on browser\
+00:32:25 What file should I edit?\
+00:34:17 What \_add\_newdocs.py does\
+00:37:13 Building to see your changes\
+00:39:50 Building the documentation\
+00:40:44 Submitting your Pull request\
+00:45:49 Final Thoughts\
+00:47:35 Scipy good first issues\
+00:48:42 Q&A with Melissa\
+00:50:15 Melissa mentions Scipy meeting and conference\
+00:56:24 Melisaa answers how to contribute to open-source\
+00:57:47 Webinar ends
