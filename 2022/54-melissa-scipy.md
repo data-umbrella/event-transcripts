@@ -38,3 +38,15 @@ alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 [get from video]
 
 ## Transcript
+## Agenda
+00:00:00 Reshama introduces Data Umbrella
+00:04:25 Reshama introduces Melissa Mendonca
+00:05:12 Melissa begins her talk
+00:05:37 Talk Agenda
+00:06:29 Melissa mentions Imposter Syndrome
+00:07:38 What is Scipy?
+00:08:38 History of Scipy
+00:10:10 How Scipy is organized
+00:13:44 Quick tour of Scipy repository
+00:21:25 How to contribute to Scipy
+
