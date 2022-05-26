@@ -35,6 +35,32 @@ Melissa is an applied mathematician and former university professor turned softw
 alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 
 ## Timestamps
-[get from video]
+
+## Agenda
+00:00 Reshama introduces Data Umbrella
+04:25 Reshama introduces Melissa Mendonca
+05:12 Melissa begins her talk
+05:37 Talk Agenda
+06:29 Melissa mentions Imposter Syndrome
+07:38 What is SciPy?
+08:38 History of SciPy
+10:10 How SciPy is organized
+13:44 Quick tour of SciPy repository
+21:25 How to contribute to SciPy
+25:57 Setting up Development environment
+30:05 Using Gitpod to set up Development environment on browser
+32:25 What file should I edit?
+34:17 What \_add\_newdocs.py does
+37:13 Building to see your changes
+39:50 Building the documentation
+40:44 Submitting your pull request (PR)
+45:49 Final thoughts
+47:35 SciPy good first issues
+48:42 Q&A with Melissa
+50:15 Melissa mentions SciPy meeting and conference
+56:24 Melissa answers how to contribute to open-source
+57:47 Webinar ends
+
+Thank you to @theyeylolu (https://github.com/thayeylolu) for doing the timestamps.
 
 ## Transcript
