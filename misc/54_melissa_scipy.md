@@ -26,9 +26,9 @@ https://www.meetup.com/data-umbrella
 05:12 Melissa begins her talk
 05:37 Talk Agenda
 06:29 Melissa mentions Imposter Syndrome
-07:38 What is Scipy?
-08:38 History of Scipy
-10:10 How Scipy is organized
+07:38 What is SciPy?
+08:38 History of SciPy
+10:10 How SciPy is organized
 13:44 Quick tour of SciPy repository
 21:25 How to contribute to SciPy
 25:57 Setting up Development environment
@@ -42,7 +42,7 @@ https://www.meetup.com/data-umbrella
 47:35 SciPy good first issues
 48:42 Q&A with Melissa
 50:15 Melissa mentions SciPy meeting and conference
-56:24 Melisaa answers how to contribute to open-source
+56:24 Melissa answers how to contribute to open-source
 57:47 Webinar ends
 
 Thank you to @theyeylolu (https://github.com/thayeylolu) for doing the timestamps.
