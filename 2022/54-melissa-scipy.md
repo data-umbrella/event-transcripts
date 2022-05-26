@@ -35,10 +35,7 @@ Melissa is an applied mathematician and former university professor turned softw
 alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 
 ## Timestamps
-[get from video]
 
-## Transcript
-## Agenda
 00:00:00 Reshama introduces Data Umbrella\
 00:04:25 Reshama introduces Melissa Mendonca\
 00:05:12 Melissa begins her talk\
