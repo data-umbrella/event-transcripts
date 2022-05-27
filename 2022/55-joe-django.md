@@ -1,3 +1,6 @@
+Join our Meetup group for more events!
+https://www.meetup.com/data-umbrella
+
 # Joe Torreggiani:  Intro to Django
 
 ## Upcoming Events
