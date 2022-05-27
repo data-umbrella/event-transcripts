@@ -9,7 +9,7 @@ https://www.meetup.com/data-umbrella
 
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/ 
-- Meetup Event: https://www.meetup.com/data-umbrella/events/ 
+- Meetup Event: https://www.meetup.com/data-umbrella/events/285993180/
 - Video: 
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
