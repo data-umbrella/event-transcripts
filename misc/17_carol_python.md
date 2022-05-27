@@ -24,10 +24,28 @@ Carol Willing: Contributing to Core Python
 
 
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:05:25 Carol begins talk 
-00:37:00 Resources for contributing to python  
-00:38:25 Q&A  
+00:00 -- Data Umbrella Introduction by Reshama --
+04:20 Reshama introduces Carol
+05:25 Carol begins talk
+08:28 Python Steering Council
+10:00 Slides recap
+11:41 Kind of contributions needed in Core Python
+14:44 Contributing to Data/Scientific projects vs to CPython
+20:01 How to start contributing to CPython
+23:05 Reasons for contributing to CPython
+24:05 CPython Dev Guide https://devguide.python.org
+29:23 How to build and test CPython 
+32:27 Resources to learn about CPython Internals 
+35:35 Resources for contributing to python
+37:10 CPython community
+38:21 Getting started with Q&A
+38:38 Q: Is it needed to reproduce old bugs against new versions?
+40:40 Q: Multiprocessing vs Threading to increase performance
+41:19 Q: Does the project have any process to find a mentor?
+44:00 Q: Form your viewpoint what is the future of Python?
+48:47 Q: What are the efforts of the Python Steering Council to make the community more inclusive?
+52:29 Q: What will be the impact of the PEG parser?
+54:12 Q: Development time vs. Code performance optimal performance
 
 
 ## Event
