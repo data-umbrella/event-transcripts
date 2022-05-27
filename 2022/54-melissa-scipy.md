@@ -37,6 +37,7 @@ alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 ## Timestamps
 
 ## Agenda
+```text
 00:00 Reshama introduces Data Umbrella
 04:25 Reshama introduces Melissa Mendonca
 05:12 Melissa begins her talk
@@ -60,6 +61,7 @@ alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 50:15 Melissa mentions SciPy meeting and conference
 56:24 Melissa answers how to contribute to open-source
 57:47 Webinar ends
+```
 
 Thank you to @theyeylolu (https://github.com/thayeylolu) for doing the timestamps.
 
