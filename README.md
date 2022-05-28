@@ -69,4 +69,8 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 52 | William Lyon| [Introduction to GraphQL for Data Scientists](2022/52-will-graphql.md)|
 | 53 | Sebastian Raschka and Adrian Wälchli| [Introduction to PyTorch](2022/53-sebastian-adrian-pytorch.md) | 
 | 54 | Melissa Weber Mendonça | [Contributing to SciPy](2022/54-melissa-scipy.md) | 
+| 55 | Joe Torreggiani | [Intro to Django](2022/55-joe-django.md) | 
+| 56 | Tereza Iofciu | [Short Stories of Data Visualization](2022/56-tereza-vizualization.md) | 
+
+
 
