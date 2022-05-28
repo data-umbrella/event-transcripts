@@ -16,7 +16,26 @@ https://www.meetup.com/data-umbrella
 
 ## Agenda
 00:00:00 Reshama introduces Data Umbrella
-00:04:15 Presentation begins 
+00:04:15 Hugo introduces the talk
+00:09:53 James describes Dask APIs
+00:11:20 Dask Schedulers and Workers
+00:15:15 Demo: Dask in action
+00:21:18 Tutorial goals and general workflow
+00:23:28 Optional: Spin up a cluster on Coiled
+00:26:51 Why scaling easily on the cloud is important? 
+00:28:29 Loading of large datasets
+00:32:44 Dask DataFrames
+00:36:42 Getting started with Dask DataFrames
+00:40:38 Computations with Dask DataFrames
+00:43:07 Q: How to use Dask for reinforcement learning?
+00:44:19 Use of Dask scheduler for different use cases
+00:46:50 Parallel and Distributed Machine Learning
+00:49:05 Scikit-learn in 5 minutes
+00:56:58 Joblib for local parallel processing
+00:58:09 Q: Does Dask have a SQL and Query optimizer?
+00:59:22 Multi-machine parallel processing with Dask
+01:04:15 Q: Performance gains Dask vs. Joblib
+01:08:28 Closing thoughts 
  
 ## Event
 In this tutorial, you'll learn everything you wanted to know about scaling your data science work to larger datasets and larger models, while staying in the comfort of the PyData ecosystem (numpy, pandas, scikit-learn, Jupyter notebooks).
