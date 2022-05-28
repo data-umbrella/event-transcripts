@@ -15,6 +15,8 @@ https://www.meetup.com/data-umbrella
 
 ## Resources
 - https://observablehq.com/collection/@terezaif/30daychartchallenge2022
+- #30DayChartChallenge: https://twitter.com/hashtag/30DayChartChallenge
+- 30 Day Chart Challenge: https://30daychartchallenge.org
 
 ## About the Event
 Ever wondered how people do all those nice data visualizations out there? How could you start to do some too? In my talk I will present some of my contributions to the #30DayChartChallenge as short stories. I will focus on where did I get my ideas, what was my process, what tools did I use and some best practices I learned. Hopefully after this talk you will be motivated to get started with data visualization and participate in a challenge
