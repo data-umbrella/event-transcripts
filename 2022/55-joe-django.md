@@ -1,3 +1,6 @@
+Join our Meetup group for more events!
+https://www.meetup.com/data-umbrella
+
 # Joe Torreggiani:  Intro to Django
 
 ## Upcoming Events
@@ -5,8 +8,8 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/ 
-- Meetup Event: https://www.meetup.com/data-umbrella/events/ 
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/55-joe-django.md
+- Meetup Event: https://www.meetup.com/data-umbrella/events/285993180/
 - Video: 
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
@@ -20,9 +23,9 @@ This talk will introduce attendees to Django, a free and open source Python-base
 ## About the Speaker
 Joe Torreggiani is a technologist, educator, and advocate for environmental and social justice. He has over a decade of experience as a software engineer and leader working at impact-focused organizations across multiple industries including education, agriculture, and finance. Joe holds a Bachelor of Arts in History from The College of Saint Rose in Albany, New York and is a graduate from General Assembly's web development boot camp program. Joe is a senior software engineer at Square, which makes technology that helpers sellers more easily run and growth their business with its integrated ecosystem of commerce, staff, customer, and banking solution. Joe is also a co-founder of Sustainable Progress and Equality Collective (SPEC), an open learning organization with a mission empower individuals to become globally-minded change agents by helping them learn the essential skills required to build sustainable careers and make a positive impact in their communities. In addition to his work in software development and non-profit management, Joe serves as a board member for Open Food Network USA and co-chair of Block's Bay Area Neurodiversity community. He lives with his partner Veronica and their dog Molly in San Francisco California. In his free time, Joe likes to read, travel, hike, kayak, practice martial arts, and skateboard.
 
-LinkedIn: https://www.linkedin.com/in/joetorreggiani
-Twitter: https://twitter.com/JoeTorreggiani
-GitHub: https://github.com/jtorreggiani
+- LinkedIn: https://www.linkedin.com/in/joetorreggiani
+- Twitter: https://twitter.com/JoeTorreggiani
+- GitHub: https://github.com/jtorreggiani
 
 
 ## Video:  ** NEED TO UPDATE **
