@@ -15,6 +15,17 @@ https://www.meetup.com/data-umbrella
 - https://pymc-data-umbrella.xyz/en/latest/
 - Slides: https://pymc-data-umbrella.xyz/en/latest/webinars/intro_to_array_operations/index.html
 
+## About the Event
+5 minutes: Reshama introduces Data Umbrella
+55 minutes: Meenal presents on Python
+30 minutes: hands-on in Discord
+
+## About the Speaker
+Meenal is a computer science and mathematics undergraduate in junior year. She has been working on Bayesian time series estimation models with PyMC, this project started when she was a Google Summer of Code’21 student . Generally she is interested in Probabilistic Programming, NLP, and algorithmic fairness.
+
+- GitHub: https://github.com/mjhajharia
+- LinkedIn: https://www.linkedin.com/in/meenal-jhajharia-a95185190/
+- Twitter: https://twitter.com/meenaljhajharia  
 
 
 ## Video:
