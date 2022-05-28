@@ -1,4 +1,3 @@
-# Tereza Iofciu: Short Stories of Data Visualization
 
 ## Upcoming Events
 Join our Meetup group for more events!
