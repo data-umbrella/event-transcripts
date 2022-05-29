@@ -8,11 +8,12 @@ https://www.meetup.com/data-umbrella
 
 [38] R, an Ecosystem Where Pythonistas Can Thrive (Ian Flores)
 
-## Key Links  
+## Key Links
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2021/38-ian-r.md
+- Meetup Event: https://www.meetup.com/data-umbrella/events/281938125/
+- Video: https://youtu.be/5c4cb6kvJGE 
 - Slides: https://ian-flores.github.io/r-ecosystem-4-python-slides/slides.html#1
-
-## Resources
-https://github.com/ian-flores/r-ecosystem-4-python
+- GH repo: https://github.com/ian-flores/r-ecosystem-4-python
 
 ## Outline of Talk
 - Introduction
