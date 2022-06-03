@@ -29,7 +29,7 @@ Melissa is an applied mathematician and former university professor turned softw
 - Twitter: https://twitter.com/melissawm
 - GitHub: https://github.com/melissawm
 
-## Video:  ** NEED TO UPDATE **
+## Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=V1FCSijy460" target="_blank"><img src="http://img.youtube.com/vi/V1FCSijy460/0.jpg" 
 alt="Contributing to Scipy" width="50%" /></a>
