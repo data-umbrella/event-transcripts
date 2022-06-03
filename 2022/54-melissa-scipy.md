@@ -29,14 +29,13 @@ Melissa is an applied mathematician and former university professor turned softw
 - Twitter: https://twitter.com/melissawm
 - GitHub: https://github.com/melissawm
 
-## Video:  ** NEED TO UPDATE **
+## Video
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=V1FCSijy460" target="_blank"><img src="http://img.youtube.com/vi/V1FCSijy460/0.jpg" 
+alt="Contributing to Scipy" width="50%" /></a>
 
 ## Timestamps
 
-## Agenda
 ```text
 00:00 Reshama introduces Data Umbrella
 04:25 Reshama introduces Melissa Mendonca
@@ -63,6 +62,8 @@ alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 57:47 Webinar ends
 ```
 
-Thank you to @theyeylolu (https://github.com/thayeylolu) for doing the timestamps.
+Thank you to @thayeylolu (https://github.com/thayeylolu) for doing the timestamps.
 
 ## Transcript
+
+
