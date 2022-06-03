@@ -65,6 +65,5 @@ alt="Contributing to Scipy" width="50%" /></a>
 Thank you to @thayeylolu (https://github.com/thayeylolu) for doing the timestamps.
 
 ## Transcript
-## [Video](https://youtu.be/V1FCSijy460) (57:47)
-<a href="https://youtu.be/V1FCSijy460"><img src="images/emily_robinson_career/erc_main.png" width="90%" /></a>
+
 
