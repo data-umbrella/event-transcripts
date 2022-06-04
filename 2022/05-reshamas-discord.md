@@ -18,11 +18,13 @@ https://www.meetup.com/data-umbrella
 [get from Meetup]
 
 ## About the Speaker
-[get from Meetup]
+Reshama is a statistician/data scientist based in New York City. She earned her M.S. in statistics from Rutgers University. She earned her M.B.A. from NYU Stern School of Business where she studied strategy, business analytics and technology management.  
 
-LinkedIn:  
-Twitter: reshamas\
-GitHub:  reshamas
+Reshama Shaikh is the Director of Data Umbrella and an organizer for NYC PyLadies. She is also on the Contributing Teams for scikit-learn and PyMC.  She was awarded the [Community Leadership Award from NumFOCUS in 2019](https://reshamas.github.io/on-receiving-2019-community-leadership-award-from-numfocus/).
+
+- LinkedIn: [@reshamas](https://www.linkedin.com/in/reshamas/)
+- Twitter: [@reshamas](https://twitter.com/reshamas)
+- GitHub: [@reshamas](https://github.com/reshamas)
 
 ## Video:  ** NEED TO UPDATE **
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=w2A8SknM-68" target="_blank"><img src="http://img.youtube.com/vi/w2A8SknM-68/0.jpg"
