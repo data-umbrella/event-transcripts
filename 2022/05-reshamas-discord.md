@@ -12,7 +12,7 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-[will post after the video is available]
+Slides: https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint/blob/master/intro-to-discord.pdf
 
 ## About the Event
 [get from Meetup]
