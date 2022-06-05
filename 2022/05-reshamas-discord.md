@@ -15,7 +15,7 @@ https://www.meetup.com/data-umbrella
 Slides: https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint/blob/master/intro-to-discord.pdf
 
 ## About the Event
-[get from Meetup]
+This is a brief introduction to using Discord Data Umbrella server with some tips on how to navigate the application.
 
 ## About the Speaker
 Reshama is a statistician/data scientist based in New York City. She earned her M.S. in statistics from Rutgers University. She earned her M.B.A. from NYU Stern School of Business where she studied strategy, business analytics and technology management.  
