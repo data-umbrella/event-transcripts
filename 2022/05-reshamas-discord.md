@@ -5,7 +5,7 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2022/05-reshamas-discord.rmd
+- Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2022/05-reshamas-discord.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/ 
 - Video: https://www.youtube.com/watch?v=w2A8SknM-68
 - GitHub repo:  
