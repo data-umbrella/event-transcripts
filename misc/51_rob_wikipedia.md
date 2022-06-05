@@ -15,11 +15,28 @@ Rob Lanphier: Editing Wikipedia: Because Someone Has to...
 
 ## Resources
 - https://en.wikipedia.org/wiki/User:RobLa/NewEditorLinks
-
  
 ## Agenda
 00:00 Beryl introduces Data Umbrella
-00:00 Rob begins presenation
+06:50 Rob begins presentation
+07:42 Editing on Wikipedia is a matter of perspective
+10:09 About Rob  (miraheze.org)
+11:25 What is Wikipedia?
+15:22 Unofficial History of Wikipedia (1996-2001)
+19:03 Unofficial History of Wikipedia/WMF (2002-2009) (WMF = Wikimedia Foundation)
+20:45 Unofficial History of Wikipedia/WMF (2009-2022)
+22:13 Editing Wikipedia is easy
+27:07 Editing Wikipedia via Python (pywikibot)
+28:10 Demo: Editing without programming
+31:00 Q: When an edit happens, does it get published immediately, or does it go in queue for editor review?
+32:50 Q: Given that editing is generally almost immediate, how to deal with spam?
+35:45 Q: Can you show us again how to see contributor history on a page (Equiv of git blame on GitHub)?
+38:48 Q: Is that Markdown format for editing Wikipedia? (Markdown was inspired by Wikitext)
+40:22 Q: What is the process to make sure the information is authoritative and true and not being hijacked by people with an agenda?
+42:08 Q: Has Wikipedia been able to avoid the dilemna of fake news?
+44:55 Q: As an editor or contributor, how do you handle copyright materials such as images?
+47:50 Q: How does Wikipedia handle the situation that not everyone who edits a page holds expert knowledge for that topic?
+
 
 
 ## Event
@@ -37,5 +54,5 @@ LinkedIn: https://www.linkedin.com/in/robla
 Twitter: https://twitter.com/robla
 GitHub: https://github.com/robla
 
-
+#opensource #documentation #community
 ```
