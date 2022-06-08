@@ -1,7 +1,11 @@
-Join our Meetup group for more events!
-https://www.meetup.com/data-umbrella
+## Joe Torreggiani:  Intro to Django
 
-# Joe Torreggiani:  Intro to Django
+[55a] Joe Torreggiani:  Intro to Django
+Video 1/3: https://youtu.be/Yr1ewxg8os8
+
+[55b] 
+
+[55c] 
 
 ## Upcoming Events
 Join our Meetup group for more events!
@@ -15,7 +19,19 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-[will post after the video is available]
+- Slides:  https://docs.google.com/presentation/d/1ydc5gME8m3Km7z7FQbby9KSlkcYVtZvEXw2qdSPCwjE/edit#slide=id.p
+
+## Talk Outline
+- 10,000 foot view of web development with Django
+- Building your first Django application
+- Deploying Django applications
+- Recap & next steps
+
+```text
+## Timestamps
+
+
+```
 
 ## About the Event
 This talk will introduce attendees to Django, a free and open source Python-based web framework that encourages rapid development using software engineering best practices. We will start with covering the basic concepts of web development and learning how software frameworks like Django remove much of the hassle of building web applications and allows developers to focus on writing code without needing to reinvent the wheel. The presentation will demonstrate how Django enables development of secure and maintainable software by scaffolding a simple dynamic website from the ground up. We will then take a look at a real-world open source project built with Django and see an example of a web application released in a production environment. This talk will end with a recap of we've learned together and recommendations for getting started with web development with Django.
@@ -36,3 +52,5 @@ alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 [get from video]
 
 ## Transcript
+
+#python #webapp #django
