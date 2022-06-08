@@ -1,7 +1,7 @@
 ## Joe Torreggiani:  Intro to Django
 
 [55a] Django Part 1: Intro to Python (Joe Torreggiani)  
-Video 1/3: https://youtu.be/Yr1ewxg8os8
+Video 1/3: https://youtu.be/Yr1ewxg8os8  
 Slides: 1-34
 
 [55b] Django Part 2: Intro to Web Development Frameworks (Joe Torreggiani)  
@@ -9,7 +9,7 @@ Video 2/3:
 Slides 35-86
 
 [55c] Django Part 3: Building Your First Django Application (Joe Torreggiani)  
-Video 3/3: 
+Video 3/3:  
 Slides: 87-141
 
 ## Upcoming Events
