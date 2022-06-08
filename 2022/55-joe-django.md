@@ -5,7 +5,7 @@ Video 1/3: https://youtu.be/Yr1ewxg8os8
 Slides: 1-34
 
 [55b] Django Part 2: Intro to Web Development Frameworks (Joe Torreggiani)  
-Video 2/3: 
+Video 2/3: https://youtu.be/K4NQmrGEWGM
 Slides 35-86
 
 [55c] Django Part 3: Building Your First Django Application (Joe Torreggiani)  
