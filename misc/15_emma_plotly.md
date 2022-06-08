@@ -27,7 +27,7 @@ https://www.meetup.com/data-umbrella
 
 00:00 Reshama introduces Data Umbrella
 03:33 Emma begins talk  
-04:50 What is Plotly
+04:50 What is Plotly?
 06:19 Talk Agenda
 07:05 Use cases of Plotly: Interactive exploration of data
 07:30 The structure of Plotly figures
