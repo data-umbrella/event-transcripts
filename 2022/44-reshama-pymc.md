@@ -27,11 +27,14 @@ https://numpydoc.readthedocs.io/en/latest/format.html#sections
 
 
 ## About the Speaker
-Reshama Shaikh
+Reshama is a statistician/data scientist based in New York City. She earned her M.S. in statistics from Rutgers University. She earned her M.B.A. from NYU Stern School of Business where she studied strategy, business analytics and technology management.  
 
-LinkedIn: https://www.linkedin.com/in/reshamas/ \
-Twitter: https://twitter.com/reshamas \
-GitHub: https://github.com/reshamas
+Reshama Shaikh is the Director of Data Umbrella and an organizer for NYC PyLadies. She is also on the Contributing Teams for scikit-learn and PyMC.  She was awarded the [Community Leadership Award from NumFOCUS in 2019](https://reshamas.github.io/on-receiving-2019-community-leadership-award-from-numfocus/).
+
+- LinkedIn: [@reshamas](https://www.linkedin.com/in/reshamas/)
+- Twitter: [@reshamas](https://twitter.com/reshamas)
+- GitHub: [@reshamas](https://github.com/reshamas)
+
 
 
 ## Video:

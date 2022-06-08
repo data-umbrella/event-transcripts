@@ -28,9 +28,9 @@ William Lyon is a Developer Relations Engineer at Neo4j, the open-source graph d
 - Twitter: https://twitter.com/lyonwj
 - GitHub: https://github.com/johnymontana
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+## Video:  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3QVguMgyAhU" target="_blank"><img src="http://img.youtube.com/vi/3QVguMgyAhU/0.jpg"
+alt="William Lyon: Introduction to GraphQL for Data Scientists" width="50%" /></a>
 
 
 ## Transcript
