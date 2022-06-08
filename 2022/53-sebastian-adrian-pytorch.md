@@ -42,4 +42,12 @@ Adrian is a research engineer at Grid.ai developing and maintaining PyTorch Ligh
 alt="Sebastian Raschka and Adrian Wälchli: Introduction to PyTorch" width="50%" /></a>
 
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AEMU92KOq1U" target="_blank"><img src="http://img.youtube.com/vi/AEMU92KOq1U/0.jpg"
+alt="Scaling Up with LightningLite (Adrian Wälchli)" width="50%" /></a>
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HaXK4Os5mdo" target="_blank"><img src="http://img.youtube.com/vi/HaXK4Os5mdo/0.jpg"
+alt="Q&A: Sebastian Raschka & Adrian Wälchli (PyTorch, LightningLite)" width="50%" /></a>
+
+
 ## Transcript
