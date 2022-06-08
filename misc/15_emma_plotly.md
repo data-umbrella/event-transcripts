@@ -34,7 +34,7 @@ https://www.meetup.com/data-umbrella
 13:15 Introduction to Plotly express
 21:01 Example of hierarchical plots
 24:03 Subplots in Plotly
-26:23 Ploty documentation
+26:23 Plotly documentation
 27:13 Use cases of Plotly: Publishing visualizations and building interactive applications
 31:40 Interactive visualizations with Dash
 34:45 Use cases of Plotly: Interactive image annotation and processing
