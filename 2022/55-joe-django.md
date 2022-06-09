@@ -9,7 +9,7 @@ Video 2/3: https://youtu.be/K4NQmrGEWGM
 Slides 35-86
 
 [55c] Django Part 3: Building Your First Django Application (Joe Torreggiani)  
-Video 3/3:  
+Video 3/3:  https://youtu.be/QTQSzirDs8E
 Slides: 87-141
 
 ## Upcoming Events
@@ -19,8 +19,6 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/55-joe-django.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/285993180/
-- Video: 
-- GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -32,11 +30,6 @@ https://www.meetup.com/data-umbrella
 - Deploying Django applications
 - Recap & next steps
 
-```text
-## Timestamps
-
-
-```
 
 ## About the Event
 This talk will introduce attendees to Django, a free and open source Python-based web framework that encourages rapid development using software engineering best practices. We will start with covering the basic concepts of web development and learning how software frameworks like Django remove much of the hassle of building web applications and allows developers to focus on writing code without needing to reinvent the wheel. The presentation will demonstrate how Django enables development of secure and maintainable software by scaffolding a simple dynamic website from the ground up. We will then take a look at a real-world open source project built with Django and see an example of a web application released in a production environment. This talk will end with a recap of we've learned together and recommendations for getting started with web development with Django.
@@ -54,7 +47,34 @@ Joe Torreggiani is a technologist, educator, and advocate for environmental and 
 alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 
 ## Timestamps
-[get from video]
+```text
+[55a] Django Part 1: Intro to Python (Joe Torreggiani)  
+
+## Agenda
+00:00 Beryl introduces Data Umbrella
+xx:xx
+xx:xx
+xx:xx
+
+[53b] Django Part 2: Intro to Web Development Frameworks (Joe Torreggiani)  
+
+## Agenda
+00:00 
+xx:xx
+xx:xx
+xx:xx
+    
+[53c] Django Part 3: Building Your First Django Application (Joe Torreggiani)  
+
+## Agenda
+00:00 
+xx:xx
+xx:xx
+xx:xx
+
+```
+
+
 
 ## Transcript
 
