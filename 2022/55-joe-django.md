@@ -59,10 +59,33 @@ xx:xx
 [53b] Django Part 2: Intro to Web Development Frameworks (Joe Torreggiani)  
 
 ## Agenda
-00:00 
-xx:xx
-xx:xx
-xx:xx
+0:00 What is a web development framework – software frameworks
+0:56 Technologies and design patterns
+1:55 Key concepts of web development
+2:35 The client-server model
+4:25 Mapping technologies to the client-server model
+5:22 Server-side web development frameworks
+6:35 Client-side frameworks
+7:20 TCP/ IP: The enabler of the client-server model
+9:45 URL: Unisource Resource Locator 
+10:30 HTTP: Hypertext Transfer Protocol 
+11:20 HTTP request methods, HTTP responses
+14:25 HTTP GET request-response lifecycle
+15:20 HTML, CSS & JavaScript
+18:45 Data interchange formats
+19:27 HTML with external resources
+20:01 Data-driven websites
+20:53 Databases & Structured Query Language (SQL)
+21:39 Hypertext preprocessing
+23:23 Object-relational mapping (ORM)
+24:15 Model-View-Controller design pattern (MVC)
+25:29 Example – an application built with Flask micro web framework
+27:48 Template engines
+29:06 Single-page applications
+31:20 Q: What is the difference between Flask and Django?
+32:50 Q: Is Flask or Django better for accessing a database?
+33:55 Q: Which framework to start with as a beginner?
+
     
 [53c] Django Part 3: Building Your First Django Application (Joe Torreggiani)  
 
