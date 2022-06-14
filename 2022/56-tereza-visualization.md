@@ -14,6 +14,7 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
+- Slides: https://observablehq.com/@terezaif/30daychartchallenge-2022-recap
 - https://observablehq.com/collection/@terezaif/30daychartchallenge2022
 - #30DayChartChallenge: https://twitter.com/hashtag/30DayChartChallenge
 - 30 Day Chart Challenge: https://30daychartchallenge.org
