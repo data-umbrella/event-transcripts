@@ -17,10 +17,10 @@ https://www.meetup.com/data-umbrella
 
 
 ## About the Event
-SciPy is one of the foundational libraries in the PyData/Scientific Python stack, and is a popular tool for scientists, data scientists, industry professionals and students. It builds upon the NumPy array structures and provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics and many other classes of problems. In this talk, we will walk through the steps necessary to contribute to SciPy, including code, documentation, triaging issues and pull request reviews. We will also talk about community and the different ways you can interact with SciPy maintainers.
+This talk is a walk-through to understand the process of building a Conversational Bot for WhatsApp using Twilio and Python. Mridu will then be demonstrating a Vocabulary Bot that she built. On querying the Vocabulary Bot, the Bot returns word definition, synonyms, antonyms, word examples..
 
 ## About the Speaker
-Melissa is an applied mathematician and former university professor turned software engineer. She works at Quansight, developing open-source software and working on consulting projects. She has been involved with the Brazilian Python community for some time, with a focus on outreach and education. She is a maintainer for NumPy, a contributor to SciPy, and believes in the power of open-source contributions beyond code.
+Mridu is a Python Developer. She enjoys converting ideas into applications. She loves giving talks at various meetups and conferences.
 
 - LinkedIn: [Link](https://www.linkedin.com/in/mridu-bhatnagar-17703a92/)
 - Twitter: [Link](https://twitter.com/Mridu__)
