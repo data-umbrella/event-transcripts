@@ -6,6 +6,7 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 This video covers step-by-step example of doing live coding with a pair programming partner.
+https://youtu.be/WHOiljOYGVw
 
 This article provides detailed instructions on live coding:
 Pair Programming with Visual Studio Code Live Share
