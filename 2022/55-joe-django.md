@@ -58,7 +58,7 @@ alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 08:50 Where did Django get its name?
 09:41 Overview about Django
 10:18 10,000 foot view of web development with Django
-10:42 Django open-source software licencing
+10:42 Django open-source software licensing
 11:50 Python programming language
 11:58 What is the Python programming language?
 13:54 What makes Python high-level?
