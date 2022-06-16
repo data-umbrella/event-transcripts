@@ -91,7 +91,7 @@ xx:xx
 
 ## Agenda
 0:00 Building your first Django project
-0:40 MVC vs Django MVT arhcitecture
+0:40 MVC vs Django MVT architecture
 1:33 Bootstrapping a Django project with django-admin
 2:03 Django default file organization and descriptions
 3:16 Starting the Django development server
