@@ -90,14 +90,43 @@ xx:xx
 [53c] Django Part 3: Building Your First Django Application (Joe Torreggiani)  
 
 ## Agenda
-00:00 
-xx:xx
-xx:xx
-xx:xx
+0:00 Building your first Django project
+0:40 MVC vs Django MVT architecture
+1:33 Bootstrapping a Django project with django-admin
+2:03 Django default file organization and descriptions
+3:16 Starting the Django development server
+4:38 The difference between a Django project and a Django app
+5:49 Add a basic route to the flashcards/views.py file
+6:46 URL definitions
+7:36 Configuring the Django settings file
+7:58 Defining a data model
+8:27 Making a database migration
+9:30 Interacting with the django shell
+10:08 Updating the index view file
+10:41 Creating a Django template and rendering it
+13:47 Automated testing with Django
+17:09 Creating an admin user
+17:45 Registering a model for the Django admin
+18.01 Django admin interface in development
+18:30 1st half session recap and Q & A
+19:27 Q: In a production scenario, should we use Django?
+21:03 Deploying Django projects
+22:00 Main options for deploying Django applications
+23:48 Popular Iaas and Paas providers
+24:54 Database configuration
+25:55 Hosting the source code on GitHub
+26:30 Deployment configurations with Digital Ocean App Platform
+29:05 Django admin interface in production
+29:26 Recap
+30:01 Review of what we've learned
+31:10 Next Steps (Reference Links)
+31:39 Django Conferences
+31:50 Sustainable Progress & Equality Collective (SPEC)
+33:37 Q: How do you add plots or maybe a bokeh server to a django project?
+36:03 Q: What is the full web application cycle?
+36:54 Q: Which front-end frameworks and which sql databases work well with django?
 
 ```
-
-
 
 ## Transcript
 
