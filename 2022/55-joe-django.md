@@ -99,7 +99,7 @@ xx:xx
 5:49 Add a basic route to the flashcards/views.py file
 6:46 URL definitions
 7:36 Configuring the Django settings file
-7:58 Defing a data model
+7:58 Defining a data model
 8:27 Making a database migration
 9:30 Interacting with the django shell
 10:08 Updating the index view file
