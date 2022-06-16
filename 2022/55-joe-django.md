@@ -109,7 +109,7 @@ xx:xx
 17:45 Registering a model for the Django admin
 18.01 Django admin interface in development
 18:30 1st half session recap and Q & A
-19:27 Q : In a production scenerio, should we use Django?
+19:27 Q: In a production scenario, should we use Django?
 21:03 Deploying Django projects
 22:00 Main options for deploying Django applications
 23:48 Popular Iaas and Paas providers
