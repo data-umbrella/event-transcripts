@@ -51,23 +51,37 @@ alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 [55a] Django Part 1: Intro to Python (Joe Torreggiani)  
 
 ## Agenda
-00:00 Beryl introduces Data Umbrella
-xx:xx
-xx:xx
-xx:xx
+00:00 Data Umbrella introduction by Beryl
+05:06 Beryl introduces Joe Torreggiani
+06:50 Intro to Django presentation by Joe
+08:00 What is Django?
+08:50 Where did Django get its name?
+09:41 Overview about Django
+10:18 10,000 foot view of web development with Django
+10:42 Django open-source software licensing
+11:50 Python programming language
+11:58 What is the Python programming language?
+13:54 What makes Python high-level?
+15:37 What makes Python interpreted?
+16:57 What makes Python general-purpose?
+18:52 What makes python dynamically-typed?
+21:19 Importing modules from Python’s standard library
+21:47 Python packages
+22:50 Virtual environments
+24:16 Closing thoughts about Python
 
 [53b] Django Part 2: Intro to Web Development Frameworks (Joe Torreggiani)  
 
 ## Agenda
-0:00 What is a web development framework – software frameworks
-0:56 Technologies and design patterns
-1:55 Key concepts of web development
-2:35 The client-server model
-4:25 Mapping technologies to the client-server model
-5:22 Server-side web development frameworks
-6:35 Client-side frameworks
-7:20 TCP/ IP: The enabler of the client-server model
-9:45 URL: Unisource Resource Locator 
+00:00 What is a web development framework – software frameworks
+00:56 Technologies and design patterns
+01:55 Key concepts of web development
+02:35 The client-server model
+04:25 Mapping technologies to the client-server model
+05:22 Server-side web development frameworks
+06:35 Client-side frameworks
+07:20 TCP/ IP: The enabler of the client-server model
+09:45 URL: Unisource Resource Locator 
 10:30 HTTP: Hypertext Transfer Protocol 
 11:20 HTTP request methods, HTTP responses
 14:25 HTTP GET request-response lifecycle
@@ -90,18 +104,18 @@ xx:xx
 [53c] Django Part 3: Building Your First Django Application (Joe Torreggiani)  
 
 ## Agenda
-0:00 Building your first Django project
-0:40 MVC vs Django MVT architecture
-1:33 Bootstrapping a Django project with django-admin
-2:03 Django default file organization and descriptions
-3:16 Starting the Django development server
-4:38 The difference between a Django project and a Django app
-5:49 Add a basic route to the flashcards/views.py file
-6:46 URL definitions
-7:36 Configuring the Django settings file
-7:58 Defining a data model
-8:27 Making a database migration
-9:30 Interacting with the django shell
+00:00 Building your first Django project
+00:40 MVC vs Django MVT architecture
+01:33 Bootstrapping a Django project with django-admin
+02:03 Django default file organization and descriptions
+03:16 Starting the Django development server
+04:38 The difference between a Django project and a Django app
+05:49 Add a basic route to the flashcards/views.py file
+06:46 URL definitions
+07:36 Configuring the Django settings file
+07:58 Defining a data model
+08:27 Making a database migration
+09:30 Interacting with the django shell
 10:08 Updating the index view file
 10:41 Creating a Django template and rendering it
 13:47 Automated testing with Django
