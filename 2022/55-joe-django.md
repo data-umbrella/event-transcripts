@@ -104,18 +104,18 @@ alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 [53c] Django Part 3: Building Your First Django Application (Joe Torreggiani)  
 
 ## Agenda
-0:00 Building your first Django project
-0:40 MVC vs Django MVT architecture
-1:33 Bootstrapping a Django project with django-admin
-2:03 Django default file organization and descriptions
-3:16 Starting the Django development server
-4:38 The difference between a Django project and a Django app
-5:49 Add a basic route to the flashcards/views.py file
-6:46 URL definitions
-7:36 Configuring the Django settings file
-7:58 Defining a data model
-8:27 Making a database migration
-9:30 Interacting with the django shell
+00:00 Building your first Django project
+00:40 MVC vs Django MVT architecture
+01:33 Bootstrapping a Django project with django-admin
+02:03 Django default file organization and descriptions
+03:16 Starting the Django development server
+04:38 The difference between a Django project and a Django app
+05:49 Add a basic route to the flashcards/views.py file
+06:46 URL definitions
+07:36 Configuring the Django settings file
+07:58 Defining a data model
+08:27 Making a database migration
+09:30 Interacting with the django shell
 10:08 Updating the index view file
 10:41 Creating a Django template and rendering it
 13:47 Automated testing with Django
