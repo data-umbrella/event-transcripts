@@ -51,7 +51,7 @@ alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
 [55a] Django Part 1: Intro to Python (Joe Torreggiani)  
 
 ## Agenda
-00:00  Data Umbrella introduction by Beryl
+00:00 Data Umbrella introduction by Beryl
 05:06 Beryl introduces Joe Torreggiani
 06:50 Intro to Django presentation by Joe
 08:00 What is Django?
