@@ -98,7 +98,7 @@ xx:xx
 4:38 The difference between a Django project and a Django app
 5:49 Add a basic route to the flashcards/views.py file
 6:46 URL definitions
-7:36 Conifuring the django settings file
+7:36 Configuring the Django settings file
 7:58 Defing a data model
 8:27 Making a database migration
 9:30 Interacting with the django shell
