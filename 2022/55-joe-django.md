@@ -114,7 +114,7 @@ xx:xx
 22:00 Main options for deploying Django applications
 23:48 Popular Iaas and Paas providers
 24:54 Database configuration
-25:55 Hosting the source code on Github
+25:55 Hosting the source code on GitHub
 26:30 Deployment configurations with Digital Ocean App Platform
 29:05 Django admin interface in production
 29:26 Recap
