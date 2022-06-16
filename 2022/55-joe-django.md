@@ -122,7 +122,7 @@ xx:xx
 31:10 Next Steps (Reference Links)
 31:39 Django Conferences
 31:50 Sustainable Progress & Equality Collective (SPEC)
-33:37 Q: How do you add plots or maybe a bokhe server to a django project?
+33:37 Q: How do you add plots or maybe a bokeh server to a django project?
 36:03 Q: What is the full web application cycle?
 36:54 Q: Which front-end frameworks and which sql databases work well with django?
 
