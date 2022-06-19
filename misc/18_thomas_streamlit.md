@@ -15,11 +15,29 @@ Thomas Fan: Streamlit for Data Science
 
 
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:03:46 Reshama introduces Thomas 
-00:04:37 Thomas begins talk  
+00:00 -- Data Umbrella Introduction by Reshama --
+03:46 Reshama introduces Thomas 
+04:37 Thomas introduces the talk  
+05:12 What is Streamlit?
+05:40 Intro to the demos 
+07:16 Demo 1: Show me some penguins!
+12:55 Adding plots to Streamlit
+17:52 Demo 2: Train model in Jupyter Lab
+20:29 Demo 3: Explanation predictions with Streamlit
+23:28 Adding user input to Streamlit
+27:28 Using the pre-trained model for predictions
+28:36 Explaining predictions: SHAP values
+30:30 Explaining predictions: Anchors
+34:52 Other resources
+37:01 Q: How did you get started with Streamlit? 
+38:14 Q: What are the key differences between Streamlit and Dash? 
+39:22 Q: What are other alternatives to Streamlit?
+39:56 Q: Is there a time limit for the external API?
+40:38 Q: Is there a async way to use Streamlit?
+41:23 Q: What challenges or missing features do you see in Streamlit?
+42:50 Q: What is the easiest way to deploy a Streamlit app?
+44:54 Q: Is Streamlit responsive?
 
- 
 ## Event
 Streamlit is an open source Python library that makes it easy to build web applications for data science and machine learning. It integrates with many plotting libraries such as matplotlib, seaborn, and plotly for showing visualizations in your application. In this talk, we will develop a dashboard which will introduce streamlit's features and capabilities. Afterwards, we will develop a web application that integrates SHAP and anchor explanations for a model's prediction based on user input.
 
@@ -30,5 +48,5 @@ Linkedin: https://www.linkedin.com/in/thomasjpfan/
 Twitter: https://twitter.com/thomasjpfan
 GitHub: https://github.com/thomasjpfan
 
-
+#python #dashboard #datavisualization
 ```
