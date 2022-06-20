@@ -19,30 +19,27 @@ https://www.meetup.com/data-umbrella
 
 ```text
 ## Agenda
-00:00 Beryl introduces Data Umbrella
-6:15	The #30DayChartChallenge
-10:05	Observable
-12:20 Chart#1:  Households with Houseplants
-14:10 Chart #2: The importance of the title
-16:25 Chart #3: World history
-18:50	Chart #4: Plants named after women
-21:30 Chart #5: Slope charts
-23:50	Chart #6: Life expectancy
-26:25	Chart #7: Physical / Marathon
-29:20	Chart #8: Mountains
-33:35	Chart #9: Russian export growth
-36:07	Chart #10: Sunflower seeds
-41:10	Chart #11: Circular distributions
-45:05	Chart# 12: Hottest days on Earth
-48:10	Chart #13: Trees per capita
-52:15	Chart #14: Height of men vs women
-56:50	Chart #15: Natural disasters
-1:02:55	Q: How did you choose the order of continents?
-1:06:20 Q: When does the next 30DayChartChallenge take place?
-1:10:30	Q: How to take accessibility into account when visualizing?
-
-
-```
+00:00:00 Beryl introduces Data Umbrella
+00:06:15 The #30DayChartChallenge
+00:10:05 Observable
+00:12:20 Chart #1: Households with Houseplants
+00:14:10 Chart #2: The importance of the title
+00:16:25 Chart #3: World history
+00:18:50 Chart #4: Plants named after women
+00:21:30 Chart #5: Slope charts
+00:23:50 Chart #6: Life expectancy
+00:26:25 Chart #7: Physical / Marathon
+00:29:20 Chart #8: Mountains
+00:33:35 Chart #9: Russian export growth
+00:36:07 Chart #10: Sunflower seeds
+00:41:10 Chart #11: Circular distributions
+00:45:05 Chart # 12: Hottest days on Earth
+00:48:10 Chart #13: Trees per capita
+00:52:15 Chart #14: Height of men vs women
+00:56:50 Chart #15: Natural disasters
+01:02:55 Q: How did you choose the order of continents?
+01:06:20 Q: When does the next 30DayChartChallenge take place?
+01:10:30 Q: How to take accessibility into account when visualizing?
 
 ## About the Event
 Ever wondered how people do all those nice data visualizations out there? How could you start to do some too? In my talk I will present some of my contributions to the #30DayChartChallenge as short stories. I will focus on where did I get my ideas, what was my process, what tools did I use and some best practices I learned. Hopefully after this talk you will be motivated to get started with data visualization and participate in a challenge
