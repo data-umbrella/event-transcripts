@@ -17,15 +17,15 @@ Meetup event: https://www.meetup.com/nyc-data-umbrella/events/270285046/
 05:16 Use of Webscraping
 07:43 Get Started - Webscraping
 00:12:40 Jupyter Notebook, Python code
-00:17:15 Extract tag values (from html)
-00:26:32 Format Data
-00:29:22 Extract new feature
-00:32:53 Refactor and create functions
-00:35:34 Extract all tiles on initial page
-00:38:59 Extract other denim brands
-00:40:11 Analyze extracted data with Pandas
-00:41:28 Visualize the distributions
-00:44:03 Feedbacks and Questions
+17:15 Extract tag values (from html)
+26:32 Format Data
+29:22 Extract new feature
+32:53 Refactor and create functions
+35:34 Extract all tiles on initial page
+38:59 Extract other denim brands
+40:11 Analyze extracted data with Pandas
+41:28 Visualize the distributions
+44:03 Feedbacks and Questions
 
 ## Event
 In this talk, we’ll learn how to use web scraping to extract information about Poshmark listings. Then, we’ll use Python libraries to analyze and visualize the data.
