@@ -12,10 +12,10 @@ Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2020/03
 Meetup event: https://www.meetup.com/nyc-data-umbrella/events/270285046/
 
 ## Agenda
-00:00:00 Introduction to Data Umbrella 
-00:01:55 Define Webscrpaing and shows example
-00:05:16 Use of Webscraping
-00:07:43 Get Started - Webscraping
+00:00 Introduction to Data Umbrella 
+01:55 Define Webscraping and shows example
+05:16 Use of Webscraping
+07:43 Get Started - Webscraping
 00:12:40 Jupyter Notebook, Python code
 00:17:15 Extract tag values (from html)
 00:26:32 Format Data
