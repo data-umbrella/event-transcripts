@@ -25,7 +25,7 @@ Meetup event: https://www.meetup.com/nyc-data-umbrella/events/270285046/
 38:59 Extract other denim brands
 40:11 Analyze extracted data with Pandas
 41:28 Visualize the distributions
-44:03 Feedbacks and Questions
+44:03 Feedback and Questions
 
 ## Event
 In this talk, we’ll learn how to use web scraping to extract information about Poshmark listings. Then, we’ll use Python libraries to analyze and visualize the data.
