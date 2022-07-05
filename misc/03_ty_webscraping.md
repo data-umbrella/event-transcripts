@@ -16,7 +16,7 @@ Meetup event: https://www.meetup.com/nyc-data-umbrella/events/270285046/
 01:55 Define Webscraping and shows example
 05:16 Use of Webscraping
 07:43 Get Started - Webscraping
-00:12:40 Jupyter Notebook, Python code
+12:40 Jupyter Notebook, Python code
 17:15 Extract tag values (from html)
 26:32 Format Data
 29:22 Extract new feature
