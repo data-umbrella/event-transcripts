@@ -15,8 +15,25 @@ Mridu Bhatnagar:  Building a Conversational Bot for WhatsApp w/Twilio & Python
 
 
 ## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:03:15 Mridu begins talk 
+00:00 Reshama introduces Data Umbrella
+03:15 Mridu begins her talk
+05:04 Software Requirements to build bot
+07:02 Configure Twillo Whatsapp Sandbox
+10:58 Create a Python Virtual Environment
+15:35 Create Flask ChatBot Service
+19:01 Receive incoming message frim user
+20:34 TwiML Message Response Object
+22:08 Bot Response Logic
+25:43 Twillo Response Template Format
+26:04 Running the application
+27:16 Run ngrok
+28:01 Output of ngrok terminal
+30:03 Send Dynamic response
+36:04 Integrating API with Python
+37:17 Detailed Resource for Building Bot
+37:45 Mridu ends presentation
+39:00 Questions and Answers
+43:18 Webinar ends
  
 ## Event
 This talk is a walkthrough to understand the process of building a Conversational Bot for WhatsApp using Twilio and Python. Mridu will then be demonstrating a Vocabulary Bot that she built. On querying the Vocabulary Bot, the Bot returns word definition, synonyms, antonyms, word examples.

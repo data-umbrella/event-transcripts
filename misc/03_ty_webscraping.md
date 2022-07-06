@@ -12,12 +12,21 @@ Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2020/03
 Meetup event: https://www.meetup.com/nyc-data-umbrella/events/270285046/
 
 ## Agenda
-00:00:00 to 00:01:55 Introduction to Data Umbrella 
-00:12:40 Jupyter Notebook, Python code
-00:18:20 Extract the tag values (from html)
-00:41:20 Visualize the distributions
-01:08:30 Demo of RStudio IDE
- 
+00:00 Introduction to Data Umbrella 
+01:55 Define Webscraping and shows example
+05:16 Use of Webscraping
+07:43 Get Started - Webscraping
+12:40 Jupyter Notebook, Python code with beautifulsoup library
+17:15 Extract tag values (from html)
+26:32 Format Data
+29:22 Extract new feature
+32:53 Refactor and create functions
+35:34 Extract all tiles on initial page
+38:59 Extract other denim brands
+40:11 Analyze extracted data with Pandas
+41:28 Visualize the distributions
+44:03 Feedback and Questions
+
 ## Event
 In this talk, we’ll learn how to use web scraping to extract information about Poshmark listings. Then, we’ll use Python libraries to analyze and visualize the data.
 There is no need to install any software. A Google Colab notebook will be shared. You will be able to follow along and run all the code. All you need is a Google Account.
