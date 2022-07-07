@@ -52,9 +52,9 @@ Tereza Iofciu is an experienced speaker on data, product, management, and divers
 - GitHub: https://github.com/terezaif
 
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+## Video:  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bqZpYY0XBT8" target="_blank"><img src="http://img.youtube.com/vi/bqZpYY0XBT8/0.jpg"
+alt="Tereza Iofciu: Short Stories of Data Visualization" width="50%" /></a>
 
 
 ## Transcript

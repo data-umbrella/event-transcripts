@@ -42,9 +42,15 @@ Joe Torreggiani is a technologist, educator, and advocate for environmental and 
 - GitHub: https://github.com/jtorreggiani
 
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+## Video: 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Yr1ewxg8os8" target="_blank"><img src="http://img.youtube.com/vi/Yr1ewxg8os8/0.jpg"
+alt="Joe Torreggiani: Python for Beginners" width="50%" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=K4NQmrGEWGM" target="_blank"><img src="http://img.youtube.com/vi/K4NQmrGEWGM/0.jpg"
+alt="Joe Torreggiani: Intro to Web Development Frameworks" width="50%" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QTQSzirDs8E" target="_blank"><img src="http://img.youtube.com/vi/QTQSzirDs8E/0.jpg"
+alt="Joe Torreggiani: Building Your First Django Application" width="50%" /></a>
 
 ## Timestamps
 ```text
