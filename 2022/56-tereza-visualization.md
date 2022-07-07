@@ -50,7 +50,7 @@ Tereza Iofciu is an experienced speaker on data, product, management, and divers
 - LinkedIn: https://www.linkedin.com/in/tereza-iofciu/
 - Twitter: https://twitter.com/terezaif
 - GitHub: https://github.com/terezaif
-
+```
 
 ## Video:  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bqZpYY0XBT8" target="_blank"><img src="http://img.youtube.com/vi/bqZpYY0XBT8/0.jpg"
