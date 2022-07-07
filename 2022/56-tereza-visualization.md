@@ -40,6 +40,7 @@ https://www.meetup.com/data-umbrella
 01:02:55 Q: How did you choose the order of continents?
 01:06:20 Q: When does the next 30DayChartChallenge take place?
 01:10:30 Q: How to take accessibility into account when visualizing?
+```
 
 ## About the Event
 Ever wondered how people do all those nice data visualizations out there? How could you start to do some too? In my talk I will present some of my contributions to the #30DayChartChallenge as short stories. I will focus on where did I get my ideas, what was my process, what tools did I use and some best practices I learned. Hopefully after this talk you will be motivated to get started with data visualization and participate in a challenge
@@ -50,8 +51,7 @@ Tereza Iofciu is an experienced speaker on data, product, management, and divers
 - LinkedIn: https://www.linkedin.com/in/tereza-iofciu/
 - Twitter: https://twitter.com/terezaif
 - GitHub: https://github.com/terezaif
-```
-
+ 
 ## Video:  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bqZpYY0XBT8" target="_blank"><img src="http://img.youtube.com/vi/bqZpYY0XBT8/0.jpg"
 alt="Tereza Iofciu: Short Stories of Data Visualization" width="50%" /></a>
