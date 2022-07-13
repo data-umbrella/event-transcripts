@@ -8,13 +8,47 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/ 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/286553513/
-- Video: 
-- GitHub repo:  
+- Video: https://youtu.be/mrHp3wc_6DQ
+- Slides: https://docs.google.com/presentation/d/1EWOIdlagmIJx1_xhomj_vQ_ZHcTYPiRSLL-4FpkNZ-Q/edit?usp=sharing  
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-https://research.wikimedia.org/
-https://meta.wikimedia.org/wiki/User:Diego_(WMF)
+- https://research.wikimedia.org/
+- https://meta.wikimedia.org/wiki/User:Diego_(WMF)
+- Wikimania 2022 event:  https://meta.wikimedia.org/wiki/Wikimania_2022
+
+```
+## Resources
+
+Wikimedia Research Team: https://research.wikimedia.org/
+Research Programs: https://research.wikimedia.org/projects.html
+Events: https://research.wikimedia.org/events.html
+Wiki Workshop: https://wikiworkshop.org/2022/
+
+Contact us at: research-wmf@lists.wikimedia.org or via the
+#wikimedia-research IRC channel
+
+You can fill out our interest form:
+https://docs.google.com/forms/d/e/1FAIpQLScOSgCqRZW6e7l260BOM9O6FfL
+onIWDd6WtFUPwBYjcrS_SCA/viewform and we can contact you if we have
+an opportunity that aligns with your background.
+
+Please review our privacy statement
+https://foundation.wikimedia.org/wiki/Research_Team_Interest_Survey_Privac
+y_Statement prior to sharing your information.
+
+Wikimedia Foundation Internship Programs
+● Outreachy (https://www.mediawiki.org/wiki/Outreachy)
+● Google Summer of Code (https://www.mediawiki.org/wiki/Google_Summer_of_Code)
+
+Tools / Resources:
+● Developer portal: https://developer.wikimedia.org/
+● Wikimedia Research Gitlab: https://gitlab.wikimedia.org/repo/research
+● Wikimedia Research Fund: https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_%26_T
+echnology_Fund
+● Notebook with examples on using Wikimedia data: https://github.com/digitalTranshumant/Wiki-examples/blob/master/WikiMedia
+PublicTools.ipynb
+```
 
 ## About the Event
 During this session, Diego Saez-Trumper and Emily Lescak from the Wikimedia Foundation Research team will discuss the history and structure of the Wikimedia Foundation and how the data science community can contribute to Wikimedia projects.
