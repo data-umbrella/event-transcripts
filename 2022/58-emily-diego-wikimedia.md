@@ -6,7 +6,7 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/ 
+- Transcript: https://github.com/data-umbrella/event-transcripts/edit/main/2022/58-emily-diego-wikimedia.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/286553513/
 - Video: https://youtu.be/mrHp3wc_6DQ
 - Slides: https://docs.google.com/presentation/d/1EWOIdlagmIJx1_xhomj_vQ_ZHcTYPiRSLL-4FpkNZ-Q/edit?usp=sharing  
