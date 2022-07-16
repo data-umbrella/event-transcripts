@@ -13,7 +13,8 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-[Will be provided later.
+- Repo: https://github.com/npatta01/pytorch-serving-workshop
+- Launch this using GitHub authentication to follow along:  https://hub.np.training/
 
 ## About the Event
 This talk is for a data scientist or ML engineer looking to serve their PyTorch models in production. It will cover post training steps that should be taken to optimize the model such as quantization and torch script. It will also walk the user in packaging and serving the model through Facebook's TorchServe.
