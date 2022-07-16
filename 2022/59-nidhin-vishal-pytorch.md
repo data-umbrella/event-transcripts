@@ -1,4 +1,4 @@
-# FNidhin Pattaniyil and Vishal Rathi: Serving PyTorch Models in Production
+# Nidhin Pattaniyil and Vishal Rathi: Serving PyTorch Models in Production
 
 
 ## Upcoming Events
@@ -6,9 +6,9 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/ 
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/59-nidhin-vishal-pytorch.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/286639683/
-- Video: 
+- Video: https://youtu.be/fx_NaKwFYbg
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -29,10 +29,13 @@ Vishal Rathi is a Software Engineer in Walmart Search.
 - LinkedIn: https://www.linkedin.com/in/vishalkumarrathi
 
 ## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fx_NaKwFYbg" target="_blank"><img src="http://img.youtube.com/vi/fx_NaKwFYbg/0.jpg"
+alt="Nidhin Pattaniyil: Serving PyTorch Models in Production" width="50%" /></a>
 
+```
 ## Timestamps
-[get from video]
+00:00 Help us add timestamps
 
+
+```
 ## Transcript
