@@ -20,9 +20,9 @@ https://www.meetup.com/data-umbrella
 ## About the Speaker
 [get from Meetup]
 
-LinkedIn:  
-Twitter:  
-GitHub:  
+- LinkedIn:  
+- Twitter:  
+- GitHub:  
 
 ## Video:  ** NEED TO UPDATE **
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
