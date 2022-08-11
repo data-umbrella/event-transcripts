@@ -17,6 +17,12 @@ https://www.meetup.com/data-umbrella
 - Book: Building Web APIs with FastAPI and Python by Abdulazeez Abdulazeez Adeshina; Amazon: https://www.amazon.com/dp/1801076634
 - Book discount:  valid 5th - 25th of August 2022 (https://www.packtpub.com/product/building-web-apis-with-fastapi-and-python/9781801076630)
 
+
+```
+## Timestamps
+00:00 Help us add timestamps
+```
+
 ## About the Event
 This event aims to introduce the audience to the FastAPI framework and how to use it. An example API that allows user make predictions with the K-cluster classification algorithm is also demonstrated.
 
