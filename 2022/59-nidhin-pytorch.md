@@ -16,6 +16,12 @@ https://www.meetup.com/data-umbrella
 - Repo: https://github.com/npatta01/pytorch-serving-workshop
 - Launch this using GitHub authentication to follow along:  https://hub.np.training/
 
+
+```
+## Timestamps
+00:00 Help us add timestamps
+```
+
 ## About the Event
 This talk is for a data scientist or ML engineer looking to serve their PyTorch models in production. It will cover post training steps that should be taken to optimize the model such as quantization and torch script. It will also walk the user in packaging and serving the model through Facebook's TorchServe.
 
@@ -33,10 +39,4 @@ Vishal Rathi is a Software Engineer in Walmart Search.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fx_NaKwFYbg" target="_blank"><img src="http://img.youtube.com/vi/fx_NaKwFYbg/0.jpg"
 alt="Nidhin Pattaniyil: Serving PyTorch Models in Production" width="50%" /></a>
 
-```
-## Timestamps
-00:00 Help us add timestamps
-
-
-```
 ## Transcript
