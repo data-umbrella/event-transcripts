@@ -22,6 +22,8 @@ https://www.meetup.com/data-umbrella
 ## Timestamps
 00:00 Help us add timestamps
 ```
+https://github.com/data-umbrella/event-transcripts/issues/92
+
 
 ## About the Speaker
 [get from Meetup]
