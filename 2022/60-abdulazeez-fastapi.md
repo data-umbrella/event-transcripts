@@ -35,7 +35,7 @@ Abdulazeez Abdulazeez Adeshina is a software engineer and technical writer with 
 
 #python #apis #deployment
 
-## Video:  ** NEED TO UPDATE **
+## Video 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=aGbUwDYBMhs" target="_blank"><img src="http://img.youtube.com/vi/aGbUwDYBMhs/0.jpg"
 alt="Abdulazeez Abdulazeez Adeshina:  Building APIs with FastAPI" width="50%" /></a>
 
