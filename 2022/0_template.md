@@ -17,6 +17,12 @@ https://www.meetup.com/data-umbrella
 ## About the Event
 [get from Meetup]
 
+
+```
+## Timestamps
+00:00 Help us add timestamps
+```
+
 ## About the Speaker
 [get from Meetup]
 
