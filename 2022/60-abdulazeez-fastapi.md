@@ -40,6 +40,29 @@ Abdulazeez Abdulazeez Adeshina is a software engineer and technical writer with 
 alt="Abdulazeez Abdulazeez Adeshina:  Building APIs with FastAPI" width="50%" /></a>
 
 ## Timestamps
-[get from video]
+```text
+00:00 Welcome 
+00:30 Reshama introduces Data Umbrella
+04:28 Reshama introduces Abdulazeez Abdulazeez Adeshina
+05:28 Abdulazeez begins his talk
+06:00 What are APIs?
+06:55 Components of an API
+10:28 Routing
+11:12 Anatomy of Routes
+12:33 Introduction to FastAPI 
+13:50 Installing FastAPI and unicorn
+14:34 Building an attendees API
+15:12 Writing a basic GET route that welcomes the user
+16:18 Running uvicorn  
+17:50 Accessing the API Docs 
+18:50 Writing a POST route for registering attendees 
+22:15 Writing a GET route that returns all the attendees
+23:52 Retrieving attendees by name
+27:00 Delete Route for removing an attendee by name
+36:22 FastAPI and Data
+40:25 A Cluster Prediction app
+44:43 Abdulazeez introduces his book "Building Web APIs with FastAPI and Python" 
+47:00 Reshama thanks Abdulazeez & End of Webinar
+```
 
 ## Transcript
