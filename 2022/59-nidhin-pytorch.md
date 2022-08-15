@@ -29,7 +29,7 @@ Vishal Rathi is a Software Engineer in Walmart Search.
 
 - LinkedIn: https://www.linkedin.com/in/vishalkumarrathi
 
-## Video:  ** NEED TO UPDATE **
+## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fx_NaKwFYbg" target="_blank"><img src="http://img.youtube.com/vi/fx_NaKwFYbg/0.jpg"
 alt="Nidhin Pattaniyil: Serving PyTorch Models in Production" width="50%" /></a>
 
