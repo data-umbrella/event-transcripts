@@ -63,8 +63,28 @@ alt="Emily Lescak and Diego Saez-Trumper:  How Data Scientists Can Contribute To
 
 ## Timestamps
 ```
-00:00 xxx
-00:00 xxx
+0:00 Beryl introduces Data Umbrella 
+5:40 Beryl introduces Emily
+6:35 Beryl introduces Diego
+8:20 Emily and Diego‘s introduction
+9:30 Outline and agenda
+9:45 The Wikimedia Foundation
+12:15 Research priorities
+14:42 Using Wikipedia resources
+20:45 Article quality scores
+23:30 Reminder on article versions
+25:30 How to access content
+29:58 Media Wiki Utilities
+30:50 Quarry / SQL Replicas
+33:38 Wikimedia Statistics
+35:32 Page Views
+40:02 Click Dataset – visitor information
+42:20 Wikimedia Toolforge
+43:45 PAWS: a Web Shell customized to interact with Wikimedia 
+45:10 How to contribute to Wikimedia (Emily)
+49:15 How to stay in touch
+50:45 Start of Q&A Session
+
 ```
 
 ## Transcript
