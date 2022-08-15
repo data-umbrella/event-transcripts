@@ -57,11 +57,14 @@ Diego Sáez Trumper is Chilean computer scientist, currently working as a Senior
 - Twitter: https://twitter.com/e__migrante
 - GitHub: https://github.com/digitalTranshumant
 
-## Video:  ** NEED TO UPDATE **
+## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mrHp3wc_6DQ" target="_blank"><img src="http://img.youtube.com/vi/mrHp3wc_6DQ/0.jpg"
 alt="Emily Lescak and Diego Saez-Trumper:  How Data Scientists Can Contribute To Wikimedia Projects" width="50%" /></a>
 
 ## Timestamps
-[get from video]
+```
+00:00 xxx
+00:00 xxx
+```
 
 ## Transcript
