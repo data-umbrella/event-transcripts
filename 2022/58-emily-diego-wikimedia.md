@@ -63,12 +63,12 @@ alt="Emily Lescak and Diego Saez-Trumper:  How Data Scientists Can Contribute To
 
 ## Timestamps
 ```
-0:00 Beryl introduces Data Umbrella 
-5:40 Beryl introduces Emily
-6:35 Beryl introduces Diego
-8:20 Emily and Diego‘s introduction
-9:30 Outline and agenda
-9:45 The Wikimedia Foundation
+00:00 Beryl introduces Data Umbrella 
+05:40 Beryl introduces Emily
+06:35 Beryl introduces Diego
+08:20 Emily and Diego‘s introduction
+09:30 Outline and agenda
+09:45 The Wikimedia Foundation
 12:15 Research priorities
 14:42 Using Wikipedia resources
 20:45 Article quality scores
