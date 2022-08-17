@@ -1,5 +1,17 @@
 # Joe Torreggiani: Intro to Front-end Development with React
 
+[61a] React Tutorial Part 1: Background (Joe Torreggiani)  
+Video 1/3:    
+Slides: 1-24
+
+[61b] React Tutorial Part 2: JavaScript, Node.js (Joe Torreggiani)  
+Video 2/3:  
+Slides 25-56
+
+[61c] React Tutorial Part 3: React Fundamentals, Build Your Dirst React Front-end Application    
+Video 3/3:   
+Slides: 57-87
+
 ## Upcoming Events
 Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
@@ -32,5 +44,22 @@ alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /><
 
 ## Timestamps
 [get from video]
+```
+[61a] React Tutorial Part 1: Background (Joe Torreggiani)   
+
+## Agenda
+00:00 Data Umbrella introduction 
+
+[61b] React Tutorial Part 2: JavaScript, Node.js (Joe Torreggiani)   
+
+## Agenda
+00:00  
+    
+[61c] React Tutorial Part 3: React Fundamentals, Build Your Dirst React Front-end Application  
+
+## Agenda
+00:00 
+```
+#react #webdevelopment #javascript
 
 ## Transcript
