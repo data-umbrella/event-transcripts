@@ -38,8 +38,16 @@ Joe Torreggiani is a technologist, educator, and advocate for environmental and 
 - Twitter: https://twitter.com/JoeTorreggiani
 - GitHub: https://github.com/jtorreggiani  
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+## Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jNO-pPR7zkg" target="_blank"><img src="http://img.youtube.com/vi/jNO-pPR7zkg/0.jpg"
+alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /></a>
+
+## Video 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=JWt4Z4sAlxk" target="_blank"><img src="http://img.youtube.com/vi/JWt4Z4sAlxk/0.jpg"
+alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /></a>
+
+## Video 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MSAbOBHGkhw" target="_blank"><img src="http://img.youtube.com/vi/MSAbOBHGkhw/0.jpg"
 alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /></a>
 
 ## Timestamps
