@@ -9,7 +9,7 @@ Video 2/3: https://youtu.be/K4NQmrGEWGM
 Slides 35-86
 
 [55c] Django Part 3: Building Your First Django Application (Joe Torreggiani)  
-Video 3/3:  https://youtu.be/QTQSzirDs8E
+Video 3/3:  https://youtu.be/QTQSzirDs8E  
 Slides: 87-141
 
 ## Upcoming Events
