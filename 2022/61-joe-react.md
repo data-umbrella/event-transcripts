@@ -1,16 +1,16 @@
 # Joe Torreggiani: Intro to Front-end Development with React
 
-[61a] React Tutorial Part 1: Background (Joe Torreggiani)
-Video 1/3:  https://youtu.be/jNO-pPR7zkg
-Slides: 1-24
+- [61a] React Tutorial Part 1: Background (Joe Torreggiani)
+- Video 1/3:  https://youtu.be/jNO-pPR7zkg
+- Slides: 1-24
 
-[61b] React Tutorial Part 2: JavaScript, Node.js (Joe Torreggiani)
-Video 2/3: https://youtu.be/JWt4Z4sAlxk
-Slides 25-56
+- [61b] React Tutorial Part 2: JavaScript, Node.js (Joe Torreggiani)
+- Video 2/3: https://youtu.be/JWt4Z4sAlxk
+- Slides 25-56
 
-[61c] React Tutorial Part 3: React Fundamentals, Build Your First React Front-end Application
-Video 3/3: https://youtu.be/MSAbOBHGkhw
-Slides: 57-87
+- [61c] React Tutorial Part 3: React Fundamentals, Build Your First React Front-end Application
+- Video 3/3: https://youtu.be/MSAbOBHGkhw
+- Slides: 57-87
 
 ## Upcoming Events
 Join our Meetup group for more events!
