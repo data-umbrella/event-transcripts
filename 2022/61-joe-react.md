@@ -8,7 +8,7 @@ Slides: 1-24
 Video 2/3: https://youtu.be/JWt4Z4sAlxk
 Slides 25-56
 
-[61c] React Tutorial Part 3: React Fundamentals, Build Your Dirst React Front-end Application
+[61c] React Tutorial Part 3: React Fundamentals, Build Your First React Front-end Application
 Video 3/3: https://youtu.be/MSAbOBHGkhw
 Slides: 57-87
 
