@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/62-mitzi-bayesian.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/287467730/ 
-- Video: 
+- Video: https://youtu.be/INXMncbt09g
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -26,11 +26,15 @@ Mitzi Morris is a member of the Stan development team. As a software engineer, s
 
 - GitHub: https://github.com/mitzimorris
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+## Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=INXMncbt09g " target="_blank"><img src="http://img.youtube.com/vi/INXMncbt09g /0.jpg"
 alt="Mitzi Morris: Software Engineering for Probabilistic Programming" width="50%" /></a>
 
 ## Timestamps
 [get from video]
+
+
+#stan #probabilistic #statistics
+
 
 ## Transcript
