@@ -30,6 +30,7 @@ Mitzi Morris is a member of the Stan development team. As a software engineer, s
 alt="Mitzi Morris: Software Engineering for Probabilistic Programming" width="50%" /></a>
 
 ## Timestamps
+```text
 00:00 Agenda
 00:47 Data Umbrella
 01:18 Code of Conduct
@@ -47,7 +48,6 @@ alt="Mitzi Morris: Software Engineering for Probabilistic Programming" width="50
 16:29 EPA Radon Data for Minnesota
 20:33 Density Plots
 22:38 Histogram Plots
-
 22:49 Measurement by Floor
 24:01 Homes per County
 24:31 County Level Soil Uranium
@@ -69,6 +69,6 @@ alt="Mitzi Morris: Software Engineering for Probabilistic Programming" width="50
 50:52 Questions & Answers
 
 #stan #eda #probabilistic #statistics
-
+```
 
 ## Transcript
