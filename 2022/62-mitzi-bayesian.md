@@ -8,7 +8,6 @@ https://www.meetup.com/data-umbrella
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/62-mitzi-bayesian.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/287467730/ 
 - Video: https://youtu.be/INXMncbt09g
-- GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -31,10 +30,44 @@ Mitzi Morris is a member of the Stan development team. As a software engineer, s
 alt="Mitzi Morris: Software Engineering for Probabilistic Programming" width="50%" /></a>
 
 ## Timestamps
-[get from video]
+00:00 Agenda
+00:47 Data Umbrella
+01:18 Code of Conduct
+01:28 Support Data Umbrella
+02:07 Data Umbrella on YouTube
+02:55 Data Umbrella Newsletter
+03:18 Data Umbrella Resources
+04:06 Live Captioning
+04:26 Call for Volunteers
+05:05 Upcoming Events
+05:24 Today's Talk
+09:25 What is a probabilistic program?
+13:58 Working Example: Radon Levels in the Home
+15:29 Preliminary Data Analysis
+16:29 EPA Radon Data for Minnesota
+20:33 Density Plots
+22:38 Histrogram Plots
+22:49 Measurement by Floor
+24:01 Homes per County
+24:31 County Level Soil Uranium
+25:40 Boxplot: Visual Summaries by County
+27:39 Preliminary Data Analysis Findings
+29:16 Model Building and Model Testing
+30:50 Statistical Notation
+32:48 Bayesian Estimation
+33:36 Linear Regression
+36:43 Simple Linear Regression in Stan
+37:55 Fitting the Radon Data
+38:38 Multilevel Regression
+40:58 Multilevel Radon Model
+43:05 Model Comparison
+46:01 Posterior Predictive Check
+47:22 Posterior Predictive Test
+48:32 Posterior Predictive Density Plot
+48:56 Concluding Remarks
+50:52 Questions & Answers
 
-
-#stan #probabilistic #statistics
+#stan #eda #probabilistic #statistics
 
 
 ## Transcript
