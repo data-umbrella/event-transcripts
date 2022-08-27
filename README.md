@@ -71,6 +71,12 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 54 | Melissa Weber Mendonça | [Contributing to SciPy](2022/54-melissa-scipy.md) | 
 | 55 | Joe Torreggiani | [Intro to Django](2022/55-joe-django.md) | 
 | 56 | Tereza Iofciu | [Short Stories of Data Visualization](2022/56-tereza-vizualization.md) | 
+| 57 | Data Umbrella & PyMC | [Data Umbrella & PyMC Sprint](2022/57-du-pymc-sprint.md) |
+| 58 | Emily Lescak & Diego Saez-Trumper | [How Data Scientists Can Contribute To Wikimedia Projects](2022/58-emily-diego-wikimedia.md) |
+| 59 | Nidhin Pattaniyil & Vishal Rathi | [Serving PyTorch Models in Production](2022/59-nidhin-pytorch.md) |
+| 60 | Abdulazeez Abdulazeez Adeshina | [Building APIs with FastAPI](2022/60-abdulazeez-fastapi.md) |
+| 61 | Joe Torreggiani | [Intro to Front-end Development with React](2022/61-joe-react.md) |
+| 62 | Mitzi Morris | [Software Engineering for Probabilistic Programming](2022/62-mitzi-bayesian.md) |
 
 
 
