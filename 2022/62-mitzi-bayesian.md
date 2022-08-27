@@ -46,7 +46,8 @@ alt="Mitzi Morris: Software Engineering for Probabilistic Programming" width="50
 15:29 Preliminary Data Analysis
 16:29 EPA Radon Data for Minnesota
 20:33 Density Plots
-22:38 Histrogram Plots
+22:38 Histogram Plots
+
 22:49 Measurement by Floor
 24:01 Homes per County
 24:31 County Level Soil Uranium
