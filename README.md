@@ -70,7 +70,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 53 | Sebastian Raschka and Adrian Wälchli| [Introduction to PyTorch](2022/53-sebastian-adrian-pytorch.md) | 
 | 54 | Melissa Weber Mendonça | [Contributing to SciPy](2022/54-melissa-scipy.md) | 
 | 55 | Joe Torreggiani | [Intro to Django](2022/55-joe-django.md) | 
-| 56 | Tereza Iofciu | [Short Stories of Data Visualization](2022/56-tereza-vizualization.md) | 
+| 56 | Tereza Iofciu | [Short Stories of Data Visualization](2022/56-tereza-visualization.md) | 
 | 57 | Data Umbrella & PyMC | [Data Umbrella & PyMC Sprint](2022/57-du-pymc-sprint.md) |
 | 58 | Emily Lescak & Diego Saez-Trumper | [How Data Scientists Can Contribute To Wikimedia Projects](2022/58-emily-diego-wikimedia.md) |
 | 59 | Nidhin Pattaniyil & Vishal Rathi | [Serving PyTorch Models in Production](2022/59-nidhin-pytorch.md) |
