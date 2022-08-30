@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/63-eric-testing.md 
 - Meetup Event: [https://www.meetup.com/data-umbrella/events/287467730/ ](https://www.meetup.com/data-umbrella/events/287712618/)
-- Video: https://youtu.be/ 
+- Video: https://youtu.be/bJGgVoV4GTc
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -32,7 +32,7 @@ His personal life motto is found in the Gospel of Luke 12:48.
 - GitHub: https://github.com/ericmjl/
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=INXMncbt09g " target="_blank"><img src="http://img.youtube.com/vi/INXMncbt09g/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bJGgVoV4GTc" target="_blank"><img src="http://img.youtube.com/vi/bJGgVoV4GTc/0.jpg"
 alt="Eric Ma: Software Testing in Open Source and Data Science" width="50%" /></a>
 
 ## Timestamps
