@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/65-shivay-tensorflowjs.md 
 - Meetup event: https://www.meetup.com/data-umbrella/events/288166766/
-- Video: https://youtu.be/ 
+- Video: https://youtu.be/k1rHkMmORA4
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -40,7 +40,7 @@ Shivay Lamba is a software developer specializing in DevOps, Machine Learning an
 #tensorflowjs #deeplearning 
 
 ## Video (update)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fya1-Cc6oeE" target="_blank"><img src="http://img.youtube.com/vi/fya1-Cc6oeE/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=k1rHkMmORA4" target="_blank"><img src="http://img.youtube.com/vi/k1rHkMmORA4/0.jpg"
 alt="Machine Learning in JavaScript: An Introduction to TensorFlowJS (Shivay Lambda)" width="50%" /></a>
 
 ## Transcript
