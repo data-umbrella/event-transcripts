@@ -1,4 +1,4 @@
-# Machine Learning in JavaScript: An Introduction to TensorFlowJS (Shivay Lambda)
+# Machine Learning in JavaScript: An Introduction to TensorFlowJS (Shivay Lamba)
 
 ## Upcoming Events
 Join our Meetup group for more events!
@@ -41,6 +41,6 @@ Shivay Lamba is a software developer specializing in DevOps, Machine Learning an
 
 ## Video (update)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=k1rHkMmORA4" target="_blank"><img src="http://img.youtube.com/vi/k1rHkMmORA4/0.jpg"
-alt="Machine Learning in JavaScript: An Introduction to TensorFlowJS (Shivay Lambda)" width="50%" /></a>
+alt="Machine Learning in JavaScript: An Introduction to TensorFlowJS (Shivay Lamba)" width="50%" /></a>
 
 ## Transcript
