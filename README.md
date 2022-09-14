@@ -77,6 +77,14 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 60 | Abdulazeez Abdulazeez Adeshina | [Building APIs with FastAPI](2022/60-abdulazeez-fastapi.md) |
 | 61 | Joe Torreggiani | [Intro to Front-end Development with React](2022/61-joe-react.md) |
 | 62 | Mitzi Morris | [Software Engineering for Probabilistic Programming](2022/62-mitzi-bayesian.md) |
+| 63 | Eric Ma | [Software Engineering for Probabilistic Programming](2022/63-eric-testing.md) |
+| 64 | Liliana Petrova | [Build a Personal Brand](2022/64-liliana-brand.md) |
+| 65 | Shivay Lambda | [Machine Learning in JavaScript: An Introduction to TensorFlowJS](2022/65-shivay-tensorflowjs.md) |
+| 66 | xxx | [Title xxxx] (2022/66-xxx-xxx.md) |
+| 67 | xxx | [Title xxxx] (2022/67-xxx-xxx.md) |
+| 68 | xxx | [Title xxxx] (2022/68-xxx-xxx.md) |
+| 69 | xxx | [Title xxxx] (2022/69-xxx-xxx.md) |
+| 70 | xxx | [Title xxxx] (2022/70-xxx-xxx.md) |
 
 
 
