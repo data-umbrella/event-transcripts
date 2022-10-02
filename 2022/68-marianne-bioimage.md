@@ -1,12 +1,12 @@
-# First Last:  A Bioimage Data Analysis Workflow with Scikit-image
+# Marianne Corvellec: A Bioimage Data Analysis Workflow with Scikit-image
 
 ## Upcoming Events
 Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/ 
-- Meetup Event: https://www.meetup.com/data-umbrella/events/ 
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/68-marianne-bioimage.md 
+- Meetup Event: https://www.meetup.com/data-umbrella/events/288670925/
 - Video: 
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
@@ -32,7 +32,7 @@ Marianne Corvellec is a core developer of scikit-image, where she specializes in
 
 ## Video:  ** NEED TO UPDATE **
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+alt="Marianne Corvellec: A Bioimage Data Analysis Workflow with Scikit-image" width="50%" /></a>
 
 ## Timestamps
 [get from video]
