@@ -19,8 +19,8 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 02 | 2020-03-07 | Bruno Goncalves     | Time Series Modeling                                     | N/A | N/A          | N/A    |
 | 03 | 2020-05-07 | Ty Shaikh           | [Webscraping Poshmark](2020/03-ty-shaikh-webscraping.md) | [v03_webscraping](https://youtu.be/0L1uM_18TTA)    | ?            |        |
 | 04 | 2020-05-27 | Ali Spittel         | [Navigating Your Tech Career](2020/04-ali-spittel-career.md)  | [v04_career](https://youtu.be/0L1uM_18TTA)| Janine     |    Needs reviewer    |
-| 05 |2020-xx-xx | Andreas Mueller     | [Crash Course in Contributing to Scikit-learn](2020/05-andreas-mueller-contributing.md) || Reshama  | Complete |
-| 06 | 2020-xx-xx | Reshama Shaikh      | [Example PR for Scikit-learn](2020/06-reshama-shaikh-sklearn-pr.md)    |           | Reshama / Mark  | Complete |
+| 05 |2020-xx-xx | Andreas Mueller     | [Crash Course in Contributing to Scikit-learn](2020/05-andreas-mueller-contributing.md) | [v05_acm_sklearn](https://youtu.be/5OL8XoMMOfA) | Reshama  | Complete |
+| 06 | 2020-xx-xx | Reshama Shaikh      | [Example PR for Scikit-learn](2020/06-reshama-shaikh-sklearn-pr.md)    | [v06_rs_sklearn](https://youtu.be/PU1WyDPGePI)          | Reshama / Mark  | Complete |
 | 07 | 2020-06-11 | Shailvi Wakhlu      |  [Fixing Bad Data and Using SQL](2020/07-shailvi-wakhlu-fixing-data.md)|                        |  Juanita            |  Complete    |
 | 08 | 2020-06-23 | Matt Brems          |   [Data Science with Missing Data](2020/08-matt-brems-missing-data.md) |                        |  Barbara            |    Complete    |
 | 09 | 2020-07-10 | Sam Bail            | [Intro to Terminal](2020/09-sam-bail-terminal.md)                      |                        |  Isaack    |  Complete      |
