@@ -17,7 +17,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 |    | 2020          |      |    |     |        |
 | 01 | 2020-02-19 | Hugo Bowne-Anderson | Bayesian Data Science                                    | N/A | N/A          | N/A    |
 | 02 | 2020-03-07 | Bruno Goncalves     | Time Series Modeling                                     | N/A | N/A          | N/A    |
-| 03 | 2020-05-07 | Ty Shaikh           | [Webscraping Poshmark](2020/03-ty-shaikh-webscraping.md) | [video: webscraping](https://youtu.be/0L1uM_18TTA)    | ?            |        |
+| 03 | 2020-05-07 | Ty Shaikh           | [Webscraping Poshmark](2020/03-ty-shaikh-webscraping.md) | [v03_webscraping](https://youtu.be/0L1uM_18TTA)    | ?            |        |
 | 04 | 2020-05-27 | Ali Spittel         | [Navigating Your Tech Career](2020/04-ali-spittel-career.md)  |                   | Janine     |    Needs reviewer    |
 | 05 |2020-xx-xx | Andreas Mueller     | [Crash Course in Contributing to Scikit-learn](2020/05-andreas-mueller-contributing.md) || Reshama  | Complete |
 | 06 | 2020-xx-xx | Reshama Shaikh      | [Example PR for Scikit-learn](2020/06-reshama-shaikh-sklearn-pr.md)    |           | Reshama / Mark  | Complete |
