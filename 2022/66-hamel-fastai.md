@@ -7,9 +7,8 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/66-hamel-fastai.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/288668567/
-- Video: 
-- GitHub repo:  
-- Transcriber:  ? [needs a transcriber]
+- Video: https://youtu.be/M7YRWnhKiak
+
 
 ## Resources
 [will post after the video is available]
@@ -32,8 +31,8 @@ He is a core developer for fastai. Additionally, he has contributed to data infr
 - Twitter: https://twitter.com/HamelHusain
 - GitHub: https://github.com/hamelsmu
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+## Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=M7YRWnhKiak" target="_blank"><img src="http://img.youtube.com/vi/M7YRWnhKiak/0.jpg"
 alt="Hamel Husain: How to Make Open Source Contributions to Fastai" width="50%" /></a>
 
 ## Timestamps
