@@ -82,7 +82,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 63 | 2022-xx-xx | Eric Ma | [Software Testing in Open Source and Data Science](2022/63-eric-testing.md) |
 | 64 | 2022-xx-xx | Liliana Petrova | [Build a Personal Brand](2022/64-liliana-brand.md) |
 | 65 | 2022-xx-xx | Shivay Lamba | [Machine Learning in JavaScript: An Introduction to TensorFlowJS](2022/65-shivay-tensorflowjs.md) |
-| 66 | 2022-10-11 | Hamel Husain | [How to Make Open Source Contributions to Fastai](2022/66-hamel-fastai.md) | [v66_fastai](https://youtu.be/0L1uM_18TTA) 
+| 66 | 2022-10-11 | Hamel Husain | [How to Make Open Source Contributions to Fastai](2022/66-hamel-fastai.md) | [v66_fastai](https://youtu.be/M7YRWnhKiak) 
 | 67 | 2022-10-18 | Alex de Siqueira | [An Overview of 3D Image Processing Using Scikit-image](2022/67-alex-image.md) |
 | 68 | 2022-10-25 | Marianne Corvellec | [A Bioimage Data Analysis Workflow with Scikit-image](2022/68-marianne-bioimage.md) |
 | 69 | 2022-11-xx | xxx | [Title xxxx](2022/69-xxx-xxx.md) |
