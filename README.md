@@ -80,7 +80,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 61 | 2022-xx-xx | Joe Torreggiani | [Intro to Front-end Development with React](2022/61-joe-react.md) |
 | 62 | 2022-08-23 | Mitzi Morris | [Software Engineering for Probabilistic Programming](2022/62-mitzi-bayesian.md) | [v62_SE_probabilistic_prog](https://youtu.be/INXMncbt09g)
 | 63 | 2022-08-30 | Eric Ma | [Software Testing in Open Source and Data Science](2022/63-eric-testing.md) | [v63_testing_OS_DS](https://youtu.be/bJGgVoV4GTc)
-| 64 | 2022-09-08 | Liliana Petrova | [Build a Personal Brand](2022/64-liliana-brand.md) | [v64_personal_brand] (https://youtu.be/fya1-Cc6oeE)
+| 64 | 2022-09-08 | Liliana Petrova | [Build a Personal Brand](2022/64-liliana-brand.md) | [v64_personal_brand](https://youtu.be/fya1-Cc6oeE)
 | 65 | 2022-09-13 | Shivay Lamba | [Machine Learning in JavaScript: An Introduction to TensorFlowJS](2022/65-shivay-tensorflowjs.md) | [v65_intro_tensorflowJS](https://youtu.be/k1rHkMmORA4)
 | 66 | 2022-10-12 | Hamel Husain | [How to Make Open Source Contributions to Fastai](2022/66-hamel-fastai.md) | [v66_fastai](https://youtu.be/M7YRWnhKiak)
 | 67 | 2022-10-18 | Alex de Siqueira | [An Overview of 3D Image Processing Using Scikit-image](2022/67-alex-image.md) |
