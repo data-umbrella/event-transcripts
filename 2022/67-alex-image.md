@@ -12,7 +12,18 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-https://github.com/scikit-image/skimage-tutorials/
+- scikit-image tutorials: https://github.com/scikit-image/skimage-tutorials/
+- scikit-image website:  https://scikit-image.org/
+- scikit-image on GitHub: https://github.com/scikit-image/scikit-image
+- Book: The Image Processing Handbook, Sixth Edition, John C. Russ. https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/abs/image-processing-handbook-sixth-edition-john-c-russ-crc-press-boca-raton-fl-2011-972-pages-isbn-1439840450hardcover/0EE71F73E422212792770A709C38F210
+- Contributing to scikit-image:  https://scikit-image.org/docs/stable/contribute.html
+- https://forum.image.sc/
+- https://discuss.scientific-python.org/
+- https://scientific-python.org/calendars/
+- Hacktoberfest issues:
+https://github.com/scikit-image/scikit-image/issues?q=is%3Aopen+is%3Aissue+label%3A%22%3Abeer%3A+Hacktoberfest%22
+
+
 
 
 ## About the Event
