@@ -7,9 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/67-alex-image.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/288669123/ 
-- Video: 
-- GitHub repo:  
-- Transcriber:  ? [needs a transcriber]
+- Video: https://youtu.be/tPNUX5NxlVY
 
 ## Resources
 - scikit-image tutorials: https://github.com/scikit-image/skimage-tutorials/
@@ -23,12 +21,8 @@ https://www.meetup.com/data-umbrella
 - Hacktoberfest issues:
 https://github.com/scikit-image/scikit-image/issues?q=is%3Aopen+is%3Aissue+label%3A%22%3Abeer%3A+Hacktoberfest%22
 
-
-
-
 ## About the Event
 This presentation will introduce how to analyze three dimensional stacked and volumetric images in Python, mainly using scikit-image. Here we will study how to preprocess data using filtering, binarization and segmentation techniques. Also, we will inspect, count and measure attributes of objects and regions of interest in the data. We will finish the tutorial presenting tools to visualize 3D data.
-
 
 ```
 ## Timestamps
@@ -45,7 +39,7 @@ Alex is a researcher working with outreach and programming on data science and c
 - GitHub: https://github.com/alexdesiqueira/
 
 ## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tPNUX5NxlVY" target="_blank"><img src="http://img.youtube.com/vi/tPNUX5NxlVY/0.jpg"
 alt="Alex de Siqueira: An Overview of 3D Image Processing Using Scikit-image" width="50%" /></a>
 
 ## Timestamps
