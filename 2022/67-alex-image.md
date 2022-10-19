@@ -38,6 +38,8 @@ Alex is a researcher working with outreach and programming on data science and c
 - Twitter: https://twitter.com/alexdesiqueira
 - GitHub: https://github.com/alexdesiqueira/
 
+#python #computervision #biology 
+
 ## Video:  ** NEED TO UPDATE **
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tPNUX5NxlVY" target="_blank"><img src="http://img.youtube.com/vi/tPNUX5NxlVY/0.jpg"
 alt="Alex de Siqueira: An Overview of 3D Image Processing Using Scikit-image" width="50%" /></a>
