@@ -61,9 +61,45 @@ alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /><
 [61b] React Tutorial Part 2: JavaScript, Node.js (Joe Torreggiani)   
 
 ## Agenda
-00:00  
-    
-[61c] React Tutorial Part 3: React Fundamentals, Build Your Dirst React Front-end Application  
+--- Characteristics of JavaScript ---
+    0:00 JavaScript & Node Overview (slide 25)
+    0:15 Characteristics of JavaScript & Basic JavaScript Program (slides 26-27)
+    1:44 What makes JavaScript high-level? (slides 28-29)
+    3:32 What makes JavaScript dynamically-typed? (slides 30-32)
+    5:22 What makes JavaScript interpreted? (slide 33)
+    6:10 Object-oriented, imperative, and functional programming in JavaScript (slides 34-36)
+    7:41 Q&A: Are there efficiency or speed differences between dynamic & statically typed languages?
+    9:04 Q&A: Other than stylistic differences, is the performance of JavaScript/Python/Ruby the same? Is there one that's better than the others?
+    10:55 Q&A: Is the ${content} syntax only used for inputting values into a string?
+--- JavaScript Runtime Environments ---
+    11:44 JavaScript Runtime Environments: Browser & Node.js (slides 37-39)
+--- Importing and Exporting JavaScript Modules ---
+    13:45 Importing modules from standard library & importing custom modules (slides 40-41)
+--- Node Package Manager & Node Version Management ---
+    14:51 Node Package Manager (slide 42)
+    15:56 Using npm to install JavaScript packages & import JavaScript libraries (slides 43-44)
+    16:39 Using nvm to install Node versions (slides 45-46)
+--- Web Development Libraries and Frameworks ---
+    17:28 Why are web development frameworks needed? (slides 49-50)
+    18:30 Client-side web development frameworks (slides 51-52)
+    19:20 Server-side web development frameworks (slide 53-54)
+    20:13 Single-page applications (slide 55)
+--- React Fundamentals ---
+    21:15 React Fundamentals (slides 57-59)
+    22:48 Injecting React Component into HTML (slide 60)
+    23:56 React Component Properties (slides 61-62)
+    24:55 Component Composition (slides 63-64)
+    25:52 Rendering lists (slides 65-66)
+    27:09 Handling input events and application state (slide 67)
+    29:16 Managing React component "lifecycle" (slide 68)
+    30:59 Q&A: Can you elaborate on the benefits of SPA (single-page applications)? Why doesn't the page reload? Is it better for SEO (search engine optimization)?
+    33:30 Q&A: Is it the case that all React is embeedded inside a function call? Can it be inside a class as well?
+    35:02 Q&A: What is the best way to learn React if we know HTML, CSS, and JavaScript?
+    35:33 Q&A: When do you recommend moving to React? After you create something with JavaScript, or when you have a good understanding of it?
+    36:24 Q&A: What is the simplest way to explain async and await functionality? / What is the role of asynchronouos JavaScript here with the "async" keyword?
+    37:36 Q&A: How does React handle errors? 
+
+[61c] React Tutorial Part 3: React Fundamentals, Build Your First React Front-end Application  
 
 ## Agenda
 00:00 
