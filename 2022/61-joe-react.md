@@ -51,12 +51,27 @@ alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /><
 alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /></a>
 
 ## Timestamps
-[get from video]
-```
+
 [61a] React Tutorial Part 1: Background (Joe Torreggiani)   
 
 ## Agenda
-00:00 Data Umbrella introduction 
+00:00:00 Data Umbrella Introduction 
+00:05:40 Joe begins the Presentation
+00:06:28 What is React.js?
+00:07:25 Languages, Frameworks, and Libraries
+00:12:38 Presentation Overview
+00:12:58 React Open-Source Software Licensing
+00:14:00 Fundamentals of Front-End Development
+00:14:45 Key Concepts of Front-End Development
+00:14:53 Client-Server Model
+00:16:27 HyperText Transfer Protocol
+00:16:53 HTML
+00:17:25 CSS
+00:17:57 JavaScript
+00:19:33 Data Interchange Formats
+00:20:03 HTML, CSS, & JavaScript
+00:21:56 HTML with External Resources
+
 
 [61b] React Tutorial Part 2: JavaScript, Node.js (Joe Torreggiani)   
 
