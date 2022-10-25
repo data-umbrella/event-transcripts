@@ -51,12 +51,10 @@ alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /><
 alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /></a>
 
 ## Timestamps
-[get from video]
-```
+
 [61a] React Tutorial Part 1: Background (Joe Torreggiani)   
 
 ## Agenda
-00:00 Data Umbrella introduction 
 
 [61b] React Tutorial Part 2: JavaScript, Node.js (Joe Torreggiani)   
 
