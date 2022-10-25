@@ -85,7 +85,8 @@ alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /><
 27:09 Handling input events and application state
 29:16 Managing React component "lifecycle"
 30:59 Q&A: Can you elaborate on the benefits of SPA (single-page applications)? Why doesn't the page reload? Is it better for SEO (search engine optimization)?
-33:30 Q&A: Is it the case that all React is embeedded inside a function call? Can it be inside a class as well?
+33:30 Q&A: Is it the case that all React is embedded inside a function call? Can it be inside a class as well?
+
 35:02 Q&A: What is the best way to learn React if we know HTML, CSS, and JavaScript?
 35:33 Q&A: When do you recommend moving to React? After you create something with JavaScript, or when you have a good understanding of it?
 36:24 Q&A: What is the simplest way to explain async and await functionality? / What is the role of asynchronouos JavaScript here with the "async" keyword?
