@@ -14,11 +14,12 @@ https://www.meetup.com/data-umbrella
 ## Resources
 - scikit-image on GitHub: https://github.com/scikit-image/scikit-image
 - scikit-image website:  https://scikit-image.org/
+- scikit-image forum: https://discuss.scientific-python.org/c/contributor/skimage
 - Alex’s recent talk on scikit-image:  https://www.youtube.com/watch?v=tPNUX5NxlVY
 - Example: https://scikit-image.org/docs/dev/auto_examples/applications/plot_fluorescence_nuclear_envelope.html
 - Data files: https://gitlab.com/scikit-image/data
 - CZI scikit-image:  https://chanzuckerberg.com/?s=scikit-image
-
+- CZI scikit-image grant: https://chanzuckerberg.com/eoss/proposals/gpu-acceleration-rapid-releases-and-biomedical-examples-for-scikit-image/
 
 ## About the Event
 Scikit-image is a well-established Python library boasting a wide collection of image processing algorithms. We show that it is well-suited for bioimage data analysis workflows by presenting a biological application from the literature. The dataset is a time sequence of microscopy images of human cells. The presentation is intended as a step-by-step, follow-along tutorial.
