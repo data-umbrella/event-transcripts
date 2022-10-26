@@ -83,8 +83,8 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 64 | 2022-09-08 | Liliana Petrova | [Build a Personal Brand](2022/64-liliana-brand.md) | [v64_personal_brand](https://youtu.be/fya1-Cc6oeE)
 | 65 | 2022-09-13 | Shivay Lamba | [Machine Learning in JavaScript: An Introduction to TensorFlowJS](2022/65-shivay-tensorflowjs.md) | [v65_intro_tensorflowJS](https://youtu.be/k1rHkMmORA4)
 | 66 | 2022-10-12 | Hamel Husain | [How to Make Open Source Contributions to Fastai](2022/66-hamel-fastai.md) | [v66_fastai](https://youtu.be/M7YRWnhKiak)
-| 67 | 2022-10-18 | Alex de Siqueira | [An Overview of 3D Image Processing Using Scikit-image](2022/67-alex-image.md) |
-| 68 | 2022-10-25 | Marianne Corvellec | [A Bioimage Data Analysis Workflow with Scikit-image](2022/68-marianne-bioimage.md) |
+| 67 | 2022-10-18 | Alex de Siqueira | [An Overview of 3D Image Processing Using scikit-image](2022/67-alex-image.md) | [v67_scikit-image](https://youtu.be/tPNUX5NxlVY) 
+| 68 | 2022-10-25 | Marianne Corvellec | [A Bioimage Data Analysis Workflow with scikit-image](2022/68-marianne-bioimage.md) | [v68_bioimage](https://youtu.be/NqdhuU1fX5A) 
 | 69 | 2022-11-xx | xxx | [Title xxxx](2022/69-xxx-xxx.md) |
 | 70 | 2022-11-xx | xxx | [Title xxxx](2022/70-xxx-xxx.md) |
 | 71 | 2022-12-xx | xxx | [Title xxxx](2022/71-xxx-xxx.md) |
