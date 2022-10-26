@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/68-marianne-bioimage.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/288670925/
-- Video: 
+- Video: https://youtu.be/NqdhuU1fX5A
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -22,7 +22,7 @@ https://www.meetup.com/data-umbrella
 - CZI scikit-image grant: https://chanzuckerberg.com/eoss/proposals/gpu-acceleration-rapid-releases-and-biomedical-examples-for-scikit-image/
 
 ## About the Event
-Scikit-image is a well-established Python library boasting a wide collection of image processing algorithms. We show that it is well-suited for bioimage data analysis workflows by presenting a biological application from the literature. The dataset is a time sequence of microscopy images of human cells. The presentation is intended as a step-by-step, follow-along tutorial.
+scikit-image is a well-established Python library boasting a wide collection of image processing algorithms. We show that it is well-suited for bioimage data analysis workflows by presenting a biological application from the literature. The dataset is a time sequence of microscopy images of human cells. The presentation is intended as a step-by-step, follow-along tutorial.
 
 ```
 ## Timestamps
@@ -37,9 +37,9 @@ Marianne Corvellec is a core developer of scikit-image, where she specializes in
 - GitHub: https://github.com/mkcor 
  
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="Marianne Corvellec: A Bioimage Data Analysis Workflow with Scikit-image" width="50%" /></a>
+## Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NqdhuU1fX5A" target="_blank"><img src="http://img.youtube.com/vi/NqdhuU1fX5A/0.jpg"
+alt="Marianne Corvellec: A Bioimage Data Analysis Workflow with scikit-image" width="50%" /></a>
 
 ## Timestamps
 [get from video]
