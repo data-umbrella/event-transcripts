@@ -37,7 +37,27 @@ alt="Eric Ma: Software Testing in Open Source and Data Science" width="50%" /></
 
 ## Timestamps
 ```text
-00:00 help us add timestamps here
+00:00 Introduction by @BerylKanali - Data Umbrella team
+
+08:33 Test your work! Opening, goals, introduction, and agenda by Eric Ma
+12:21 Testing in Software
+12:56 Why do testing?
+15:33 What does a test look like?
+18:34 How do I make tests automated?
+20:45 What benefits do I get?
+23:48 What kind of tests exist?
+
+27:26 Testing in data science
+27:43 Testing machine learning model code
+32:29 Testing data a.k.a. data validation
+34:36 Testing pipeline code
+36:13 Mock-up realistic fake data
+
+37:57 Philosophy - integrating testing into your work
+40:06 Resources - Youtube videos
+41:09 Summary
+
+59:41 QnA session
 
 #python #testing #softwaretesting
 ```
