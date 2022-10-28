@@ -71,9 +71,9 @@ alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /><
 21:56 HTML with External Resources
 ```
 
-[61b] React Tutorial Part 2: JavaScript, Node.js (Joe Torreggiani)   
+### [61b] React Tutorial Part 2: JavaScript, Node.js (Joe Torreggiani)   
 
-## Agenda
+```
 00:15 Characteristics of JavaScript & Basic JavaScript Program
 01:44 What makes JavaScript high-level?
 03:32 What makes JavaScript dynamically-typed?
@@ -105,6 +105,7 @@ alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /><
 35:33 Q&A: When do you recommend moving to React? After you create something with JavaScript, or when you have a good understanding of it?
 36:24 Q&A: What is the simplest way to explain async and await functionality? / What is the role of asynchronous JavaScript here with the "async" keyword?
 37:36 Q&A: How does React handle errors?
+```
 
 ### [61c] React Tutorial Part 3: React Fundamentals, Build Your First React Front-end Application  
 ```
