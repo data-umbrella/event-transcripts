@@ -72,12 +72,42 @@ alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /><
 ```
 
 ### [61b] React Tutorial Part 2: JavaScript, Node.js (Joe Torreggiani)   
-```
-00:00  
 
 ```
+00:15 Characteristics of JavaScript & Basic JavaScript Program
+01:44 What makes JavaScript high-level?
+03:32 What makes JavaScript dynamically-typed?
+05:22 What makes JavaScript interpreted?
+06:10 Object-oriented, imperative, and functional programming in JavaScript
+07:41 Q&A: Are there efficiency or speed differences between dynamic & statically typed languages?
+09:04 Q&A: Other than stylistic differences, is the performance of JavaScript/Python/Ruby the same? Is there one that's better than the others?
+10:55 Q&A: Is the ${content} syntax only used for inputting values into a string?
+11:44 JavaScript Runtime Environments: Browser & Node.js
+13:45 Importing modules from standard library & importing custom modules
+14:51 Node Package Manager (npm) & Node.js version manager (nvm)
+15:56 Using npm to install JavaScript packages & import JavaScript libraries
+16:39 Using nvm to install Node versions
 
-### [61c] React Tutorial Part 3: React Fundamentals, Build Your Dirst React Front-end Application  
+17:28 Why are web development frameworks needed?
+18:30 Client-side and server-side web development frameworks
+20:13 Single-page applications
+21:15 React Fundamentals
+22:48 Injecting React Component into HTML
+23:56 React Component Properties
+24:55 Component Composition
+25:52 Rendering lists
+27:09 Handling input events and application state
+29:16 Managing React component "lifecycle"
+30:59 Q&A: Can you elaborate on the benefits of SPA (single-page applications)? Why doesn't the page reload? Is it better for SEO (search engine optimization)?
+33:30 Q&A: Is it the case that all React is embedded inside a function call? Can it be inside a class as well?
+
+35:02 Q&A: What is the best way to learn React if we know HTML, CSS, and JavaScript?
+35:33 Q&A: When do you recommend moving to React? After you create something with JavaScript, or when you have a good understanding of it?
+36:24 Q&A: What is the simplest way to explain async and await functionality? / What is the role of asynchronous JavaScript here with the "async" keyword?
+37:36 Q&A: How does React handle errors?
+```
+
+### [61c] React Tutorial Part 3: React Fundamentals, Build Your First React Front-end Application  
 ```
 00:00
 
