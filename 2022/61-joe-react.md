@@ -109,8 +109,23 @@ alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /><
 
 ### [61c] React Tutorial Part 3: React Fundamentals, Build Your First React Front-end Application  
 ```
-00:00
-
+00:00 Building your first React project 
+00:36 Scaffolding a React project with Create React App
+03:26 Live coding begins
+04:56 Tailwind CSS
+05:48 Setting up multiple pages using React Router
+07:50 Adding navigation
+09:20 Creating a fake server using JSON Web Server
+10:44 Fetching server data with useState and asynchronous functions
+13:15 Rendering data
+14:23 Posting data to the server
+17:33 Summary and error handling
+20:00 Recap and next steps
+22:08 Q&A: Does a hard load refer to a root change?
+24:45 Q&A: Are there other ways or best practices to test a React app?
+25:18 Q&A: Is Redux phasing out?
+25:49 Q&A: Does React adhere to object-oriented principles?
+26:20 Q&A: Does a beginner need to learn Redux?
 ```
 #react #webdevelopment #javascript
 
