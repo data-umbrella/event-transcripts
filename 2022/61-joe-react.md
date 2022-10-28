@@ -19,7 +19,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/61-joe-react.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/287393407/ 
-- Video: 
+- Video: Playlist
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -51,20 +51,36 @@ alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /><
 alt="Joe Torreggiani: Intro to Front-end Development with React" width="50%" /></a>
 
 ## Timestamps
+### [61a] React Tutorial Part 1: Background (Joe Torreggiani)   
+```
+00:00 Data Umbrella Introduction
+05:40 Joe begins the Presentation
+06:28 What is React.js?
+07:25 Languages, Frameworks, and Libraries
+12:38 Presentation Overview
+12:58 React Open-Source Software Licensing
+14:00 Fundamentals of Front-End Development
+14:45 Key Concepts of Front-End Development
+14:53 Client-Server Model
+16:27 HyperText Transfer Protocol
+16:53 HTML
+17:25 CSS
+17:57 JavaScript
+19:33 Data Interchange Formats
+20:03 HTML, CSS, & JavaScript
+21:56 HTML with External Resources
+```
 
-[61a] React Tutorial Part 1: Background (Joe Torreggiani)   
-
-## Agenda
-
-[61b] React Tutorial Part 2: JavaScript, Node.js (Joe Torreggiani)   
-
-## Agenda
+### [61b] React Tutorial Part 2: JavaScript, Node.js (Joe Torreggiani)   
+```
 00:00  
-    
-[61c] React Tutorial Part 3: React Fundamentals, Build Your Dirst React Front-end Application  
 
-## Agenda
-00:00 
+```
+
+### [61c] React Tutorial Part 3: React Fundamentals, Build Your Dirst React Front-end Application  
+```
+00:00
+
 ```
 #react #webdevelopment #javascript
 
