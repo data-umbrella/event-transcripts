@@ -10,6 +10,7 @@ https://www.meetup.com/data-umbrella
 - Video: https://youtu.be/tPNUX5NxlVY
 
 ## Resources
+- Jupyter notebook: https://github.com/scikit-image/skimage-tutorials/tree/main/workshops/2022-data-umbrella
 - scikit-image tutorials: https://github.com/scikit-image/skimage-tutorials/
 - scikit-image website:  https://scikit-image.org/
 - scikit-image on GitHub: https://github.com/scikit-image/scikit-image
