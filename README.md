@@ -62,11 +62,11 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 43 | 2022-xx-xx | Ricardo Vieira | [Contributing to PyMC](2022/43-ricardo-vieira-contributing-pymc.md)       |                        |              |        |
 | 44 | 2022-xx-xx | Reshama Shaikh| [An Example Pull Request to PyMC](2022/44-reshama-pymc.md)       |                        |              |        |
 | 45 | 2022-xx-xx | Oriol Abril Pla | [Contributing to PyMC Documentation](2022/45-oriol-abril-contributing-pymc-doc.md)       |                        |              |        |
-| 46 | 2022-xx-xx | Christy Heaton| [Geospatial Data and Maps with Python](2022/46-christy-python-geomapping.md)       |                        |              |        |
-| 47 | 2022-xx-xx | Laura Gutierrez| [Creating a Python Plotly Dashboard](2022/47-laura-plotly-dashboard.md)       |                        |              |        |
-| 48 | 2022-xx-xx | Clair Sullivan| [Arrays, Linked Lists and Graphs](2022/48-clair-linkedlist.md)       |                        |              |        |
-| 49 | 2022-xx-xx | Lauren Burke| [Setting up a Personal Website with Jekyll & GitHub Pages](2022/49-lauren-jekyll-blog.md)       |                        |              |        |
-| 50 | 2022-xx-xx | Julia Signell| [Introduction to Holoviz](2022/50-julia-holoviz.md)       |                        |              |        |
+| 46 | 2022-03-02 | Christy Heaton| [Geospatial Data and Maps with Python](2022/46-christy-python-geomapping.md)       | [v46_geospatial_data_and_maps_python](https://youtu.be/EXHG-bLGT0Y)|              |        |
+| 47 | 2022-03-13 | Laura Gutierrez| [Creating a Python Plotly Dashboard](2022/47-laura-plotly-dashboard.md)       |  [v47_python_plotly_dashboard](https://youtu.be/b1gmh4W3H9A)                      |              |        |
+| 48 | 2022-03-15 | Clair Sullivan| [Arrays, Linked Lists and Graphs](2022/48-clair-linkedlist.md)       | [v48_array_linked-lists_graphs](https://youtu.be/gWGyvfU80kc)                       |              |        |
+| 49 | 2022-03-22 | Lauren Burke| [Setting up a Personal Website with Jekyll & GitHub Pages](2022/49-lauren-jekyll-blog.md)       |   [v49_jekyll_blog](https://youtu.be/7SBXl94xNl8)                     |              |        |
+| 50 | 2022-03-29 | Julia Signell| [Introduction to Holoviz](2022/50-julia-holoviz.md)       | [v50_Introduction_Holoviz](https://youtu.be/uYFHdQVc8sw)                       |              |        |
 | 51 | 2022-04-05 | Rob Lanphier| [Editing Wikipedia: Because Someone Has to...](2022/51-rob-wikipedia.md)| [v51_Editing_Wikipedia](https://www.youtube.com/watch?v=s5kUSMUaZLM)                     |              |        |
 | 52 | 2022-04-26 | William Lyon| [Introduction to GraphQL for Data Scientists](2022/52-will-graphql.md)| [v52_GraphQL_for_Data_Scientists](https://youtu.be/3QVguMgyAhU)
 | 53 | 2022-05-10 | Sebastian Raschka and Adrian Wälchli| [Introduction to PyTorch](2022/53-sebastian-adrian-pytorch.md) | [v53_PyTorch_introduction](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir-nTHNebO-mOpF_ElUAtRmE)
