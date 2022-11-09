@@ -5,7 +5,7 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/ 
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/69-bruno-rust.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/289308172/
 - Video: 
 - GitHub repo:  
