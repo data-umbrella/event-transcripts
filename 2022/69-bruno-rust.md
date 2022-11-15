@@ -36,7 +36,7 @@ Bruno is a Software Engineer who works developing the Red Hat Ansible Platform, 
 - Twitter: https://twitter.com/rochacbruno
 - Linkedin: https://linkedin.com/in/rochacbruno
 
-## Video:  ** NEED TO UPDATE **
+## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7E8nLExn3WI" target="_blank"><img src="http://img.youtube.com/vi/7E8nLExn3WI/0.jpg"
 alt="Bruno Rocha: Intro to Rust" width="50%" /></a>
 
