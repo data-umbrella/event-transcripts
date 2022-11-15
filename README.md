@@ -85,7 +85,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 66 | 2022-10-12 | Hamel Husain | [How to Make Open Source Contributions to Fastai](2022/66-hamel-fastai.md) | [v66_fastai](https://youtu.be/M7YRWnhKiak)
 | 67 | 2022-10-18 | Alex de Siqueira | [An Overview of 3D Image Processing Using scikit-image](2022/67-alex-image.md) | [v67_scikit-image](https://youtu.be/tPNUX5NxlVY) 
 | 68 | 2022-10-25 | Marianne Corvellec | [A Bioimage Data Analysis Workflow with scikit-image](2022/68-marianne-bioimage.md) | [v68_bioimage](https://youtu.be/NqdhuU1fX5A) 
-| 69 | 2022-11-15 | Bruno Rocha | [Introduction to Rust Programming](2022/69-bruno-rust.md) | [v69_rust]([https://youtu.be/tPNUX5NxlVY](https://youtu.be/7E8nLExn3WI)) 
+| 69 | 2022-11-15 | Bruno Rocha | [Introduction to Rust Programming](2022/69-bruno-rust.md) | [v69_rust](https://youtu.be/7E8nLExn3WI) 
 | 70 | 2022-11-29 | Oriol Abril Pla | [Contributing to ArviZ and Open Source: Social and Technical Sides](2022/70-oriol-arviz.md) |
 | 71 | 2022-12-xx | xxx | [Title xxxx](2022/71-xxx-xxx.md) |
 |    | 2023          |      |    |     |        |
