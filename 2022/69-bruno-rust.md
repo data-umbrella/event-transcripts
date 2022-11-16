@@ -25,9 +25,33 @@ An introduction to Rust Programming for complete beginners, we will go over what
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00:00 - Beryl introduces Data Umbrella
+00:05:35 - Bruno begins presentation
+00:13:00 - Hello World
+00:18:10 - Cargo and Projects
+00:24:50 - Variable Definition
+00:36:00 - Type Inference
+00:41:12 - Mutability
+00:46:56 - Strong Typing
+00:49:00 - Variable Shadowing
+00:53:30 - Constants
+00:58:21 - Data Types
+01:14:00 - Static, Stack & Heap
+01:23:58 - Function
+01:26:02 - Docs
+01:28:43 - Ownership
+01:34:36 - Borrowing
+01:37:37 - Console Input
+01:40:18 - DEMO ERROR ignore this part :)
+01:43:02 - Read user input
+01:45:22 - Combinators
+01:46:01 - Result type
+01:50:00 - External Dependency
+01:52:07 - Random numbers
+01:54:38 - Type coercion
+01:59:09 - Complete program
+02:01:47 - Q & A
 ```
-https://github.com/data-umbrella/event-transcripts/issues/92
 
 
 ## About the Speaker
