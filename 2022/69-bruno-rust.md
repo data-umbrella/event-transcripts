@@ -12,6 +12,7 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
+- Event transcript and notes:  https://github.com/rochacbruno/rust-intro/blob/wip/script.md
 - Slides: https://github.com/rochacbruno/rust-intro
 - data science libraries in Rust:  https://www.arewelearningyet.com/
 - Rust book:  https://www.rust-lang.org/learn
