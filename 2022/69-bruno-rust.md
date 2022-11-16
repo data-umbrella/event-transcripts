@@ -25,7 +25,32 @@ An introduction to Rust Programming for complete beginners, we will go over what
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 - Intro
+05:35 - Start
+13:00 - Hello World
+18:10 - Cargo and Projects
+24:50 - Variable Definition
+36:00 - Type Inference
+41:12 - Mutability
+46:56 - Strong Typing
+49:00 - Variable Shadowing
+53:30 - Constants 
+58:21 - Data Types
+1:14:00 - Static, Stack & Heap
+1:23:58 - Function
+1:26:02 - Docs
+1:28:43 - Ownership
+1:34:36 - Borrowing
+1:37:37 - Console Input
+1:40:18 - DEMO ERROR ignore this part :)
+1:43:02 - Read user input
+1:45:22 - Combinators
+1:46:01 - Result type
+1:50:00 - External Dependency
+1:52:07 - Random numbers
+1:54:38 - Type coercion
+1:59:09 - Complete program
+2:01:47 - Q & A
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
@@ -42,6 +67,32 @@ Bruno is a Software Engineer who works developing the Red Hat Ansible Platform, 
 alt="Bruno Rocha: Intro to Rust" width="50%" /></a>
 
 ## Timestamps
-[get from video]
+
+00:00 - Intro
+05:35 - Start
+13:00 - Hello World
+18:10 - Cargo and Projects
+24:50 - Variable Definition
+36:00 - Type Inference
+41:12 - Mutability
+46:56 - Strong Typing
+49:00 - Variable Shadowing
+53:30 - Constants 
+58:21 - Data Types
+1:14:00 - Static, Stack & Heap
+1:23:58 - Function
+1:26:02 - Docs
+1:28:43 - Ownership
+1:34:36 - Borrowing
+1:37:37 - Console Input
+1:40:18 - DEMO ERROR ignore this part :)
+1:43:02 - Read user input
+1:45:22 - Combinators
+1:46:01 - Result type
+1:50:00 - External Dependency
+1:52:07 - Random numbers
+1:54:38 - Type coercion
+1:59:09 - Complete program
+2:01:47 - Q & A
 
 ## Transcript
