@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/70-oriol-arviz.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/289308615/
-- Video: 
+- Video: https://youtu.be/457ZTes4xOI
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -34,8 +34,8 @@ Oriol is an ArviZ and PyMC team member who dedicates a large part of his work on
 - Twitter: https://twitter.com/OriolAbril/
 - LinkedIn: https://www.linkedin.com/in/oriol-abril-pla-1b9123180/  
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+## Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=457ZTes4xOI" target="_blank"><img src="http://img.youtube.com/vi/457ZTes4xOI/0.jpg"
 alt="Oriol Abril Pla: Contributing to ArviZ and Open Source: Social and Technical Sides" width="50%" /></a>
 
 ## Timestamps
