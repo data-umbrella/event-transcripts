@@ -12,10 +12,12 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-[will post after the video is available]
+- Slides: https://oriolabril.github.io/contributing_to_arviz/
+- Example pull request:  https://github.com/arviz-devs/arviz/pull/2176
+- ArviZ docs:  https://arviz-devs.github.io/arviz/#
 
 ## About the Event
-In this webinar we will go over both social and technical aspects we have to face when we contribute to ArviZ and to open source in general. I will go over all kinds of challenges: from finding an issue to work on and understanding how to work on it to submitting the pull request and addressing the feedback received. Challenges both I have faced and continue to face. The talk will be focused on ArviZ, but it should also be useful to anyone interested in contributing to open source.
+In this webinar we go over both social and technical aspects we face when we contribute to ArviZ and to open source in general. We cover: finding an issue to work on, understanding how to work on it, to submitting the pull request and addressing the feedback received, and challenges faced. The talk will be focused on ArviZ, but it should also be useful to anyone interested in contributing to open source.
 
 
 ```
@@ -34,7 +36,7 @@ Oriol is an ArviZ and PyMC team member who dedicates a large part of his work on
 
 ## Video:  ** NEED TO UPDATE **
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+alt="Oriol Abril Pla: Contributing to ArviZ and Open Source: Social and Technical Sides" width="50%" /></a>
 
 ## Timestamps
 [get from video]
