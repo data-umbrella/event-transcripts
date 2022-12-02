@@ -30,7 +30,7 @@ https://github.com/data-umbrella/event-transcripts/issues/92
 ## About the Speaker
 Oriol is an ArviZ and PyMC team member who dedicates a large part of his work on "non-technical" work such as community building or mentoring new contributors. He started contributing to open source a bit over 3 years ago and is currently working as a freelancer around open source and bayesian statistics.
 
-- GitHub: https://twitter.com/OriolAbril/
+- Website: https://oriolabrilpla.cat/en/
 - Twitter: https://twitter.com/OriolAbril/
 - LinkedIn: https://www.linkedin.com/in/oriol-abril-pla-1b9123180/  
 
