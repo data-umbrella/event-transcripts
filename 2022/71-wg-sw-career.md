@@ -1,4 +1,4 @@
-# # Wendy Grus and Stacey Williams: Land your First Job in Data Science
+# Wendy Grus and Stacey Williams: Land your First Job in Data Science
 
 ## Upcoming Events
 Join our Meetup group for more events!
