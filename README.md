@@ -87,7 +87,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 68 | 2022-10-25 | Marianne Corvellec | [A Bioimage Data Analysis Workflow with scikit-image](2022/68-marianne-bioimage.md) | [v68_bioimage](https://youtu.be/NqdhuU1fX5A) 
 | 69 | 2022-11-15 | Bruno Rocha | [Introduction to Rust Programming](2022/69-bruno-rust.md) | [v69_rust](https://youtu.be/7E8nLExn3WI) 
 | 70 | 2022-11-29 | Oriol Abril Pla | [Contributing to ArviZ and Open Source: Social and Technical Sides](2022/70-oriol-arviz.md) |
-| 71 | 2022-12-xx | xxx | [Title xxxx](2022/71-xxx-xxx.md) |
+| 71 | 2022-12-06 | Wendy Grus & Stacey Williams | [Land First Data Science Job](2022/71-wg-sw-career.md) |
 |    | 2023          |      |    |     |        |
 | 72 | 2023-xx-xx | xxx | [Title xxxx](2022/72-xxx-xxx.md) |
 | xx | 2023-xx-xx | xxx | [Title xxxx](2022/72-xxx-xxx.md) |
