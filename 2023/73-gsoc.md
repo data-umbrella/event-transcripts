@@ -5,15 +5,15 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/73-oa-tp-ld-gsoc.md 
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/73-gsoc.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/290346752/
 - Video: 
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-GSOC website: https://summerofcode.withgoogle.com/
-Application timeline: https://developers.google.com/open-source/gsoc/timeline
+- GSOC website: https://summerofcode.withgoogle.com/
+- Application timeline: https://developers.google.com/open-source/gsoc/timeline
 
 ## About the Event
 Google Summer of Code (GSOC) is a program Google Summer of Code is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.
