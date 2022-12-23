@@ -90,7 +90,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 | 71 | 2022-12-06 | Wendy Grus & Stacey Williams | [Land First Data Science Job](2022/71-wg-sw-career.md) |
 |    | 2023          |      |    |     |        |
 | 72 | 2023-01-10 | Marco Gorelli | [How You (yes, you!) Can Contribute to Pandas](2023/72-marco-pandas.md) |
-| 72 | 2023-01-24 | Tirth Patel, Larry Dong and Oriol Abril Pla | [Google Summer of Code (GSOC) Experience](2023/73-gsoc.md) |
+| 73 | 2023-01-24 | Tirth Patel, Larry Dong and Oriol Abril Pla | [Google Summer of Code (GSOC) Experience](2023/73-gsoc.md) |
 | xx | 2023-xx-xx | xxx | [Title xxxx](2023/72-xxx-xxx.md) |
 | xx | 2023-xx-xx | xxx | [Title xxxx](2023/72-xxx-xxx.md) |
 | xx | 2023-xx-xx | xxx | [Title xxxx](2023/72-xxx-xxx.md) |
