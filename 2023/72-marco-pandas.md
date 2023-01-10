@@ -7,8 +7,8 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/72-marco-pandas.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/290269173/
-- Video: 
-- GitHub repo:  
+- Video: https://youtu.be/zI4l1lfggzU
+- Slides: https://docs.google.com/presentation/d/1L8uHtgZlpZOnzVjtUYDNZRGoORBQk15sfjOHUWAOugY/edit?usp=sharing  
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -30,9 +30,9 @@ Marco is a pandas core developer and Senior Software Engineer at Quansight Labs.
 - GitHub: https://github.com/MarcoGorelli
 - LinkedIn: https://www.linkedin.com/in/marcogorelli/
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+## Video 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zI4l1lfggzU" target="_blank"><img src="http://img.youtube.com/vi/zI4l1lfggzU/0.jpg"
+alt="Marco Gorelli: How You Can Contribute to Pandas" width="50%" /></a>
 
 ## Timestamps
 [get from video]
