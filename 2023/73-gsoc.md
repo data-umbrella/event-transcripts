@@ -13,6 +13,11 @@ https://www.meetup.com/data-umbrella
 ## Resources
 - GSOC website: https://summerofcode.withgoogle.com/
 - Application timeline: https://developers.google.com/open-source/gsoc/timeline
+- Oriol GSOC blog: https://oriolabril.github.io/gsoc2019_blog/https://oriolabril.github.io/gsoc2019_blog/	
+- Meet the PyMC GSOC students: https://www.pymc.io/blog/blog_gsoc_2022.html
+- Larry blog: https://larrydong.com/posts/2022-06-18-value-oss/
+- VIDEO Software Testing in Open Source and Data Science https://youtu.be/bJGgVoV4GTc
+- VIDEO Intro to Unit Testing and Continuous Integration https://youtu.be/vLBr_AfomUY
 
 ## About the Event
 Google Summer of Code (GSOC) is a program Google Summer of Code is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.
