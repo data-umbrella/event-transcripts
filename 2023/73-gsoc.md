@@ -7,8 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/73-gsoc.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/290346752/
-- Video: 
-- GitHub repo:  
+- Video: https://youtu.be/YE-TYJmvbfg
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -54,8 +53,8 @@ Oriol dedicates a lot of his time to community management and documentation beca
 
 
 ## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YE-TYJmvbfg" target="_blank"><img src="http://img.youtube.com/vi/YE-TYJmvbfg/0.jpg"
+alt="Tirth Patel, Larry Dong and Oriol Abril Pla: Google Summer of Code (GSOC) Experience" width="50%" /></a>
 
 ## Timestamps
 [get from video]
