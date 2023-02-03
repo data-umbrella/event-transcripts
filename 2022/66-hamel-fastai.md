@@ -32,8 +32,6 @@ Come learn how you can get started with contributing to fastai projects. Contrib
 38:00 Closing Thoughts
 40:35 Q & A
 
-https://github.com/data-umbrella/event-transcripts/issues/92
-
 
 ## About the Speaker
 Hamel Husain is a Machine Learning Engineer who loves building data-science infrastructure and developer tools. He recently caught the entrepreneurship bug and he is building something new with nbdev. He has previously held related roles at Airbnb, DataRobot, GitHub, and Outerbounds as well as a long stint in management consulting.
