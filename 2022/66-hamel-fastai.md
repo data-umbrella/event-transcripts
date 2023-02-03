@@ -23,7 +23,8 @@ Come learn how you can get started with contributing to fastai projects. Contrib
 08:09 Pull Requests Made Easy
 10:40 Git Notes Review 
 11:27 Fastcore Contribution Example
-15:30 Fastcore Cloning 16:25 Juptyer Notebook Example
+15:30 Fastcore Cloning 
+16:25 Jupyter Notebook Example
 18:00 Fastcore Contribution Example continued
 25:45 nbdev Review 
 29:45 Code Search Example with GitHub
