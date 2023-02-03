@@ -16,7 +16,7 @@ https://www.meetup.com/data-umbrella
 ## About the Event
 Come learn how you can get started with contributing to fastai projects. Contributing to fastai is an excellent way to sharpen your python, engineering and data science skills.
 
-
+```
 ## Timestamps
 00:00 Data Umbrella Introduction by Beryl
 05:57 Reshama Introduces Hamel Husain
@@ -31,7 +31,7 @@ Come learn how you can get started with contributing to fastai projects. Contrib
 36:04 Editing PR Requests
 38:00 Closing Thoughts
 40:35 Q & A
-
+```
 
 ## About the Speaker
 Hamel Husain is a Machine Learning Engineer who loves building data-science infrastructure and developer tools. He recently caught the entrepreneurship bug and he is building something new with nbdev. He has previously held related roles at Airbnb, DataRobot, GitHub, and Outerbounds as well as a long stint in management consulting.
