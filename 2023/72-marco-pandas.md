@@ -43,7 +43,7 @@ If you work with data, you've probably used pandas. You may even have come acros
 33:53 Q/A To what extent can people who do not have programming experience but utilize python for Data Science contribute?
 35:12 Q/A Is there a great need for contribution in terms of documentation and in what areas especially for beginner contributors who might want to start with that before moving onto code?
 36:25 Q/A For pandas website you can use an extension to sphinx panels for conf.py for sphinx. But that project is not maintained anymore. Are there plans to update the website?
-``
+```
  
 ## About the Speaker
 Marco is a pandas core developer and Senior Software Engineer at Quansight Labs. He has worked as a Data Scientist in forecasting and was one of the prize winners in the M6 Forecasting Competition. He holds an MSc in Mathematics and Foundations of Computer Science from the University of Oxford.
