@@ -1,4 +1,4 @@
-# First Last: What is a Sales Engineer?
+# Estela Baca: What is a Sales Engineer?
 
 ## Upcoming Events
 Join our Meetup group for more events!
