@@ -1,11 +1,11 @@
-# First Last: What is a Sales Engineer?
+# Estela Baca: What is a Sales Engineer?
 
 ## Upcoming Events
 Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2022/ 
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/75-estela-sales.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/291725391/
 - Video: 
 - GitHub repo:  
@@ -32,7 +32,7 @@ Estela Baca is a Splunk Sales Engineer based out of Nevada. She has a B.A in Com
 
 ## Video:  ** NEED TO UPDATE **
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+alt="Estela Baca: What is a Sales Engineer?" width="50%" /></a>
 
 ## Timestamps
 [get from video]
