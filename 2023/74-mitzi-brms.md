@@ -7,8 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/74-mitzi-brms.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/291267069/
-- Video: 
-- GitHub repo:  
+- Video: https://youtu.be/A1NWoKQhgJE
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -32,11 +31,10 @@ Mitzi Morris is a member of the Stan Development Team and serves on the Stan Gov
 
 - GitHub:  https://github.com/mitzimorris
 
+#bayesian #statistics #rstats
+
 ## Video:  ** NEED TO UPDATE **
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
 alt="Mitzi Morris: Bayesian Data Analysis with BRMS" width="50%" /></a>
-
-## Timestamps
-[get from video]
 
 ## Transcript
