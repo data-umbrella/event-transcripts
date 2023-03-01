@@ -12,7 +12,10 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-https://github.com/generable/workshop-materials/raw/master/presentations/Bayesian_Multilevel_Modeling_brms_Stan.pdf
+- https://github.com/generable/workshop-materials/raw/master/presentations/Bayesian_Multilevel_Modeling_brms_Stan.pdf
+- Mitzi's talk info:  https://github.com/mitzimorris/brms_feb_28_2023
+- Mitzi's talk on Software Engineering  https://youtu.be/INXMncbt09g
+
 
 ## About the Event
 In this webinar Mitzi Morris shows how you can quickly build robust models for data analysis and prediction using BRMS. After a brief overview of the the advantages and limitations of BRMS and a quick review of multi-level regression. We will work through an R-markdown notebook together, to see how to fit, visualize, and test the goodness of the model and resulting estimates.
