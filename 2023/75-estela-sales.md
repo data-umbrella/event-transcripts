@@ -8,7 +8,7 @@ https://www.meetup.com/data-umbrella
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/75-estela-sales.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/291725391/
 - Video:  https://youtu.be/TssCbFEcKck
-- Slides: [will be shared]
+- Slides: https://github.com/data-umbrella/event-transcripts/blob/main/resources/sales-engineer.pdf
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
