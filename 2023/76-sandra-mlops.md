@@ -13,7 +13,7 @@ https://www.meetup.com/data-umbrella
 
 ## Resources
 - MLOps platforms: https://github.com/EthicalML/awesome-production-machine-learning
--
+- Slides: https://hackmd.io/vhhLvTOCQG-OFHEEfYXZ-A#/
 
 ## About the Event
 Finding ways to use your data to solve a problem is a great step, which needs to activate a process that allows moving from a Proof of Concept (POC) to a feature or product. Products are meant to be used (obviously) by users who have expectations about their performance, reliability and usability. This process is guided by MLOps practices. In this talk, we will explore what that really means and how you could start applying these practices in real-world scenarios.
