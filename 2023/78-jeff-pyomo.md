@@ -8,11 +8,11 @@ https://www.meetup.com/data-umbrella
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/78-jeff-pyomo.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/292318566/
 - Video: 
-- GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- https://mobook.github.io/MO-book/intro.html
+- Pyomo on GitHub: https://github.com/Pyomo/pyomo
+- Book (Data-Driven Mathematical Optimization in Python): https://mobook.github.io/MO-book/intro.html
 - Slides: https://docs.google.com/presentation/d/1UFzm05r82K6ZhKrWjS2BO588-5Wf02nDOl0KN2b7AQk/edit?usp=sharing
 
 ## About the Event
