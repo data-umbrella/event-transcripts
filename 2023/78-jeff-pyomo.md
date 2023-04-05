@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/78-jeff-pyomo.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/292318566/
-- Video: 
+- Video: https://youtu.be/DPv-7TeSTNs
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -32,10 +32,13 @@ Jeffrey Kantor is a Professor of Chemical and Biomolecular Engineering at the Un
 - GitHub: https://github.com/jckantor
 
 ## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DPv-7TeSTNs" target="_blank"><img src="http://img.youtube.com/vi/DPv-7TeSTNs/0.jpg"
 alt="Data-Driven Mathematical Optimization in Pyomo" width="50%" /></a>
 
 ## Timestamps
 [get from video]
 
 ## Transcript
+
+
+#python #optimization #optimizationtechniques
