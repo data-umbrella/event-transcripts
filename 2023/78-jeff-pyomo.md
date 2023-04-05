@@ -13,6 +13,7 @@ https://www.meetup.com/data-umbrella
 
 ## Resources
 - https://mobook.github.io/MO-book/intro.html
+- Slides: https://docs.google.com/presentation/d/1UFzm05r82K6ZhKrWjS2BO588-5Wf02nDOl0KN2b7AQk/edit?usp=sharing
 
 ## About the Event
 The seminar introduces Pyomo, an open-source modelling language for mathematical optimization problems in Python. Pyomo is powerful, flexible, open-source, easy to learn, and compatible with other Python packages. It allows users to formulate and solve various optimization problems, including linear programming, nonlinear programming, mixed-integer programming, and many others. This seminar will introduce a collection of fifty Jupyter notebooks demonstrating a wide range of data-driven applications for optimization in Python.
