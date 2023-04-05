@@ -1,0 +1,40 @@
+# Jeffrey C Kantor: Data-Driven Mathematical Optimization in Pyomo
+
+## Upcoming Events
+Join our Meetup group for more events!
+https://www.meetup.com/data-umbrella
+
+## Key Links
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/78-jeff-pyomo.md 
+- Meetup Event: https://www.meetup.com/data-umbrella/events/292318566/
+- Video: 
+- GitHub repo:  
+- Transcriber:  ? [needs a transcriber]
+
+## Resources
+- https://mobook.github.io/MO-book/intro.html
+
+## About the Event
+The seminar introduces Pyomo, an open-source modelling language for mathematical optimization problems in Python. Pyomo is powerful, flexible, open-source, easy to learn, and compatible with other Python packages. It allows users to formulate and solve various optimization problems, including linear programming, nonlinear programming, mixed-integer programming, and many others. This seminar will introduce a collection of fifty Jupyter notebooks demonstrating a wide range of data-driven applications for optimization in Python.
+
+```
+## Timestamps
+00:00 Help us add timestamps
+```
+https://github.com/data-umbrella/event-transcripts/issues/92
+
+
+## About the Speaker
+Jeffrey Kantor is a Professor of Chemical and Biomolecular Engineering at the University of Notre Dame. Professor Kantor does research and teaches in the broad area of systems control and optimization, applying these concepts to many different applications ranging from chemical processes, energy systems, finance, and the control of complex natural watersheds. Professor Kantor received a Bachelor’s degree in Chemical Engineering from the University of Minnesota, a Masters's and a PhD degree from Princeton University, and a post-doc in the Chemistry Department at the University of Tel Aviv before joining Notre Dame. He has previously held administrative appointments at Notre Dame, including Dean of the Graduate School, Vice President for Research, Vice President and Associate Provost at Notre Dame, and visiting positions at Imperial College and Princeton University.
+
+- LinkedIn: https://www.linkedin.com/in/jeffrey-kantor-7a1ab3a/
+- GitHub: https://github.com/jckantor
+
+## Video:  ** NEED TO UPDATE **
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+alt="Data-Driven Mathematical Optimization in Pyomo" width="50%" /></a>
+
+## Timestamps
+[get from video]
+
+## Transcript
