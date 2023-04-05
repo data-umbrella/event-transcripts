@@ -1,4 +1,4 @@
-# Sandra Yojana Meneses: MLOps: from Concept to Product
+# Jeffrey C Kantor: Data-Driven Mathematical Optimization in Pyomo
 
 ## Upcoming Events
 Join our Meetup group for more events!
@@ -32,7 +32,7 @@ Jeffrey Kantor is a Professor of Chemical and Biomolecular Engineering at the Un
 
 ## Video:  ** NEED TO UPDATE **
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
-alt="MLOps: from Concept to Product" width="50%" /></a>
+alt="Data-Driven Mathematical Optimization in Pyomo" width="50%" /></a>
 
 ## Timestamps
 [get from video]
