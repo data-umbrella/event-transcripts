@@ -7,12 +7,13 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/77-jeff-pyomo.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/292318566/
-- Video: 
-- GitHub repo:  
+- Video: https://youtu.be/DPv-7TeSTNs
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- https://mobook.github.io/MO-book/intro.html
+- Pyomo on GitHub: https://github.com/Pyomo/pyomo
+- Book (Data-Driven Mathematical Optimization in Python): https://mobook.github.io/MO-book/intro.html
+- Slides: https://docs.google.com/presentation/d/1UFzm05r82K6ZhKrWjS2BO588-5Wf02nDOl0KN2b7AQk/edit?usp=sharing
 
 ## About the Event
 The seminar introduces Pyomo, an open-source modelling language for mathematical optimization problems in Python. Pyomo is powerful, flexible, open-source, easy to learn, and compatible with other Python packages. It allows users to formulate and solve various optimization problems, including linear programming, nonlinear programming, mixed-integer programming, and many others. This seminar will introduce a collection of fifty Jupyter notebooks demonstrating a wide range of data-driven applications for optimization in Python.
@@ -31,10 +32,13 @@ Jeffrey Kantor is a Professor of Chemical and Biomolecular Engineering at the Un
 - GitHub: https://github.com/jckantor
 
 ## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DPv-7TeSTNs" target="_blank"><img src="http://img.youtube.com/vi/DPv-7TeSTNs/0.jpg"
 alt="Data-Driven Mathematical Optimization in Pyomo" width="50%" /></a>
 
 ## Timestamps
 [get from video]
 
 ## Transcript
+
+
+#python #optimization #optimizationtechniques
