@@ -5,7 +5,7 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/78-jeff-pyomo.md 
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/77-jeff-pyomo.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/292318566/
 - Video: https://youtu.be/DPv-7TeSTNs
 - Transcriber:  ? [needs a transcriber]
