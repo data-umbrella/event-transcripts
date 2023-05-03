@@ -5,7 +5,7 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/76-sandra-mlops.md 
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/78-sandra-mlops.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/291903045/
 - Video: https://youtu.be/NIfGxfjjOV8
 - GitHub repo:  
