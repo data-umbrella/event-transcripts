@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/76-sandra-mlops.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/291903045/
-- Video: 
+- Video: https://youtu.be/NIfGxfjjOV8
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -32,7 +32,7 @@ Sandra Meneses is a Machine Learning Engineer with experience in B2C product com
 - GitHub: https://github.com/symeneses/
 
 ## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NIfGxfjjOV8" target="_blank"><img src="http://img.youtube.com/vi/NIfGxfjjOV8o/0.jpg"
 alt="MLOps: from Concept to Product" width="50%" /></a>
 
 ## Timestamps
