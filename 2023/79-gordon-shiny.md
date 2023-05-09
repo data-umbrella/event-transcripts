@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/78-gordon-shiny.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/292848290/
-- Video: 
+- Video: https://youtu.be/pXidQWYY14w
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -35,8 +35,8 @@ Gordon Shotwell is a Software Engineer at Posit. He's been using Shiny to solve 
 
 - LinkedIn: https://www.linkedin.com/in/gshotwell/
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+## Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pXidQWYY14w" target="_blank"><img src="http://img.youtube.com/vi/pXidQWYY14w/0.jpg"
 alt="Shiny, a powerful & flexible tool to create a Python web app" width="50%" /></a>
 
 ## Timestamps
