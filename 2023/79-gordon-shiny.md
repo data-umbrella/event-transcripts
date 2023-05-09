@@ -12,7 +12,12 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- https://shiny.rstudio.com/py/
+- website for presentation:  https://shiny.rstudio.com/py/
+- https://shiny.rstudio.com/py/docs/reactive-mutable.html
+- https://www.shinyapps.io/
+- https://huggingface.co/new-space
+- https://shiny.rstudio.com/py/docs/shinylive.html
+- https://shiny.rstudio.com/py/api/reactive.poll.html#shiny.reactive.poll
 
 ## About the Event
 Shiny makes it easy to build interactive web applications with the power of Python’s data and scientific stack.
