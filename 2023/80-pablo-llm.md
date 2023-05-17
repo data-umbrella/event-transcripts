@@ -7,8 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/80-pablo-llm.md 
 - Meetup Event: https://www.meetup.com/data-umbrella/events/293014545/
-- Video: 
-- GitHub repo:  
+- Video: https://youtu.be/gP2gr0d0Q28
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -29,8 +28,8 @@ Dr. Duboue is an independent language technologist. His work focuses on applied 
 
 - LinkedIn: https://www.linkedin.com/in/pabloduboue/
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+## Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=gP2gr0d0Q28" target="_blank"><img src="http://img.youtube.com/vi/gP2gr0d0Q28/0.jpg"
 alt="Solving NLP tasks using LLMs (Large Language Models)" width="50%" /></a>
 
 ## Timestamps
