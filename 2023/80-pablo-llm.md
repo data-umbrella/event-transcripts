@@ -11,7 +11,7 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- None
+- Slides URL: https://textualization.com/talks/20230517dataumbrella.html
 
 ## About the Event
 LLMs (Large Language Models) have changed what it means to "do natural language processing", opening up the fields to newcomers and beginners. This talk will present some traditional NLP tasks and how they can be fielded using prompting and tools such as GPT-4. Discussion of open source tools (like OpenChatKit) will also be included.
