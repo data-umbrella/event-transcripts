@@ -1,5 +1,12 @@
 ## Videos with Completed Timestamps
 
+- [x] 63 [Software Testing by Eric Ma ](https://youtu.be/bJGgVoV4GTc) --- [2022/63-eric-testing.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/63-eric-testing.md) (@greenbrown)
+- [x] 62 [Software Engineering for Probabilistic Programming](https://youtu.be/INXMncbt09g) --- [2022/62-mitzi-bayesian.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/62-mitzi-bayesian.md) (@benst)
+- [x] 61c Intro to React, Part 3: [Build a React App](https://youtu.be/MSAbOBHGkhw) | [2022/61-joe-react.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/61-joe-react.md) (@nicholeboaz)
+- [x] 61b Intro to React, Part 2: [JavaScript, Node.js](https://youtu.be/JWt4Z4sAlxk) | [2022/61-joe-react.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/61-joe-react.md) (@nicholeboaz) 
+- [x] 61a Intro to React, Part 1: [Background](https://youtu.be/jNO-pPR7zkg) | [2022/61-joe-react.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/61-joe-react.md) (@TheSunnyDev)
+- [x] 60 Building APIs with FastAPI | [video](https://youtu.be/aGbUwDYBMhs) |  [60-abdulazeez-fastapi.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/60-abdulazeez-fastapi.md) (@beebeckzzz)
+- [x] 59 Serving PyTorch Models in Production | [video](https://youtu.be/fx_NaKwFYbg) | [59-nidhin-pytorch.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/59-nidhin-pytorch.md) (@SangamSwadiK)
 - [x] 58 Contributing to Wikimedia | [video](https://youtu.be/mrHp3wc_6DQ) | [58-emily-diego-wikimedia.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/58-emily-diego-wikimedia.md) (@MillerNoa)
 - [x] 57 Mariatta 3-minute video on open source | [video](https://youtu.be/NpWdYEp8-u4) | [57-du-pymc-sprint.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/57-du-pymc-sprint.md) (timestamps not needed)
 - [x] 56 [Short Stories of Data Visualization](https://youtu.be/bqZpYY0XBT8) | [2022/56-tereza-visualization.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/56-tereza-visualization.md) (@MillerNoa)
