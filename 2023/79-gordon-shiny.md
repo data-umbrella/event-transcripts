@@ -30,7 +30,7 @@ If you want to develop a python web application you usually need to choose betwe
 03:45 Reshama introduces Gordon Shotwell
 04:21 Gordon Shotwell begins
 04:29 The motivation to develop Shiny for Python
-06:05 The main strength of both the R and python library
+06:05 The main strength of both the R and Python library
 06:56 What Gordon Shotwell will build during his presentation 
 07:25 Shiny documentation website 
 08:01 QuickStart for R users showing differences between the R and Python libraries  
