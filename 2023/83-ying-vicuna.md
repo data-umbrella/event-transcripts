@@ -28,7 +28,7 @@ https://github.com/data-umbrella/event-transcripts/issues/92
 
 
 ## About the Speaker
-Ying Sheng is a PhD student at Computer Science Department, Stanford University, affiliated with Centaur. She is advised by Clark Barrett. Before that, she received an M.S. in Computer Science from Columbia University in 2017 and a B.E. in Computer Science and Technology from ACM Honored Class, Shanghai Jiao Tong University in 2016. She has been working on various topics of computer science, including theoretical computer science, automated reasoning, and large language models.
+Ying Sheng
 
 - Twitter: https://twitter.com/ying11231  
 - GitHub:  https://github.com/Ying1123
