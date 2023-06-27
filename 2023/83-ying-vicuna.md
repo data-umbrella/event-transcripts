@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/83-ying-vicuna.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/294139850/
-- Video: 
+- Video: https://youtu.be/y5Qa5m1hKiA
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -33,7 +33,7 @@ Ying Sheng
 - GitHub:  https://github.com/Ying1123
 
 ## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=y5Qa5m1hKiA" target="_blank"><img src="http://img.youtube.com/vi/y5Qa5m1hKiA/0.jpg"
 alt="From Vicuna to human-aligned evaluation" width="50%" /></a>
 
 ## Timestamps
