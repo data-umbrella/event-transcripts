@@ -15,6 +15,7 @@ https://www.meetup.com/data-umbrella
 - FastChat on GitHub: https://github.com/lm-sys/FastChat
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality: https://lmsys.org/blog/2023-03-30-vicuna/
 - Large Models Systems Organization on GitHub: https://github.com/lm-sys
+- SLIDES: https://github.com/data-umbrella/event-transcripts/blob/main/resources/vicuna_dataumbrella.pdf
 
 ## About the Event
 We will talk about the training and deployment experiences of Vicuna, which is a high-quality chat assistant. After training the models, we found evaluating them even more difficult, so we launched Chatbot Arena, a crowd-sourced benchmarking platform featuring randomized battles. However, relying on human evaluation is costly and slow, so we study whether we can replace human evaluators with strong LLMs like GPT-4 for evaluating these models. We termed this approach “LLM-as-a-judge”.
