@@ -33,7 +33,7 @@ Ying Sheng
 - Twitter: https://twitter.com/ying11231  
 - GitHub:  https://github.com/Ying1123
 
-## Video:  ** NEED TO UPDATE **
+## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=y5Qa5m1hKiA" target="_blank"><img src="http://img.youtube.com/vi/y5Qa5m1hKiA/0.jpg"
 alt="From Vicuna to human-aligned evaluation" width="50%" /></a>
 
