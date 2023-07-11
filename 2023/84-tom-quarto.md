@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/84-tom-quarto.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/294319559/
-- Video: 
+- Video: https://youtu.be/TnVgHE9LAiw
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -27,7 +27,7 @@ Tom Mock
 - GitHub:  https://github.com/jthomasmock
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=y5Qa5m1hKiA" target="_blank"><img src="http://img.youtube.com/vi/y5Qa5m1hKiA/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TnVgHE9LAiw" target="_blank"><img src="http://img.youtube.com/vi/TnVgHE9LAiw/0.jpg"
 alt="Reproducible Publications with Python and Quarto" width="50%" /></a>
 
 ## Timestamps
