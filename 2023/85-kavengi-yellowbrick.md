@@ -24,7 +24,7 @@ Yellowbrick is a very convenient Python library for creating visualizers within 
 https://github.com/data-umbrella/event-transcripts/issues/92
 
 ## About the Speaker
-Ying Sheng
+Kavengi kitonga
 
 - LinkedIn: https://www.linkedin.com/in/kavengi-kitonga-65693742/
 - GitHub:  https://github.com/kkitonga
