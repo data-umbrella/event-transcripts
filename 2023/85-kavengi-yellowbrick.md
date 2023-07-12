@@ -1,4 +1,4 @@
-# Kavengi kitonga:  Machine learning visualization using Yellowbrick
+# Kavengi Kitonga:  Machine learning visualization using Yellowbrick
 
 ## Upcoming Events
 Join our Meetup group for more events!
