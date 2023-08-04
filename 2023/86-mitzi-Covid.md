@@ -5,8 +5,8 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/86-Mitzi-Covid.md
-- Meetup Event: https://www.meetup.com/data-umbrella-africa2/events/294827410/
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/86-mitzi-Covid.md
+- Meetup Event: https://www.meetup.com/data-umbrella/events/294762228/
 - Video:  
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
