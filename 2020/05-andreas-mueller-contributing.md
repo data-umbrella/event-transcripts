@@ -76,11 +76,11 @@ easier.  Once you downloaded the repository from your clone, you also want to ad
 ### Slide 8: Build and run tests (7:25)
 <a href="https://youtu.be/5OL8XoMMOfA?t=443" target="_blank"><img  src="images/sklearn_s8.png" width="50%" /></a>
 
-Alright, so now you have your local copy of the scikit-learn development version and now we want to install it. So we want to build it and install it.  And the easiest way is to go to the folder that you just cloned and do pip install - e dot: `pip install -e .`  This does an installation which does the building and we'll add it to your Python path.  The - e makes it an editable installation. Which means that if you change files in this folder, it will be automatically reflected in your installation.  This will overwrite existing installations, so make sure you don't have an installation of scikit-learn. So make sure you do `conda uninstall scikit-learn` in this environment if you accidentally installed it earlier.
+Alright, so now you have your local copy of the scikit-learn development version and now we want to install it. So we want to build it and install it.  And the easiest way is to go to the folder that you just cloned and do pip install -e dot: `pip install -e .`  This does an installation which does the building and we'll add it to your Python path.  The -e makes it an editable installation. Which means that if you change files in this folder, it will be automatically reflected in your installation.  This will overwrite existing installations, so make sure you don't have an installation of scikit-learn. So make sure you do `conda uninstall scikit-learn` in this environment if you accidentally installed it earlier.
 
 #### Windows (8:14)
 If you're on Windows to install it, you will need a C++ compiler so you need to install the Visual Studio toolkit. And if you try to
-do a `pip install - e . `, it'll probably give you an error message.  The error message will tell you exactly what to download and where.  For OS Access Linux, you'll have compiler probably already installed so you don't need to worry about that.  So then you have your build installation, your fresh installation from the development branch of scikit-learn.
+do a `pip install -e . `, it'll probably give you an error message.  The error message will tell you exactly what to download and where.  For OS Access Linux, you'll have compiler probably already installed so you don't need to worry about that.  So then you have your build installation, your fresh installation from the development branch of scikit-learn.
 
 ### Slide 9: Starting on Issues (8:50)
 <a href="https://youtu.be/5OL8XoMMOfA?t=530" target="_blank"><img  src="images/sklearn_s9.png" width="50%" /></a>
@@ -97,7 +97,7 @@ If you want to start from someone else's pull request, where they already starte
 
 So before you start coding, you want to create a new branch for your feature.  You can can do this by doing git checkout dash b (`git checkout -b <branchname>` ) and then a name for your branch.
 
-You shouldn't work on your master branch.  You shouldn't make changes to your master branch.  You should always work on a feature branch. So for example if you want to improve the documentation for random forests, you might do get check out - b  random forests underscore docs or something like this (`git checkout -b randomforests_docs`).  This is mostly for you, but it's useful if it has like an understandable name.
+You shouldn't work on your master branch.  You shouldn't make changes to your master branch.  You should always work on a feature branch. So for example if you want to improve the documentation for random forests, you might do get check out -b  random forests underscore docs or something like this (`git checkout -b randomforests_docs`).  This is mostly for you, but it's useful if it has like an understandable name.
 
 Then you make your changes. We'll talk a little bit more detail about that. So you fix some bugs or improve the documentation, whatever you want to do. Then you run the tests with `pytest sklearn`. `pytest sklearn` will run all of the tests. You can also run just individual test files if you want.  And finally run flake eight (`flake8`) on all the changed files. So flake8 is a linting tool.  It will show you formatting errors and like unused statements and so on.  If you don't do this, there are probably problems later, in the continuous integration, and you'll definitely have to fix them before we can merge your pull request.
 
