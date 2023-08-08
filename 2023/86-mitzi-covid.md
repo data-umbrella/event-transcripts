@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/86-mitzi-Covid.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/294762228/
-- Video:  
+- Video:  https://youtu.be/Rj33tjUomSU
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -39,7 +39,7 @@ Mitzi Morris
 #python #statistics #machinelearning 
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=62Vhv_et9WQ" target="_blank"><img src="http://img.youtube.com/vi/62Vhv_et9WQ/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Rj33tjUomSU" target="_blank"><img src="http://img.youtube.com/vi/Rj33tjUomSU/0.jpg"
 alt="Lessons from COVID-19: Non-random Missing Data and Its Consequences" width="50%" /></a>
 
 ## Timestamps
