@@ -13,6 +13,8 @@ https://www.meetup.com/data-umbrella
 
 ## Resources
 https://github.com/rtrangucci/epi-missing-data
+- Slides: https://github.com/mitzimorris/epistan_talk_2023_08_08/blob/main/slides.pdf
+- JSM presentation:  Unifying Design-Based and Model-Based Sampling Inference, https://statmodeling.stat.columbia.edu/2023/08/06/unifying-design-based-and-model-based-sampling-inference-my-talk-at-the-joint-statistical-meetings-in-toronto/
 
 ## About the Event
 A fundamental challenge for survey and observational datasets is that not all records in the dataset are complete; key pieces of information may be missing.
