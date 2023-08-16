@@ -79,7 +79,4 @@ Dr. Duboue is an independent language technologist. His work focuses on applied 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gP2gr0d0Q28" target="_blank"><img src="http://img.youtube.com/vi/gP2gr0d0Q28/0.jpg"
 alt="Solving NLP tasks using LLMs (Large Language Models)" width="50%" /></a>
 
-## Timestamps
-[get from video]
-
 ## Transcript
