@@ -24,7 +24,8 @@ This talk will define what information security is, explain why it is important 
 https://github.com/data-umbrella/event-transcripts/issues/92
 
 ## About the Speaker
-Zoe Braiterman
+Zoe Braiterman is an information security consultant and researcher.
+
 - GitHub:  https://github.com/zbraiterman
 - LinkedIn: https://www.linkedin.com/in/zoebraiterman/
 
