@@ -19,7 +19,11 @@ Are you looking to land your first job in data science? In this webinar, we'll c
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella introduction by Beryl
+04:55 Introduce speakers & their bios
+06:48 Wendy begins talk
+
+xx:xx Help us add timestamps
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
