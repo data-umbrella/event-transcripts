@@ -20,7 +20,14 @@ Yellowbrick is a very convenient Python library for creating visualizers within 
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella introduction
+05:42 Beryl introduce the speaker, Kavengi
+06:29 Kavengi begins presentation
+07:20 How Kavengi got into Yellowbrick
+07:38 What is Yellowbrick?
+08:58 ignore this interruption (technical issue)
+10:12 back to presentation
+
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
