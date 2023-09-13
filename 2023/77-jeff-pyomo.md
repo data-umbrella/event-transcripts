@@ -20,7 +20,12 @@ The seminar introduces Pyomo, an open-source modelling language for mathematical
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella introduction
+03:39 Introduce Jeffrey, the speaker
+04:54 Jeffrey begins
+05:33 What is Pyomo?
+06:32 Some team members behind Pyomo: Krzysztof Postek, Alessandro Zocca, Joaquim Gromicho
+
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
