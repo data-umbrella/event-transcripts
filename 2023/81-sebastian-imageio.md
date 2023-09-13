@@ -18,7 +18,10 @@ Get ready for an exciting and informative introduction to ImageIO! ImageIO is a 
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella introduction
+03:56 Introduce speaker
+04:53 Sebastian begins talk
+
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
