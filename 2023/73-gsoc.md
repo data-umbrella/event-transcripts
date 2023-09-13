@@ -57,6 +57,12 @@ In this panel discussion, we speak with several GSOC alumni of the PyMC project 
 30:05 Oriol
 31:19 Q: How did Larry and Tirth prepare their applications for GSOC?
 31:27 Larry
+33:32 Tirth (thoughts on applying to multiple GSOC projects); tips on applying to GSOC
+37:40 Q: What is the process in applying for GSOC, with mentors?
+41:10 Larry: getting feedback on proposal
+42:03 Q: How did Larry balance GSOC application with graduate school?
+45:07 Q: Does GSOC provide the project, or do you make suggestions for project ideas?
+
 
 
 
