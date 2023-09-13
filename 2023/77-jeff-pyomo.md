@@ -38,7 +38,10 @@ The seminar introduces Pyomo, an open-source modelling language for mathematical
 30:58 Overview of the Pyomo workflow
 33:01 Applications of Pyomo
 33:16 Disjunctive programming ==> "either" / "or" decisions
-36:04 GDP Transformation
+36:04 GDP Transformation (Generalized Disjunctive Programming)
+39:20 Example problem: Strip Packing (pack shapes into economical arragements, such as shelves, boxes)
+41:00 Math model with disjunctions
+
 
 
 
