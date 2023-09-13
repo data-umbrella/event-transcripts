@@ -50,7 +50,19 @@ In this panel discussion, we speak with several GSOC alumni of the PyMC project 
 18:20 comment: looked at community, documentation, open issues to understand the project
 18:58 Q: What are 3 things you have learned from your GSOC experience, how has it contributed to your professional growth?
 19:00 Tirth: multicultural communication on GitHub, soft skills, reviews, tests, documentation, working in teams, helps get a job
-21:50 Larry: statistics, Git, 
+21:50 Larry: statistics, Git, how to ask for help, career advice
+24:20 Oriol: working collaboratively, programming paradigms, test and code driven development, wider view on programming, planning & coordinating, visibility, job opportunities
+28:53 taking GSOC learnings to personal coding practices
+29:35 Q: Is GSOC a good place to start for beginners to coding?
+30:05 Oriol
+31:19 Q: How did Larry and Tirth prepare their applications for GSOC?
+31:27 Larry
+
+
+
+
+
+
 
 
 
