@@ -31,7 +31,8 @@ The seminar introduces Pyomo, an open-source modelling language for mathematical
 11:38 Types of decision variables: continuous, discrete, true/false
 13:53 Types of constraints
 15:42 NEOS family tree of optimization problems
-18:17 Why Pyomo? (PYthon Optimization Modeling Objects p-y-o-m-o)
+18:17 Why Pyomo? (PYthon Optimization Modeling Objects p-y-o-m-o) (history and features of pyomo)
+24:15 An example of going from a business problem to a solution using Pyomo
 
 
 
