@@ -46,7 +46,11 @@ The seminar introduces Pyomo, an open-source modelling language for mathematical
 45:23 Strip packing example solution
 46:21 Cryptocurrency Arbitrage
 48:44 Pooling and blending ==> Nonconvex programming
-
+51:29 online book "Data-Driven Mathematical Optimization in Python": https://mobook.github.io/MO-book/intro.html
+52:24 Q&A
+53:24 Q: Amazon use these techniques for their packaging?
+54:35 Q: Can this be linked to quantum computing?
+56:05 Q: Can you recommend a good framework book on optimization?
 
 
 
