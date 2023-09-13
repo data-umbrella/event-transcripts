@@ -32,6 +32,8 @@ Quarto is an open-source scientific and technical publishing system that builds 
 14:02 So, what is Quarto: quarto is a language-agnostic command line interface (CLI)
 15:27 Basic Quarto workflow
 16:43 Difference between "render" and "preview"
+17:16 IPython
+18:43 Stored/frozen computation and reproducibility
 
 
 ```
