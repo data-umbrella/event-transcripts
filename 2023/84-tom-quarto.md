@@ -22,6 +22,10 @@ Quarto is an open-source scientific and technical publishing system that builds 
 04:14 Thomas begins
 05:14 RStudio is now Posit
 05:55 What is Quarto?
+07:13 Origins of Quarto
+08:31 Goal: Computation Document
+09:09 Goal: Scientific Markdown
+10:03 Goal: Single Source Publishing
 
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
