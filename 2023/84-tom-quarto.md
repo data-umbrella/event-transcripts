@@ -26,6 +26,13 @@ Quarto is an open-source scientific and technical publishing system that builds 
 08:31 Goal: Computation Document
 09:09 Goal: Scientific Markdown
 10:03 Goal: Single Source Publishing
+10:33 Simple example of what Quarto looks like (YAML, Markup, Markdown, code chunks)
+12:29 Simple example: multi-format (output formats: html, pdf, docx, epub, pptx, revealjs)
+13:16 List of what is possible with Quarto
+14:02 So, what is Quarto: quarto is a language-agnostic command line interface (CLI)
+15:27 Basic Quarto workflow
+16:43 Difference between "render" and "preview"
+
 
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
