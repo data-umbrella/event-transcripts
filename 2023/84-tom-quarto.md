@@ -34,7 +34,7 @@ Quarto is an open-source scientific and technical publishing system that builds 
 16:43 Difference between "render" and "preview"
 17:16 IPython
 18:43 Stored/frozen computation and reproducibility
-
+20:36 A .qmd is a plain text file
 
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
