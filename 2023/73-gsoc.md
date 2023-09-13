@@ -62,6 +62,11 @@ In this panel discussion, we speak with several GSOC alumni of the PyMC project 
 41:10 Larry: getting feedback on proposal
 42:03 Q: How did Larry balance GSOC application with graduate school?
 45:07 Q: Does GSOC provide the project, or do you make suggestions for project ideas?
+48:17 Q: Oriol, what is your experience as a GSOC intern and as a mentor for GSOC?
+52:30 Q: Is GSOC for solo or teams?
+53:50 Q: What are some challenges you faced during GSOC and how did you solve them?
+54:10 Larry
+55:38 Blog write-ups during GSOC
 
 
 
