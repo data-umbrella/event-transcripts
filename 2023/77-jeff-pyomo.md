@@ -41,7 +41,11 @@ The seminar introduces Pyomo, an open-source modelling language for mathematical
 36:04 GDP Transformation (Generalized Disjunctive Programming)
 39:20 Example problem: Strip Packing (pack shapes into economical arragements, such as shelves, boxes)
 41:00 Math model with disjunctions
-
+42:53 Pyomo parameters and sets ==> "Data Driven"
+44:31 Indexing constraints
+45:23 Strip packing example solution
+46:21 Cryptocurrency Arbitrage
+48:44 Pooling and blending ==> Nonconvex programming
 
 
 
