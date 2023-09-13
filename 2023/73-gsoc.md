@@ -27,7 +27,27 @@ In this panel discussion, we speak with several GSOC alumni of the PyMC project 
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella introduction
+04:17 Introduce speakers
+07:00 Begin panel discussion
+07:05 What is Google Summer of Code?
+07:30 Q: Name, GSOC project, year of project, mentor name
+07:50 Larry Dong: PyMC GSOC intern 2021, 2022
+08:30 Oriol Abril Pla: ArviZ intern 2019
+09:07 Tirth Patel: PyMC intern 2020, SciPy 2021
+09:58 Q: How did you first learn of GSOC?
+10:06 Larry
+10:48 Oriol
+11:14 Tirth
+12:10 Q: How did you first get involved in open source?
+12:17 Oriol
+12:57 Larry
+13:30 Tirth
+14:38 Q: How did you choose your project?
+14:48 Larry
+
+
+
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
@@ -57,11 +77,9 @@ Oriol dedicates a lot of his time to community management and documentation beca
 
 
 
-## Video:  ** NEED TO UPDATE **
+## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YE-TYJmvbfg" target="_blank"><img src="http://img.youtube.com/vi/YE-TYJmvbfg/0.jpg"
 alt="Tirth Patel, Larry Dong and Oriol Abril Pla: Google Summer of Code (GSOC) Experience" width="50%" /></a>
 
-## Timestamps
-[get from video]
 
 ## Transcript
