@@ -47,6 +47,11 @@ In this panel discussion, we speak with several GSOC alumni of the PyMC project 
 14:48 Larry
 16:02 Oriol
 17:06 Q: Oriol, how did you prepare to apply to GSOC?
+18:20 comment: looked at community, documentation, open issues to understand the project
+18:58 Q: What are 3 things you have learned from your GSOC experience, how has it contributed to your professional growth?
+19:00 Tirth: multicultural communication on GitHub, soft skills, reviews, tests, documentation, working in teams, helps get a job
+21:50 Larry: statistics, Git, 
+
 
 
 
