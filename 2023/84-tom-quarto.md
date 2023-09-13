@@ -17,7 +17,12 @@ https://www.meetup.com/data-umbrella
 Quarto is an open-source scientific and technical publishing system that builds on standard markdown with features essential for scientific communication. The system has support for reproducible embedded computations, equations, citations, crossrefs, figure panels, callouts, advanced layouts, and more. In this talk we'll explore the use of Quarto with Python, describing both integration with IPython/Jupyter and the Quarto VS Code extension. Users can author Jupyter notebooks or documents as plain text markdowns with code in Python, R, Julia or Observable. Quarto includes the ability to publish high-quality articles, reports, presentations, websites, blogs, and books in HTML, PDF, MS Word, ePub, Reveal.js and more.
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella introduction
+03:41 Introduce the speaker, Thomas Mock
+04:14 Thomas begins
+05:14 RStudio is now Posit
+05:55 What is Quarto?
+
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
