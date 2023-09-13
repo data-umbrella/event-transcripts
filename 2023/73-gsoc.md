@@ -45,6 +45,8 @@ In this panel discussion, we speak with several GSOC alumni of the PyMC project 
 13:30 Tirth
 14:38 Q: How did you choose your project?
 14:48 Larry
+16:02 Oriol
+17:06 Q: Oriol, how did you prepare to apply to GSOC?
 
 
 
