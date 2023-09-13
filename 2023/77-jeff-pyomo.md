@@ -51,9 +51,9 @@ The seminar introduces Pyomo, an open-source modelling language for mathematical
 53:24 Q: Amazon use these techniques for their packaging?
 54:35 Q: Can this be linked to quantum computing?
 56:05 Q: Can you recommend a good framework book on optimization?
-
-
-
+58:15 Q: What are some of the challenging problems you have solved in industry?
+01:01:45 Q: How was the performance of Pyomo comparison with Jump?
+01:03:50 Supply chains / optimization
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
