@@ -25,6 +25,11 @@ The seminar introduces Pyomo, an open-source modelling language for mathematical
 04:54 Jeffrey begins
 05:33 What is Pyomo?
 06:32 Some team members behind Pyomo: Krzysztof Postek, Alessandro Zocca, Joaquim Gromicho
+07:28 What is mathematical optimization? compared to machine learning?
+07:55 Data Science / Machine Learning / Optimization
+10:00 Types of objectives: Physical, Financial, Information
+11:38 Types of decision variables: continuous, discrete, true/false
+
 
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
