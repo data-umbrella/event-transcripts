@@ -32,7 +32,14 @@ The seminar introduces Pyomo, an open-source modelling language for mathematical
 13:53 Types of constraints
 15:42 NEOS family tree of optimization problems
 18:17 Why Pyomo? (PYthon Optimization Modeling Objects p-y-o-m-o) (history and features of pyomo)
-24:15 An example of going from a business problem to a solution using Pyomo
+24:15 An example of going from a business problem to a solution using Pyomo: how much of product X and Y to produce to maximize profitability?
+27:28 Convert a mathemical model to a pyomo model
+29:30 Pyomo model + Solver ==> Solution
+30:58 Overview of the Pyomo workflow
+33:01 Applications of Pyomo
+33:16 Disjunctive programming ==> "either" / "or" decisions
+36:04 GDP Transformation
+
 
 
 
