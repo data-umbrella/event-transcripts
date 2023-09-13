@@ -64,12 +64,10 @@ Jeffrey Kantor is a Professor of Chemical and Biomolecular Engineering at the Un
 - LinkedIn: https://www.linkedin.com/in/jeffrey-kantor-7a1ab3a/
 - GitHub: https://github.com/jckantor
 
-## Video:  ** NEED TO UPDATE **
+## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=DPv-7TeSTNs" target="_blank"><img src="http://img.youtube.com/vi/DPv-7TeSTNs/0.jpg"
 alt="Data-Driven Mathematical Optimization in Pyomo" width="50%" /></a>
 
-## Timestamps
-[get from video]
 
 ## Transcript
 
