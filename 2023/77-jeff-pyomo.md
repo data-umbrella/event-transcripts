@@ -29,6 +29,10 @@ The seminar introduces Pyomo, an open-source modelling language for mathematical
 07:55 Data Science / Machine Learning / Optimization
 10:00 Types of objectives: Physical, Financial, Information
 11:38 Types of decision variables: continuous, discrete, true/false
+13:53 Types of constraints
+15:42 NEOS family tree of optimization problems
+18:17 Why Pyomo? (PYthon Optimization Modeling Objects p-y-o-m-o)
+
 
 
 ```
