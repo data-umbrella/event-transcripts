@@ -67,17 +67,11 @@ In this panel discussion, we speak with several GSOC alumni of the PyMC project 
 53:50 Q: What are some challenges you faced during GSOC and how did you solve them?
 54:10 Larry
 55:38 Blog write-ups during GSOC
-
-
-
-
-
-
-
-
-
-
-
+56:28 Tirth (tips on navigating a codebase)
+59:30 Oriol (planning work)
+01:02:30 Oriol: final tips
+01:03:28 Larry: final tips
+01:04:15 Tirth: final tips
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
