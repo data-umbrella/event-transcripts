@@ -35,6 +35,9 @@ Quarto is an open-source scientific and technical publishing system that builds 
 17:16 IPython
 18:43 Stored/frozen computation and reproducibility
 20:36 A .qmd is a plain text file
+21:28 Quarto doesn't have to be plain text
+22:12 Rendering pipelin
+22:57 What to do with my existing .ipynb?
 
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
