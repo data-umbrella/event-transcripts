@@ -41,6 +41,7 @@ Quarto is an open-source scientific and technical publishing system that builds 
 24:23 Comfort of your own workspace: JupyterLab, Visual Studio Code, 
 25:00 Auto-completion in RStudio + VSCode
 26:01 Quarto Extensions and Visual / Live Editor
+27:19 Quarto, unified document layout
 
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
