@@ -36,7 +36,7 @@ Quarto is an open-source scientific and technical publishing system that builds 
 18:43 Stored/frozen computation and reproducibility
 20:36 A .qmd is a plain text file
 21:28 Quarto doesn't have to be plain text
-22:12 Rendering pipelin
+22:12 Rendering pipeline
 22:57 What to do with my existing .ipynb?
 24:23 Comfort of your own workspace: JupyterLab, Visual Studio Code, 
 25:00 Auto-completion in RStudio + VSCode
