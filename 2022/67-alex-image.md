@@ -21,16 +21,39 @@ https://www.meetup.com/data-umbrella
 - https://scientific-python.org/calendars/
 - Hacktoberfest issues:
 https://github.com/scikit-image/scikit-image/issues?q=is%3Aopen+is%3Aissue+label%3A%22%3Abeer%3A+Hacktoberfest%22
+- ITK’s ikwidgets: https://github.com/InsightSoftwareConsortium/itkwidgets 
 
 ## About the Event
 This presentation will introduce how to analyze three dimensional stacked and volumetric images in Python, mainly using scikit-image. Here we will study how to preprocess data using filtering, binarization and segmentation techniques. Also, we will inspect, count and measure attributes of objects and regions of interest in the data. We will finish the tutorial presenting tools to visualize 3D data.
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella Introduction
+03:38 Speaker Introduction - Alex de Siqueira
+05:09 Introduction to scikit-image for 3D image analysis
+06:05 What is scikit-image?
+07:12 Checking the system 
+07:39 Importing the base Scientific Python ecosystem (numpy, matplotlib, scipy)
+08:29 Introduction to 3D image processing (grayscale v. multichannel)
+10:25 Resolution within dimensions
+11:14 Submodule + demo: skimage.io - utilities for reading and writing images
+18:06 skimage.exposure - evaluating or changing the exposure of an image (reduce noise)
+20:46 skimage.filters - apply filters to an image
+22:57 skimage.transform - transforms & warping (downsampling example)
+25:56 skimage.util - other utility functions
+29:40 Thresholding - extract regions and see images (soft v. hard thresholding)
+31:51 skimage.morphology - binary and grayscale morphology (use for improving image features)
+33:36 skimage.measure - measuring image or region properties
+37:53 skimage.feature - extract features from an image
+38:45 skimage.segmentation - identification of regions of interest (supervised v. unsupervised)
+47:21 Visualization
+48:50 Going beyond - resources linked
+50:27 Q&A - Segmentation and counting of objects
+52:57 Q&A - Community calls for scikit-image
+54:57 Q&A - Best way for people to get started
+56:47 Q&A - Supported image formats
+57:48 Q&A - Best way for community to get in touch, events (Hacktoberfest, PyData Global Online)
 ```
-https://github.com/data-umbrella/event-transcripts/issues/92
-
 
 ## About the Speaker
 Alex is a researcher working with outreach and programming on data science and computer vision. He is a maintainer of scikit-image, a collection of algorithms for image processing that is part of the scientific Python ecosystem. Alex is an open source and free software enthusiast since his first interaction with Linux in the 2000s, contributing to several projects and events worldwide.
