@@ -32,7 +32,7 @@ Zoe Braiterman is an information security consultant and researcher.
 #ComputerSecurity #DataManagement
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4m1jVQdUTQo" target="_blank"><img src="http://img.youtube.com/vi/WmPZluXV_wg/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4m1jVQdUTQo" target="_blank"><img src="http://img.youtube.com/vi/4m1jVQdUTQo/0.jpg"
 alt="An Overview of Information Security" width="50%" /></a>
 
 ## Timestamps
