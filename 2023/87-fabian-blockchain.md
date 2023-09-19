@@ -31,7 +31,7 @@ Fabian is a highly experienced software developer with an impressive career span
 - Instagram: https://www.instagram.com/kootie73/ 
 - GitHub:  https://github.com/kootie
 
-## Video:  ** NEED TO UPDATE **
+## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WmPZluXV_wg" target="_blank"><img src="http://img.youtube.com/vi/WmPZluXV_wg/0.jpg"
 alt="Blockchains for Opensource Solutions" width="50%" /></a>
 
