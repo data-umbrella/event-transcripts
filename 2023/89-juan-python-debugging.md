@@ -12,8 +12,13 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- https://github.com/astrojuanlu/workshop-debugging-python
-
+- Repo:https://github.com/astrojuanlu/workshop-debugging-python
+- Slides: https://github.com/astrojuanlu/workshop-debugging-python/blob/main/slides.ipynb
+- structlog: https://www.structlog.org/en/stable/
+- rich: https://rich.readthedocs.io/en/stable/introduction.html
+- Brandon presentation: https://rhodesmill.org/brandon/slides/2015-05-pywaw/hoist/
+- Example of Kedro issue: https://github.com/kedro-org/kedro/issues/3055
+- Joel Grus talk : I don't like notebooks https://youtu.be/7jiPeIFXb6U
 
 ## About the Event
 Your code gives an error. Or worse: it doesn't give an error, but doesn't do what you want. Welcome to the hard part of programming! What to do now?
