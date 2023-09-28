@@ -51,6 +51,13 @@ Juan Luis (he/him/él) works as Developer Advocate at QuantumBlack, AI by McKins
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3qNgX3QtmuE" target="_blank"><img src="http://img.youtube.com/vi/3qNgX3QtmuE/0.jpg"
 alt="Juan Luis Cano Rodríguez:  Into the rabbit hole: Debugging in Python" width="50%" /></a>
 
+## Video 2
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=1b9fq7-xesI" target="_blank"><img src="http://img.youtube.com/vi/1b9fq7-xesI/0.jpg"
+alt="Juan Luis Cano Rodríguez:  Into the rabbit hole: Debugging in Python" width="50%" /></a>
+
+## Video 3
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Kgb7FMEg9uY" target="_blank"><img src="http://img.youtube.com/vi/Kgb7FMEg9uY/0.jpg"
+alt="Juan Luis Cano Rodríguez:  Into the rabbit hole: Debugging in Python" width="50%" /></a>
 
 
 ## Timestamps
