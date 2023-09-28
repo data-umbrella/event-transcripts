@@ -4,6 +4,15 @@
 Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
+[89a] Debugging in Python (Juan Luis Cano Rodríguez)
+Video 1/3: https://youtu.be/3qNgX3QtmuE
+
+[89b] Debugging in Python: in Jupyter Notebook (Juan Luis Cano Rodríguez)
+Video 2/3:  https://youtu.be/1b9fq7-xesI
+
+[89c]  Debugging in Python: in Visual Studio Code (VSC)  (Juan Luis Cano Rodríguez)
+Video 3/3:  https://youtu.be/Kgb7FMEg9uY
+
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/89-juan-python-debugging.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/295529919/
@@ -38,9 +47,11 @@ Juan Luis (he/him/él) works as Developer Advocate at QuantumBlack, AI by McKins
 
 #python #codereview
 
-## Video
-<a href="" target="_blank"><img src=""
-alt="Into the rabbit hole: Debugging in Python" width="50%" /></a>
+## Video 1
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3qNgX3QtmuE" target="_blank"><img src="http://img.youtube.com/vi/3qNgX3QtmuE/0.jpg"
+alt="Juan Luis Cano Rodríguez:  Into the rabbit hole: Debugging in Python" width="50%" /></a>
+
+
 
 ## Timestamps
 [get from video]
