@@ -12,7 +12,9 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-None
+- Slides: https://docs.google.com/presentation/d/1uX3Up0DTVJIFqeT7LlQ6amgD1xGeT8qZ4ej6Rw0RMOw/edit?usp=sharing
+- Dataset: https://open.toronto.ca/dataset/building-permits-cleared-permits/
+- OpenRefine Discourse forums: https://forum.openrefine.org/
 
 ## About the Event
 OpenRefine stands as a robust, open-source tool specifically tailored for those delving into the complex world of messy data. It is designed to not only cleanse such data but also to transform it, making it easier to convert between varying formats.
