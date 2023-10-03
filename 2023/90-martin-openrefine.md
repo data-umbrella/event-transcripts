@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/90-martin-openrefine.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/295935327/
-- Video:  
+- Video: https://youtu.be/e9fB8NQV6Nc
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -36,7 +36,7 @@ Martin Magdinier is OpenRefine Project Manager and core contributor since 2013.
 #python #opensource #datascience #dataanalytics
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&" target="_blank"><img src="http://img.youtube.com/vi/Rj33tjUomSU/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&e9fB8NQV6Nc" target="_blank"><img src="http://img.youtube.com/vi/e9fB8NQV6Nc/0.jpg"
 alt="Intro to OpenRefine for Data Cleaning and Reconciliation" width="50%" /></a>
 
 ## Timestamps
