@@ -55,8 +55,17 @@ Quarto is an open-source scientific and technical publishing system that builds 
 39:30 Quarto Resources (installation)
 39:44 Quarto resources: video tutorials
 40:13 Q: Can Quarto documents be shared like Overleaf docs and can users import article templates for specific journals into Quarto?
-
-
+41:39 new! Manuscript option to bundle an entire project together (bundle can be shipped to a journal)
+42:48 Q: Is Quarto git friendly?
+43:28 Q: Has Quarto already been used in published scientific work?
+44:14 publishing books with Quarto
+44:22 Q: Any general suggestions for outputting to docx (Word)?
+45:20 Q: Any tips on how Quarto can help conda users?
+46:14 Q: Can you use GitHub Actions with Quarto?
+47:18 Q: Can you have individual environments for each blog post?
+49:50 Download CLI (command line interface) for Quarto
+51:10 Example Gallery
+51:44 nbdev project
 
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
