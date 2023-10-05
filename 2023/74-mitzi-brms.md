@@ -68,8 +68,8 @@ Mitzi Morris is a member of the Stan Development Team and serves on the Stan Gov
 
 #bayesian #statistics #rstats
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+## Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=A1NWoKQhgJE" target="_blank"><img src="http://img.youtube.com/vi/A1NWoKQhgJE/0.jpg"
 alt="Mitzi Morris: Bayesian Data Analysis with BRMS" width="50%" /></a>
 
 ## Transcript
