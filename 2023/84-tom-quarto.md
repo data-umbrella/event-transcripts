@@ -42,6 +42,13 @@ Quarto is an open-source scientific and technical publishing system that builds 
 25:00 Auto-completion in RStudio + VSCode
 26:01 Quarto Extensions and Visual / Live Editor
 27:19 Quarto, unified document layout
+29:54 Quarto, unified syntax across Markdown and code
+31:11 Built-in vs Custom
+33:01 Extending Quarto with Extensions
+33:51 Interactivity, Jupyter Widgets (with plots, matplotlib, etc)
+34:15 Interactivity, Observable
+35:01 Interactivity, on the fly Observable "widgets"
+36:24 Parameters - one source, many outputs
 
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
