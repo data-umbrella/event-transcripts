@@ -11,14 +11,14 @@ https://www.meetup.com/data-umbrella
 
 ## Resources
 - Slides: https://github.com/data-umbrella/event-transcripts/blob/main/resources/FluxML_Julia.pdf
-https://docs.julialang.org/en/v1/stdlib/REPL/
-https://cuda.juliagpu.org/stable/ 
-https://fluxml.ai/Flux.jl/stable/ecosystem/ 
-https://fluxml.ai/Flux.jl/stable/models/overview/ 
-https://github.com/FluxML/model-zoo/blob/master/vision/mlp_mnist/mlp_mnist.jl 
-https://fluxml.ai/Flux.jl/stable/ 
-​​https://github.com/FluxML/Flux.jl/blob/master/CONTRIBUTING.md 
-https://juliacon.org/2023/
+- https://docs.julialang.org/en/v1/stdlib/REPL/
+- https://cuda.juliagpu.org/stable/ 
+- https://fluxml.ai/Flux.jl/stable/ecosystem/ 
+- https://fluxml.ai/Flux.jl/stable/models/overview/ 
+- https://github.com/FluxML/model-zoo/blob/master/vision/mlp_mnist/mlp_mnist.jl 
+- https://fluxml.ai/Flux.jl/stable/ 
+​​- https://github.com/FluxML/Flux.jl/blob/master/CONTRIBUTING.md 
+- https://juliacon.org/2023/
 
 ## About the Event
 Julia is a high-level, general-purpose dynamic programming language. Its features are well suited for numerical analysis and computational science. If you have experience programming in another language, you will find that most of your knowledge will be easily transferred to Julia. Refer to the documentation of some [noteworthy differences](https://docs.julialang.org/en/v1/manual/noteworthy-differences/) from other popular languages: [Matlab](https://docs.julialang.org/en/v1/manual/noteworthy-differences/#Noteworthy-differences-from-MATLAB), [R](https://docs.julialang.org/en/v1/manual/noteworthy-differences/#Noteworthy-differences-from-R), [Python](https://docs.julialang.org/en/v1/manual/noteworthy-differences/#Noteworthy-differences-from-Python-1) and [C/C++](https://docs.julialang.org/en/v1/manual/noteworthy-differences/#Noteworthy-differences-from-C/C).
