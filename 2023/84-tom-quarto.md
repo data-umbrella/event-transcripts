@@ -49,6 +49,14 @@ Quarto is an open-source scientific and technical publishing system that builds 
 34:15 Interactivity, Observable
 35:01 Interactivity, on the fly Observable "widgets"
 36:24 Parameters - one source, many outputs
+37:36 Rendering with parameters
+38:27 Quarto Publish
+38:57 Quarto, crafted with love and care (the team)
+39:30 Quarto Resources (installation)
+39:44 Quarto resources: video tutorials
+40:13 Q: Can Quarto documents be shared like Overleaf docs and can users import article templates for specific journals into Quarto?
+
+
 
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
