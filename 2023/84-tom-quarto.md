@@ -67,6 +67,7 @@ Quarto is an open-source scientific and technical publishing system that builds 
 51:10 Example Gallery
 51:44 nbdev project
 53:14 Quarto blog, Shinylive extension
+55:12 Q: How can I use Quarto to write scientific papers?
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
