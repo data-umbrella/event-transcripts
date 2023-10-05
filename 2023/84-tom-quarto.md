@@ -66,7 +66,7 @@ Quarto is an open-source scientific and technical publishing system that builds 
 49:50 Download CLI (command line interface) for Quarto
 51:10 Example Gallery
 51:44 nbdev project
-
+53:14 Quarto blog, Shinylive extension
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
