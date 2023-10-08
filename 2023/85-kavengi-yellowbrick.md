@@ -25,8 +25,12 @@ Yellowbrick is a very convenient Python library for creating visualizers within 
 06:29 Kavengi begins presentation
 07:20 How Kavengi got into Yellowbrick
 07:38 What is Yellowbrick?
-08:58 ignore this interruption (technical issue)
-10:12 back to presentation
+10:06 Yellowbrick installation
+10:40 Yellowbrick workflow
+12:25 Visualizers
+13:28 More information: links to resources
+14:00 Walk thru of Yellowbrick library website
+
 
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
