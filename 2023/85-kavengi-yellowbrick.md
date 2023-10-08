@@ -40,6 +40,12 @@ Yellowbrick is a very convenient Python library for creating visualizers within 
 32:00 Confusion matrix
 33:58 ROC (receiver operating curve) 
 36:25 Precision operating curve
+38:01 Discrimination threshold
+40:16 end of presentation
+40:35 Q: How did you first become involved with and use Yellowbrick?
+42:08 Q: Can the visualizations be used with Llama tools?
+43:16 Q: What packages other than pandas and python is Yellowbrick compatible with? Can it be used with Julia?
+43:45 Q: What is Yellowbrick's ability in the EDA (exploratory data science) space?
 
 
 ```
