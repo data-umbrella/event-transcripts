@@ -46,8 +46,9 @@ Yellowbrick is a very convenient Python library for creating visualizers within 
 42:08 Q: Can the visualizations be used with Llama tools?
 43:16 Q: What packages other than pandas and python is Yellowbrick compatible with? Can it be used with Julia?
 43:45 Q: What is Yellowbrick's ability in the EDA (exploratory data science) space?
-
-
+45:16 Q: Is the confusion matrix assuming a threshold of 0.5? Is it possible to set it to a different value?
+46:05 Q: Can you pass more than one model for comparing different model visuals?
+47:22 Q: How long did it take you to become effective with Yellowbrick? 
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
