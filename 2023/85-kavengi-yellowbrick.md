@@ -38,7 +38,7 @@ Yellowbrick is a very convenient Python library for creating visualizers within 
 25:30 demo: feature correlation visualizer
 27:40 demo: classification report visualizer
 32:00 Confusion matrix
- 
+33:58 ROC (receiver operating curve) 
 
 
 ```
