@@ -19,13 +19,38 @@ https://www.meetup.com/data-umbrella
 - Example: [https://scikit-image.org/docs/dev/auto_examples/applications/plot_fluorescence_nuclear_envelope.html](https://scikit-image.org/docs/0.19.x/auto_examples/applications/plot_fluorescence_nuclear_envelope.html)
 - Data files: https://gitlab.com/scikit-image/data
 - CZI scikit-image grant:  https://chanzuckerberg.com/?s=scikit-image
+- https://scikit-image.org/docs/0.19.x/auto_examples/applications/plot_fluorescence_nuclear_envelope.html
 
 ## About the Event
 scikit-image is a well-established Python library boasting a wide collection of image processing algorithms. We show that it is well-suited for bioimage data analysis workflows by presenting a biological application from the literature. The dataset is a time sequence of microscopy images of human cells. The presentation is intended as a step-by-step, follow-along tutorial.
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella Introduction
+03:38 Speaker Introduction - Marianne Corvellec
+04:26 Let’s get started for the presentation
+05:30 Introduction to scikit-image
+06:20 Measure fluorescence intensity at the nuclear envelope
+07:58 Prep work to follow along
+08:46 Checking the system
+09:03 Importing the Python libraries
+10:40 Import imageio to manage data
+12:15 Analyze the data
+15:32 Segment the nucleus rim
+18:21 Apply the segmented rim as a mask
+18:44 Measure the total intensity
+19:53 Process the entire image sequence
+26:20 Visualize: Change in fluorescence intensity at nuclear envelope the plot for change
+28:14 Q&A Section
+28:37 Q&A - Call to compare the result
+29:56 Q&A - Pre-processing
+31:59 Q&A - Future perspective for scikit-image
+34:20 Q&A - scikit-image in the ecosystem of image processing
+37:51 Q&A - confusion between scikit-learn and scikit-image
+39:52 Q&A - scikitimage branding
+41:29 Q&A - Biomedical image grant
+43:00 Q&A - Drift detector for a classification model
+44:35 Thanksgiving
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
