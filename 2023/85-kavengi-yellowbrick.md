@@ -30,6 +30,10 @@ Yellowbrick is a very convenient Python library for creating visualizers within 
 12:25 Visualizers
 13:28 More information: links to resources
 14:00 Walk thru of Yellowbrick library website
+16:20 Contributing guide for Yellowbrick
+16:52 Yellowbrick one liners: quick methods are visualizers in a single line of code
+17:35 Jupyter notebook demo
+ 
 
 
 ```
