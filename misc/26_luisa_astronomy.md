@@ -17,7 +17,8 @@ Luisa Rebull: Astronomy Data & Image Processing
 ```text
 00:00:00 Reshama introduces Data Umbrella
 00:04:25 Luisa begins presentation
-00:04 
+00:08:09 (Astronomy) Citizen Science programs
+ 
 ```
 
 ## Timestamps (Video 2: Demo on Accessing IRSA Astronomy Data)
