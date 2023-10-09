@@ -25,7 +25,7 @@ Luisa Rebull: Astronomy Data & Image Processing
 00:17:56 Optimal browsers to use
 00:18:50 Mechanics of how to deal with digital images, Concept 2a: Bit Depth
 00:21:51 Concept 2b: Image Compressions
-
+00:22:41 Concept 2c: FITS files (Flexible Image Transport System)
 
  
 ```
