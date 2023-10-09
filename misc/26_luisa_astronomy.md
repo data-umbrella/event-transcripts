@@ -16,7 +16,8 @@ Luisa Rebull: Astronomy Data & Image Processing
 ## Timestamps (Video 1: Astronomy Data & Image Processing)
 ```text
 00:00:00 Reshama introduces Data Umbrella
-00:04:25 Luisa begins presentation 
+00:04:25 Luisa begins presentation
+00:04 
 ```
 
 ## Timestamps (Video 2: Demo on Accessing IRSA Astronomy Data)
