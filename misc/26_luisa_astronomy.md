@@ -22,6 +22,9 @@ Luisa Rebull: Astronomy Data & Image Processing
 00:11:43 Digital rabbit hole, publicly funded assets ==> public data
 00:15:14 Role of (Astronomy) archives
 00:17:28 About the astronomy archives
+00:17:56 Optimal browsers to use
+00:18:50 Mechanics of how to deal with digital images, bit depth
+
 
  
 ```
