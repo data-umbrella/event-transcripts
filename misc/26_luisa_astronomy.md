@@ -23,7 +23,8 @@ Luisa Rebull: Astronomy Data & Image Processing
 00:15:14 Role of (Astronomy) archives
 00:17:28 About the astronomy archives
 00:17:56 Optimal browsers to use
-00:18:50 Mechanics of how to deal with digital images, bit depth
+00:18:50 Mechanics of how to deal with digital images, Concept 2a: Bit Depth
+00:21:51 Concept 2b: Image Compressions
 
 
  
