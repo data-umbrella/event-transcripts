@@ -21,6 +21,7 @@ Luisa Rebull: Astronomy Data & Image Processing
 00:11:00 Moon Zoo (citizen science program)
 00:11:43 Digital rabbit hole, publicly funded assets ==> public data
 00:15:14 Role of (Astronomy) archives
+00:17:28 About the astronomy archives
 
  
 ```
