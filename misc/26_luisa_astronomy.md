@@ -8,19 +8,18 @@ Luisa Rebull: Astronomy Data & Image Processing
 - Transcript:  https://github.com/data-umbrella/event-transcripts/blob/main/2021/26-luisa-astronomy.md
 - Meetup Event:  https://www.meetup.com/data-umbrella/events/277511547/
 - Video 1: Astronomy Data & Image Processing: https://youtu.be/q10mVlYQUbA
-- Video 2: Demo on Accessing IRSA astronomy data: https://youtu.be/veUkHUP_V4M
+- Video 2: Demo on Accessing IRSA Astronomy Data: https://youtu.be/veUkHUP_V4M
 
 ## Resources
 - http://web.ipac.caltech.edu/staff/rebull/outr/datalinks.html
-- Video 2 (Demo on Accessing IRSA astronomy data): https://youtu.be/veUkHUP_V4M
 
-## Timestamps (video 1)
+## Timestamps (Video 1: Astronomy Data & Image Processing)
 ```text
 00:00:00 Reshama introduces Data Umbrella
 00:04:25 Luisa begins presentation 
 ```
 
-## Timestamps (video 2)
+## Timestamps (Video 2: Demo on Accessing IRSA Astronomy Data)
 ```text
 00:00  
 00:00   
