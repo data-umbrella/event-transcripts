@@ -18,6 +18,9 @@ Luisa Rebull: Astronomy Data & Image Processing
 00:00:00 Reshama introduces Data Umbrella
 00:04:25 Luisa begins presentation
 00:08:09 (Astronomy) Citizen Science programs
+00:11:00 Moon Zoo (citizen science program)
+00:11:43 Digital rabbit hole, publicly funded assets ==> public data
+
  
 ```
 
