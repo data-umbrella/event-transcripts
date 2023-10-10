@@ -45,6 +45,17 @@ Luisa Rebull: Astronomy Data & Image Processing
 00:45:29 Getting started
 00:45:58 IRSA demo: https://irsa.ipac.caltech.edu/frontpage/
 00:46:00 NOTE: go to this video for better video quality: Demo on Accessing IRSA Astronomy Data: https://youtu.be/veUkHUP_V4M
+00:47:04 Bands (optical, infrared)
+00:48:46 back to IRSA demo
+00:53:37 slides: Challenges to explore (not comets, star clusters, galaxies, etc)
+00:54:58 slides: Next steps (quantitative measures of objects online); IRSA Viewer tool
+00:56:29 IRSA time series tool
+01:01:42 Tips for next steps in learning about astronomy (PyVo, AstroPy, astroML)
+01:02:38 Planetary data resources
+01:03:38 Summary of main points
+01:04:30 QR Code for link to resources: https://web.ipac.caltech.edu/staff/rebull/outr/datalinks.html
+
+
 ```
 
 ## Timestamps (Video 2: Demo on Accessing IRSA Astronomy Data)
