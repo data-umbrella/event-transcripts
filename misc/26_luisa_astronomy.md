@@ -44,7 +44,7 @@ Luisa Rebull: Astronomy Data & Image Processing
 00:45:13 Firefly tools (software which is open source from IRSA)
 00:45:29 Getting started
 00:45:58 IRSA demo: https://irsa.ipac.caltech.edu/frontpage/
-
+00:46:00 NOTE: go to this video for better video quality: Demo on Accessing IRSA Astronomy Data: https://youtu.be/veUkHUP_V4M
 ```
 
 ## Timestamps (Video 2: Demo on Accessing IRSA Astronomy Data)
