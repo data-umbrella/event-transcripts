@@ -30,6 +30,8 @@ Luisa Rebull: Astronomy Data & Image Processing
 00:28:41 One image
 00:29:21 Concept 3b: Color images
 00:31:02 Filters
+00:31:32 Images in astronomy
+00:32:01 "true color" or "representative color" in images
  
 ```
 
