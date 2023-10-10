@@ -35,6 +35,9 @@ Luisa Rebull: Astronomy Data & Image Processing
 00:33:15 Common misconception
 00:33:40 Concept 4a: multiple wavelengths
 00:35:00 Concept 4b: sky coverage, resolution
+00:35:50 M16 Pillars of Creation image from Hubble telescope
+00:38:41 Concept 5: Artifacts
+00:41:10 Data acquisition and reduction
 
 ```
 
