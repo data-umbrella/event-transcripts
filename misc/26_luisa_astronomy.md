@@ -26,7 +26,10 @@ Luisa Rebull: Astronomy Data & Image Processing
 00:18:50 Mechanics of how to deal with digital images, Concept 2a: Bit Depth
 00:21:51 Concept 2b: Image Compressions
 00:22:41 Concept 2c: FITS files (Flexible Image Transport System)
-
+00:24:28 Concept 3: Color in images
+00:28:41 One image
+00:29:21 Concept 3b: Color images
+00:31:02 Filters
  
 ```
 
