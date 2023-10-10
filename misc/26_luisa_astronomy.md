@@ -60,8 +60,10 @@ Luisa Rebull: Astronomy Data & Image Processing
 ## Timestamps (Video 2: Demo on Accessing IRSA Astronomy Data)
 ```text
 00:00 IRSA demo: https://irsa.ipac.caltech.edu/frontpage/ 
-00:00   
-
+01:02 Finder Chart
+09:11 IRSA Viewer
+15:18 SOFIA (Stratospheric Observatory for Infrared Astronomy)
+17:43 collection of video tutorials: https://irsa.ipac.caltech.edu/docs/howto/tutorials.html
 ```
 
 ## Event
