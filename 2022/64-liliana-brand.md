@@ -16,7 +16,21 @@ https://www.meetup.com/data-umbrella
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella Introduction
+03:00 Data Umbrella call for volunteers
+03:44 Today’s Talk
+05:08 Let’s get started for the presentation
+08:02 What is a personal brand
+08:55 What is a brand
+10:20 How do you build a brand
+16:57 What’s my brand-Liliana Petrova
+29:56 Q&A Section
+30:46 Q&A - Actionable Advice
+37:50 Q&A - Branding suggestion in this online world
+40:00 Q&A - Project leader as a brand
+43:43 Thought to share: Learning experience on branding
+48:37 Q&A - Branding in a competitive environment
+54:52 Thanksgiving
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
