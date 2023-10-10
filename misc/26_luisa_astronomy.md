@@ -38,6 +38,12 @@ Luisa Rebull: Astronomy Data & Image Processing
 00:35:50 M16 Pillars of Creation image from Hubble telescope
 00:38:41 Concept 5: Artifacts
 00:41:10 Data acquisition and reduction
+00:42:43 NASA Astronomical Archives
+00:43:55 IRSA (NASA's Infrared Science Archive)
+00:44:44 Rich data sets = enormous science potential
+00:45:13 Firefly tools (software which is open source from IRSA)
+00:45:29 Getting started
+00:45:58 IRSA demo: https://irsa.ipac.caltech.edu/frontpage/
 
 ```
 
