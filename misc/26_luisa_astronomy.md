@@ -32,7 +32,10 @@ Luisa Rebull: Astronomy Data & Image Processing
 00:31:02 Filters
 00:31:32 Images in astronomy
 00:32:01 "true color" or "representative color" in images
- 
+00:33:15 Common misconception
+00:33:40 Concept 4a: multiple wavelengths
+00:35:00 Concept 4b: sky coverage, resolution
+
 ```
 
 ## Timestamps (Video 2: Demo on Accessing IRSA Astronomy Data)
