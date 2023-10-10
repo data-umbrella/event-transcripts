@@ -54,6 +54,7 @@ Luisa Rebull: Astronomy Data & Image Processing
 01:02:38 Planetary data resources
 01:03:38 Summary of main points
 01:04:30 QR Code for link to resources: https://web.ipac.caltech.edu/staff/rebull/outr/datalinks.html
+01:09:29 Q: Which tools can handle FITS images?
 
 
 ```
