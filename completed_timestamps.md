@@ -1,5 +1,5 @@
 ## Videos with Completed Timestamps
-
+  
 - [x] 63 [Software Testing by Eric Ma ](https://youtu.be/bJGgVoV4GTc) --- [2022/63-eric-testing.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/63-eric-testing.md) (@greenbrown)
 - [x] 62 [Software Engineering for Probabilistic Programming](https://youtu.be/INXMncbt09g) --- [2022/62-mitzi-bayesian.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/62-mitzi-bayesian.md) (@benst)
 - [x] 61c Intro to React, Part 3: [Build a React App](https://youtu.be/MSAbOBHGkhw) | [2022/61-joe-react.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/61-joe-react.md) (@nicholeboaz)
@@ -42,8 +42,11 @@
 - [x] 29 (Sam, Intro to Jupyter + Pandas) 
 - [x] 28 (Liz, Excel for Data Analysis) (@suemnjeri)
 - [x] 27 (Thomas, 3 Components of a Pull Request) (@reshamas)
-- [x] 25 (Oriol, Bayesian Modeling with PyMC) 
+- [x] 26b [Luisa, astronomy](https://youtu.be/veUkHUP_V4M) | [misc/26_luisa_astronomy.md](https://github.com/data-umbrella/event-transcripts/blob/main/misc/26_luisa_astronomy.md) (@reshamas)
+- [x] 26a [Luisa, astronomy](https://youtu.be/q10mVlYQUbA) | [misc/26_luisa_astronomy.md](https://github.com/data-umbrella/event-transcripts/blob/main/misc/26_luisa_astronomy.md) (@reshamas)
 - [x] 24 (Sam, Data Quality Tools) (@reshamas)
+- [x] 25 (Oriol, Bayesian Modeling with PyMC)
+- [x] 23 [Ryan, placekey](https://youtu.be/NYV4fB3IU0k) | add timestamps here: [misc/23_ryan_placekey.md](https://github.com/data-umbrella/event-transcripts/blob/main/misc/23_ryan_placekey.md) (@reshamas)
 - [x] 22 (Sphinx) (@reshamas)
 - [x] 21 (Nick, command line) (by Nick)
 - [x] 20 (Marco, pandas)  (@reshamas)
