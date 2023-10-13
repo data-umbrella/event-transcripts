@@ -1,5 +1,11 @@
 ## Videos with Completed Timestamps
-  
+
+- [x] 69 [Intro to Rust Programming](https://youtu.be/7E8nLExn3WI) --- [2022/69-bruno-rust.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/69-bruno-rust.md) (@rochacbruno)
+- [x] 68 [Bioimage workflow with scikit-image](https://youtu.be/NqdhuU1fX5A) --- [2022/68-marianne-bioimage.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/68-marianne-bioimage.md) (@ckmeher)
+- [x] 67 [Image processing with scikit-image](https://youtu.be/tPNUX5NxlVY) --- [2022/67-alex-image.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/67-alex-image.md) (@greenhacks) 
+- [x] 66 [Contributing to fastai](https://youtu.be/M7YRWnhKiak) --- [2022/66-hamel-fastai.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/66-hamel-fastai.md) (@TheSunnyDev)
+- [x] 65 [TensorFlowJS by Shivay Lamba](https://youtu.be/k1rHkMmORA4) --- [2022/65-shivay-tensorflowjs.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/65-shivay-tensorflowjs.md) (@greenhacks)
+- [x] 64 [Personal Branding by Liliana Petrova](https://youtu.be/fya1-Cc6oeE) --- [2022/64-liliana-brand.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/64-liliana-brand.md) (@ckmeher)
 - [x] 63 [Software Testing by Eric Ma ](https://youtu.be/bJGgVoV4GTc) --- [2022/63-eric-testing.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/63-eric-testing.md) (@greenbrown)
 - [x] 62 [Software Engineering for Probabilistic Programming](https://youtu.be/INXMncbt09g) --- [2022/62-mitzi-bayesian.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/62-mitzi-bayesian.md) (@benst)
 - [x] 61c Intro to React, Part 3: [Build a React App](https://youtu.be/MSAbOBHGkhw) | [2022/61-joe-react.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/61-joe-react.md) (@nicholeboaz)
