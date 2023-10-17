@@ -34,7 +34,7 @@ Sae Ra is a strong advocate for IT and Open Source especially in the Library ind
 #opensource
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&e9fB8NQV6Nc" target="_blank"><img src="http://img.youtube.com/vi/e9fB8NQV6Nc/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4m1jVQdUTQo" target="_blank"><img src="http://img.youtube.com/vi/4m1jVQdUTQo/0.jpg"
 alt="Exploring the Open Source Landscape in Australia" width="50%" /></a>
 
 ## Timestamps
