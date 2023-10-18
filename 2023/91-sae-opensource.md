@@ -12,7 +12,8 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-None
+- https://www.airtree.vc/open-source-vc/fundraising-in-australia-updated-open-source-investor-list
+- slides: to be provided
 
 ## About the Event
 Australia is geographically located far away from Europe and North America where the majority of open source maintainers in the Python and scientific python spaces are located. 
@@ -31,7 +32,7 @@ Sae Ra is a strong advocate for IT and Open Source especially in the Library ind
 - X: https://twitter.com/ms_mary_mac
 - LinkedIn: https://www.linkedin.com/in/srgermaine/
 
-#opensource
+#opensource #linux
 
 ## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4m1jVQdUTQo" target="_blank"><img src="http://img.youtube.com/vi/4m1jVQdUTQo/0.jpg"
