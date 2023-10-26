@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/91-sae-opensource.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/296383380/
-- Video: 
+- Video: https://youtu.be/UmkdhT1AR2Q
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -35,7 +35,7 @@ Sae Ra is a strong advocate for IT and Open Source especially in the Library ind
 #opensource #linux
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4m1jVQdUTQo" target="_blank"><img src="http://img.youtube.com/vi/4m1jVQdUTQo/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UmkdhT1AR2Q" target="_blank"><img src="http://img.youtube.com/vi/UmkdhT1AR2Q/0.jpg"
 alt="Exploring the Open Source Landscape in Australia" width="50%" /></a>
 
 ## Timestamps
