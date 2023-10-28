@@ -19,14 +19,6 @@ https://www.meetup.com/data-umbrella
 ## About the Event
 In this webinar we go over both social and technical aspects we face when we contribute to ArviZ and to open source in general. We cover: finding an issue to work on, understanding how to work on it, to submitting the pull request and addressing the feedback received, and challenges faced. The talk will be focused on ArviZ, but it should also be useful to anyone interested in contributing to open source.
 
-
-```
-## Timestamps
-00:00 Help us add timestamps
-```
-https://github.com/data-umbrella/event-transcripts/issues/92
-
-
 ## About the Speaker
 Oriol is an ArviZ and PyMC team member who dedicates a large part of his work on "non-technical" work such as community building or mentoring new contributors. He started contributing to open source a bit over 3 years ago and is currently working as a freelancer around open source and bayesian statistics.
 
