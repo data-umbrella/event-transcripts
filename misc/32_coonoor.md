@@ -16,9 +16,27 @@ Coonoor Behal: When Quitting is Good
 You can find the book here:
 https://www.amazon.com/Quit-Life-Affirming-Joy-Giving-Up-ebook/dp/B093QN3GXJ
 
-## Agenda
-00:00:00 Reshama introduces Data Umbrella
-00:03:25 Coonoor begins introduction
+## Timestamps
+00:00 Data Umbrella introduction
+03:25 this topic introduction
+04:06 Q: Coonoor, tell us about yourself
+05:45 Q: Tell us a bit about your "first quit"
+08:47 Coonoor's first big career quit, lessons learned
+11:35 taking action in the absence of complete information
+11:48 Q: Why is quitting good for you?
+13:35 Coonoor: "sticking it out", getting stuck somewhere
+14:40 fear of the unknown
+17:40 quitting towards something
+19:35 quitting brings you closer to your goals, unquitting, radical humility
+21:37 Q: Why do people not quit something they would be better served by not quitting?
+23:30 immigrant experience and taking risks
+25:40 Q: Do we quit sooner more often as we get older?
+28:40 Reshama's recent quit
+29:35 Coonoor: widen your aperture, quitting creates the space for other opportunities
+30:00 the mind / body connection to quitting
+32:50 How Coonoor works/consults with companies
+34:50 Diversity, equity and inclusion, White privilege, Black power
+39:00 about the book: examples of quitting
  
 ## Event
 We are honored to have Coonoor Behal, author of the book "I Quit! The Live Affirming Joy of Giving Up".  You can find the book here:
