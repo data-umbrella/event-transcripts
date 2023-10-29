@@ -1,5 +1,6 @@
 ## Videos with Completed Timestamps
 
+- [x] 70 [Contributing to ArviZ & OS](https://youtu.be/457ZTes4xOI) --- [2022/70-oriol-arviz.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/70-oriol-arviz.md) (@reshamas)
 - [x] 69 [Intro to Rust Programming](https://youtu.be/7E8nLExn3WI) --- [2022/69-bruno-rust.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/69-bruno-rust.md) (@rochacbruno)
 - [x] 68 [Bioimage workflow with scikit-image](https://youtu.be/NqdhuU1fX5A) --- [2022/68-marianne-bioimage.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/68-marianne-bioimage.md) (@ckmeher)
 - [x] 67 [Image processing with scikit-image](https://youtu.be/tPNUX5NxlVY) --- [2022/67-alex-image.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/67-alex-image.md) (@greenhacks) 
@@ -43,6 +44,7 @@
 - [x] 35 [Juan Martin, Live Share with VSC](https://youtu.be/WHOiljOYGVw) | add timestamps here: [misc/35_live_share.md](https://github.com/data-umbrella/event-transcripts/blob/main/misc/35_live_share.md) (@symeneses)
 - [x] 34 (Andreas, dabl) (@reshamas)
 - [x] 33 (Rami, R Dashboard) (@reshamas)
+- [x] 32 [Coonoor, When Quitting is Good](https://youtu.be/Y6ema9jzxFw) | [misc/32_coonoor.md](https://github.com/data-umbrella/event-transcripts/blob/main/misc/32_coonoor.md) (@reshamas)
 - [x] 31 (Brendan, Bokeh) 
 - [x] 30 (Sean, STUMPY)  (@reshamas)
 - [x] 29 (Sam, Intro to Jupyter + Pandas) 
