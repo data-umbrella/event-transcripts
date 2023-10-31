@@ -28,16 +28,54 @@ Video 3/3:  https://youtu.be/Kgb7FMEg9uY
 - Brandon presentation: https://rhodesmill.org/brandon/slides/2015-05-pywaw/hoist/
 - Example of Kedro issue: https://github.com/kedro-org/kedro/issues/3055
 - Joel Grus talk : I don't like notebooks https://youtu.be/7jiPeIFXb6U
+- Reduction Technique: http://sscce.org/ 
+- Exercises: https://projecteuler.net/
 
 ## About the Event
 Your code gives an error. Or worse: it doesn't give an error, but doesn't do what you want. Welcome to the hard part of programming! What to do now?
 
 In this talk we will talk about debugging, which includes a broad set of techniques to identify the root causes of undesired behavior in programs and eventually fix them. We will start with a theoretical introduction of the different types of debugging, we will describe a couple of techniques that you can use, and we will apply them in practice, both in Jupyter Notebook (using its new interactive debugger) and in VSCode.
+
 ```
-## Timestamps
+## Timestamps: Part 1
+00:00 Intro to Data Umbrella
+02:59 Speaker Introduction
+04:22 Talk begins + outline
+09:56 Sources of bugs
+13:17 Types of debugging - tracing v. interactive
+16:20 Interactive debugging
+19:17 Interactive debugging - VSCode example
+19:38 Debugging is problem-solving
+21:13 Technique 1 - Divide and Conquer
+23:13 Technique 2 - Hypothesis Testing
+25:43 Technique 3 - Reduction 
+27:47 Technique 4 - Reading Carefully
+29:31 Traceback example + exercise
+31:40 Think of your future self
+32:49 Five (5) debug code tips
+36:02 Q&A - Structlog library
+37:11 Q&A - What is Rich formatting?
+38:15 Q&A - Larger screenshot review  (ImportError, VSCode/JupyterLab debug interface)
+41:02 Q&A - Stack Overflow management tips
+44:04 Q&A - Template for bug reporting
+45:54 Reviewing debug tips and tricks
+47:17 Q&A + inspiration for debugging
+49:14 Comments - get familiar with common tracebacks / errors seen to produce correct syntax
+51:38 Q&A - How does unit testing factor into debugging?
+```
+
+```
+## Timestamps: Part 2
 00:00 Help us add timestamps
 ```
+
+```
+## Timestamps: Part 3
+00:00 Help us add timestamps
+```
+
 https://github.com/data-umbrella/event-transcripts/issues/92
+
 
 ## About the Speaker
 Juan Luis (he/him/él) works as Developer Advocate at QuantumBlack, AI by McKinsey, with a focus on Kedro, an open source data science framework. He has a decade of experience as developer advocate, software engineer, and Python trainer in several industries. PSF Fellow since 2017, he has made significant contributions to the PyData stack, published several open-source packages, and organized the first seven PyCons in Spain. Currently he is the lead organizer of the PyData Madrid monthly meetups.
@@ -59,8 +97,6 @@ alt="Juan Luis Cano Rodríguez:  Into the rabbit hole: Debugging in Python" widt
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Kgb7FMEg9uY" target="_blank"><img src="http://img.youtube.com/vi/Kgb7FMEg9uY/0.jpg"
 alt="Juan Luis Cano Rodríguez:  Into the rabbit hole: Debugging in Python" width="50%" /></a>
 
-
-## Timestamps
-[get from video]
+#python #codereview
 
 ## Transcript
