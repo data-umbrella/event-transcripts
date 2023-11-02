@@ -1,5 +1,9 @@
 ## Videos with Completed Timestamps
 
+- [x] 74 [Bayesian, BRMS](https://youtu.be/A1NWoKQhgJE) --- [2023/74-mitzi-brms.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/74-mitzi-brms.md) (@greenhacks) 
+- [x] 73 [GSOC panel discussion](https://youtu.be/YE-TYJmvbfg) --- [2023/73-gsoc.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/73-gsoc.md) (@reshamas)
+- [x] 72 [How you can contribute to pandas](https://youtu.be/zI4l1lfggzU) --- [2023/72-marco-pandas.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/72-marco-pandas.md) (@SangamSwadiK)
+- [x] 71 [Land your first data science job](https://youtu.be/qDQ7z7FrG20) --- [2022/71-wg-sw-career.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/71-wg-sw-career.md) (@reshamas)
 - [x] 70 [Contributing to ArviZ & OS](https://youtu.be/457ZTes4xOI) --- [2022/70-oriol-arviz.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/70-oriol-arviz.md) (@reshamas)
 - [x] 69 [Intro to Rust Programming](https://youtu.be/7E8nLExn3WI) --- [2022/69-bruno-rust.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/69-bruno-rust.md) (@rochacbruno)
 - [x] 68 [Bioimage workflow with scikit-image](https://youtu.be/NqdhuU1fX5A) --- [2022/68-marianne-bioimage.md](https://github.com/data-umbrella/event-transcripts/blob/main/2022/68-marianne-bioimage.md) (@ckmeher)
