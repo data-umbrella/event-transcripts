@@ -1,5 +1,15 @@
 ## Videos with Completed Timestamps
 
+- [x] 85 [Yellowbrick](https://youtu.be/62Vhv_et9WQ) --- [2023/85-kavengi-yellowbrick.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/85-kavengi-yellowbrick.md) (@reshamas) 
+- [x] 84 [Quarto](https://youtu.be/TnVgHE9LAiw) --- [2023/84-tom-quarto.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/84-tom-quarto.md) (@reshamas) 
+- [x] 83 [Vicuna, OS LLM](https://youtu.be/y5Qa5m1hKiA) --- [2023/83-ying-vicuna.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/83-ying-vicuna.md) (@Boadzie) 
+- [x] 82 [FluxML & Julia](https://youtu.be/WPMEILeh1Q8) --- [2023/82-kyle-julia-ml.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/82-kyle-julia-ml.md) (@greenhacks)
+- [x] 81 [ImageIO](https://youtu.be/ct6S9BQHC04) --- [2023/81-sebastian-imageio.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/81-sebastian-imageio.md)  ([@Ashish-Soni08](https://github.com/Ashish-Soni08))
+- [x] 80 [NLP tasks for LLMs](https://youtu.be/gP2gr0d0Q28) --- [2023/80-pablo-llm.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/80-pablo-llm.md) (@greenhacks) 
+- [x] 79 [Shiny for Python](https://youtu.be/pXidQWYY14w) --- [2023/79-gordon-shiny.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/79-gordon-shiny.md) (@Ediebah)
+- [x] 78 [MLOps](https://youtu.be/NIfGxfjjOV8) --- [2023/78-sandra-mlops.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/78-sandra-mlops.md) (@Boadzie)
+- [x] 77 [Pyomo](https://youtu.be/DPv-7TeSTNs) --- [2023/77-jeff-pyomo.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/77-jeff-pyomo.md) (@reshamas) 
+- [x] 76 [Gitpod, PyMC](https://youtu.be/jsjOmhUaKuU) --- [2023/76-reshama-gitpod.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/76-reshama-gitpod.md) (@reshamas)
 - [x] 74 [Bayesian, BRMS](https://youtu.be/A1NWoKQhgJE) --- [2023/74-mitzi-brms.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/74-mitzi-brms.md) (@greenhacks) 
 - [x] 73 [GSOC panel discussion](https://youtu.be/YE-TYJmvbfg) --- [2023/73-gsoc.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/73-gsoc.md) (@reshamas)
 - [x] 72 [How you can contribute to pandas](https://youtu.be/zI4l1lfggzU) --- [2023/72-marco-pandas.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/72-marco-pandas.md) (@SangamSwadiK)
