@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/92-ilia-figma.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/296843289/
-- Video: 
+- Video: https://youtu.be/cLRvvhK6LoM
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -31,7 +31,7 @@ Ilia has made a recent transition from the world of fashion to the tech realm. C
 #figma
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=UmkdhT1AR2Q" target="_blank"><img src="http://img.youtube.com/vi/UmkdhT1AR2Q/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cLRvvhK6LoM" target="_blank"><img src="http://img.youtube.com/vi/cLRvvhK6LoM/0.jpg"
 alt="Using Figma for Data and Applications" width="50%" /></a>
 
 ## Timestamps
