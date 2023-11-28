@@ -12,7 +12,8 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- None
+- Slides and Colab:  https://sites.google.com/adao.tech/portal/blog/blog_data_umbrella_model_risk_management
+
 
 ## About the Event
 This is a presentation that aims to explain some of model risk management best practices to data science (split of models between input, methodology and output & model validation). The following Python libraries will be covered:
@@ -20,6 +21,15 @@ This is a presentation that aims to explain some of model risk management best p
 - ydata-profiling
 - pycaret
 - altair
+
+ydata-profiling:
+is a leading package for data profiling, that automates and standardizes the generation of detailed reports, complete with statistics and visualizations.(https://docs.profiling.ydata.ai/4.6/)
+
+pycaret:
+PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. It is an end-to-end machine learning and model management tool that exponentially speeds up the experiment cycle and makes you more productive. PyCaret is essentially a Python wrapper around several machine learning libraries and frameworks, such as scikit-learn, XGBoost, LightGBM, CatBoost, spaCy, Optuna, Hyperopt, Ray, and a few more.(https://pycaret.org/)
+
+altair:
+Vega-Altair is a declarative visualization library for Python. Its simple, friendly and consistent API, built on top of the powerful Vega-Lite grammar, empowers you to spend less time writing code and more time exploring your data.(https://altair-viz.github.io/)
 
 ```
 ## Timestamps
