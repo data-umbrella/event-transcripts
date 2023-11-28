@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/93-alejandro-model-risk.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/296945489/
-- Video: 
+- Video: https://youtu.be/fx34LLGh2lI
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
@@ -44,10 +44,10 @@ Alejandro Gomez is a mathematician, who has worked in the model risk management 
 - X: https://twitter.com/a_gomez_h
 - LinkedIn: https://www.linkedin.com/in/agomezh
 
-#opensource
+#opensource #modelrisk
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=UmkdhT1AR2Q" target="_blank"><img src="http://img.youtube.com/vi/UmkdhT1AR2Q/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fx34LLGh2lI" target="_blank"><img src="http://img.youtube.com/vi/fx34LLGh2lI/0.jpg"
 alt="Model Risk Management Best Practices for Data Science" width="50%" /></a>
 
 ## Timestamps
