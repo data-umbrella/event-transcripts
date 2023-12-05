@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2023/94-nicholas-linux.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/297332975/
-- Video:
+- Video: https://youtu.be/mWadao1brts
 - GitHub repo:
 - Transcriber:  ? [needs a transcriber]
 
@@ -33,7 +33,7 @@ Nicholas Kyanda is an ICT professional with varied interests ranging from web de
 #ComputerProgramming #BigData #DataAnalytics #SoftwareDevelopment
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fx34LLGh2lI" target="_blank"><img src="http://img.youtube.com/vi/fx34LLGh2lI/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mWadao1brts" target="_blank"><img src="http://img.youtube.com/vi/mWadao1brts/0.jpg"
 alt="Intro to the Linux Operating System" width="50%" /></a>
 
 ## Timestamps
