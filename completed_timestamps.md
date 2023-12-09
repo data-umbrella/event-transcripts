@@ -10,6 +10,7 @@
 - [x] 78 [MLOps](https://youtu.be/NIfGxfjjOV8) --- [2023/78-sandra-mlops.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/78-sandra-mlops.md) (@Boadzie)
 - [x] 77 [Pyomo](https://youtu.be/DPv-7TeSTNs) --- [2023/77-jeff-pyomo.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/77-jeff-pyomo.md) (@reshamas) 
 - [x] 76 [Gitpod, PyMC](https://youtu.be/jsjOmhUaKuU) --- [2023/76-reshama-gitpod.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/76-reshama-gitpod.md) (@reshamas)
+- [x] 75 [Sales Engineer](https://youtu.be/TssCbFEcKck) --- [2023/75-estela-sales.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/75-estela-sales.md) (@reshamas)
 - [x] 74 [Bayesian, BRMS](https://youtu.be/A1NWoKQhgJE) --- [2023/74-mitzi-brms.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/74-mitzi-brms.md) (@greenhacks) 
 - [x] 73 [GSOC panel discussion](https://youtu.be/YE-TYJmvbfg) --- [2023/73-gsoc.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/73-gsoc.md) (@reshamas)
 - [x] 72 [How you can contribute to pandas](https://youtu.be/zI4l1lfggzU) --- [2023/72-marco-pandas.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/72-marco-pandas.md) (@SangamSwadiK)
