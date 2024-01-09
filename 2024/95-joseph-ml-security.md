@@ -7,12 +7,14 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/95-joseph-ml-security.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/297749677/
-- Video: 
+- Video: https://youtu.be/MEFRie7hmpM
 - GitHub repo:
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-None
+- Slides: https://github.com/data-umbrella/event-transcripts/blob/main/resources/machine-learning-security.pdf
+- DEFCON: https://aivillage.org/
+- Securing LLM Systems Against Prompt Injection: https://developer.nvidia.com/blog/securing-llm-systems-against-prompt-injection/
 
 ## About the Event
 Securing machine learning development and products is increasingly relevant and a growing career field. Joe Lucas, a member of NVIDIA's AI Red Team, will be introducing the field of machine learning security to help attendees secure their own work and understand how to engage with this new domain of security.
@@ -33,7 +35,7 @@ Joe is a senior offensive security researcher focused on AI at NVIDIA. He is the
 #machinelearning #datascience #security
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=mWadao1brts" target="_blank"><img src="http://img.youtube.com/vi/mWadao1brts/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MEFRie7hmpM" target="_blank"><img src="http://img.youtube.com/vi/MEFRie7hmpM/0.jpg"
 alt="What is Machine Learning Security Anyway?" width="50%" /></a>
 
 ## Timestamps
