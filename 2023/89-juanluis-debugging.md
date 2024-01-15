@@ -65,13 +65,28 @@ In this talk we will talk about debugging, which includes a broad set of techniq
 ```
 
 ```
-## Timestamps: Part 2
+## Timestamps: Part 2 (Jupyter Notebook)
 00:00 Help us add timestamps
 ```
 
 ```
-## Timestamps: Part 3
-00:00 Help us add timestamps
+## Timestamps: Part 3 (VSCode)
+00:00 VSCode window breakdown (integrated terminal, file editor)
+00:21 VSCode v. Jupyter
+00:30 Navigating to example directory to run Python file 
+01:05 Activating an environment (`which python` command example)
+01:17 Installing dependencies with pip install numpy matplotlib scikit-learn to run the existing scripts that have imports
+02:12 Running the scripts (`python plot.py`)
+02:40 Beginning debug - example problem with “Gaussian process”
+03:04 Introducing Debugging Configurations (How do I debug on VSCode?) 
+03:13 Run & Debug Panel
+03:38 Post-mortem debugging with tracebacks
+04:17 Using the Debug Console (on the integrated terminal)
+05:57 More sophisticated debugging - using breakpoints
+07:21 Attempting different approach
+08:11 Stepping into the code
+08:34 Creating `launch.json` file to modify VSCode configs
+10:14 Wrap-up
 ```
 
 https://github.com/data-umbrella/event-transcripts/issues/92
