@@ -4,31 +4,31 @@
 
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
-  [![Welcome Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:8ff47a85-7250-4d86-8e48-2f346b48b2c1:BannerWelcome.jpg/full/750,/0/default.jpg)](https://zenodo.org/record/3695300)
-
+  ![Welcome Banner](https://raw.githubusercontent.com/data-umbrella/info/main/images/welcome-bot/BannerCongratulations.jpg)
+  
   :tada: Welcome to _Data Umbrella_! :tada:
-  We're really excited to have your input into the project! :sparkling_heart:
+  We're really excited to have your input into the project! :sparkling_heart: 💖
 
-  <br>If you haven't done so already, please make sure you check out our [Contributing Guidelines](https://github.com/data-umbrella/event-transcripts/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/data-umbrella/event-transcripts/blob/main/CODE_OF_CONDUCT.md).
+  <br>If you haven't done so already, please make sure you check out our [Contributing Guidelines](https://github.com/data-umbrella/data-umbrella.github.io/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/data-umbrella/event-transcripts/blob/main/CODE_OF_CONDUCT.md).
 
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  [![Thank You Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:7fbd97cf-283b-480c-b8e1-11866e26245c:BannerThanks.jpg/full/750,/0/default.jpg)](https://zenodo.org/record/3695300)
+  ![Thank You Banner](https://github.com/data-umbrella/info/blob/main/images/welcome-bot/BannerThanks.jpg?raw=true)
 
-  :sparkling_heart: Thanks for opening this pull request! :sparkling_heart:
+  :sparkling_heart: Thanks for opening this pull request! :sparkling_heart: 💖
   _Data Umbrella_ community really appreciates your time and effort to contribute to the project.
-  Please make sure you have read our [Contributing Guidelines](https://github.com/data-umbrella/event-transcripts/blob/main/CONTRIBUTING.md) and filled in our pull request template to the best of your ability.
+  Please make sure you have read our [Contributing Guidelines](https://github.com/data-umbrella/data-umbrella.github.io/blob/main/CONTRIBUTING.md) and filled in our pull request template to the best of your ability.
 
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
-  [![Congratulations Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:32fbdb89-ae1b-434e-830c-88ade86724cc:BannerCongratulations.jpg/full/750,/0/default.jpg)](https://zenodo.org/record/3695300)
+  ![Congratulations Banner](https://github.com/data-umbrella/info/blob/main/images/welcome-bot/BannerCongratulations.jpg?raw=true)
 
   Congrats on merging your first pull request! :tada:
-  We here at _Data Umbrella_ are proud of you! :sparkling_heart:
+  We here at _Data Umbrella_ are proud of you! :sparkling_heart: 💖
   Thank you so much for your contribution :gift:
