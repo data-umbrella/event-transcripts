@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/96-pablo-penpot.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/298052767/
-- Video: 
+- Video: https://youtu.be/hLHIXrjP9pw
 - GitHub repo:
 - Transcriber:  ? [needs a transcriber]
 
@@ -31,7 +31,7 @@ Pablo is the CEO of Taiga and Penpot. He is an entrepreneur with 20+ years of ex
 
 #html #css #ux #design
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=MEFRie7hmpM" target="_blank"><img src="http://img.youtube.com/vi/MEFRie7hmpM/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hLHIXrjP9pw" target="_blank"><img src="http://img.youtube.com/vi/hLHIXrjP9pw/0.jpg"
 alt="Sneak Peek at Penpot 2.0 (the open source design tool)" width="50%" /></a>
 
 ## Timestamps
