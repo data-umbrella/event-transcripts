@@ -37,6 +37,31 @@ Nicholas Kyanda is an ICT professional with varied interests ranging from web de
 alt="Intro to the Linux Operating System" width="50%" /></a>
 
 ## Timestamps
-[get from video]
+```
+00:00:00 Reshama Introduces Data Umbrella
+00:02:47 Reshama introduces Nicholas Kyanda
+00:03:37 Nicholas Kyanda Starts his talk
+00:04:15 Talk agenda
+00:07:16 Nicholas Kyanda's introduction to Linux Systems
+00:17:50 Who is who in the Linux World: Richard Stallman
+00:20:51 Who is who in the Linux World: Linus Benedict Torvalds
+00:22:28 Intellectual Property, Software Licences and the Creative Commons
+00:23:24: Summary of Harvard Exchange Copyright Course and why it matters
+00:29:04 Lawrence Lessing and the Creative Commons
+00:30:05 Windows and Linux/Unix compared
+00:31:35 What is virtualization?
+00:33:02 Companies collaborating with Linux
+00:33:40 Tools for dual booting - EaseUS Partition Master
+00:34:17 Tools for virtualization - Oracle VM
+00:35:31 Tools for dual booting - BalenaEtcher
+00:37:14 Security and Goodwill
+00:40:14 Interesting facts about Linux
+00:42:49 Open suse 10.3 User Interface
+00:43:27 Packages included in Open Suse Linux 10.0
+00:45:25 Linux alternative applications to familiar Windows softwares
+00:45:55 Career paths in the Linux/Fedora Ecosystem
+00:49:50 Conclusion - Where do we go from here?
+00:52:10 Q&A with Nicholas
+```
 
 ## Transcript
