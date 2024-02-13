@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/97-juan-open-source-history.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/298708103/
-- Video: 
+- Video: https://youtu.be/LLciYo3rqTQ
 - GitHub repo:
 - Transcriber:  ? [needs a transcriber]
 
@@ -35,7 +35,7 @@ Juan Luis (he/him/él) works as Product Manager at QuantumBlack, AI by McKinsey,
 
 #opensource
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hLHIXrjP9pw" target="_blank"><img src="http://img.youtube.com/vi/hLHIXrjP9pw/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=LLciYo3rqTQ" target="_blank"><img src="http://img.youtube.com/vi/LLciYo3rqTQ/0.jpg"
 alt="A Briefer History of Open Source" width="50%" /></a>
 
 ## Timestamps
