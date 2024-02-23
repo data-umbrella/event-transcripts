@@ -22,8 +22,39 @@ The talk will unfold in three primary segments. The first portion provides a com
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella introduction
+03:35 What is OpenRefine?
+05:00 History of OpenRefine (Freebase Gridworks, Google Refine to Open Refine)
+08:33 OpenRefine user base
+10:42 Project statistics
+11:34 Features of OpenRefine
+14:00 Contributing to OpenRefine (use, promote, help, translate, fix, create, design)
+19:40 begin demo: Example dataset of Toronto building permits)
+20:23 Running OpenRefine locally, installation
+20:44 Download OpenRefine (openrefine.org/download)
+21:45 Demo: reading in the data
+24:15 Demo: export data from OpenRefine
+24:38 Demo: working with the data
+25:30 Demo: Text facet shows summary of different values
+26:45 facet / filter
+27:17 combine multiple facets
+28:10 text filter
+28:40 Cluster algorithm to clean text data (Ex: Fingerprint function, etc)
+32:54 Cluster algorithm: n-Gram fingerprint
+33:30 Cluster algorithm: Cologne phonetic
+34:15 Cleaning: working with numerical data
+35:20 find and replace: remove commas in number
+37:49 working with dates
+38:40 doing reconciliations in OpenRefine (merge multiple fields into one field)
+41:12 Reconciliation Service: an API
+41:32 about the dataset: Bathurst Street from Wiki Foundation
+44:00 connect my dataset with Wikipedia data
+44:45 Reconciliation service test bench (plus: clean street name data)
+47:38 Example: Excel type code for editing data
+55:26 Resources list
+56:20 Q: In the Reconciliation service API, which API versions are supported by OpenRefine?
 ```
+
 https://github.com/data-umbrella/event-transcripts/issues/92
 
 ## About the Speaker
@@ -39,7 +70,6 @@ Martin Magdinier is OpenRefine Project Manager and core contributor since 2013.
 <a href="http://www.youtube.com/watch?feature=player_embedded&e9fB8NQV6Nc" target="_blank"><img src="http://img.youtube.com/vi/e9fB8NQV6Nc/0.jpg"
 alt="Intro to OpenRefine for Data Cleaning and Reconciliation" width="50%" /></a>
 
-## Timestamps
-[get from video]
+ 
 
 ## Transcript
