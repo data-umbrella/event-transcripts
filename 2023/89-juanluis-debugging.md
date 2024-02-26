@@ -66,7 +66,18 @@ In this talk we will talk about debugging, which includes a broad set of techniq
 
 ```
 ## Timestamps: Part 2 (Jupyter Notebook)
-00:00 Help us add timestamps
+00:00 Let’s talk about Jupyter
+01:16 package: Language server protocol (lsp); Installation recommendations: install extra plug-ins / packages (for linting, formatting)
+03:08 Jupyter ipyflow package: gives execution order and cell flow
+04:01 Jupyter demo
+10:40 pip install ipyflow
+11:54 Jupyter debugger
+14:54 import pdb, pdb_set_trace()
+15:39 ipdb (interactive pdb)
+20:53 example of adding the function: breakpoint()
+21:00 turn on the Jupyter debugger
+22:57 Q&A: What are the first 3 things you do when you cannot reproduce an error?
+25:56 Q&A: Where is the breakpoint coming from? (it is a built in function)
 ```
 
 ```
