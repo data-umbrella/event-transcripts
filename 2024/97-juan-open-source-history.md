@@ -24,8 +24,50 @@ This presentation will cover a very quick history of Open Source, from the begin
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella introduction
+03:38 Juan Luis introduction
+05:14 Juan Luis begins presentation
+06:11 About Juan Luis
+07:25 disclaimer
+09:20 1979: the rise and fall of hacker culture
+11:44 1969: Bell Labs, Unix, C
+14:15 1976: Copyright Act (in USA)
+17:09 1979: Scribe markup language
+18:05 1980-1989: GNU Project and Four Freedoms
+18:45 Richard Stallman printer incident at MIT
+22:00 Four Freedoms
+25:24 Switzerland, CERN
+25:55 1990-1998: The Linux bazaar and the Open Source definition
+26:20 1991: World Wide Web
+27:00 1993: Mosaic: first web browser
+27:45 Linux (Ref: video, https://youtu.be/mWadao1brts)
+31:11 Python and more (R, Vim, Lua, Java, etc)
+33:04 1997: The Cathedral and the Bazaar (an essay)
+34:43 Netscape, JavaScript
+35:45 1998: Open Source initiative
+37:55 The Divide: why open source misses the point of free software
+38:55 Digital age and the Big Data Explosion
+40:10 dot com bubble
+41:15 2001: animosity towards open source
+42:00 orgs, Foundations: Apache, Linux, Python Software Foundation, Eclipse
+44:04 2003: Google File System
+44:45 2005: a new era of collaborative software development (Git, GitHub)
+47:08 2011: Why software is eating the world
+47:41 2012-2018: what do open source maintainers eat?
+48:44 Growth of Python
+49:30 open source is not sustainable (OpenSSL, Heartbleed, left-pad)
+51:43 Nadia Eghbal, Roads and Bridges
+52:17 open source system begins to fragment (licenses)
+56:15 2019-2023: Post-open source and the Gen AI volcano
+01:00:04 a new kind of open source license
+01:00:55 2024: What’s next?
+01:04:00 Q: Do you think the open source divide was avoidable?
+01:05:36 Q: Are you optimistic about the future of open source in terms of funding?
+01:07:45 Q: Web 3 and Blockchain
+01:09:25 Q: Can you discuss OSPO’s? (Open Source Program Office)
+01:12:30 Q: What do you think of the potential for the UFDA (user friendly developers association) model? 
 ```
+
 https://github.com/data-umbrella/event-transcripts/issues/92
 
 ## About the Speaker
