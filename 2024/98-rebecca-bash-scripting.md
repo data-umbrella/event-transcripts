@@ -17,6 +17,7 @@ https://www.meetup.com/data-umbrella
 ## About the Event
 This talk is for all of us who feel like we never learned Bash properly. The goal is to increase our self-sufficiency in writing Bash. We'll start with some basic Bash commands, but move quickly to combining commands, scripting, error handling and resources for teaching yourself more.
 
+Audience: This should interest folks working in DevOps or developers doing repetitive file tasks as well as in cybersecurity.
 ```
 ## Timestamps
 00:00 Help us add timestamps
