@@ -16,6 +16,27 @@ None
 
 ## About the Event
 Learn about the exciting world of Gemini API, Google's latest advancement in large language models (LLMs). We will explore how to leverage the power of Gemini within Google AI Studio and Vertex AI for various tasks, including text, code, and even image and video understanding capabilities.
+
+Getting Started with Gemini API: Google AI Studio and Vertex AI  
+[Note: Gemini is an LLM (Large Language Model)]
+
+Understanding Generative AI and LLMs:  
+- Demystify generative AI and LLMs, highlighting their capabilities and potential applications. 
+- Understand how LLMs differ from previous language models and why their emergent abilities are groundbreaking. 
+- Learn about Google's commitment to responsible AI development and how it applies to Gemini.
+
+Getting Started with Gemini API:  
+- Explore the Gemini ecosystem, encompassing models, developer tools, consumer applications, and business solutions.
+
+Google AI Studio:  
+- Learn how to access and navigate AI Studio for your Gemini projects.
+- Create API keys, design prompts, customize models, and generate starter code. Experiment with different prompting techniques.
+
+Vertex AI:  
+- Discover the benefits of Vertex AI for production-scale deployments of Gemini models. 
+- Learn how to get started with the Vertex AI Gemini API & Python SDK on Google Cloud
+
+
 ```
 ## Timestamps
 00:00 Data Umbrella introduction
