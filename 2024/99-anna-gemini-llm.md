@@ -19,7 +19,6 @@ Learn about the exciting world of Gemini API, Google's latest advancement in lar
 ```
 ## Timestamps
 00:00 Data Umbrella introduction
-04:05 Rebecca begins presentation
 10:00 Help us add timestamps
 ```
 
