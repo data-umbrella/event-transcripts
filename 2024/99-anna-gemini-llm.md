@@ -15,8 +15,7 @@ https://www.meetup.com/data-umbrella
 None
 
 ## About the Event
-In this webinar, we will go through how to work with Gemini AI and specifically fine tune the model using an example of text data related to the Google Cloud Certification.
-
+Learn about the exciting world of Gemini API, Google's latest advancement in large language models (LLMs). We will explore how to leverage the power of Gemini within Google AI Studio and Vertex AI for various tasks, including text, code, and even image and video understanding capabilities.
 ```
 ## Timestamps
 00:00 Data Umbrella introduction
