@@ -12,11 +12,12 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
+- Slides: https://github.com/data-umbrella/event-transcripts/blob/main/resources/chatbot-based-on-knowledge-graphs.pdf
 - Docker code to spin up Streamlist apps: https://github.com/docker/genai-stack
 - Free training: https://graphacademy.neo4j.com/
 - Free RAG course: https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/
-- Slides:
-- 
+- https://graphacademy.neo4j.com/courses/llm-chatbot-python/
+
 
 ## About the Event
 Large Language Models (LLMs) like ChatGPT has inspired the world and started a new AI revolution. However, it seems that the latest trend is supplying ChatGPT with external information to increase its accuracy and give it the ability to answer questions where the answers are not present in public datasets. In this session, we will demonstrate how using a knowledge graph as a storage object for answers gives you explicit and complete control over the answers provided by the chatbot and helps avoid hallucinations.
