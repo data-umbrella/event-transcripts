@@ -5,7 +5,7 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/100-alison-knowledge-graph.md
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/100-alison-graph.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/299629316/
 - Video: 
 - GitHub repo:
