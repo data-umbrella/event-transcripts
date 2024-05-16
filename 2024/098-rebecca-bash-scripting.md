@@ -8,7 +8,6 @@ https://www.meetup.com/data-umbrella
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/98-rebecca-bash-scripting.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/299233060/
 - Video: https://youtu.be/1pQ527fGhVQ
-- GitHub repo:
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -22,10 +21,35 @@ This talk is for all of us who feel like we never learned Bash properly. The goa
 Audience: This should interest folks working in DevOps or developers doing repetitive file tasks as well as in cybersecurity.
 
 ```
-## Timestamps
-00:00 Data Umbrella introduction
+## Timestamps 
+00:00 Data Umbrella Introduction
 04:05 Rebecca begins presentation
-10:00 Help us add timestamps
+05:24 Agenda
+05:39 What is bash? A brief history of shells
+06:56 What is bash used for?
+07:58 Scripting basics + resources
+09:36 What does this code do? Analyzing an ETL script
+11:20 (three min. of quiet time begins)
+14:24 Begin code walkthrough
+15:33 Deeper dive on `curl` and `ssconvert`
+18:33 Continuing code walkthrough
+20:16 Quick summary
+20:45 Making the code into a script
+22:45 Making the script executable
+24:17 Running the script
+25:52 Turning code into a script - best practices
+26:01 Ways to customize your bash environment
+26:54 Customize bash environment - .bashrc example
+28:36 Song break + interactive chat time
+33:06 Returning from break, reviewing chat
+34:27 Improving the script - error handling + demo
+41:04 Error handling - more resources
+41:24 Improving the script - logging + demo
+46:15 Improving the script - options + demo
+50:00 (two min of quiet time begins)
+52:05 Continuing options demo
+54:16 Summary + mentorship/collaboration
+55:07 Q&A - ssconvert/gnumeric, GNU, esac
 ```
 
 https://github.com/data-umbrella/event-transcripts/issues/92
