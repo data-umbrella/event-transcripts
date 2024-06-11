@@ -30,7 +30,7 @@ This presentation will be a demo of how a power user can create a database web a
 https://github.com/data-umbrella/event-transcripts/issues/92
 
 ## About the Speaker
-Marc Laporte is a social entrepreneur with a focus on Free / Libre / Open Source software, wikis, collaboration, information governance and organizational performance. Marc is the Founder of WikiSuite.org and the CEO of EvoluData.com
+Marc Laporte is a social entrepreneur with a focus on Free / Libre / Open Source software, wikis, collaboration, information governance and organizational performance. Marc is the Founder of WikiSuite.org and the CEO of [EvoluData.com](https://evoludata.com/)
 
 - LinkedIn: https://www.linkedin.com/in/marclaportecom/
 - GitHub: https://github.com/marclaporte
