@@ -7,12 +7,10 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/100-cecilia-ethical-datascience.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/301084486/
-- Video: 
-- GitHub repo:
-- Transcriber:  ? [needs a transcriber]
+- Video: https://youtu.be/kfl_vaBYLzc
 
 ## Resources
-None
+- Slides: https://github.com/data-umbrella/event-transcripts/blob/main/resources/Ethical_Data_Science.pdf
 
 
 ## About the Event
@@ -34,7 +32,7 @@ Cecilia Dones is a data & analytics practitioner-academic, international speaker
 #opensource #datascience #ethics #eventsinnewyork #aiandsociety #artificialintelligenceapplications
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bNIyGH91q_8" target="_blank"><img src="http://img.youtube.com/vi/bNIyGH91q_8/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kfl_vaBYLzc" target="_blank"><img src="http://img.youtube.com/vi/kfl_vaBYLzc/0.jpg"
 alt="Navigating Ethical Data Science: GDPR, EU AI Act & Responsible Practice" width="50%" /></a>
 
 
