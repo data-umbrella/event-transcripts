@@ -12,6 +12,7 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
+- Slides: https://tikitrackers.org/Tiki-Trackers-Presentation
 - https://tikitrackers.org/
 - https://wikisuite.org/
 - https://tiki.org/FLOSS-Web-Application-with-the-most-built-in-features/
