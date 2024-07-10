@@ -31,7 +31,7 @@ Cutler J. Cleveland is Associate Director at the Boston University Institute for
 - LinkedIn: https://www.linkedin.com/company/visualizing-energy
 - X: https://twitter.com/VisualizeEnergy
 
-#Open Source #Sustainable Energy #DataVisualization
+#OpenSource #SustainableEnergy #DataVisualization
 
 ## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Jz0rXFnY05U" target="_blank"><img src="http://img.youtube.com/vi/Jz0rXFnY05U/0.jpg"
