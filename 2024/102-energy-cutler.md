@@ -7,13 +7,14 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/102-energy-cutler.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/301899177/
-- Video: 
+- Video: https://youtu.be/GYTqUZA0PPk
 - GitHub repo:
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
 - https://visualizingenergy.org/
-
+- https://flourish.studio/
+- 
 ## About the Event
 This presentation will be a demo of how data visualizations and storytelling can enhance understanding and communication about sustainable energy and climate change.
 
@@ -31,10 +32,10 @@ Cutler J. Cleveland is Associate Director at the Boston University Institute for
 - LinkedIn: https://www.linkedin.com/company/visualizing-energy
 - X: https://twitter.com/VisualizeEnergy
 
-#OpenSource #SustainableEnergy #DataVisualization
+#OpenSource #ClimateChange #SustainableEnergy #DataVisualization
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Jz0rXFnY05U" target="_blank"><img src="http://img.youtube.com/vi/Jz0rXFnY05U/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GYTqUZA0PPk" target="_blank"><img src="http://img.youtube.com/vi/GYTqUZA0PPk/0.jpg"
 alt="Visualizing Energy Transitions (Exploring Climate Change)" width="50%" /></a>
 
 
