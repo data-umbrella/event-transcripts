@@ -46,8 +46,36 @@ Vertex AI:
 
 ```
 ## Timestamps
-00:00 Data Umbrella introduction
-10:00 Help us add timestamps
+00:00 Reshama introduces Data Umbrella
+03:07 Reshama introduces Anna Nerezova
+04.06 Anna Begins talk
+04.30 Anna's Experience Presenting at the Google Cloud Next '24 Conference
+05.40 How to prepare for the Google Cloud Certification Exam
+06:51 How to Use Gemini to create Questions, Get the wrong and correct answers, and get feedback
+08:25 What is Gemini?
+08:52 Google AI Studio - Getting Started with Gemini for Developers, where you can prototype for free
+09:35 Training LLMs
+10:05 Why Google AI Studio - Use an API or Fine tuning a model for free
+10:23 Why experiment with Gemini?
+10:57 About Gemini 1.5 pro
+11:10 Google's History with AI since 2015
+12:41 Gemini versions: Nano, Pro, Ultra
+13:31 Gemma Open Models
+14:04 Getting Started with Gemini 1.5 Pro for free in Google AI Studio
+15:57 Practical Demo of Gemini in AI Studio - Developing sample questions and answers for Google Cloud Digital Leader Certification Exam
+26:50 Getting the API Keys to create an app
+30:10 Vertex AI (paid) vs Google AI Studio (free)
+31:25 Link to $5 Google Cloud Credits
+33:27 Applying the free credits to a new project on Google Cloud
+36:42 Demo on applying the free credits to access the Google Cloud free-tier products and creating a new project.
+40:44 Tutorial Lab - Getting Started with Vertex AI, Gemini API and Python SDK
+41:36 Using the Gemini Chatbot
+42:17 Gemini models for consumers, developers and businesses and enterprise
+43:44 Different ways to complete the tutorial lab
+45:38 Opening the tutorial notebook in Vertex AI
+49:24 Going through the steps of the Tutorial Notebook in Vertex AI - Text, Images and Video Files
+55:01 About Cloud Skill Boost
+55:52 Invitation to GDG NYC Hackathon and AI training
 ```
 
 https://github.com/data-umbrella/event-transcripts/issues/92
