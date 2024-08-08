@@ -19,9 +19,36 @@ https://www.meetup.com/data-umbrella
 This presentation will be a demo of how data visualizations and storytelling can enhance understanding and communication about sustainable energy and climate change.
 
 ```
-## Timestamps
-00:00 Data Umbrella introduction
-10:00 Help us add timestamps
+## Timestamps 
+00:00 Data Umbrella Introduction
+03:04 Introduction - Cutler J Cleveland
+04:23 Talk begins - Background (“seismic shifts”), Visualizing Energy project
+06:00 What is the Visualizing Energy project?
+07:19 How to work toward the mission?
+08:00 History of Visualizing Data, Background
+10:45 Reviewing content / materials created (four Areas of Focus)
+11:47 Content discovery - tagged stories with granular topic areas (e.g. “oil”)
+12:36 Diving into a specific story (“unit of consumption”)
+14:21 Specific story, continued - reviewing line chart, bar chart
+15:57 Covering internal links to content + live troubleshooting
+17:45 Walkthrough of visualization of total energy in United States by different sources
+19:52 Wind energy story, visualization walkthrough
+21:54 Hydropower story, visualization walkthrough, downloadable gif
+25:02 Continued website walkthrough - About page
+26:00 Discussing impact (viewership, 8,000 unique viewers per month) 
+26:38 Visualization of user geography
+27:16 Audience engagement statistics
+28:31 Peer-reviewed open educational resources, feedback notes
+29:45 Beginning Q&A - Collaborating w/ policymakers
+31:35 Q&A: How do you recruit student contributors?
+33:44 Q&A: Is this project set up in a way where anybody can contribute?
+36:47 Q&A Relationship between extreme events and energy transition
+38:15 Q&A Can I be involved? If so, how?
+38:48 Q&A How is the project funded?
+40:42 Q&A Does your work extend globally, especially to Africa?
+42:13 Q&A Do you face challenges in obtaining data from other countries?
+46:41 Q&A What type of requests do you receive about the type of information that people are interested in seeing?
+48:29 Q&A: PyPUMS data from the University of Minnesota
 ```
 
 https://github.com/data-umbrella/event-transcripts/issues/92
