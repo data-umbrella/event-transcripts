@@ -36,6 +36,8 @@ Amy E. Hodler is graph advisor and consultant. With decades of commercial experi
 
 - LinkedIn: https://www.linkedin.com/in/amyhodler/
 
+#OpenSource #GraphDatabases #KnowledgeGraphs
+
 ## Video:  ** NEED TO UPDATE **
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
 alt="Why Knowledge Graphs Are Hot Right Now" width="50%" /></a>
