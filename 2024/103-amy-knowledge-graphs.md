@@ -7,12 +7,13 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/103-amy-knowledge-graphs.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/302657843/
-- Video: 
+- Video: https://youtu.be/viDbhwmZSew
 - GitHub repo:  
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-None currently, will post after the video is available
+- Slides:
+- Graph Geeks: https://www.graphgeeks.org/
 
 ## About the Event
 Our talk will delve into the various facets of knowledge graphs, including their traditional uses for data integration, search, and discovery, as well as their modern applications in decision-making, analytics, and predictions. We will explore the sudden surge of interest in knowledge graphs and the interplay with AI trends. Additionally, we'll look beyond LLMs and RAG to gain a broader perspective on the role of knowledge graphs as we go forward in the data landscape. This session promises to provide a comprehensive understanding of why knowledge graphs are currently a hot topic in the tech industry.
@@ -39,7 +40,7 @@ Amy E. Hodler is graph advisor and consultant. With decades of commercial experi
 #OpenSource #GraphDatabases #KnowledgeGraphs
 
 ## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NbmdFJsnuuo" target="_blank"><img src="http://img.youtube.com/vi/NbmdFJsnuuo/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=viDbhwmZSew" target="_blank"><img src="http://img.youtube.com/vi/viDbhwmZSew/0.jpg"
 alt="Why Knowledge Graphs Are Hot Right Now" width="50%" /></a>
 
 ## Timestamps
