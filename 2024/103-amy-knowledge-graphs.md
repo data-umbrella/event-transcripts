@@ -12,7 +12,7 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- Slides:
+- Slides: https://github.com/data-umbrella/event-transcripts/blob/main/resources/knowledge-graphs.pdf
 - Graph Geeks: https://www.graphgeeks.org/
 
 ## About the Event
