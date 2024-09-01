@@ -5,7 +5,7 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/104-claire-best-practices-data-science-teams.md
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/104-clair-best-practices-data-science-teams.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/302967694
 - Video: 
 - GitHub repo:  
