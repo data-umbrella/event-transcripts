@@ -7,8 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/104-clair-best-practices-data-science-teams.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/302967694
-- Video: 
-- GitHub repo:  
+- Video: https://youtu.be/zIx6ueR2Zx4
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -41,7 +40,7 @@ Dr. Clair Sullivan is currently the Founder and CEO of Clair Sullivan and Associ
 #DataScience #DataCulture #EffectiveTeams #DataDriven
 
 ## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=viDbhwmZSew" target="_blank"><img src="http://img.youtube.com/vi/viDbhwmZSew/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zIx6ueR2Zx4" target="_blank"><img src="http://img.youtube.com/vi/zIx6ueR2Zx4/0.jpg"
 alt="Best Practices for Creating a Data Science Team" width="50%" /></a>
 
 ## Timestamps
