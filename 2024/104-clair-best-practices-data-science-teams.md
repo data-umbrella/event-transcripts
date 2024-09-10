@@ -12,7 +12,7 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- None
+- Slides: https://github.com/cj2001/data_umbrella_2024/blob/main/data%20umbrella%20sullivan%202024.pdf
 
 ## About the Event
 Most data projects fail, often without reaching production or delivering business outcomes. Many companies, in their pursuit to be data-driven, adopt an "upside-down approach," leading to wasted resources and no return on investment. Success hinges on four key elements: a strong data culture, the right problem, accurate data, and the right people.
