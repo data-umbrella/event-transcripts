@@ -14,7 +14,7 @@ https://www.meetup.com/data-umbrella
 - Repo: bit.ly/DUPolars (https://github.com/kimfetti/Conferences/tree/master/DataUmbrella_2024)
 - Slides: https://github.com/kimfetti/Conferences/blob/master/DataUmbrella_2024/DataUmbrella_2024_KFessel_Deck.pdf
 - Kimberly Fessel's YouTube: https://www.youtube.com/c/kimberlyfessel
-- 
+- To learn more about Rust, check out this video: https://youtu.be/7E8nLExn3WI
 
 ## About the Event
 Discover Polars, the high-performance DataFrame library revolutionizing data analysis in Python. Built on Rust, Polars offers unparalleled speed and efficiency, outperforming pandas, Dask, and even PySpark. Explore its innovative features like lazy evaluation, memory efficiency, and automatic multi-threading, designed to handle large datasets with ease.
