@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/105-kimberly-polars.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/302970786
-- Video: 
+- Video: https://youtu.be/5V_MvnwTVwc
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -43,11 +43,8 @@ Kimberly Fessel is a data scientist and the founder of Dr Kim Data. She and her 
 #DataScience #DataAnalysis
 
 
-## Video:  ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=zIx6ueR2Zx4" target="_blank"><img src="http://img.youtube.com/vi/zIx6ueR2Zx4/0.jpg"
+## Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=5V_MvnwTVwc" target="_blank"><img src="http://img.youtube.com/vi/5V_MvnwTVwc/0.jpg"
 alt="Polars for Data Analysis in Python" width="50%" /></a>
-
-## Timestamps
-[get from video]
 
 ## Transcript
