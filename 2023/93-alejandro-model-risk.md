@@ -33,8 +33,33 @@ Vega-Altair is a declarative visualization library for Python. Its simple, frien
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella introduction
+04:22 Alejandro begins talk
+05:53 Talk agenda / outline
+07:07 Part 1: model risk management for data science
+08:24 Model risk management in banking, regulations
+10:44 -- Input, Processing & Output; Stages: Initiation, Model life cycle
+13:09 -- Lines of Defense: 1 (model developers), 2 (model validation), 3 (audit)
+13:50 Model Risk for: Data Science, AI / ML; AI regulations, guidance (EU, NIST, UK, Indep)
+15:50 NIST: AI Risk Model Framework (RMF); TEVV (test, evaluation, verification, validation)
+17:52 Part 2: Story of Tyke and python libraries
+20:28 -- python libraries: ydata-profiling
+22:35 demo: Jupyter notebook (Colab); exploring data
+27:27 --python libraries: pycaret (how the model was created)
+29:45 --model comparisons by key metrics
+31:30 --SHAP analysis
+32:37 --python libraries: altair (graphing)
+36:14 Complex altair chart
+38:55 -- stack multiple charts
+40:39 Part 3: Conclusions
+43:54 Q: How does ydata-profiling compare with dabl or lux?
+44:15 Q: Is ydata-profiling a good replacement for pandas profiling?
+45:03 Q: Are there more opportunities for model risk management as a career?
+46:26 Q: For mathematicians / statisticians, should they use Python over R?
+49:15 Q: Can you share about your start-up, Adao?
+50:30 Q: Is pycaret used in developing cognitive models?
 ```
+
 https://github.com/data-umbrella/event-transcripts/issues/92
 
 ## About the Speaker
@@ -49,8 +74,5 @@ Alejandro Gomez is a mathematician, who has worked in the model risk management 
 ## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fx34LLGh2lI" target="_blank"><img src="http://img.youtube.com/vi/fx34LLGh2lI/0.jpg"
 alt="Model Risk Management Best Practices for Data Science" width="50%" /></a>
-
-## Timestamps
-[get from video]
 
 ## Transcript
