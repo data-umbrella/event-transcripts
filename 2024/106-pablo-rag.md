@@ -12,6 +12,9 @@ https://www.meetup.com/data-umbrella
 
 ## Resources
 - https://textualization.com/ragged/
+- GitHub project: https://github.com/Textualization/the-ragged-edge-box
+- Pablo's other talk on LLMs:  https://youtu.be/gP2gr0d0Q28, Solving NLP (Natural Language Processing) Tasks Using LLMs (Large Language Models) (Pablo Duboue)
+- This was Marc Laporte's talk, Build Your First Database Web App with Tiki:\ https://youtu.be/Jz0rXFnY05U
 
 ## About the Event
 One of the most popular embodiments of Generative AI are information retrieval (IR) augmented generation (RAG). Such systems use an information retrieval engine (based on semantic embeddings or keyword search) and then use a Large Language Model (LLM) to extract answers to a given query.
