@@ -11,7 +11,8 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- https://textualization.com/ragged/
+- Slides: https://github.com/data-umbrella/event-transcripts/blob/main/resources/RAGged_Edge_Box.pdf
+- Project: https://textualization.com/ragged/
 - GitHub project: https://github.com/Textualization/the-ragged-edge-box
 - Pablo's other talk on LLMs:  https://youtu.be/gP2gr0d0Q28, Solving NLP (Natural Language Processing) Tasks Using LLMs (Large Language Models) (Pablo Duboue)
 - This was Marc Laporte's talk, Build Your First Database Web App with Tiki:\ https://youtu.be/Jz0rXFnY05U
