@@ -7,7 +7,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/106-pablo-rag.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/303430325/
-- Video: 
+- Video: https://youtu.be/_fJFuL2pLvw
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
@@ -41,7 +41,7 @@ Dr. Duboue is an independent language technologist. His work focuses on applied 
 
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5V_MvnwTVwc" target="_blank"><img src="http://img.youtube.com/vi/5V_MvnwTVwc/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_fJFuL2pLvw" target="_blank"><img src="http://img.youtube.com/vi/_fJFuL2pLvw/0.jpg"
 alt="RAGged Edge Box: A Personal AI-Powered Document Search System" width="50%" /></a>
 
 ## Transcript
