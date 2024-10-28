@@ -19,7 +19,20 @@ Penpot is the first Open Source design and prototyping platform for product team
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella introduction
+05:25 Pablo begins talk
+07:25 talk agenda
+08:30 What is Penpot?
+11:35 Design freedom for product teams
+12:50 Penpot 2.0
+14:00 -- UI Design
+17:04 -- demo time
+20:46 -- New components system
+22:55 -- Research practices
+23:35 -- New components: demo
+30:03 -- second example of component swapping
+32:30 -- make a library in Penpot
+
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
