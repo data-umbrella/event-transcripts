@@ -1,4 +1,4 @@
-# Sam Miyamoto:  Introduction to Git
+# Sam Miyamoto: Introduction to Git
 
 ## Upcoming Events
 Join our Meetup group for more events!
