@@ -7,11 +7,11 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/108-sam-git.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/304521945
-- Video: 
+- Video: https://youtu.be/edCiPBn_dj8
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-
+- Slides: https://github.com/data-umbrella/event-transcripts/blob/main/resources/intro-to-git-slides.pdf
 
 ## About the Event
 Join us for an introductory session on Git, the quintessential version control software used by developers to collaborate and manage projects. Discover some fundamental concepts, explore its practical applications, and learn how to efficiently use both the command line and the Visual Studio Code graphical user interface (GUI). Whether you're a seasoned developer or just starting your coding journey, this webinar will equip you with essential skills.
@@ -34,7 +34,7 @@ Sam is a software engineer and civic tech enthusiast based in the Los Angeles, C
 
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=kPtUPe5Egak" target="_blank"><img src="http://img.youtube.com/vi/kPtUPe5Egak/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=edCiPBn_dj8" target="_blank"><img src="http://img.youtube.com/vi/edCiPBn_dj8/0.jpg"
 alt="Introduction to Git" width="50%" /></a>
 
 ## Transcript
