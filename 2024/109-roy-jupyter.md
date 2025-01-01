@@ -5,7 +5,7 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/109-jupyter-roy.md
+- Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/109-roy-jupyter.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/304917194/
 - Video: 
 - Transcriber:  ? [needs a transcriber]
