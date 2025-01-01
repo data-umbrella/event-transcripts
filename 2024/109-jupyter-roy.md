@@ -30,7 +30,7 @@ For the past several years, Roy has been working on CrossCompute, a distributed 
 
 - LinkedIn: https://www.linkedin.com/in/invisibleroads/
 
-#OpenSource #Jup[yter
+#OpenSource #Jupyter
 
 
 ## Video
