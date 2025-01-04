@@ -75,7 +75,4 @@ Mitzi Morris
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Rj33tjUomSU" target="_blank"><img src="http://img.youtube.com/vi/Rj33tjUomSU/0.jpg"
 alt="Lessons from COVID-19: Non-random Missing Data and Its Consequences" width="50%" /></a>
 
-## Timestamps
-[get from video]
-
 ## Transcript
