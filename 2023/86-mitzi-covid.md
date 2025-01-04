@@ -28,7 +28,40 @@ Using the Stan language and CmdStanR interface, together with a simulated datase
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Beryl introduces R-Ladies
+00:24 R-Ladies Overview begins (Agenda)
+00:42 What is R-Ladies?
+01:24 R-Ladies global chapter map
+02:00 R-Ladies NYC
+03:03 Getting involved with R-Ladies NYC, contact info
+04:02 Data Umbrella introduction
+08:45 Speaker introduction
+09:45 Mitzi begins talk
+11:24 Outline / agenda - paper discussion (Trangucci et al)
+12:50 COVID-19 in Michigan
+15:56 Michigan mortality rates March-October 2020 w/ disparities
+17:21 What’s the infection rate? 
+19:00 Discussing data missingness relating to demand for public health resources, under-resourced populations
+20:27 Missing data types (MCAR, MAR, NMAR)
+23:24 Survey data vocabulary / terminology (e.g. strata)
+26:24 Simulation Study Data + description of strata variables
+28:08 2010 Census Data for Wayne County, MI
+29:18 Simulated Dataset example
+31:14 Simulation Study Models (multiple imputation breakdown)
+33:30 Fig 1 - Model Bias for Disease Prevalence
+36:45 Fig 2 - Model Bias for Relative Risk
+38:52 Modeling Disease Prevalence
+40:44 Modeling Missingness
+45:00 Missingness independent of strata and justifying the Bayesian joint hierarchical model
+46:38 Priors for Model
+47:47 Priors for Likelihood; missingness varies by race and age-sex strata
+49:50 Theorem and Priors for Model 2.2 (conditions for the data)
+52:40 Model 2.3 - Adding geo-location
+52:49 Conclusion and thanks
+55:36 References; Q&A begins
+56:54 Q&A - How often does missing data go unaddressed?
+59:28 Q&A - Sampling weights or post-stratification
+1:02:45 Q&A - Request and context around longer tutorial, closing words
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
@@ -41,8 +74,5 @@ Mitzi Morris
 ## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Rj33tjUomSU" target="_blank"><img src="http://img.youtube.com/vi/Rj33tjUomSU/0.jpg"
 alt="Lessons from COVID-19: Non-random Missing Data and Its Consequences" width="50%" /></a>
-
-## Timestamps
-[get from video]
 
 ## Transcript
