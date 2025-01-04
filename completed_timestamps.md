@@ -1,5 +1,6 @@
 ## Videos with Completed Timestamps
 
+- [x] 86 [Mitzi, COVID](https://youtu.be/Rj33tjUomSU) --- [2023/86-mitzi-covid.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/86-mitzi-covid.md) (@samvmdev)
 - [x] 85 [Yellowbrick](https://youtu.be/62Vhv_et9WQ) --- [2023/85-kavengi-yellowbrick.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/85-kavengi-yellowbrick.md) (@reshamas) 
 - [x] 84 [Quarto](https://youtu.be/TnVgHE9LAiw) --- [2023/84-tom-quarto.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/84-tom-quarto.md) (@reshamas) 
 - [x] 83 [Vicuna, OS LLM](https://youtu.be/y5Qa5m1hKiA) --- [2023/83-ying-vicuna.md](https://github.com/data-umbrella/event-transcripts/blob/main/2023/83-ying-vicuna.md) (@Boadzie) 
