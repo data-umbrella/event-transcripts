@@ -7,11 +7,18 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2024/109-roy-jupyter.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/304917194/
-- Video: 
+- Video: https://youtu.be/ERbe2yfXmFY
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
 - https://jupyterlab.readthedocs.io/en/latest/extension/extension_dev.html
+- slides: https://slides.com/invisibleroads/make-your-own-jupyterlab-extension
+
+We have some other Jupyter presentations that complement this well:  
+- a) Jupyter Notebook and Data Analysis with Python:
+https://youtu.be/hc8-AhYBu08
+- b) Debugging in Python, in Jupyter Notebook:
+https://youtu.be/1b9fq7-xesI
 
 ## About the Event
 Make your own JupyterLab extension in this tutorial. JupyterLab is a free and open source, browser based integrated development environment (IDE) that is the successor to Jupyter Notebook. Designed from the core to be extensible, JupyterLab is itself an extension of the Jupyter framework. Since its release, open source developers have contributed hundreds of third party extensions (652 third-party extensions as of 2024-10-15).
@@ -24,8 +31,9 @@ JupyterLab began in 2015 thanks to a $6 million grant from the Leona M. and Harr
 ## Timestamps
 00:00 Help us add timestamps
 ```
+https://github.com/data-umbrella/event-transcripts/issues/92
 
-## About the Speaker
+## About the Speaker: Roy Hyunjin Han
 For the past several years, Roy has been working on CrossCompute, a distributed computing platform for deploying decision support tools. He is interested in infrastructure planning and hazard mitigation.
 
 - LinkedIn: https://www.linkedin.com/in/invisibleroads/
@@ -34,7 +42,7 @@ For the past several years, Roy has been working on CrossCompute, a distributed 
 
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=edCiPBn_dj8" target="_blank"><img src="http://img.youtube.com/vi/edCiPBn_dj8/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ERbe2yfXmFY" target="_blank"><img src="http://img.youtube.com/vi/ERbe2yfXmFY/0.jpg"
 alt="Make Your Own JupyterLab Extension" width="50%" /></a>
 
 ## Transcript
