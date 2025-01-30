@@ -30,7 +30,7 @@ JupyterLab began in 2015 thanks to a $6 million grant from the Leona M. and Harr
 ## Timestamps
 ```
 00:00 About Data Umbrella
-03:15 About the presentation and presenter
+03:15 About the Presentation and Presenter
 04:00 CrossCompute
 04:25 CrossCompute Product History
 05:33 Sandbox Tools for Testing JupyterLab Extensions and Extension Development
@@ -47,9 +47,9 @@ JupyterLab began in 2015 thanks to a $6 million grant from the Leona M. and Harr
 17:05 JupyterLab Basics: Vim Key Bindings for JupyterLab with jupyterlab-vim
 17:33 JupyterLab Basics: Interactive Matplotlib Plots for JupyterLab with ipympl
 18:21 JupyterLab Extensions: Plotting (ipympl, ipydatagrid, ipywidgets, pythreejs, mapboxgl-jupyter, ipyleaflet, pydeck, jupyter_bokeh)
-18:31 JupyterLab Extensions: Plotting spreadsheet data with ipydatagrid
+18:31 JupyterLab Extensions: Plotting Spreadsheet Data with ipydatagrid
 19:47 JupyterLab Extensions: Publishing (spellchecker, jupyterlab-latex, jupyterbook, jupyterlab-crosscompute)
-20:15 JupyterLab Extensions: Publishing web-based tools with jupyterlab-crosscompute
+20:15 JupyterLab Extensions: Publishing Web-Based Tools with jupyterlab-crosscompute
 21:07 JupyterLab Extensions: Code (jupyterlab-lsp, nbdime, jupytext, nbqa, search-replace, jupyterlab-vim, jupyterlab-variableInspector, jupyter-resource-usage, gather, jupyter-ai)
 21:15 JupyterLab Extensions: Code using Supercharged Tooltips with jupyterlab-lsp
 22:27 JupyterLab Extensions: Code Collection with gather
