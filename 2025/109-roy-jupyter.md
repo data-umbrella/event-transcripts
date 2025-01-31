@@ -31,21 +31,20 @@ JupyterLab began in 2015 thanks to a $6 million grant from the Leona M. and Harr
 ```
 00:00 About Data Umbrella
 03:15 About the Presentation and Presenter
-04:00 CrossCompute
-04:25 CrossCompute Product History
+04:00 About CrossCompute
 05:33 Sandbox Tools for Testing JupyterLab Extensions and Extension Development
 06:12 Overview
 06:50 Brief History of the Jupyter Project
 07:40 Jupyter Notebook vs JupyterLab
 08:41 Cool Features of JupyterLab that You Might Not Know
 10:25 JupyterLab Basics: Installation, Essential Keyboard Shortcuts
-12:20 JupyterLab Basics: Notebook Pre-Commit Hooks for Clearing Outputs
-13:39 JupyterLab Basics: Notebook Pre-Commit Hooks for Linting using nbqa
-14:28 JupyterLab Basics: Notebook Diffs to Compare Changes using nbdime
-15:12 JupyterLab Basics: Activating the JupyterLab Debugger kernel using xeus-python
-16:22 JupyterLab Basics: Try Untrusted JupyterLab Extensions in a Sandbox Environment
-17:05 JupyterLab Basics: Vim Key Bindings for JupyterLab with jupyterlab-vim
-17:33 JupyterLab Basics: Interactive Matplotlib Plots for JupyterLab with ipympl
+12:20 -- Notebook Pre-Commit Hooks for Clearing Outputs
+13:39 -- Notebook Pre-Commit Hooks for Linting using nbqa
+14:28 -- Notebook Diffs to Compare Changes using nbdime
+15:12 -- Activating the JupyterLab Debugger kernel using xeus-python
+16:22 -- Try Untrusted JupyterLab Extensions in a Sandbox Environment
+17:05 -- Vim Key Bindings for JupyterLab with jupyterlab-vim
+17:33 -- Interactive Matplotlib Plots for JupyterLab with ipympl
 18:21 JupyterLab Extensions: Plotting (ipympl, ipydatagrid, ipywidgets, pythreejs, mapboxgl-jupyter, ipyleaflet, pydeck, jupyter_bokeh)
 18:31 JupyterLab Extensions: Plotting Spreadsheet Data with ipydatagrid
 19:47 JupyterLab Extensions: Publishing (spellchecker, jupyterlab-latex, jupyterbook, jupyterlab-crosscompute)
