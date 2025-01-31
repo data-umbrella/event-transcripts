@@ -66,7 +66,7 @@ JupyterLab began in 2015 thanks to a $6 million grant from the Leona M. and Harr
 38:47 -- Add Button to Call the Server API
 39:05 -- Write a View for the Server API
 39:43 -- Where to Find the Walkthrough Code
-40:55 -- Search Standard Extensions with vim $(grep -InR "YOUR QUERY" * -l)
+40:55 -- Search Standard Extensions for Hints with vim $(grep -InR "YOUR QUERY" * -l)
 42:50 Resources
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
