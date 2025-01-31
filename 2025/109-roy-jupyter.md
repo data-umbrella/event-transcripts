@@ -39,7 +39,7 @@ JupyterLab began in 2015 thanks to a $6 million grant from the Leona M. and Harr
 08:41 Cool Features of JupyterLab that You Might Not Know
 10:25 JupyterLab Installation, Keyboard Shortcuts
 12:20 -- Pre-Commit Hooks for Clearing Outputs and Linting
-14:28 -- Compare Changes in Notebooks
+14:28 -- Notebook Diffing
 15:12 -- Debugger Kernel
 16:22 -- Sandbox Environment for Testing Extensions
 18:21 -- Plotting (8 packages)
