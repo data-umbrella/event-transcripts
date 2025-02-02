@@ -19,6 +19,7 @@ This session explores the impact of GDPR and the upcoming EU AI Act on data scie
 ```
 ## Timestamps
 00:00 Data Umbrella introduction
+04:17 Cecelia begins presentation
 10:00 Help us add timestamps
 ```
 
