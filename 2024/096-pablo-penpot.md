@@ -41,7 +41,7 @@ Penpot is the first Open Source design and prototyping platform for product team
 58:11 Q: What makes Penpot stand out from competitors such as Webflow?
 1:00:48 Q: Can you talk a little bit about Penpot and SVGs?
 1:03:18 Q: What are your thoughts on the need for developers to learn CSS frameworks like tailwind and bootstrap?
-1:06:43 Q: Are there any GPT intergrations planned?
+1:06:43 Q: Are there any GPT integrations planned?
 1:09:06 Q: Is Penpot a good option for beginner designers?
 1:10:30 Q: Why did you choose to build Penpot the open source way?
 1:12:25 Thank You!
