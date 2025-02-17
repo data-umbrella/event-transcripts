@@ -20,12 +20,23 @@ The benefits of Zenodo include
 - Preserving knowledge: deleted website content (Research shows 25% of web pages posted between 2013 and 2023 have vanished.)
 - Sharing content accelerates research >> supporting Open Science and reproducibility principles 
 
-## Timestamps
+## Timestamps for 110a (full video)
 
 ```
 00:00 Introduce Esther
-10:00 Help us add timestamps
-
+01:33 Why use Zenodo?
+02:37 Preserve research outputs
+03:07 What is a DOI, Digital Object Identifier
+04:24 Make research outputs citable!
+04:51 Disclaimer of “Data available upon request” does not mean data is obtainable
+06:52 All the reasons to use Zenodo
+08:30 A background on Zenodo (history, location, storage types)
+10:34 Zenodo is open source, a general data repository, 
+11:10 FAIR Principles: Findable, Interoperable, Accessible, Reusable
+12:34 Licenses
+15:32 Using Zenodo over supplementary materials
+18:50 How do I use Zenodo?
+20:20 Start step-by-step walk through of Zenodo: how to add (or upload) a file
 ```
 
 https://github.com/data-umbrella/event-transcripts/issues/92
