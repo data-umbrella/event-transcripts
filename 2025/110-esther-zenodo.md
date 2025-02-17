@@ -39,6 +39,13 @@ The benefits of Zenodo include
 20:20 Start step-by-step walk through of Zenodo: how to add (or upload) a file
 ```
 
+## Timestamps for 110b (20-minute tutorial)
+
+```
+00:00 xxx
+00:10 xxx
+```
+
 https://github.com/data-umbrella/event-transcripts/issues/92
 
 ## About the Speaker: Esther Plomp
