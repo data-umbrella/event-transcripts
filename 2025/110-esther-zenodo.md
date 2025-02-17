@@ -39,7 +39,7 @@ The benefits of Zenodo include
 20:20 Start step-by-step walk through of Zenodo: how to add (or upload) a file
 ```
 
-## Timestamps for 110b (20-minute tutorial)
+## Timestamps for 110b (30-minute tutorial)
 
 ```
 00:00 xxx
