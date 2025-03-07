@@ -24,7 +24,7 @@ These systems require a large amount of computation and are usually implemented 
 
 In this talk we will present The RAGged Edge Box project in which basic embedding systems and small local LLMs are packaged inside a multi-platform virtual machine (VirtualBox). The system provides a Web interface that runs locally and allows access to the RAG functionality in a completely private manner. The neural networks run on a ONNX runtime and do not require a GPU. RAG code is implemented in PHP and is easy to modify, requiring a much smaller execution environment than a Python alternative.
 
-
+```
 ## Timestamps
 00:00 Introduction by Reshama
 04:40 Pablo begins presentation
@@ -67,6 +67,7 @@ In this talk we will present The RAGged Edge Box project in which basic embeddin
 1:00:31 Contributing to the project
 1:01:00 Other announcements and conclusion
 1:04:20 Thank you!
+```
 
 https://github.com/data-umbrella/event-transcripts/issues/92
 
