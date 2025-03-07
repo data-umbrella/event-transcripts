@@ -48,7 +48,7 @@ In this talk we will present The RAGged Edge Box project in which basic embeddin
 28:28 Privacy in RAGged 
 28:58 Technical sovereignty
 29:47 Against planned obsolescence
-32:40 RAGged Edge Box Architecture (GitHub walkthrough)
+32:40 RAGged Edge Box Architecture (GitHub walk through)
 41:55 What is enabling technologies become RAGged Edge Box
 42:00 Open Neural Network Exchange
 43:52 LLAMA.CPP
