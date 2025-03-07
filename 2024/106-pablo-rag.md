@@ -33,8 +33,8 @@ In this talk we will present The RAGged Edge Box project in which basic embeddin
 08:40 Attendee Personas
 10:59 Talk agenda
 11:40 AI concepts in RAGged
-11:52 What is Retrieval Augmented Generation(RAG)?
-13:15 What are Large Language Models(LLMs)?
+11:52 What is Retrieval Augmented Generation (RAG)?
+13:15 What are Large Language Models (LLMs)?
 14:34 What are embeddings?
 15:23 Embedding issues
 17:28 Retrieval Augmented Generation(RAG) concepts
@@ -46,23 +46,24 @@ In this talk we will present The RAGged Edge Box project in which basic embeddin
 24:35 Using prompts with LLMs
 26:10 RAGged Edge Box
 28:28 Privacy in RAGged 
-28:58 Technical sovereinity
-29:47 Against planned obsolensce
-32:40 RAGged Edge Box Architrcture (GitHub walkthrough)
+28:58 Technical sovereignty
+29:47 Against planned obsolescence
+32:40 RAGged Edge Box Architecture (GitHub walkthrough)
 41:55 What is enabling technologies become RAGged Edge Box
 42:00 Open Neural Network Exchange
 43:52 LLAMA.CPP
 45:00 Why RAGged Edge Box uses PHP
 47:16 PHP semantic search classes
-48:37 Sentsnce Transformers(Embeddings)
-48:59 Q: How are the model updated done?
+48:37 Sentence Transformers (Embeddings)
+48:59 Q: How are the model updates done?
 49:05 A: there are no current model updates at the moment. The model should run offline so no automatic online downloads of updates is supported but it is in the roadmap.
 50:11 Q: Which vector database is used?
-50:18 A: SQLite is the vector database used and the embedding search is done using SQLite3 vector Search (FAISS)extension.
-51:32 Reverse engineering Huggingface components
+50:18 A: SQLite is the vector database used and the embedding search is done using SQLite3 vector Search (FAISS) extension.
+51:32 Reverse engineering Hugging Face components
 52:45 Extending RAGged Edge Box
-53:53 Virtual machine packaging: genrating virtual box images programmatically
-57:56 RAGged Edge Box as a platform'58:38 Current status of the system
+53:53 Virtual machine packaging: generating virtual box images programmatically
+57:56 RAGged Edge Box as a platform
+58:38 Current status of the system
 1:00:31 Contributing to the project
 1:01:00 Other announcements and conclusion
 1:04:20 Thank you!
