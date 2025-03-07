@@ -68,7 +68,6 @@ In this talk we will present The RAGged Edge Box project in which basic embeddin
 1:01:00 Other announcements and conclusion
 1:04:20 Thank you!
 
-
 https://github.com/data-umbrella/event-transcripts/issues/92
 
 
