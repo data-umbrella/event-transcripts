@@ -31,12 +31,23 @@ The benefits of Zenodo include
 04:51 Disclaimer of “Data available upon request” does not mean data is obtainable
 06:52 All the reasons to use Zenodo
 08:30 A background on Zenodo (history, location, storage types)
-10:34 Zenodo is open source, a general data repository, 
+10:34 Zenodo is open source, a general data repository
 11:10 FAIR Principles: Findable, Interoperable, Accessible, Reusable
 12:34 Licenses
 15:32 Using Zenodo over supplementary materials
 18:50 How do I use Zenodo?
 20:20 Start step-by-step walk through of Zenodo: how to add (or upload) a file
+29:15 Q: If you were to upload a paper, dataset and code, would they have the same or separate Digital Object Identifier (DOI)?
+43:30 Viewing, editing and making changes to your uploads
+45:50 Publishing and versioning uploaded files
+50:40 Zenodo Sandbox: place for testing uploads (https://help.zenodo.org/docs/get-started/quickstart/, https://sandbox.zenodo.org/) 
+52:02 How to use Zenodo and GitHub
+1:01:42 Using Zenodo in research articles
+1:04:29 Using Zenodo to share presentations
+1:11:50 Resources
+1:12:48 Q: Where can we find the images/illustrations used in your presentation?
+1:16:16 Q: How does Zenodo prevent people from uploading spam?
+1:17:25 Thank you!
 ```
 
 ## Timestamps for 110b (30-minute tutorial)
