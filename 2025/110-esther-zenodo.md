@@ -45,8 +45,8 @@ The benefits of Zenodo include
 1:01:42 Using Zenodo in research articles
 1:04:29 Using Zenodo to share presentations
 1:11:50 Resources
-1:12:48 Q & A: Where can we find the images/illustrations used in your presentation?
-1:16:16 Q & A: How does Zenodo prevent people from uploading spam?
+1:12:48 Q: Where can we find the images/illustrations used in your presentation?
+1:16:16 Q: How does Zenodo prevent people from uploading spam?
 1:17:25 Thank you!
 ```
 
