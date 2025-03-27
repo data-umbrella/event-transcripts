@@ -37,6 +37,17 @@ The benefits of Zenodo include
 15:32 Using Zenodo over supplementary materials
 18:50 How do I use Zenodo?
 20:20 Start step-by-step walk through of Zenodo: how to add (or upload) a file
+29:15 Q & A: If you ewere to upload a paper, dataset and code, what they have the same or separate Digital Object Identifier (DOI)?
+43:30 Viewing, editing and making changes to your uploads
+45:50 Publishing and versioning uploaded files
+50:40 Zenodo Sandbox
+52:02 How to use Zenodo and GitHub
+1:01:42 Using Zenodo in research articles
+1:04:29 Using Zenodo to share presentations
+1:11:50 Resources
+1:12:48 Q & A: Where can we find the images/illustrations used in your presentation?
+1:16:16 Q & A: How does Zenodo prevent people from uploading spam?
+1:17:25 Thank you!
 ```
 
 ## Timestamps for 110b (30-minute tutorial)
