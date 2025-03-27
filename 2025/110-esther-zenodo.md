@@ -31,7 +31,7 @@ The benefits of Zenodo include
 04:51 Disclaimer of “Data available upon request” does not mean data is obtainable
 06:52 All the reasons to use Zenodo
 08:30 A background on Zenodo (history, location, storage types)
-10:34 Zenodo is open source, a general data repository, 
+10:34 Zenodo is open source, a general data repository
 11:10 FAIR Principles: Findable, Interoperable, Accessible, Reusable
 12:34 Licenses
 15:32 Using Zenodo over supplementary materials
