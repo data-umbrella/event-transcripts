@@ -40,7 +40,7 @@ The benefits of Zenodo include
 29:15 Q & A: If you ewere to upload a paper, dataset and code, what they have the same or separate Digital Object Identifier (DOI)?
 43:30 Viewing, editing and making changes to your uploads
 45:50 Publishing and versioning uploaded files
-50:40 Zenodo Sandbox
+50:40 Zenodo Sandbox: place for testing uploads (https://help.zenodo.org/docs/get-started/quickstart/, https://sandbox.zenodo.org/) 
 52:02 How to use Zenodo and GitHub
 1:01:42 Using Zenodo in research articles
 1:04:29 Using Zenodo to share presentations
