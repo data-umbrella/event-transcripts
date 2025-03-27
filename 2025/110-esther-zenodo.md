@@ -37,7 +37,7 @@ The benefits of Zenodo include
 15:32 Using Zenodo over supplementary materials
 18:50 How do I use Zenodo?
 20:20 Start step-by-step walk through of Zenodo: how to add (or upload) a file
-29:15 Q & A: If you ewere to upload a paper, dataset and code, what they have the same or separate Digital Object Identifier (DOI)?
+29:15 Q: If you were to upload a paper, dataset and code, would they have the same or separate Digital Object Identifier (DOI)?
 43:30 Viewing, editing and making changes to your uploads
 45:50 Publishing and versioning uploaded files
 50:40 Zenodo Sandbox: place for testing uploads (https://help.zenodo.org/docs/get-started/quickstart/, https://sandbox.zenodo.org/) 
