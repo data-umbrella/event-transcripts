@@ -7,6 +7,9 @@
 - GitHub repo:   N/A
 - Transcriber:  ? [needs a transcriber]
 
+## Blog
+https://blog.scikit-learn.org/community/pull-request/
+
 ## Resources
 - Slides:  https://thomasjpfan.github.io/data-umbrella-2021-reviewing-prs/#/
 
