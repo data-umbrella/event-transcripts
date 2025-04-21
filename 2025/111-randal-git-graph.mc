@@ -5,7 +5,7 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- Video: https://youtu.be/eChOfh8t04k
+- Video: https://youtu.be/VJetLZdDu_8
 - VSC Git Graph extension: https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
 
 ## About the Event
