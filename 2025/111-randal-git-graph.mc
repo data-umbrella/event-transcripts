@@ -23,6 +23,7 @@ https://github.com/data-umbrella/event-transcripts/issues/92
 ## About the Speaker: Randal Schwartz
 Randal L. Schwartz (Google Developer Expert on Dart and Flutter) talks about Google's Dart Language and Flutter SDK for Mobile (iOS and Android), Desktop (Windows, Macos, Linux), Web, and Fuchsia.
 
+- Website: http://www.stonehenge.com/merlyn/
 - LinkedIn: https://www.linkedin.com/in/randalschwartz/
 - GitHub: https://github.com/RandalSchwartz
 
