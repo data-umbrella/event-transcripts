@@ -6,6 +6,7 @@ https://www.meetup.com/data-umbrella
 
 ## Key Links
 - Video: https://youtu.be/eChOfh8t04k
+- VSC Git Graph extension: https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
 
 ## About the Event
 Git Graph is a Visual Studio Code extension that displays a graphical view of a repository's commit history.
@@ -20,6 +21,7 @@ Git Graph is a Visual Studio Code extension that displays a graphical view of a 
 https://github.com/data-umbrella/event-transcripts/issues/92
 
 ## About the Speaker: Randal Schwartz
+Randal L. Schwartz (Google Developer Expert on Dart and Flutter) talks about Google's Dart Language and Flutter SDK for Mobile (iOS and Android), Desktop (Windows, Macos, Linux), Web, and Fuchsia.
 
 - LinkedIn: https://www.linkedin.com/in/randalschwartz/
 - GitHub: https://github.com/RandalSchwartz
