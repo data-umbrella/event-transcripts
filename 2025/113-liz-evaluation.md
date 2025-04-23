@@ -15,9 +15,8 @@ https://www.meetup.com/data-umbrella
 
 
 ## About the Event
-This session is a practical introduction to the field of program evaluation, led by Liz DiLuzio, founder of Evaluation + Learning Consulting. We'll cover what evaluation is, how it differs from research, and the 
-tools, methods, and metrics used to assess impact. You'll see examples from nonprofits and workforce programs, and learn about career paths in evaluation for data analysts and researchers. We'll also discuss how 
-evaluation relates to equity, nonprofits, and grantmaking. Suitable for those new to evaluation or considering a career shift.
+This session is a practical introduction to the field of program evaluation. We'll cover what evaluation is, how it differs from research, and the 
+tools, methods, and metrics used to assess impact. You'll see examples from nonprofits and workforce programs, and learn about career paths in evaluation for data analysts and researchers. We'll also discuss how evaluation relates to equity, nonprofits, and grantmaking. Suitable for those new to evaluation or considering a career shift.
 
 
 ## Timestamps
