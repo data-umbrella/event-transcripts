@@ -53,8 +53,14 @@ The benefits of Zenodo include
 ## Timestamps for 110b (30-minute tutorial)
 
 ```
-00:00 xxx
-00:10 xxx
+00:00 Zenodo home page overview
+00:35 Versioning in Zenodo
+03:20 How to sign up/sign in to Zenodo
+04:17 Uploading files in Zenodo
+08:53 Q: If you were to upload a paper, dataset and code, would they have the same or separate Digital Object Identifier (DOI)?
+15:28 Filling in the optional fields(language, keywords etc) to your uploads
+22:39 Viewing, editing and making changes to your uploads
+25:14 Publishing and versioning uploaded files
 ```
 
 https://github.com/data-umbrella/event-transcripts/issues/92
