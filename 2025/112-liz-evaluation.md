@@ -1,5 +1,8 @@
 # Using Data for Good: How Evaluation Powers Mission-Driven Work (Elizabeth DiLuzio)
 
+## Alternate Titles
+- Exploring a Career in Evaluation & Learning (Liz DiLuzio)
+
 ## Upcoming Events
 Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
@@ -7,7 +10,7 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2025/113-liz_evaluation.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/307247310/
-- Video:
+- Video: https://youtu.be/DM7f4nz6uAs
 - Transcriber: ? [needs a transcriber]
 
 
@@ -38,7 +41,7 @@ train, bicycle, or car exploring some new corner of the world with her husband a
 
 #DataForSocialImpact #DataScience
 
-## Video ** NEED TO UPDATE **
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ERbe2yfXmFY" target="_blank"><img src="http://img.youtube.com/vi/ERbe2yfXmFY/0.jpg" alt="Using Data for Good: How Evaluation Powers Mission-Driven Work" width="50%" /></a>
+## Video DM7f4nz6uAs
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DM7f4nz6uAs" target="_blank"><img src="http://img.youtube.com/vi/DM7f4nz6uAs/0.jpg" alt="Using Data for Good: How Evaluation Powers Mission-Driven Work" width="50%" /></a>
 
 ## Transcript
