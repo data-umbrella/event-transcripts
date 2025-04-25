@@ -16,8 +16,8 @@ https://www.meetup.com/data-umbrella
 
 ## Resources
 - Intro to Evaluation workshop (paid): https://community.evallearn.com/plans/1529603?bundle_token=fb079779aa3f2ac7d3068f9199163a86&utm_source=manual
-- Website: https://community.evallearn.com/about
-- 
+
+
 ## About the Event
 This session is a practical introduction to the field of program evaluation. We'll cover what evaluation is, how it differs from research, and the 
 tools, methods, and metrics used to assess impact. You'll see examples from nonprofits and workforce programs, and learn about career paths in evaluation for data analysts and researchers. We'll also discuss how evaluation relates to equity, nonprofits, and grantmaking. Suitable for those new to evaluation or considering a career shift.
@@ -39,6 +39,8 @@ train, bicycle, or car exploring some new corner of the world with her husband a
 
 - LinkedIn: https://www.linkedin.com/in/ediluzio/
 - Twitter: https://x.com/lizdiluzio
+- Website: https://community.evallearn.com/about
+- Evallearn website: https://evallearn.com/
 
 #DataForSocialImpact #DataScience
 
