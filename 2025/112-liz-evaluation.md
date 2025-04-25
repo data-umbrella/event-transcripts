@@ -15,7 +15,7 @@ https://www.meetup.com/data-umbrella
 
 
 ## Resources
-
+- Intro to Evaluation workshop (paid): https://community.evallearn.com/plans/1529603?bundle_token=fb079779aa3f2ac7d3068f9199163a86&utm_source=manual
 
 ## About the Event
 This session is a practical introduction to the field of program evaluation. We'll cover what evaluation is, how it differs from research, and the 
