@@ -16,7 +16,7 @@ https://www.meetup.com/data-umbrella
 
 ## Resources
 - Intro to Evaluation workshop (paid): https://community.evallearn.com/plans/1529603?bundle_token=fb079779aa3f2ac7d3068f9199163a86&utm_source=manual
-
+- Slides: get link from Liz after uploading to Zenodo
 
 ## About the Event
 This session is a practical introduction to the field of program evaluation. We'll cover what evaluation is, how it differs from research, and the 
@@ -44,7 +44,7 @@ train, bicycle, or car exploring some new corner of the world with her husband a
 
 #DataForSocialImpact #DataScience
 
-## Video DM7f4nz6uAs
+## Video 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=DM7f4nz6uAs" target="_blank"><img src="http://img.youtube.com/vi/DM7f4nz6uAs/0.jpg" alt="Using Data for Good: How Evaluation Powers Mission-Driven Work" width="50%" /></a>
 
 ## Transcript
