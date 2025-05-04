@@ -20,6 +20,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 <table>
   <tbody>
     <tr>
+      <td align="center" valign="top" width="16.66%"><a href="https://www.smiyamoto.dev/"><img src="https://avatars.githubusercontent.com/u/29167127?v=4?s=100" width="100px;" alt="Sam"/><br /><sub><b>Sam</b></sub></a><br /><a href="#doc-samvmdev" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://forcrowd.org"><img src="https://avatars.githubusercontent.com/u/1284601?v=4?s=100" width="100px;" alt="Serkan Holat"/><br /><sub><b>Serkan Holat</b></sub></a><br /><a href="#promotion-coni2k" title="Promotion">📣</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/sandyweng"><img src="https://avatars.githubusercontent.com/u/66491502?v=4?s=100" width="100px;" alt="sandyweng"/><br /><sub><b>sandyweng</b></sub></a><br /><a href="#promotion-sandyweng" title="Promotion">📣</a></td>
     </tr>
