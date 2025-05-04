@@ -5,12 +5,19 @@
 </p>
 
 # Event Transcripts
-
-## [Videos](https://www.youtube.com/c/DataUmbrella/videos)
+ - [Videos](https://www.youtube.com/c/DataUmbrella/videos)
 Subscribe to our YouTube [Data Umbrella channel](https://www.youtube.com/c/DataUmbrella/videos).
-
-## [Contributing Guide](CONTRIBUTING.md)
+- [Contributing Guide](CONTRIBUTING.md)
 Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing / transcribing work.
+- [Event Listings](event-listings.md) (Note: needs updating)
 
-## [Event Listings](event-listings.md) (Note: needs updating)
+## Contributors
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
