@@ -28,6 +28,15 @@
       "contributions": [
         "promotion"
       ]
+    },
+    {
+      "login": "samvmdev",
+      "name": "Sam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29167127?v=4",
+      "profile": "https://www.smiyamoto.dev/",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
