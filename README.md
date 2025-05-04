@@ -1,5 +1,8 @@
 [![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)](https://czi.co/EOSS)
 
+![All Contributors](https://img.shields.io/github/all-contributors/data-umbrella/event-transcripts?color=ee8449&style=flat-square)
+
+
 <p >
  <a href="https://www.dataumbrella.org" target="_blank"> <img src="images/full_logo_transparent.png" height="30%" width="30%" /> </a>
 </p>
