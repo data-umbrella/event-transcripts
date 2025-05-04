@@ -1,9 +1,9 @@
-[![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)](https://czi.co/EOSS) ![All Contributors](https://img.shields.io/github/all-contributors/data-umbrella/event-transcripts?color=ee8449&style=flat-square)
-
+[![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)](https://czi.co/EOSS) 
 
 <p >
- <a href="https://www.dataumbrella.org" target="_blank"> <img src="images/full_logo_transparent.png" height="30%" width="30%" /> </a>
+ <a href="https://www.dataumbrella.org" target="_blank"> <img src="images/full_logo_transparent.png" height="20%" width="20%" /> </a>
 </p>
+
 
 # Event Transcripts
  - [Videos](https://www.youtube.com/c/DataUmbrella/videos)
@@ -13,7 +13,7 @@ Review our [Contributing Instructions](CONTRIBUTING.md) before beginning editing
 - [Event Listings](event-listings.md) (Note: needs updating)
 
 ## Contributors
-
+![All Contributors](https://img.shields.io/github/all-contributors/data-umbrella/event-transcripts?color=ee8449&style=flat-square)
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
