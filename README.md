@@ -1,6 +1,4 @@
-[![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)](https://czi.co/EOSS)
-
-![All Contributors](https://img.shields.io/github/all-contributors/data-umbrella/event-transcripts?color=ee8449&style=flat-square)
+[![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)](https://czi.co/EOSS) ![All Contributors](https://img.shields.io/github/all-contributors/data-umbrella/event-transcripts?color=ee8449&style=flat-square)
 
 
 <p >
