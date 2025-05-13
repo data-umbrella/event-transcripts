@@ -26,7 +26,28 @@ tools, methods, and metrics used to assess impact. You'll see examples from nonp
 ## Timestamps
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella Intro
+02:50 Liz introduces herself
+05:24 About Evaluation and Learning Consulting
+07:41 What is evaluation?
+10:00 Project Case Study 1: Wyckoff Heights Medical Centre
+12:47 Project Case Study 2: Stanford University
+16:00 Project Case Study 3: Afterschool Alliance
+19:38 Evaluation + Analysis: Difference between the two roles
+21:50 Skills needed to start out in evaluation and analysis
+23:00 Tools used in evaluation projects
+26:41 Common terms in evaluation
+32:28 Why the evaluation field is growing
+34:51 Job prospects for analysts
+40:36 Qualities of a good analyst
+43:39 How to make yourself marketable
+45:10 Introduction to evaluation for analysts workshop
+47:10 Resources
+48:00 Q: Do you ever get cases where you are called to do evaluation after data has been collected?
+48:59 Q: Are there some specific metrics that come up over and over?
+55:26 Q: Can you explain what a logic model is?
+1:00:33 Q: Have you done evaluation for learning programs such as online courses and do you have any overarching shares from that?
+1:02:20 Thank you!!
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
