@@ -34,8 +34,8 @@ tools, methods, and metrics used to assess impact. You'll see examples from nonp
 12:47 Project Case Study 2: Stanford University
 16:00 Project Case Study 3: Afterschool Alliance
 19:38 Evaluation + Analysis: Difference between the two roles
-21:50 Skills needed to start out in eveluation and analysis
-23:00 Tools used in evaluation Projects
+21:50 Skills needed to start out in evaluation and analysis
+23:00 Tools used in evaluation projects
 26:41 Common terms in evaluation
 32:28 Why the evaluation field is growing
 34:51 Job prospects for analysts
@@ -46,7 +46,7 @@ tools, methods, and metrics used to assess impact. You'll see examples from nonp
 48:00 Q: Do you ever get cases where you are called to do evaluation after data has been collected?
 48:59 Q: Are there some specific metrics that come up over and over?
 55:26 Q: Can you explain what a logic model is?
-1:00:33 Q: Have you done eveluation for learning programs such as online courses and do you have any overaching shares from that?
+1:00:33 Q: Have you done evaluation for learning programs such as online courses and do you have any overarching shares from that?
 1:02:20 Thank you!!
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
