@@ -31,6 +31,6 @@ Randal L. Schwartz (Google Developer Expert on Dart and Flutter) talks about Goo
 
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=eChOfh8t04k" target="_blank"><img src="http://img.youtube.com/vi/eChOfh8t04k/0.jpg" alt="Intro to Git Graph" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VJetLZdDu_8" target="_blank"><img src="http://img.youtube.com/vi/VJetLZdDu_8/0.jpg" alt="Intro to Git Graph" width="50%" /></a>
 
 ## Transcript
