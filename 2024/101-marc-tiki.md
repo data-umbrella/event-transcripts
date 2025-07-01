@@ -25,8 +25,18 @@ This presentation will be a demo of how a power user can create a database web a
 
 ```
 ## Timestamps
-00:00 Data Umbrella introduction
-10:00 Help us add timestamps
+00:01 Introduction to Data Umbrella and the Team
+03:58 Marc’s Story & Why Tiki Trackers Matter
+13:05 Live Demo: Building a To-Do List App in Tiki
+16:29 Linking Emails with Tasks
+19:08 Using Pivot Tables for Data Visualization
+20:38 Task Automation Features
+39:34 Admin Panel Overview & Customization Options
+43:30 Q&A: Integrations, Barcodes, LLMs
+47:11 Importing & Exporting Data (CSV)
+56:03 The Tiki Community & Africa Program
+59:14 Security, Cloud Hosting, and Installation
+01:13:27 Final Questions & Wrap-Up
 ```
 
 https://github.com/data-umbrella/event-transcripts/issues/92
