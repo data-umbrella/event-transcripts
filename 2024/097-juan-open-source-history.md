@@ -12,7 +12,7 @@ https://www.meetup.com/data-umbrella
 - Transcriber:  ? [needs a transcriber]
 
 ## Resources
-- Slides: https://speakerdeck.com/astrojuanlu/a-briefer-history-of-open-source
+- Slides: https://zenodo.org/records/15845513
 - https://opensource.org/
 - https://sfconservancy.org/
 - https://wiki.coopcycle.org/en:license
