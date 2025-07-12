@@ -6,7 +6,9 @@ https://www.meetup.com/data-umbrella
 
 ## Key Links
 - Slides: https://zenodo.org/records/14852437
-- Video: https://youtu.be/eChOfh8t04k
+- Video Part 1 [110a]: a full tutorial, Intro to Zenodo: Advancing Open Science (https://youtu.be/eChOfh8t04k)
+- Video Part 2 [110b]: step-by-step tutorial: Upload research files (documents, datasets, code, etc) to Zenodo (https://youtu.be/-miwX7EsaQI)
+- Video Part 3 [110c]: What are FAIR Principles? (https://youtu.be/ed_lrNGF_70)
 
 ## About the Event
 Zenodo is a general data repository where any research output (data, presentations, research articles, software, and much more!) can be shared and preserved for the long term, increasing their visibility and impact.
