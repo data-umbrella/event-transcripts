@@ -31,8 +31,7 @@ NumPy is a fundamental, open-source Python library for N-dimensional array progr
 https://github.com/data-umbrella/event-transcripts/issues/92
 
 ## About the Speaker
-Mukulika is a maintainer for the NumPy documentation and has been involved in the community since 2021. She is also studying to be an oceanographer and likes working on scientific software.
-
+Mukulika is a maintainer for the NumPy documentation and has been involved in the community since 2021. She is also studying to be an oceanographer and likes working on scientific software. She was a Technical Writer via Google Season of Docs in 2021.
 - LinkedIn: https://www.linkedin.com/in/mukulikapahari/
 - GitHub: https://github.com/Mukulikaa
 
