@@ -25,7 +25,7 @@ This presentation will be a demo of how a power user can create a database web a
 
 ```
 ## Timestamps
-00:01 Introduction to Data Umbrella and the Team
+00:00 Introduction to Data Umbrella and the Team
 03:58 Marc’s Story & Why Tiki Trackers Matter
 13:05 Live Demo: Building a To-Do List App in Tiki
 16:29 Linking Emails with Tasks
