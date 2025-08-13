@@ -37,6 +37,6 @@ Chris is a Principal Quantitative Analyst at PyMC Labs and an Adjoint Associate 
 #PyMC #Bayesian #OpenSource
 
 ## Video 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=wZmTzfhiu34" target="_blank"><img src="http://img.youtube.com/vi/wZmTzfhiu34/0.jpg" alt="A Tutorial for Getting Started with PyMC" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jrU0UBr2z3k " target="_blank"><img src="http://img.youtube.com/vi/jrU0UBr2z3k/0.jpg" alt="A Tutorial for Getting Started with PyMC" width="50%" /></a>
 
 ## Transcript
