@@ -15,7 +15,8 @@ https://www.meetup.com/data-umbrella
 
 
 ## Resources
-
+- [pymc.io](http://pymc.io/): [https://www.pymc.io/welcome.html](https://www.pymc.io/welcome.html)
+- PyMC video playlist: [https://www.youtube.com/playlist?list=PLBKcU7Ik-ir99uTvN0315hIVLuyj4Q1Gt](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir99uTvN0315hIVLuyj4Q1Gt)
 
 ## About the Event
 This one-hour tutorial introduces new users to version 5 of PyMC, a powerful Python, open source library for probabilistic programming and Bayesian statistical modeling. Participants will learn the fundamentals of PyMC, best practices for installation and setup, and gain hands-on experience building their first Bayesian model.
