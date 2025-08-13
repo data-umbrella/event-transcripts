@@ -12,7 +12,7 @@ https://www.meetup.com/data-umbrella
 
 ## Resources
 - Repo: bit.ly/DUPolars (https://github.com/kimfetti/Conferences/tree/master/DataUmbrella_2024)
-- Slides: https://github.com/kimfetti/Conferences/blob/master/DataUmbrella_2024/DataUmbrella_2024_KFessel_Deck.pdf
+- Slides:  https://zenodo.org/records/16816443
 - Kimberly Fessel's YouTube: https://www.youtube.com/c/kimberlyfessel
 - To learn more about Rust, check out this video: https://youtu.be/7E8nLExn3WI
 - Save the date: Nov 19, 2024, We have another polars event: Understanding Polars Expressions when you're used to pandas
