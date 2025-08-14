@@ -10,11 +10,12 @@ https://www.meetup.com/data-umbrella
 ## Key Links
 - Transcript: https://github.com/data-umbrella/event-transcripts/blob/main/2025/114-chris-pymc-tutorial.md
 - Meetup Event: https://www.meetup.com/data-umbrella/events/310039714
-- Video: 
+- Video: https://youtu.be/jrU0UBr2z3k
 - Transcriber: ? [needs a transcriber]
 
 
 ## Resources
+- slides: https://zenodo.org/records/16875480
 - [pymc.io](http://pymc.io/): [https://www.pymc.io/welcome.html](https://www.pymc.io/welcome.html)
 - PyMC video playlist: [https://www.youtube.com/playlist?list=PLBKcU7Ik-ir99uTvN0315hIVLuyj4Q1Gt](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir99uTvN0315hIVLuyj4Q1Gt)
 
