@@ -32,8 +32,8 @@ This one-hour tutorial introduces new users to version 5 of PyMC, a powerful Pyt
 08:58 Real world applications
 10:08 Installation and setup
 12:20 Sampling backends and libraries
-12:40 Q: what about uv for installation?
-13:32 Q: what is the recommended installation for HPC?
+12:40 Q: What about uv for installation?
+13:32 Q: What is the recommended installation for HPC?
 16:28 Test your installation
 17:00 Trouble shooting common issues
 19:42 Performance: BLAS backends
@@ -56,9 +56,9 @@ This one-hour tutorial introduces new users to version 5 of PyMC, a powerful Pyt
 50:25 Community & learning resources (+ PyMC example notebooks)
 54:05 Future direction of PyMC
 56:30 Community & Process
-57:40 Q: what program did you use to create the slides? (https://sli.dev)
-58:50 Q: is PyMC using NumPy v2.0? (Answer: yes!)
-01:00:13 Q: why use the context manager? (slide: with the model
+57:40 Q: What program did you use to create the slides? (https://sli.dev)
+58:50 Q: Is PyMC using NumPy v2.0? (Answer: yes!)
+01:00:13 Q: Why use the context manager?
 01:01:02 Q: How can I evaluate whether my model has too many parameters?
 
 ```
