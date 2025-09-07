@@ -43,7 +43,7 @@ This one-hour tutorial introduces new users to version 5 of PyMC, a powerful Pyt
 26:09 Data handling pitfalls (NumPy, pandas, polars, dataframes; missing data)
 27:47 ArViz: diagnostics and visualization
 28:58 Building your first model
-31:20 Models dims and coords 
+31:20 Model dims and coords 
 32:23 Common modeling errors
 33:35 Prior predictive check
 34:49 Sampling the posterior
