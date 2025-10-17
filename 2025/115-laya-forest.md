@@ -1,4 +1,4 @@
-# Analyzing Geospatial Forest Data with Geopandas and Rasterio
+# Analyzing Geospatial Forest Data with Geopandas and Rasterio (Laya Zeinali Yadegari)
 
 ## Alternate Titles
 - Analyzing Geospatial Forest Data with Geopandas and Rasterio
@@ -8,7 +8,7 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- 
+- video: https://youtu.be/QW4XsceFxv4
 
 
 ## Resources
@@ -38,7 +38,8 @@ As a Ph.D. candidate at Tarbiat Modares University, Tehran, Laya's research inte
 
 #Python #forestmodeling #MachineLearning
 
+ 
 ## Video 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=jrU0UBr2z3k " target="_blank"><img src="http://img.youtube.com/vi/jrU0UBr2z3k/0.jpg" alt="A Tutorial for Getting Started with PyMC" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QW4XsceFxv4" target="_blank"><img src="http://img.youtube.com/vi/QW4XsceFxv4/0.jpg" alt="Analyzing Geospatial Forest Data with Geopandas and Rasterio" width="50%" /></a>
 
 ## Transcript
