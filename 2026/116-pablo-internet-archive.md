@@ -8,8 +8,7 @@ Join our Meetup group for more events!
 https://www.meetup.com/data-umbrella
 
 ## Key Links
-- video: https://youtu.be/ 
-
+- video: https://youtu.be/6Bc8h-A9AjQ
 
 ## Resources
 - Internet Archive: https://archive.org/
@@ -53,6 +52,6 @@ Mastodon: https://mastodon.archive.org/@drdub
 
  
 ## Video 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v= " target="_blank"><img src="http://img.youtube.com/vi/ /0.jpg" alt="The Internet Archive for Data Scientists" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6Bc8h-A9AjQ" target="_blank"><img src="http://img.youtube.com/vi/6Bc8h-A9AjQ/0.jpg" alt="The Internet Archive for Data Scientists" width="50%" /></a>
 
 ## Transcript
