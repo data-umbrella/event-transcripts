@@ -44,9 +44,9 @@ By the end of this session, participants will be able to:
 
 Pablo Duboue is a Core Infrastructure Engineer at the Internet Archive, contributing to site reliability and maintaining the legacy codebase that powers the platform (approximately 330,000 lines of PHP). Before joining the Internet Archive, Pablo had a 25 year career in applied language technologies and natural language generation, including earning a Ph.D. in Computer Science from Columbia University and joining the IBM TJ Watson Research Centre as a Research Staff Member.
 
-LinkedIn: https://www.linkedin.com/in/pabloduboue/
-GitHub: https://github.com/DrDub
-Mastodon: https://mastodon.archive.org/@drdub
+- LinkedIn: https://www.linkedin.com/in/pabloduboue/
+- GitHub: https://github.com/DrDub
+- Mastodon: https://mastodon.archive.org/@drdub
 
 #library #repository
 
