@@ -9,6 +9,7 @@ https://www.meetup.com/data-umbrella
 
 ## Key Links
 - video: https://youtu.be/6Bc8h-A9AjQ
+- slides: https://archive.org/download/DrDubTalks/2026-01-20%20Data%20Umbrella%20-%20Internet%20Archive%20for%20Data%20Scientists/
 
 ## Resources
 - Internet Archive: https://archive.org/
