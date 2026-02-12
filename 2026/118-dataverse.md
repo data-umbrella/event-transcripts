@@ -12,7 +12,7 @@ https://www.meetup.com/data-umbrella
 - Dataverse website: https://dataverse.org/
   
 ## Resources
-
+- Slides: https://dataverse.org/publication/dataverse-project-and-global-dataverse-community-consortium-fair-open-source-platform
 - visit https://www.gdcc.io/
 - visit https://dataverse.harvard.edu/
 - 2-minute video on FAIR principles: https://youtu.be/ed_lrNGF_70
