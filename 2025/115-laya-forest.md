@@ -12,7 +12,7 @@ https://www.meetup.com/data-umbrella
 
 
 ## Resources
-- slides: will be added
+- slides: https://github.com/data-umbrella/event-transcripts/blob/main/resources/geospatial_laya_zeinali.pdf
 
 ## About the Event
 In this session, we will explore how to model forest structure and quantify ecosystem services using Python and Earth observation data. Leveraging GEDI, Sentinel-1, Sentinel-2, and SRTM datasets, we’ll walk through data preprocessing, machine learning techniques (e.g., Random Forest), and interpretation using SHAP for understanding feature importance.
@@ -24,7 +24,7 @@ In this session, we will explore how to model forest structure and quantify ecos
 ## Timestamps
 ```
 00:00 Data Umbrella introduction
-03:50 Laya begins presentation
+04:48 Laya begins presentation
 
 
 ```
