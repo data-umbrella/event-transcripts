@@ -33,7 +33,7 @@ By the end of this session, participants will be able to:
 ## Timestamps
 ```
 00:00 Data Umbrella introduction
-0x:x0 Daniela begins presentation
+03:48 Daniela begins presentation
 
 
 ```
