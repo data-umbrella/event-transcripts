@@ -34,9 +34,49 @@ By the end of this session, participants will be able to:
 
 ## Timestamps
 ```
-00:00 Data Umbrella introduction
-03:25 Pablo begins presentation
-
+00:00 Data Umbrella introduction 
+03:25 Pablo begins presentation, overview
+04:18 Internet Archive (IA) context + brief history lesson
+05:09 The IA for data scientists (data source, data + code storage use cases)
+07:14 IA organizational structure
+08:43 IA history, continued
+09:25 In numbers / metrics
+10:38 Core Infrastructure Engineering (including PHP migration from 7 to 8)
+11:38 Site reliability
+12:18 Wayback Machine (WBM) context
+13:25 Open Library project for book metadata
+15:00 Digitization Centers / Centres (microfiche scanning)
+15:31 Partner organizations and more information
+16:10 More about Pablo, additional commentary
+17:22 Q&A
+19:19 Using IA through the website
+19:52 User navigation: Creating an account via GUI, uploading materials, beginning derivatives
+23:39 Derivatives (processing over uploaded files) and what is included
+26:57 Collections
+27:44 Patron Services
+29:07 Why Pablo is taking a break from artificial intelligence (AI)
+31:22 Using the IA through the Python ia tool (pip install, pause for Q&A or comment check)
+33:11 ia tool S3-like access
+33:58 Understanding the Archive APIs
+34:14 Search API
+35:33 Metadata API
+36:42 Tasks API
+38:02 Internet Archive and Crawlers
+40:23 Changes API
+40:49 Book pitch
+41:29 Contributing to the Internet Archive (using it, volunteering)
+42:28 Copyright reform (joining the Electronic Frontier Foundation)
+43:29 Donating (https://archive.org/donate)
+43:55 Keeping in touch with Pablo
+44:05 Q&A: Curation-related
+46:51 Q&A: Overlap between IA and Zenodo
+47:43 Visual pause begin to reduce possibility of network issues; Wayback Machine disc., continued (end-of-term archiving)
+49:22 Q&A: Additional IA details, website translation thoughts
+52:30 Blog availability
+53:02 Visual pause, continued
+53:30 Book pitch, notebooks (GB)
+55:17 Q&A: Kaggle, librarians
+56:39 Wrap-up
 
 ```
 
