@@ -80,8 +80,31 @@ This webinar will cover:
 ## Timestamps
 ```
 00:00 Data Umbrella introduction
-04:22 Dataverse presentation
-
+04:22 Dataverse presentation begins
+04:41 Agenda (Five main items)
+05:13 The Dataverse Project (background, goals, and timeline)
+06:12 FAIR guiding principles
+06:46 Research Data Sharing and the Repository Ecosystem
+10:29 Connecting research objects in the scholarly ecosystem
+10:52 The Dataverse in Practice (repository platform, integrations, APIs)
+12:15 pyDataverse
+13:21 Dataverse AI-Related Resources, Tools & Projects
+13:54 Harvard Dataverse Repository
+19:09 Dataverse features: new or coming soon
+20:47 Global Dataverse Community Consortium (GDCC)
+21:45 GDCC’s range of community services and activities
+27:36 Challenges in the Dataverse and GDCC communities, the bright side
+30:04 Addressing the challenges with a working group, 10 recommendations for sustainable growth
+31:19 Resources
+31:30 Q&A - How are FAIR guidelines implemented when a project is submitted to the repository?
+33:58 Q&A - What is the difference between the Dataverse and CKAN?
+36:30 Q&A - How are data standards being considered?
+40:47 Q&A - What is the most significant development need for the project?
+43:54 Q&A - What are some success stories?
+49:50 Q&A - What repositories of genetic and metabolic data are available?
+53:10 Q&A - Are there initiatives around installation location diversity?
+56:36 Q&A - Is Dataverse use impacted by internet access?
+59:40 Q&A - What was the experience during and post-COVID?
 
 ```
 
