@@ -35,8 +35,33 @@ NumPy is a fundamental, open-source Python library for N-dimensional array progr
 
 ## Timestamps
 ```
-## Timestamps
-00:00 Help us add timestamps
+## Timestamps 
+00:00 Data Umbrella introduction
+03:15 Mukulika begins her presentation
+04:00 Topics to cover (6)
+05:12 Brief introduction to NumPy
+06:33 NumPy documentation priorities (NEP 44)
+11:03 Different types of contributions (7+)
+16:23 Resources for first steps
+20:11 NumPy-specific tips
+22:08 Other NumPy talks available
+23:28 Engaging with the community
+25:08 Navigating the numpy GitHub repository
+27:42 Navigating the NumPy website, contributors guide
+30:00 Q&A begins
+30:01 Is there an issue template we can follow?
+31:06 Do contributors have to reference an existing issue?
+32:09 Are there templates for submitting pull requests?
+34:00 What are some reasons why beginning with documentation is a great way to start contributing to open-source as opposed to beginning with the code base?
+35:47 What do you wish you had known before you first started contributing?
+37:14 Could you share the types of NumPy meetings you’ve attended in the past?
+38:53 How does contributing pull request reviews count toward experience as opposed to only submitting pull requests?
+40:30 How does a community contributor grow to being on the NumPy team?
+41:53 Can newcomers get help with reviewing pull requests?
+43:20 How different are ‘sprintable’ versus other types of issues?
+44:26 Can new contributors organize meetings?
+46:30 Can examples from Stack Overflow be included in NumPy documentation?
+48:18 Wrap-up
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
