@@ -20,7 +20,41 @@ We will discuss the transformative potential of blockchain, from driving funding
 
 ```
 ## Timestamps
-00:00 Help us add timestamps
+00:00 Data Umbrella introduction
+06:00 Fabian begins talk
+08:06 Bridging the gap: empowering unemployed youth through Web3 
+09:17 Three types of SMEs (small and medium enterprises)
+11:46 A Kenyan proverb for reference
+12:32 Current situations and problems (e.g. fear on the Continent around beginning a business, unemployment)
+14:12 Blockchain overview, components
+17:16 Open-source and four (4) collaboration elements (community, transparency, interoperability, accessibility) leading to African progress
+20:28 A brief history of blockchain
+23:00 Scaling issues (trust, regulation, technology)
+27:25 Improving scaling issues through advisory “oracles”, what is permitted and what isn’t
+28:40 Changing the narrative about mining in Africa through moving past initial outrage
+30:34 Blockchain-related open-source solution 1: Tokenised mining of raw materials
+32:31 Blockchain-related open-source solution 2: Chefs and recipe licensing
+35:39 Blockchain-related open-source solution 3: Hawkers and decentralized markets
+37:49 Blockchain-related open-source solution 4: Machine-to-machine payments (solar power, farming, water, knowledge-sharing)
+44:17 QBII
+47:08 Some Kenyan statistics (including healthcare needs)
+49:00 Blockchain-related open-source solution 5: For healthcare
+52:38 Movie-making and crowd-funding
+54:02 Sports (cycling and insurance)
+56:49 Fanika Chain
+59:53 Pivot for large corporate entities
+1:02:03 Fractional farming
+1:03:54 The Iron Snake
+1:06:45 Creative operations
+1:10:01 Decentralised finance
+1:11:11 DeFi 4 All pitch
+1:11:45 Q&A begins
+1:12:16 Q&A - Given that non-technical folks might find blockchain complicated, how might innovators get through to them?
+1:13:30 Q&A - Is the African market ready for blockchain solutions? Is there an opportunity for growth?
+1:14:46 Q&A - Is there another way that blockchain and data science interact?
+1:16:52 Q&A - What is the plan to train and equip those interested to use these solutions in addition to financial support?
+1:19:10 Q&A - What’s a good place to start as a newbie in blockchain?
+1:21:54 Wrap-up
 ```
 https://github.com/data-umbrella/event-transcripts/issues/92
 
